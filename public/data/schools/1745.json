@@ -1,9 +1,9 @@
 {
 	"code": "1745",
+	"name": "Kranji Primary School",
 	"levels": "P",
 	"uen": " T07GS1745G",
 	"logo": "./Medias/Images/Schools/logos/tn_1745.jpg",
-	"name": "Kranji Primary School",
 	"website": "http://kranjipri.moe.edu.sg",
 	"address": "11, Choa Chu Kang Street 54 (689189)",
 	"telephone": [
@@ -425,15 +425,14 @@
 		"Vacancy for Phase 2A2": 77,
 		"No. of Applicants in Phase 2A2": 3,
 		"Places taken up to Phase 2A2": 36,
-		"Vacancy For Phase 2B": 57,
 		"Vacancy for Phase 2B": 57,
 		"No. of Applicants in Phase 2B": 0,
 		"Places taken up to Phase 2B": 36,
 		"Vacancy for Phase 2C": 114,
 		"No. of Applicants in Phase 2C": 10,
-		"Places taken up to Phase 2C": 46,
-		"Vacancy for Phase 2C Supplementary": 104,
-		"No. of Applicants in Phase 2C Supplementary": 10
+		"Places taken up to Phase 2C": 45,
+		"Vacancy for Phase 2C Supplementary": 105,
+		"No. of Applicants in Phase 2C Supplementary": 9
 	},
 	"id": "1745"
 }

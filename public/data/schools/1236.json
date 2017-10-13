@@ -1,9 +1,9 @@
 {
 	"code": "1236",
+	"name": "Peiying Primary School",
 	"levels": "P",
 	"uen": " T07GS1236K",
 	"logo": "./Medias/Images/Schools/logos/tn_1236.jpg",
-	"name": "Peiying Primary School",
 	"website": "http://www.peiyingpri.moe.edu.sg",
 	"address": "651, Yishun Ring Road (768687)",
 	"telephone": [
@@ -257,7 +257,6 @@
 		"Vacancy for Phase 2A2": 87,
 		"No. of Applicants in Phase 2A2": 16,
 		"Places taken up to Phase 2A2": 69,
-		"Vacancy For Phase 2B": 56,
 		"Vacancy for Phase 2B": 56,
 		"No. of Applicants in Phase 2B": 0,
 		"Places taken up to Phase 2B": 68,
@@ -265,7 +264,7 @@
 		"No. of Applicants in Phase 2C": 50,
 		"Places taken up to Phase 2C": 118,
 		"Vacancy for Phase 2C Supplementary": 62,
-		"No. of Applicants in Phase 2C Supplementary": 30
+		"No. of Applicants in Phase 2C Supplementary": 40
 	},
 	"id": "1236"
 }

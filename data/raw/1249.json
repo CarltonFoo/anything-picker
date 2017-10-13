@@ -1,9 +1,9 @@
 {
 	"code": "1249",
+	"name": "BEACON PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1249C",
 	"logo": "./Medias/Images/Schools/logos/tn_1249.jpg",
-	"name": "BEACON PRIMARY SCHOOL",
 	"website": "http://www.beaconpri.moe.edu.sg",
 	"address": "36, Bukit Panjang Ring Road ( 679944 )",
 	"telephone": [
@@ -82,6 +82,44 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2005": {},
+			"2006": {},
+			"2007": {},
+			"2008": {},
+			"2009": {},
+			"2010": {
+				"SYF Central Judging": {
+					"Choir": "Bronze"
+				}
+			},
+			"2011": {
+				"SYF Central Judging": {
+					"Choir": "Bronze"
+				}
+			},
+			"2012": {
+				"Achievement Award": "CHERISH Award",
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2013": {
+				"Achievement Award": "CHERISH Award",
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
 			"2014": {
 				"SYF Arts Presentation": {
 					"Art - Category C": "Recognition",
@@ -153,11 +191,11 @@
 			},
 			"2016": {
 				"SYF Arts Presentation": {
-					"Choir": "Accomplishment",
 					"Art - Category A": "Recognition(Sm)",
 					"Art - Category C": "Recognition",
 					"Dance - Chinese": "Distinction",
-					"Dance - Malay": "Distinction"
+					"Dance - Malay": "Distinction",
+					"Choir": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Scout": "Silver"

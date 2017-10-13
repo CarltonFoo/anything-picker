@@ -1,9 +1,9 @@
 {
 	"code": "1205",
+	"name": "Xinghua Primary School",
 	"levels": "P",
 	"uen": " T07GS1205K",
 	"logo": "./Medias/Images/Schools/logos/tn_1205.jpg",
-	"name": "Xinghua Primary School",
 	"website": "http://www.xinghuapri.moe.edu.sg",
 	"address": "45, Hougang Avenue 1 (538882)",
 	"telephone": [
@@ -424,7 +424,6 @@
 		"Vacancy for Phase 2A2": 72,
 		"No. of Applicants in Phase 2A2": 12,
 		"Places taken up to Phase 2A2": 50,
-		"Vacancy For Phase 2B": 50,
 		"Vacancy for Phase 2B": 50,
 		"No. of Applicants in Phase 2B": 0,
 		"Places taken up to Phase 2B": 47,
@@ -432,7 +431,7 @@
 		"No. of Applicants in Phase 2C": 37,
 		"Places taken up to Phase 2C": 84,
 		"Vacancy for Phase 2C Supplementary": 66,
-		"No. of Applicants in Phase 2C Supplementary": 7
+		"No. of Applicants in Phase 2C Supplementary": 9
 	},
 	"id": "1205"
 }

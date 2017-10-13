@@ -1,9 +1,9 @@
 {
 	"code": "3030",
+	"name": "TEMASEK SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3030A",
 	"logo": "./Medias/Images/Schools/logos/tn_3030.jpg",
-	"name": "TEMASEK SECONDARY SCHOOL",
 	"website": "http://www.temaseksec.moe.edu.sg",
 	"address": "600, UPPER EAST COAST ROAD ( 465561 )",
 	"telephone": [
@@ -14,7 +14,7 @@
 	],
 	"email": "temasek_ss@moe.edu.sg",
 	"mrt": "BEDOK MRT, TANAH MERAH MRT",
-	"bus": "10 , 10e , 13 , 14 , 43 , 46 , 229 , 506 , 531 , 853 ",
+	"bus": "10 , 10E , 13 , 14 , 25 , 43 , 46 , 229 , 506 , 531 , 853 ",
 	"GeneralInformation": {
 		"Principal": "MRS CHIA MINN DAYNA",
 		"Vice Principal": [
@@ -39,6 +39,7 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
+		"COMPUTING",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
@@ -55,9 +56,9 @@
 		"MUSIC NT LEVEL",
 		"OECIE ECONOMICS (GCEO)",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
 		"PRINCIPLES OF ACCOUNTS",
-		"SCIENCE (PHY, CHEM)"
+		"SCIENCE (PHY, CHEM)",
+		"TAMIL"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -90,10 +91,637 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "With our school's Student Development Vision of \"Every Temasekian, A Caring Leader\", all students undergo a journey of growth in personal mastery and leadership through a structured 4-year leadership course. This course empowers them with the know-how to care for, take charge and succeed in their academic pursuits and character development. Students who demonstrate potential and interest, are further developed to lead in various school-level and community-based activities as CCA leaders and/or leaders in one of the five student leadership groups. These experiences allow them to apply their leadership skills and life-skills as well as develop empathy and care for others. Students with strong academic and leadership inclinations can also participate in the 4-year Talent Development@Temasek programme. Recognising that our students need to be ready to navigate and thrive in a culturally-diverse 21st century workplace and world, all Temasekians are developed in Cross-Cultural Awareness (C2A) through a specially designed and integrated school-based curriculum. Students are first introduced to C2A in Secondary 1 via Project Culture which piques their curiosity to learn about various components of culture. Through the Secondary 2 Camp Culture as well as a range of other academic and co-curriculum platforms, students also progressively learn to observe, appreciate and interpret different cultural practices and behaviours. These learning culminate in experiential opportunities such as overseas learning trips, collaborations with local international schools and work attachments where students apply their knowledge and skills to work with people from other cultures. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "With our school's Student Development Vision of \"Every Temasekian, A Caring Leader\", all students undergo a journey of growth in personal mastery and leadership through a structured 4-year leadership course. This course empowers them with the attitude and aptitude to succeed in their academic pursuits and character development. Students who demonstrate potential and interest, are further developed to lead in various school-level and community-based activities as CCA leaders and/or leaders in one of the five student leadership groups. These experiences allow them to apply their leadership skills as well as develop empathy for others. Students with strong academic and leadership inclinations can also participate in the Temasek IGNIS programme-a talent development programme for students to deepen inquiry, problem-solving and communication skills. To navigate and thrive in a culturally-diverse 21st century workplace and world, all Temasekians are developed in Cross-Cultural Awareness (C2A) through a specially designed and integrated school-based curriculum. Students are introduced to C2A in Secondary 1 via Project Culture which piques their curiosity to learn about various components of culture. Through the Secondary 2 Camp Culture as well as a range of other academic and co-curriculum platforms, students progressively learn to observe, appreciate and interpret different cultural practices and behaviours. The learning culminates in experiential opportunities such as overseas learning trips, collaborations with local international schools and work attachments where students apply their knowledge and skills to work with people from other cultures."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Canoeing",
+						"-",
+						"4th",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"4th",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - International": "Gold",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - International": "Gold",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - International": "Bronze",
+					"Orchestra - Chinese": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Silver",
+					"Scout (Unit 1)": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - International": "Bronze",
+					"Orchestra - Chinese": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2011": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Academic Value-added) (Normal)",
+					"SAA (Academic Value-added) (Special/Express)",
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold (Hons)",
+					"Dance - International": "Silver",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2012": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Academic Value-added) (Special/Express)",
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold (Hons)",
+					"Dance - International": "Silver",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2013": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Academic Value-added) (Special/Express)",
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"3rd",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
 			"2014": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
@@ -325,15 +953,168 @@
 					"Orchestra - Chinese": "Distinction"
 				},
 				"Best Unit Award": {
-					"Npcc (Land)": "Gold",
 					"Ncc (Land Boys)": "Gold",
-					"Ncdcc": "Gold"
+					"Ncdcc": "Gold",
+					"Npcc (Land)": "Gold"
 				}
 			},
 			"2017": {}
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"233",
+				"256",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"187",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"105",
+				"112",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"235",
+				"257",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"192",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"106",
+				"112",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"235",
+				"258",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"192",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"106",
+				"125",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"232",
+				"254",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"193",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"105",
+				"117",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"232",
+				"254",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"195",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"106",
+				"112",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"230",
+				"252",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"193",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"136",
+				"155",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"230",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"196",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"146",
+				"159",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"230",
+				"260",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"194",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"146",
+				"158",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"232",
+				"249",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"196",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"147",
+				"158",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"233",

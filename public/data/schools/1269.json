@@ -1,9 +1,9 @@
 {
 	"code": "1269",
+	"name": "Punggol Cove Primary School",
 	"levels": "P",
 	"uen": " T15GS0006D",
 	"logo": "./Medias/Images/Schools/logos/tn_1269.jpg",
-	"name": "Punggol Cove Primary School",
 	"website": "http://www.punggolcovepri.moe.edu.sg/",
 	"address": "52, Sumang Walk (828674)",
 	"telephone": [
@@ -68,7 +68,6 @@
 		"Vacancy for Phase 2A2": 222,
 		"No. of Applicants in Phase 2A2": 1,
 		"Places taken up to Phase 2A2": 39,
-		"Vacancy For Phase 2B": 131,
 		"Vacancy for Phase 2B": 131,
 		"No. of Applicants in Phase 2B": 0,
 		"Places taken up to Phase 2B": 39,
@@ -76,7 +75,7 @@
 		"No. of Applicants in Phase 2C": 144,
 		"Places taken up to Phase 2C": 183,
 		"Vacancy for Phase 2C Supplementary": 117,
-		"No. of Applicants in Phase 2C Supplementary": 58
+		"No. of Applicants in Phase 2C Supplementary": 65
 	},
 	"id": "1269"
 }

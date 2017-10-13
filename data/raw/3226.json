@@ -1,9 +1,9 @@
 {
 	"code": "3226",
+	"name": "HUA YI SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3226J",
 	"logo": "./Medias/Images/Schools/logos/tn_3226.jpg",
-	"name": "HUA YI SECONDARY SCHOOL",
 	"website": "http://www.huayisec.moe.edu.sg",
 	"address": "60, JURONG WEST ST 42 ( 649371 )",
 	"telephone": [
@@ -47,6 +47,7 @@
 		"FOOD & NUTRITION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS T)",
@@ -101,10 +102,549 @@
 			"STEM": "Fostering 21st Century Competencies through Design Thinking",
 			"Community & Youth Leadership": "Community and Youth Leadership in Hua Yi"
 		},
-		"Special Student Development Programmes Offered": "Our programmes are designed to achieve student outcomes through integrated and holistic platforms. These range from Level Learning Programmes which blend camps, workshops and Learning Journeys, to cultural immersion with Xi An and Bogor, and signature events such as our Learning Fiesta. Each semester, post-exam activities combine visits to exhibitions, talent competitions, sport electives, department learning days and subject-related workshops into dynamic experiences. These allow students to apply their learning in authentic contexts while developing their 21st Century Competencies. Since 2013, an Applied Learning Programme (ALP) has used Design Thinking (DT) to develop students empathy, design and prototyping skills in the Health Sciences. The school accepts DSA students linked to our ALP and helps them apply DT in creative and aesthetic fields. From 2016, the school has embarked on a Learning for Life Programme in Community and Youth Leadership to develop leaders using the Leadership Challenge model and community service. This goes beyond our VIA and National Youth Achievement Award (NYAA) programmes which see all students attain NYAA Silver. In 2016, Hua Yi has innovated with an enhanced Sports Carnival, opening of an ALP Learning Hub and a Live@Hua Yi broadcast studio which develops oracy and listening skills. We have strengthened environmental education through inculcation of cleanliness habits through Operation Cleanup and explored new learning journeys to NSL Oil. Each year, Elective Modules (EMs) and Advanced EMs enrich our students learning and awareness of career pathways. The school closely monitors student development and uses time-out and experiential programmes to ensure that no Hua Yian is left behind. We continue to leverage support from stakeholders and partners to align programmes with future demands on students as they enter the workforce, and lead exciting new lives in a future Singapore and global context."
+		"Special Student Development Programmes Offered": "Our programmes are designed to achieve student outcomes through integrated and holistic platforms. These range from Level Learning Programmes which blend camps, workshops and Learning Journeys, to cultural immersion with partners in Bangkok and Indonesia, and signature events such as our Learning Fiesta. The school seeks to bring the school philosophy and school values to life through integrated, dynamic and exciting programmes. Each semester, post-exam activities combine visits to exhibitions, talent competitions, sport electives, and subject learning into dynamic experiences. These allow students to apply their learning in authentic contexts while developing their 21st Century Competencies. The school accepts DSA students for Basketball (Boys), Concert Band, Volleyball (Girls) and Student Leadership, and develops them through a values-based talent development programme. Our Learning for Life Programme in Community and Youth Leadership develops leaders using the Leadership Challenge model and community service. This goes beyond our VIA and National Youth Achievement Award (NYAA) programmes which see all students attain NYAA Silver. Since 2013, an Applied Learning Programme (ALP) has used Design Thinking (DT) to develop empathy, design and prototyping skills in the Health Sciences. Each year, Elective Modules (EMs) and Advanced EMs enrich our students learning and awareness of career pathways. Hua Yi is a caring school which closely monitors student development, and uses time-out and experiential programmes to ensure that no Hua Yian is left behind. We continue to leverage support from stakeholders and partners to align programmes with future demands on students as they enter the workforce, and lead exciting new lives in a future Singapore and global context."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Gold)": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Gold)": "2 Awards",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Gold",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "2 Awards",
+					"Art & Craft (Gold)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Gold",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "AA (Academic Value-added) (Special/Express)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "2 Awards",
+					"Art & Craft (Gold)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Bronze",
+					"Dance - International": "Bronze",
+					"Drama - Chinese": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Gold"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "AA (Academic Value-added) (Normal)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Bronze",
+					"Dance - International": "Bronze",
+					"Drama - Chinese": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Silver"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Gold"
+				}
+			},
 			"2014": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -265,6 +805,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"219",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"110",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"221",
+				"245",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"102",
+				"117",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"224",
+				"259",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"178",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"99",
+				"109",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"223",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"178",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"87",
+				"116",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"225",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"180",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"100",
+				"111",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"221",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"112",
+				"159",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"222",
+				"243",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"140",
+				"156",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"220",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"139",
+				"153",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"222",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"180",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"141",
+				"159",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"222",

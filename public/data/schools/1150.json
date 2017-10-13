@@ -1,9 +1,9 @@
 {
 	"code": "1150",
+	"name": "Ang Mo Kio Primary School",
 	"levels": "P",
 	"uen": " T07GS1150J",
 	"logo": "./Medias/Images/Schools/logos/tn_1150.jpg",
-	"name": "Ang Mo Kio Primary School",
 	"website": "http://www.angmokiopri.moe.edu.sg",
 	"address": "20, Ang Mo Kio Avenue 3 (569920)",
 	"telephone": [
@@ -250,7 +250,6 @@
 		"Vacancy for Phase 2A2": 122,
 		"No. of Applicants in Phase 2A2": 9,
 		"Places taken up to Phase 2A2": 57,
-		"Vacancy For Phase 2B": 77,
 		"Vacancy for Phase 2B": 77,
 		"No. of Applicants in Phase 2B": 0,
 		"Places taken up to Phase 2B": 54,
@@ -259,7 +258,7 @@
 		"Places taken up to Phase 2C": 101,
 		"Vacancy For Phase 2C Supplementary": 109,
 		"Vacancy for Phase 2C Supplementary": 109,
-		"No. of Applicants in Phase 2C Supplementary": 19
+		"No. of Applicants in Phase 2C Supplementary": 21
 	},
 	"id": "1150"
 }

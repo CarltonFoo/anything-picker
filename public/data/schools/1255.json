@@ -1,9 +1,9 @@
 {
 	"code": "1255",
+	"name": "Horizon Primary School",
 	"levels": "P",
 	"uen": " T09GS0001H",
 	"logo": "./Medias/Images/Schools/logos/tn_1255.jpg",
-	"name": "Horizon Primary School",
 	"website": "http://www.horizonpri.moe.edu.sg",
 	"address": "61, Edgedale Plains (828819)",
 	"telephone": [
@@ -158,7 +158,6 @@
 		"Vacancy for Phase 2A2": 99,
 		"No. of Applicants in Phase 2A2": 3,
 		"Places taken up to Phase 2A2": 103,
-		"Vacancy For Phase 2B": 68,
 		"Vacancy for Phase 2B": 69,
 		"No. of Applicants in Phase 2B": 20,
 		"Places taken up to Phase 2B": 123,

@@ -1,9 +1,9 @@
 {
 	"code": "5012",
+	"name": "St. Gabriel's Primary School",
 	"levels": "P",
 	"uen": " T07GS5012J",
 	"logo": "./Medias/Images/Schools/logos/tn_5012.jpg",
-	"name": "St. Gabriel's Primary School",
 	"website": "http://www.stgabrielspri.moe.edu.sg",
 	"address": "220, Lorong Chuan (556742)",
 	"telephone": [
@@ -193,7 +193,6 @@
 		"Vacancy for Phase 2A2": 77,
 		"No. of Applicants in Phase 2A2": 15,
 		"Places taken up to Phase 2A2": 48,
-		"Vacancy For Phase 2B": 51,
 		"Vacancy for Phase 2B": 51,
 		"No. of Applicants in Phase 2B": 25,
 		"Places taken up to Phase 2B": 71,
@@ -201,7 +200,7 @@
 		"No. of Applicants in Phase 2C": 57,
 		"Places taken up to Phase 2C": 128,
 		"Vacancy for Phase 2C Supplementary": 22,
-		"No. of Applicants in Phase 2C Supplementary": 28
+		"No. of Applicants in Phase 2C Supplementary": 37
 	},
 	"id": "5012"
 }

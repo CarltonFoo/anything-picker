@@ -1,9 +1,9 @@
 {
 	"code": "1730",
+	"name": "Naval Base Primary School",
 	"levels": "P",
 	"uen": " T07GS1730L",
 	"logo": "./Medias/Images/Schools/logos/tn_1730.jpg",
-	"name": "Naval Base Primary School",
 	"website": "http://www.navalbasepri.moe.edu.sg/",
 	"address": "7, Yishun Ave 4 (769028)",
 	"telephone": [
@@ -278,7 +278,6 @@
 		"Vacancy for Phase 2A2": 115,
 		"No. of Applicants in Phase 2A2": 7,
 		"Places taken up to Phase 2A2": 62,
-		"Vacancy For Phase 2B": 74,
 		"Vacancy for Phase 2B": 74,
 		"No. of Applicants in Phase 2B": 0,
 		"Places taken up to Phase 2B": 62,
@@ -286,7 +285,7 @@
 		"No. of Applicants in Phase 2C": 72,
 		"Places taken up to Phase 2C": 134,
 		"Vacancy for Phase 2C Supplementary": 76,
-		"No. of Applicants in Phase 2C Supplementary": 69
+		"No. of Applicants in Phase 2C Supplementary": 80
 	},
 	"id": "1730"
 }

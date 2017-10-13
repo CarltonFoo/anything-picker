@@ -1,9 +1,9 @@
 {
 	"code": "1132",
+	"name": "Corporation Primary School",
 	"levels": "P",
 	"uen": " T07GS1132B",
 	"logo": "./Medias/Images/Schools/logos/tn_1132.jpg",
-	"name": "Corporation Primary School",
 	"website": "http://www.corporationpri.moe.edu.sg",
 	"address": "31, Jurong West Street 24 (648347)",
 	"telephone": [
@@ -339,7 +339,6 @@
 		"Vacancy for Phase 2A2": 97,
 		"No. of Applicants in Phase 2A2": 6,
 		"Places taken up to Phase 2A2": 79,
-		"Vacancy For Phase 2B": 66,
 		"Vacancy for Phase 2B": 66,
 		"No. of Applicants in Phase 2B": 1,
 		"Places taken up to Phase 2B": 79,
@@ -347,7 +346,7 @@
 		"No. of Applicants in Phase 2C": 67,
 		"Places taken up to Phase 2C": 146,
 		"Vacancy for Phase 2C Supplementary": 64,
-		"No. of Applicants in Phase 2C Supplementary": 31
+		"No. of Applicants in Phase 2C Supplementary": 47
 	},
 	"id": "1132"
 }

@@ -1,9 +1,9 @@
 {
 	"code": "5168",
+	"name": "Kong Hwa School",
 	"levels": "P",
 	"uen": " T07GS5168A",
 	"logo": "./Medias/Images/Schools/logos/tn_5168.jpg",
-	"name": "Kong Hwa School",
 	"website": "http://www.konghwa.moe.edu.sg",
 	"address": "350, Guillemard Road (399772)",
 	"telephone": [
@@ -278,56 +278,6 @@
 				},
 				{
 					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
 					"category": "Table Tennis",
 					"subCategory": [
 						"National",
@@ -395,6 +345,56 @@
 						"Junior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -567,7 +567,6 @@
 		"Vacancy for Phase 2A2": 84,
 		"No. of Applicants in Phase 2A2": 35,
 		"Places taken up to Phase 2A2": 179,
-		"Vacancy For Phase 2B": 45,
 		"Vacancy for Phase 2B": 46,
 		"No. of Applicants in Phase 2B": 43,
 		"Places taken up to Phase 2B": 222,

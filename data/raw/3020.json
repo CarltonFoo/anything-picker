@@ -1,9 +1,9 @@
 {
 	"code": "3020",
+	"name": "YISHUN SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3020G",
 	"logo": "./Medias/Images/Schools/logos/tn_3020.jpg",
-	"name": "YISHUN SECONDARY SCHOOL",
 	"website": "http://www.yishunsec.moe.edu.sg",
 	"address": "4, YISHUN STREET 71 ( 768516 )",
 	"telephone": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Quality Mind, Caring Heart",
 		"School Mission": "To provide a well-balanced education to our pupils; develop their potential to the fullest intellectually, physically, morally, socially, emotionally and aesthetically; and prepare them to contribute to the nation.",
-		"School Philosophy, Culture and Ethos": "Yishun Secondary School is committed to developing our students holistically. We take pride in offering a values-driven education that develops the strengths of each child. Through the years, Yishun Secondary has produced many successful students, whose achievements are made possible by a team of dedicated educators who believe that 'every child can succeed'. The school's motto, 'We Seek, We Strive, We Soar', describes its continuous effort in striving for excellence to soar to greater heights.",
+		"School Philosophy, Culture and Ethos": "Yishun Secondary School is committed to developing our students holistically. We take pride in offering a values-driven education that develops the strengths of each student. Through the years, Yishun Secondary has produced many successful students, whose achievements are made possible by a team of dedicated educators who believe that 'every child can succeed'. The school's motto, 'We Seek, We Strive, We Soar', describes our continuous effort in striving for excellence to soar to greater heights. The school values of Respect, Integrity and Resilience are inculcated in students via daily lessons and school programmes. The school also seeks to develop every student to be a Thinker, an Innovator and a Contributor (Desired Outcomes of an Yishunite) to prepare them for the future.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,7 +38,6 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
-		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
@@ -49,6 +48,7 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
+		"RETAIL OPERATIONS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SOCIAL STUDIES",
@@ -93,10 +93,602 @@
 			"Aesthetics": "Sonic Arts – Applied Learning in Music, Media and Technology",
 			"Community & Youth Leadership": "Leadership for Life"
 		},
-		"Special Student Development Programmes Offered": "1) Applied Learning Programme (ALP): The school leverages on the new media through ALP in Sonic Arts, 'Music, Media & Technology' to provide students with a strong foundation and exposure to established and emerging disciplines such as Music Technology and Recording Arts (Music & Media).  2) Learning for Life Programme (LLP): The school's LLP on Community Youth Leadership (CYL) focuses on providing students with opportunities to lead in serving the community. The programme forms an extension to Values-In-Action (VIA) experiences and provides opportunities for Yishunites to broaden their understanding of the needs and aspirations of the community through authentic experiences and deepen the development of leadership skills and attitudes. 3) Curricular Innovations: Each department embarks on curricular innovations to develop students' passion for learning through school programmes such as Sports and ArTz Carnival. Pedagogical approaches such as the use of a constructivist approach to learning geometry, interdisciplinary approaches in English Drama, Project Work, Elective Modules (EMs) and Advanced EMs, and learning based on \"Enduring Understandings\", form an integral part of the school's authentic learning experience.  4) Character and Citizenship Education Programme: Key programmes that build students' character include Enterprise Day, Citizenship Education Learning Journeys, Sec 2 Adventure Camp and Sec 3 Internationalisation Trips. The school leverages on its strong partnerships with various community groups for our student leadership and citizenship education programmes to develop \"caring hearts\" in all Yishunites. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "1) Applied Learning Programme (ALP): The school leverages on the new media through ALP in Sonic Arts, 'Music, Media & Technology' to provide students with a strong foundation and exposure to established and emerging disciplines such as Music Technology and Recording Arts (Music & Media).  2) Learning for Life Programme (LLP): The school's LLP on Community Youth Leadership (CYL) focuses on providing students with opportunities to lead in serving the community. The programme forms an extension to Values-In-Action (VIA) experiences and provides opportunities for Yishunites to broaden their understanding of the needs and aspirations of the community through authentic experiences and deepen the development of leadership skills and attitudes. 3) Curricular Innovations: The school provides students with authentic learning experiences through inter-disciplinary programmes such as School Area for Integrated Learning (SAIL) which functions as an outdoor learning classroom; and English-Mathematics-ICT-Science (EMITS) Day which immerses students in an experiential learning experience of the various disciplines.  4) Character and Citizenship Education Programme: Key programmes that build students' character include Citizenship Education Learning Journeys, Sec 2 Adventure Camp and Sec 3 Internationalisation Trips. The school leverages on its strong partnerships with various community groups for our student leadership and citizenship education programmes to develop \"caring hearts\" in all Yishunites."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girl Guides": "Silver",
+					"Ncc (Land Boys)": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Bronze",
+					"Dance - Indian": "Gold",
+					"Dance - Malay": "Bronze",
+					"Drama - English": "Gold"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Bronze",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Bronze",
+					"Dance - Indian": "Gold",
+					"Dance - Malay": "Bronze",
+					"Drama - English": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Gold",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (CHERISH)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Gold",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (CHERISH)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Indian": "Distinction",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
 			"2014": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -271,6 +863,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"188",
+				"245",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"189",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"85",
+				"112",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"190",
+				"243",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"168",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"98",
+				"108",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"194",
+				"255",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"168",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"98",
+				"112",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"203",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"170",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"68",
+				"110",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"207",
+				"246",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"82",
+				"110",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"206",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"174",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"157",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"207",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"119",
+				"155",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"208",
+				"231",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"115",
+				"157",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"204",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"168",
+				"193",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"138",
+				"154",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"204",

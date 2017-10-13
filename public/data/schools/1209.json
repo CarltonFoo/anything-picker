@@ -1,9 +1,9 @@
 {
 	"code": "1209",
+	"name": "Bukit View Primary School",
 	"levels": "P",
 	"uen": " T07GS1209E",
 	"logo": "./Medias/Images/Schools/logos/tn_1209.jpg",
-	"name": "Bukit View Primary School",
 	"website": "http://www.bukitviewpri.moe.edu.sg",
 	"address": "18, Bukit Batok Street 21 (659634)",
 	"telephone": [
@@ -215,7 +215,6 @@
 		"Vacancy for Phase 2A2": 76,
 		"No. of Applicants in Phase 2A2": 8,
 		"Places taken up to Phase 2A2": 72,
-		"Vacancy For Phase 2B": 54,
 		"Vacancy for Phase 2B": 54,
 		"No. of Applicants in Phase 2B": 1,
 		"Places taken up to Phase 2B": 70,
@@ -223,7 +222,7 @@
 		"No. of Applicants in Phase 2C": 65,
 		"Places taken up to Phase 2C": 135,
 		"Vacancy for Phase 2C Supplementary": 45,
-		"No. of Applicants in Phase 2C Supplementary": 38
+		"No. of Applicants in Phase 2C Supplementary": 47
 	},
 	"id": "1209"
 }

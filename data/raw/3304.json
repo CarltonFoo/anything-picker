@@ -1,9 +1,9 @@
 {
 	"code": "3304",
+	"name": "SWISS COTTAGE SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3304J",
 	"logo": "./Medias/Images/Schools/logos/tn_3304.jpg",
-	"name": "SWISS COTTAGE SECONDARY SCHOOL",
 	"website": "http://www.swisscottagesec.moe.edu.sg",
 	"address": "3, BUKIT BATOK STREET 34 ( 659322 )",
 	"telephone": [
@@ -49,6 +49,7 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HIGHER ART",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
@@ -63,6 +64,7 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
+		"PRINCIPLES OF A/C",
 		"PROJECT WORK",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
@@ -112,10 +114,224 @@
 			"STEM": "Swiss Applied Sciences Programme",
 			"Community & Youth Leadership": "Swiss Thoughtful Leadership Programme"
 		},
-		"Special Student Development Programmes Offered": "Swiss Cottage delivers a Total Curriculum covering a comprehensive Student Development Programme, a rigorous Instructional Programme and two Distinctive Programmes: Swiss Thoughtful Leadership Programme (TLP) and Applied Sciences for Sustainable Development Programme. The TLP integrates Student Leadership, Values in-Action (VIA), and our school-based Glocal (global and local) Perspectives programmes. It provides our students with the knowledge, skills and values to explore and embark on possible VIA or social action projects. The Applied Sciences for Sustainable Development Programme aims to equip our students with specialised scientific skills and knowledge through the curriculum and authentic learning platforms such as VIA and research projects, attachment opportunities and mentoring by our teachers or industry/academia partners. The Student Development Programme includes the core CCE and student well-being programmes, a wide range of CCAs, enrichment and talent development programmes to broaden our students' world view and hone their unique strengths. The Instructional Programme provides a broad-based and rigorous foundation for post-secondary education. We implement academic enrichment programmes across to develop students' 21st century competencies. These include the Horizons Programme (overseas cultural immersion trip), Future Problem Solving Programme, Maths Olympiad and Science Talent Development programmes. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Swiss Cottage delivers a Total Curriculum covering a comprehensive Student Development Programme, a rigorous Instructional Programme and two Distinctive Programmes: Swiss Thoughtful Leadership Programme (TLP) and Applied Sciences for Sustainable Development Programme. The TLP integrates Student Leadership, Values in-Action (VIA), and our school-based Glocal (global and local) Perspectives programmes. It provides our students with the knowledge, skills and values to explore and embark on possible VIA or social action projects. The Applied Sciences for Sustainable Development Programme aims to equip our students with specialised scientific skills and knowledge through the curriculum and authentic learning platforms such as VIA and research projects, attachment opportunities and mentoring by our teachers or industry/academia partners. The Student Development Programme includes the core CCE and student well-being programmes, a wide range of CCAs, enrichment and talent development programmes to broaden our students' world view and hone their unique strengths. The Instructional Programme provides a broad-based and rigorous foundation for post-secondary education. We implement academic enrichment programmes across to develop students' 21st century competencies. These include the Horizons Programme (overseas cultural immersion trip), Future Problem Solving Programme, Maths Olympiad and Science Talent Development programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Bronze",
+					"Ncc (Air)": "Silver",
+					"Npcc": "Silver",
+					"Scout": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Air)": "Bronze",
+					"Npcc": "Silver",
+					"Scout": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Air Boys)": "Bronze",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Air Boys)": "Bronze",
+					"Npcc": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Air Boys)": "Bronze",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2011": {
+				"Achievement Award": [
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Malay": "Gold",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Air Boys)": "Bronze",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Malay": "Gold",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Air Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Air Boys)": "Silver",
+					"Ncc (Air Girls)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
 			"2014": {
 				"Development Award": "DA (Character Development)",
 				"Sports & Games Competition": [
@@ -340,6 +556,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"233",
+				"256",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"100",
+				"108",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"237",
+				"261",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"182",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"106",
+				"113",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"238",
+				"259",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"184",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"99",
+				"113",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"238",
+				"255",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"187",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"105",
+				"117",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"238",
+				"257",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"187",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"107",
+				"136",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"234",
+				"251",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"186",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"117",
+				"157",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"234",
+				"249",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"187",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"146",
+				"155",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"235",
+				"263",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"187",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"147",
+				"158",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"237",
+				"256",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"188",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"142",
+				"159",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"239",

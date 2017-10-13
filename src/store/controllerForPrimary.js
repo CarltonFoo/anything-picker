@@ -34,7 +34,7 @@ export function getFilteredForPrimary (state, getters) {
       if (state.specialNeeds.selected.length > 0) {
         const selected = state.specialNeeds.selected
         match = match && selected.some(need => {
-          if (need === 'HL') return 'HL.NAO' in school.specialNeeds || 'HL.TC' in school.specialNeeds
+          if (need === 'HL') return 'HL.Signing' in school.specialNeeds || 'HL.Oral' in school.specialNeeds
           return need in school.specialNeeds
         })
       }
@@ -89,8 +89,12 @@ export function importOptionsForPrimary (context, query) {
   })
 
   if (query.postalCode && query.postalCode.match(/^\d{6}$/)) {
-    context.dispatch('locateAddress', query.postalCode)
-    context.dispatch('homeSchoolDistance/queryOnemap', {postalCode: query.postalCode})
+    context.dispatch('locateAddress', query.postalCode).then(match =>
+      context.dispatch('homeSchoolDistance/queryOnemap', {
+        postalCode: query.postalCode,
+        blkNo: match.BLK_NO
+      })
+    )
   } else {
     context.commit('setPostalCode', null)
     context.commit('setLocation', null)

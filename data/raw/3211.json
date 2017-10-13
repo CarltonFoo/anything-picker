@@ -1,10 +1,10 @@
 {
 	"code": "3211",
+	"name": "JURONG SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3211B",
 	"logo": "./Medias/Images/Schools/logos/tn_3211.jpg",
-	"name": "JURONG SECONDARY SCHOOL",
-	"website": "http://www.jurongsec.moe.edu.sg/",
+	"website": "http://www.jurongsec.moe.edu.sg",
 	"address": "31, YUAN CHING ROAD ( 618652 )",
 	"telephone": [
 		"62655980"
@@ -19,7 +19,7 @@
 		"Principal": "MDM TAN YOK CHING RUBY",
 		"Vice Principal": "MR SHEIK ALAUDIN B MOHD ISMAIL",
 		"Vice Principal (Admin)": "MISS KOH MUI GEK",
-		"School Vision": "Learn with Purpose Serve with Passion Lead with Heart",
+		"School Vision": "Learn with Purpose   Serve with Passion   Lead with Heart",
 		"School Mission": "Nurturing Hearts, Enriching Minds -  With the Community, For the Community.",
 		"School Philosophy, Culture and Ethos": "Jurong Secondary School (JSS) was founded in 1963 at the request of community leaders to our Founding Prime Minister, Mr Lee Kuan Yew, when he made his first visit to the Jurong Constituency. Originally named Jurong Integrated Secondary School, the school offered both the English and Chinese streams. That JSS became widely known for its rich Chinese heritage and strong community partnerships stemmed from this unique history. Since its founding, JSS honours its commitment to the community by offering an all-round education for our students. Innovative programmes guided by our school values of Loyalty, Industry, Sincerity, and Love were introduced to nurture our students' character and cultivate thinking and independent learning, enabling them to pursue excellence in all that they do and grow as concerned citizens with a heart for and who contribute meaningfully back to the community. As a pioneer of the FutureSchool@Singapore project, our school leverages ICT to design a student-centric learning experience that emphasises acquisition of 21st century competencies.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -44,12 +44,12 @@
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
+		"MOBILE ROBOTICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
-		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SOCIAL STUDIES",
 		"TAMIL"
@@ -72,11 +72,11 @@
 			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
-			"Asian Languages & Cultural Club",
+			"Asian Languages & Culture Club",
 			"Band - Symphonic",
 			"Choir",
+			"Contemporary Dance",
 			"English Drama Club",
-			"I.Dance.Ity",
 			"Media And Visual Arts",
 			"Orchestra - Chinese"
 		],
@@ -94,10 +94,630 @@
 			"Languages & Humanities": "Environmental Studies: An Inter-disciplinary Approach To Sustainable Living",
 			"Sports & Outdoor Education": "Sports For Life: Leading a Sporty and Sporting Lifestyle"
 		},
-		"Special Student Development Programmes Offered": "In JSS, we value every student, believing that they can contribute meaningfully to the society in all that they do. Our Special Programmes are designed to nurture their hearts and minds, in order for them to become contributing members of the society.   In the area of character development, building on our heritage of sporting excellence, sports was identified as the driver for our Learning for Life Programme (LLP). It leverages participation in sports to build students' physical fitness and nurture strong character and desired values. Project [COM]passion, which seeks to grow in our students an appreciation of the needs of the less fortunate in the community, is a platform for them to take initiative to plan and implement meaningful improvement projects to benefit the school and community. And to encourage our students to discover and explore interest areas beyond the core curriculum yet offer them insights on possible post-secondary and career options, the taught modules under our InSPire Programme takes into account emerging trends in different industries.  To complement our students' academic development, we offer our Environmental Studies Applied Learning Program (ALP) and 4-year talent based Research Scholarship Programme. While the former promotes critical thinking through exploration of environmental issues and study of environmental sustainability, the latter provides opportunities for our students to broaden their perspectives about social issues and cultivate good team dynamics and skills necessary to positively impact the community in future.   The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "In JSS, we value every student, believing that they can contribute meaningfully to the society in all that they do. Our Special Programmes are designed to nurture their hearts and minds, in order for them to become contributing members of the society.   In the area of character development, building on our heritage of sporting excellence, sports was identified as the driver for our Learning for Life Programme (LLP). It leverages participation in sports to build students' physical fitness and nurture strong character and desired values. Project [COM]passion, which seeks to grow in our students an appreciation of the needs of the less fortunate in the community, is a platform for them to take initiative to plan and implement meaningful improvement projects to benefit the school and community. And to encourage our students to discover and explore interest areas beyond the core curriculum yet offer them insights on possible post-secondary and career options, the taught modules under our InSPire Programme takes into account emerging trends in different industries.  To complement our students' academic development, we offer our Environmental Studies Applied Learning Program (ALP) and 4-year talent based Research Scholarship Programme. While the former promotes critical thinking through exploration of environmental issues and study of environmental sustainability, the latter provides opportunities for our students to broaden their perspectives about social issues and cultivate good team dynamics and skills necessary to positively impact the community in future."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Silver",
+					"Red Cross": "Bronze",
+					"Scout": "Bronze"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"2nd",
+						"1st",
+						"2nd",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - International": "Silver",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Silver",
+					"Red Cross": "Silver",
+					"Scout": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - International": "Silver",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Silver",
+					"Band - Concert": "Bronze"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Silver",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"2nd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - International": "Bronze",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Gold",
+					"Red Cross": "Bronze",
+					"Scout (Unit 1)": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"4th"
+					],
+					[
+						"Basketball",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"2nd",
+						"2nd",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - International": "Bronze",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Bronze",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (National Education)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Silver",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"3rd",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2013": {
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"2nd",
+						"4th",
+						"4th",
+						"-",
+						"2nd",
+						"2nd",
+						"3rd",
+						"3rd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Silver",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
 			"2014": {
 				"Best Practice Awards": "BPA (Teaching and Learning)",
 				"Development Award": [
@@ -335,6 +955,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"219",
+				"261",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"71",
+				"116",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"222",
+				"255",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"89",
+				"112",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"228",
+				"256",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"87",
+				"108",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"227",
+				"259",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"180",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"105",
+				"113",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"228",
+				"252",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"182",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"74",
+				"113",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"226",
+				"253",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"180",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"155",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"226",
+				"251",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"130",
+				"159",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"225",
+				"250",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"180",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"137",
+				"154",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"228",
+				"254",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"141",
+				"156",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"227",

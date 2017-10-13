@@ -1,9 +1,9 @@
 {
 	"code": "1734",
+	"name": "Qihua Primary School",
 	"levels": "P",
 	"uen": " T07GS1734F",
 	"logo": "./Medias/Images/Schools/logos/tn_1734.jpg",
-	"name": "Qihua Primary School",
 	"website": "http://www.qihuapri.moe.edu.sg",
 	"address": "5, Woodlands Street 81 (738525)",
 	"telephone": [
@@ -60,10 +60,10 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Brass Ensemble",
 			"Chinese Orchestra",
 			"Dikir Barat",
-			"Music/Drama/Choir",
+			"Music & Drama",
+			"Percussion Ensemble",
 			"Pottery Club"
 		],
 		"Clubs & Societies": [
@@ -476,6 +476,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
@@ -498,11 +503,6 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []
@@ -539,7 +539,6 @@
 		"Vacancy for Phase 2A2": 97,
 		"No. of Applicants in Phase 2A2": 9,
 		"Places taken up to Phase 2A2": 82,
-		"Vacancy For Phase 2B": 64,
 		"Vacancy for Phase 2B": 64,
 		"No. of Applicants in Phase 2B": 0,
 		"Places taken up to Phase 2B": 82,
@@ -547,7 +546,7 @@
 		"No. of Applicants in Phase 2C": 57,
 		"Places taken up to Phase 2C": 137,
 		"Vacancy for Phase 2C Supplementary": 73,
-		"No. of Applicants in Phase 2C Supplementary": 11
+		"No. of Applicants in Phase 2C Supplementary": 15
 	},
 	"id": "1734"
 }

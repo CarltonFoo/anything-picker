@@ -1,9 +1,9 @@
 {
 	"code": "1038",
+	"name": "HAIG GIRLS' SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1038J",
 	"logo": "./Medias/Images/Schools/logos/tn_1038.jpg",
-	"name": "HAIG GIRLS' SCHOOL",
 	"website": "http://www.haiggirls.moe.edu.sg",
 	"address": "51, Koon Seng Road ( 427072 )",
 	"telephone": [
@@ -80,13 +80,471 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Innovation & Enterprise": "Innovation and Service Learning through Integrated Project Work (IPW@HGS)",
+			"Interdisciplinary": "Innovation and Service Learning through Integrated Project Work (IPW@HGS)",
 			"Music & Performing Arts": "Character and Leadership through the Performing and Visual Arts"
 		},
 		"Special Student Development Programmes Offered": "LLP - Character and Leadership through Performing & Visual Arts: Our whole-school approach to the arts allows pupils to demonstrate creativity, express themselves, develop character and deepen sense of pride in our multi-cultural heritage through diverse learning experiences in art, music, drama and dance. -ALP - Innovation & Service Learning through Integrated Project Work: IPW@HGS involves inter-disciplinary place-based learning, authentic problem-solving and value creation. Service learning is embedded as pupils apply knowledge and skills to address civic issues. They collaborate to create solutions, artworks or creative writing, acquiring 21st century competencies (21CC) such as critical and creative thinking, collaboration and communication skills. -The Inspired Museum Explorers, Our Unique Travels (TIMEOUT): the inter-disciplinary museum-based learning programme develops visual literacy, nurtures creative thinking and fosters a sense of pride in Singapore's cultural heritage. -Holistic Assessment (HA) with Holistic Reporting and Parent-Child-Teacher Conferencing (PCTC): As prototype school for HA, we adopt a balanced assessment system with formative and summative assessment. Assessment is embedded into teaching and enables teachers to provide quality feedback to pupils and deepen their learning in various domains such as the arts, values, leadership and 21CC.  Pupils own their learning through reflection and self-assessment, taking the lead at PCTC, to share with parents their progress and areas for growth.  -Discover, Develop & Dedicate your Talent Time (D3T2): talent development programmes in the Performing & Visual Arts, Sports, Mathematics, Science & ICT. -Teaching Through the Arts Programme (TTAP): incorporating drama and movement in the learning of Math and Science -Knowledge Building: an inquiry approach to science learning. Pupils work together to ask questions, test hypotheses, improve on peers' ideas and co-construct scientific understanding."
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Bronze",
+					"Ensemble - Handbell / Handchime": "Gold"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Gold)": "2 Awards",
+					"Art & Craft (Silver)": "1 Award",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Bronze",
+					"Ensemble - Handbell / Handchime": "Gold"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze",
+					"Red Cross": "Gold"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Gold)": "2 Awards",
+					"Art & Craft (Silver)": "1 Award",
+					"Choir": "Gold",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Silver",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Handbell / Handchime": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Red Cross": "Silver"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "3 Awards",
+					"Choir": "Gold",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Silver",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Handbell / Handchime": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Red Cross": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "3 Awards",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Gold",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Handbell / Handchime": "Gold"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold)": "1 Award",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Gold",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Handbell / Handchime": "Gold"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold)": "1 Award",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Bronze",
+					"Dance - International": "Silver",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Bronze",
+					"Dance - International": "Silver",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Red Cross": "Bronze"
+				}
+			},
 			"2014": {
 				"School Distinction Awards": "SDA",
 				"Sustained Achievement Award": "SAA (Aesthetics)",

@@ -1,9 +1,9 @@
 {
 	"code": "3051",
+	"name": "GREENRIDGE SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3051G",
 	"logo": "./Medias/Images/Schools/logos/tn_3051.jpg",
-	"name": "GREENRIDGE SECONDARY SCHOOL",
 	"website": "http://www.greenridgesec.moe.edu.sg",
 	"address": "32, BUKIT PANJANG RING ROAD ( 679938 )",
 	"telephone": [
@@ -102,10 +102,429 @@
 			"Languages & Humanities": "The Use of Media in Engaging 21st Century Learners in the English Language Classroom -- Camera. Lights. Action. Programme (CLAP)",
 			"Music & Performing Arts / Visual Arts & Design": "Learning for Life Programme through the Arts"
 		},
-		"Special Student Development Programmes Offered": "In providing quality holistic education for all Greenridgeans, Greenridge Secondary School emphasizes academic excellence and character excellence. Our key programmes include an integrated Character and Citizenship Education programme which aims to inculcate in our students moral values, tenacity, socio-emotional awareness, social and national responsibility. The school's Learning for Life Programme through Arts Education is a 3-year progressive programme that caters to all students. Through the programme, students learn about the different art forms in Music, Performing Arts, Visual Art and Drama so as to nurture their aesthetic talents and creativity. To develop communication and thinking skills, all students undergo the school's Applied Learning Programme through CLAP (Camera, Lights, and Action Programme), a 3-year Media Literacy Programme infused in the English and Chinese Language Curriculum.  Other programmes include Esprit d' Excellence, Leadership Training, Overseas Learning Journeys, Modular Science Education, Advanced Elective Modules for Express and Normal(Academic) students, Elective Modules for Normal(Academic) & Normal(Technical) students and Sports Education.  The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible (NA) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on thier PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "In providing quality holistic education for all Greenridgeans, Greenridge Secondary School emphasizes academic excellence and character excellence. Our key programmes include an integrated Character and Citizenship Education programme which aims to inculcate in our students moral values, tenacity, socio-emotional awareness, social and national responsibility. The school's Learning for Life Programme through Arts Education is a 3-year progressive programme that caters to all students. Through the programme, students learn about the different art forms in Music, Performing Arts, Visual Art and Drama so as to nurture their aesthetic talents and creativity. To develop communication and thinking skills, all students undergo the school's Applied Learning Programme through CLAP (Camera, Lights, and Action Programme), a 3-year Media Literacy Programme infused in the English and Chinese Language Curriculum.  Other programmes include Esprit d' Excellence, Leadership Training, Overseas Learning Journeys, Modular Science Education, Advanced Elective Modules for Express and Normal(Academic) students, Elective Modules for Normal(Academic) & Normal(Technical) students and Sports Education."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Silver",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - International": "Gold"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Silver",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - International": "Gold"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - International": "Gold",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - International": "Gold",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - International": "Silver",
+					"Drama - Chinese": "Bronze",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - International": "Silver",
+					"Drama - Chinese": "Bronze",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Girl Guides (Coy 2)": "Gold",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Arts Presentation": {
+					"Orchestra - Chinese": "Distinction",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Silver"
+				}
+			},
 			"2014": {
 				"SYF Arts Presentation": {
 					"Band - Concert": "Accomplishment",
@@ -156,6 +575,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"188",
+				"258",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"68",
+				"107",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"188",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"186",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"89",
+				"108",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"195",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"72",
+				"105",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"203",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"167",
+				"191",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"108",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"206",
+				"231",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"171",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"93",
+				"109",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"207",
+				"229",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"171",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"98",
+				"156",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"207",
+				"227",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"167",
+				"193",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"127",
+				"157",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"207",
+				"221",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"169",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"129",
+				"158",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"208",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"168",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"132",
+				"159",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"204",

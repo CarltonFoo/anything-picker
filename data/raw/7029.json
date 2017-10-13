@@ -1,9 +1,9 @@
 {
 	"code": "7029",
+	"name": "ST. HILDA'S SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS7029A",
 	"logo": "./Medias/Images/Schools/logos/tn_7029.jpg",
-	"name": "ST. HILDA'S SECONDARY SCHOOL",
 	"website": "http://www.sthildassec.moe.edu.sg",
 	"address": "2, TAMPINES STREET 82 ( 528986 )",
 	"telephone": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "An excellent institution recognised for bringing up pupils with a love for God, life and learning.",
 		"School Mission": "As an Anglican school, we are committed to providing through education a balanced development of mind, body and spirit for our pupils, nurturing God-fearing citizens for our nation.",
-		"School Philosophy, Culture and Ethos": "St Hilda's Secondary aims to equip students with the attributes and capabilities to be 'Critical,Inventive Thinkers,Reflective & Self-Directed Learners, Caring & Collaborative Contributors'; desired outcomes that are encapsulated in our Student Distinctive-Every Hildan a Leader: Confident,Caring and Disciplined.The achievement of these outcomes hinges on purposeful programme design and effective delivery via committed teachers,with a culture of care and excellence.The HILDAN experience includes level-specific programmes such as our Learning for Life and Applied Learning Programmes,SOLVE for Innovation, Drama Education Programme, Overseas Integrated Learning Journey and Outward Bound Singapore (OBS) Leadership Camp.Our comprehensive Educational & Career Guidance programme guides and prepares Hildans for Post-Secondary Education.Interested students may tap on our Cultural Immersion programmes with overseas partner schools. The Curriculum is customised to stretch and engage our students in various ways. This includes, STEP (Seeking To Engage students Purposefully) for Normal Technical students, special Normal Academic Programme and the Nellie Mitchell programme for selected Express students. Culture of Excellence: Excellence is a journey in maximising the potential of each student. Character excellence is nurtured collectively through formal Character & Citizenship Education lessons, Co-curricular Activities and Service Learning projects.Centred on the school's core values and desired social-emotional competencies,programmes are delivered via the 3E (Exposure, Experience, Extension) approach. Service Learning serves as a key platform to hone Hildans in leadership skills and develop in them empathy to serve the community they live in.",
+		"School Philosophy, Culture and Ethos": "St Hilda's Secondary aims to equip students with the attributes and capabilities to be 'Critical & Inventive Thinkers, Reflective & Self-Directed Learners, Caring & Collaborative Contributors'; desired outcomes that are encapsulated in our Student Distinctive-Every Hildan a Leader, Confident,Caring and Disciplined.The achievement of these outcomes hinges on purposeful programme design and effective delivery via committed teachers,with a culture of care and excellence.The HILDAN experience includes level-specific programmes such as our Learning for Life and Applied Learning Programmes,SOLVE for Innovation, Drama Education Programme, Overseas Integrated Learning Journey and Outward Bound Singapore (OBS) Leadership Camp.Our comprehensive Educational & Career Guidance programme guides and prepares Hildans for Post-Secondary Education.Interested students may tap on our Cultural Immersion programmes with overseas partner schools. The Curriculum is customised to stretch and engage our students in various ways. This includes, STEP (Seeking To Engage students Purposefully) for Normal Technical students, special Normal Academic Programme and the Nellie Mitchell programme for selected Express students. Culture of Excellence: Excellence is a journey in maximising the potential of each student. Character excellence is nurtured collectively through formal Character & Citizenship Education lessons, Co-curricular Activities and Service Learning projects.Centred on the school's core values and desired social-emotional competencies,programmes are delivered via the 3E (Exposure, Experience, Extension) approach. Service Learning serves as a key platform to hone Hildans in leadership skills and develop in them empathy to serve the community they live in.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -45,10 +45,10 @@
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
-		"HOME ECONOMICS",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -98,10 +98,624 @@
 			"Languages & Humanities": "iTHink -- the HILDAN Approach to Learning the English Language",
 			"Sports & Outdoor Education": "Develop the Whole Person through Sports"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme 'iTHink' integrates the acquisition of Thinking Skills with the learning of the English Language.  Through thinking approaches such as 'Paul's Wheel of Reasoning' and thinking routines like 'See-Think-Wonder', Hildans will be developed to be Critical & Inventive Thinkers and to be more proficient users of the English Language. The Learning for Life Programme (LLP) aims to nurture the Whole Person through Sports via the 3E (Exposure, Experience & Extension) approach to engage the Head (cognitive), Heart (emotion), Body (psychomotor) and Hands (service).  Hildans will acquire not only physical skills through individual and team sports such as Volleyball (the school has emerged National Champion for many years) but also values of integrity, teamwork and resilience to shape them in character.  One of the highlights of the LLP is the OBS Camp. The school offers Direct School Admission through our Sports CCAs. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme 'iTHink' integrates the acquisition of Thinking Skills with the learning of the English Language.  Through thinking approaches such as 'Paul's Wheel of Reasoning' and thinking routines like 'See-Think-Wonder', Hildans will be developed to be Critical & Inventive Thinkers and to be more proficient users of the English Language. The Learning for Life Programme (LLP) aims to nurture the Whole Person through Sports via the 3E (Exposure, Experience & Extension) approach to engage the Head (cognitive), Heart (emotion), Body (psychomotor) and Hands (service).  Hildans will acquire not only physical skills through individual and team sports such as Volleyball (the school has emerged National Champion for many years) but also values of integrity, teamwork and resilience to shape them in character.  One of the highlights of the LLP is the OBS Camp. The school offers Direct School Admission through our Sports CCAs."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"4th",
+						"2nd"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Npcc": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Drama - English": "Bronze",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Npcc": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Drama - English": "Bronze",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Npcc (Land)": "Gold"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Indian": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Npcc": "Silver",
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"4th",
+						"4th",
+						"-",
+						"1st",
+						"3rd",
+						"1st",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Indian": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncdcc": "Bronze",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2011": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Hockey",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Drama - English": "Bronze",
+					"Ensemble - Guitar": "Bronze",
+					"Ensemble - Handbell / Handchime": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncdcc": "Bronze",
+					"Npcc (Land)": "Gold"
+				}
+			},
+			"2012": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Academic Value-added) (Special/Express)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Hockey",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Volleyball",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Drama - English": "Bronze",
+					"Ensemble - Guitar": "Bronze",
+					"Ensemble - Handbell / Handchime": "Bronze",
+					"Art & Craft (Bronze)": "1 Award"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Silver",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Gold"
+				}
+			},
+			"2013": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": "SAA (Sports)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Hockey",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncdcc": "Bronze",
+					"Npcc (Land)": "Gold"
+				}
+			},
 			"2014": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Staff Well-Being)",
@@ -353,6 +967,186 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"227",
+				"242",
+				"188",
+				"241"
+			],
+			"Normal Academic": [
+				"185",
+				"196",
+				"116",
+				"122"
+			],
+			"Normal Technical": [
+				"98",
+				"104",
+				"103",
+				"103"
+			]
+		},
+		"2006": {
+			"Express": [
+				"229",
+				"245",
+				"188",
+				"240"
+			],
+			"Normal Academic": [
+				"186",
+				"199",
+				"117",
+				"117"
+			],
+			"Normal Technical": [
+				"101",
+				"110",
+				"78",
+				"111"
+			]
+		},
+		"2007": {
+			"Express": [
+				"232",
+				"246",
+				"188",
+				"241"
+			],
+			"Normal Academic": [
+				"186",
+				"199",
+				"153",
+				"187"
+			],
+			"Normal Technical": [
+				"104",
+				"110",
+				"80",
+				"111"
+			]
+		},
+		"2008": {
+			"Express": [
+				"230",
+				"247",
+				"188",
+				"250"
+			],
+			"Normal Academic": [
+				"189",
+				"199",
+				"152",
+				"187"
+			],
+			"Normal Technical": [
+				"106",
+				"116",
+				"71",
+				"108"
+			]
+		},
+		"2009": {
+			"Express": [
+				"230",
+				"245",
+				"188",
+				"239"
+			],
+			"Normal Academic": [
+				"186",
+				"198",
+				"153",
+				"187"
+			],
+			"Normal Technical": [
+				"104",
+				"111",
+				"78",
+				"109"
+			]
+		},
+		"2010": {
+			"Express": [
+				"227",
+				"248",
+				"188",
+				"249"
+			],
+			"Normal Academic": [
+				"188",
+				"198",
+				"152",
+				"187"
+			],
+			"Normal Technical": [
+				"118",
+				"159",
+				"95",
+				"151"
+			]
+		},
+		"2011": {
+			"Express": [
+				"229",
+				"247",
+				"188",
+				"248"
+			],
+			"Normal Academic": [
+				"189",
+				"199",
+				"153",
+				"192"
+			],
+			"Normal Technical": [
+				"145",
+				"156",
+				"126",
+				"150"
+			]
+		},
+		"2012": {
+			"Express": [
+				"228",
+				"241",
+				"188",
+				"239"
+			],
+			"Normal Academic": [
+				"189",
+				"198",
+				"152",
+				"190"
+			],
+			"Normal Technical": [
+				"144",
+				"157",
+				"120",
+				"149"
+			]
+		},
+		"2013": {
+			"Express": [
+				"230",
+				"247",
+				"188",
+				"247"
+			],
+			"Normal Academic": [
+				"192",
+				"198",
+				"152",
+				"189"
+			],
+			"Normal Technical": [
+				"146",
+				"159",
+				"120",
+				"151"
+			]
+		},
 		"2014": {
 			"Express": [
 				"231",

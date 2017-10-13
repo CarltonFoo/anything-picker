@@ -1,9 +1,9 @@
 {
 	"code": "3403",
+	"name": "TECK WHYE SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3403D",
 	"logo": "./Medias/Images/Schools/logos/tn_3403.jpg",
-	"name": "TECK WHYE SECONDARY SCHOOL",
 	"website": "http://www.teckwhyesec.moe.edu.sg",
 	"address": "31, TECK WHYE CRESCENT ( 688848 )",
 	"telephone": [
@@ -42,7 +42,6 @@
 		"CHINESE",
 		"CHINESE B",
 		"CHINESE N(A)",
-		"CO-CURRICULAR ACTIVITIES",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
@@ -51,9 +50,7 @@
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
-		"FOOD STUDIES, N LEVEL",
 		"MALAY",
 		"MALAY N(A)",
 		"MATHEMATICS",
@@ -62,7 +59,6 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
-		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
@@ -108,10 +104,588 @@
 			"STEM": "Re-designing the Future with Materials Science",
 			"Sports & Outdoor Education": "Sports and Sportsmanship Programme @ TWSS (Experience, Expose, Excel)"
 		},
-		"Special Student Development Programmes Offered": "Teck Whye Secondary School offers the Applied Learning Programme (ALP) which provides opportunities for students to learn interesting STEM (Science Technology Engineering Mathematics) applications in the area of Material Sciences and Engineering.  Students will learn more about material properties, integration with Robotics and applications in the context of Defence Science. The emphasis is on the design thinking, connecting knowledge from across disciplines, stretching the imagination and applying these in authentic settings and real world contexts. In the area of Co-Curriculum, excellent platforms are provided for our students to develop strength of character, values and inculcate the Growth Mindset to overcome challenges that come their way in life. It is with this that we have structured our Learning for Life Programme (LLP) for our students - the Sports Experience, the Sports Development and Sports Excellence. In particular, our strong Hockey programme - \"Nurturing Sports Stars of Tomorrow through Hockey\" seeks to further develop the skills of our students in the sport to lead and contribute at the national levels. Throughout these programmes, our students participate in and develop their passion and aptitude in the respective sports and activities. Sportsmanship values, character and attitudes are constantly emphasised.  Other key programmes offered include Leadership Development Programme, Dance Programme, Sec 3 Adventure and Leadership Camp and Talent Development Programme. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Teck Whye Secondary School offers the Applied Learning Programme (ALP) which provides opportunities for students to learn interesting STEM (Science Technology Engineering Mathematics) applications in the area of Material Sciences and Engineering.  Students will learn more about material properties, integration with Robotics and applications in the context of Defence Science. The emphasis is on the design thinking, connecting knowledge from across disciplines, stretching the imagination and applying these in authentic settings and real world contexts. In the area of Co-Curriculum, excellent platforms are provided for our students to develop strength of character, values and inculcate the Growth Mindset to overcome challenges that come their way in life. It is with this that we have structured our Learning for Life Programme (LLP) for our students - the Sports Experience, the Sports Development and Sports Excellence. In particular, our strong Hockey programme - \"Nurturing Sports Stars of Tomorrow through Hockey\" seeks to further develop the skills of our students in the sport to lead and contribute at the national levels. Throughout these programmes, our students participate in and develop their passion and aptitude in the respective sports and activities. Sportsmanship values, character and attitudes are constantly emphasised.  Other key programmes offered include Leadership Development Programme, Drama Programme, Sec 3 Adventure and Leadership Camp and Talent Development Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"1st",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Bronze",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"4th",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Bronze",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"2nd",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Bronze",
+					"Dance - Malay": "Gold",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc": "Bronze"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Bronze",
+					"Dance - Malay": "Gold",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": "SAA (Sports)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Archery",
+						"2nd",
+						"2nd",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"1st",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guitar": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": "SAA (Sports)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guitar": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": "SAA (Sports)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Dance - Chinese": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
 			"2014": {
 				"Development Award": "DA (Character Development)",
 				"Sports & Games Competition": [
@@ -310,6 +884,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"188",
+				"267",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
+				"186",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"84",
+				"106",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"189",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"167",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"92",
+				"105",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"192",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"184",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"84",
+				"103",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"190",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"163",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"86",
+				"126",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"192",
+				"224",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"168",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"92",
+				"112",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"188",
+				"231",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"164",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"98",
+				"154",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"188",
+				"228",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"163",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
+				"158",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"189",
+				"227",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"164",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"123",
+				"158",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"193",
+				"217",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"193",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"125",
+				"159",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"190",

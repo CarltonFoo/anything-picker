@@ -1,9 +1,9 @@
 {
 	"code": "3021",
+	"name": "BENDEMEER SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3021C",
 	"logo": "./Medias/Images/Schools/logos/tn_3021.jpg",
-	"name": "BENDEMEER SECONDARY SCHOOL",
 	"website": "http://www.bendemeersec.moe.edu.sg",
 	"address": "1, ST WILFRED ROAD ( 327919 )",
 	"telephone": [
@@ -31,15 +31,17 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
+		"ART 'O' LEVEL",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BASIC TAMIL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CHINESE N(A)",
 		"CO-CURRICULAR ACTIVITIES",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"COMPUTER STUDIES",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
@@ -48,19 +50,28 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
+		"GEOGRAPHY",
 		"HIGHER TAMIL",
+		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY N(A)",
 		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES",
-		"TAMIL"
+		"SCIENCE (SYLL T)",
+		"SOCIAL STUDIES N(T)",
+		"TAMIL",
+		"TAMIL N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -96,10 +107,578 @@
 			"STEM": "Making Health Science Alive through Authentic Problem-Based Learning",
 			"Community & Youth Leadership": "Developing Student Leadership Through Service Learning"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Making Science Alive through Authentic Problem Based Learning', helps students develop an appreciation of concepts and principles related to Health Science. Our Learning for Life Programme (LLP) focusses on Developing Student Leadership through Service Learning, where students are given opportunities to collaborate and lead their peers in level Values-in-Action (VIA) projects.  The school's collaboration with the Kolam Ayer Youth Executive Committee in the 'Dialogue with Minister' Series gives Bendemeerians the opportunity to voice their views on issues affecting their community. The school's internationalisation programme gives every student the opportunity to travel abroad. The Sequoia and NTcipate Life programmes are specially customised to engage N(A) and N(T) students through experiential learning experiences to discover their aspirations and fulfil their potential. Learning is engaging in and out of the classroom as teachers adopt research-based teaching methodologies, such as inquiry-based, problem-based, and cooperative and collaborative learning, to deepen and enrich students' understanding and equip them with 21st century competencies. Innovative programmes include our Dramaworkz programme which uses drama to develop confident and expressive speakers, and BackPackLIVE!, a project which uses a web-based integrated learning and assessment system to enhance students' competencies in comprehension and critical thinking skills in the learning of the Mother Tongue language. Students' interests and talents are further developed through programmes like the Mathematics Learning Trail, the Maths Olympiad and the Design Skills Enrichment for D&T students. Co-curricular experiences such as the Career Guidance Programme, complements the curriculum in providing a holistic education. Through this programme, students are able to visit various industries in the aviation, health science, and service industries."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Making Science Alive through Authentic Problem Based Learning', helps students develop an appreciation of concepts and principles related to Health Science. Our Learning for Life Programme (LLP) focuses on Developing Student Leadership through Service Learning, where students are given opportunities to collaborate and lead their peers in level Values-in-Action (VIA) projects.  The school's collaboration with the Kolam Ayer Youth Executive Committee in the 'Dialogue with Minister' Series gives Bendemeerians the opportunity to voice their views on issues affecting their community. The school's internationalisation programme gives every student the opportunity to travel abroad. The Sequoia and NTcipate Life programmes are specially customised to engage N(A) and N(T) students through experiential learning experiences to discover their aspirations and fulfil their potential. Learning is engaging in and out of the classroom as teachers adopt research-based teaching methodologies, such as inquiry-based, problem-based, and cooperative and collaborative learning, to deepen and enrich students' understanding and equip them with 21st century competencies. Innovative programmes include our Dramaworkz programme which uses drama to develop confident and expressive speakers. Students' interests and talents are further developed through programmes like the Mathematics Learning Trail, the Maths Olympiad and the Design Skills Enrichment for D&T students. Co-curricular experiences such as the Education and Career Guidance Programme, complement the curriculum in providing a holistic education. Through this programme, students are able to visit the aviation, health science, and service industries."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Bronze",
+					"Red Cross": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Silver",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Bronze",
+					"Red Cross": "Gold"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Silver",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Gold"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Silver",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Bronze",
+					"Red Cross": "Gold"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Silver",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Gold"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Cross Country",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2012": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
+			"2013": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Cross Country",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
 			"2014": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
@@ -321,6 +900,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"190",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"119",
+				"119",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"71",
+				"110",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"198",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"113",
+				"121",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"80",
+				"112",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"196",
+				"225",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"114",
+				"119",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"81",
+				"108",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"196",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"114",
+				"119",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"70",
+				"112",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"194",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"130",
+				"130",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"95",
+				"111",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"192",
+				"245",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"153",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"108",
+				"151",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"188",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"159",
+				"191",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"123",
+				"151",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"188",
+				"231",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
+				"154",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"188",
+				"250",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"164",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"136",
+				"158",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"188",

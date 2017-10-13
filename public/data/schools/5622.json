@@ -1,9 +1,9 @@
 {
 	"code": "5622",
+	"name": "Nan Hua Primary School",
 	"levels": "P",
 	"uen": " T07GS5622D",
 	"logo": "./Medias/Images/Schools/logos/tn_5622.jpg",
-	"name": "Nan Hua Primary School",
 	"website": "http://www.nanhuapri.moe.edu.sg",
 	"address": "30, Jalan Lempeng (128806)",
 	"telephone": [
@@ -493,7 +493,6 @@
 		"Vacancy for Phase 2A2": 19,
 		"No. of Applicants in Phase 2A2": 23,
 		"Places taken up to Phase 2A2": 200,
-		"Vacancy For Phase 2B": 20,
 		"Vacancy for Phase 2B": 20,
 		"No. of Applicants in Phase 2B": 15,
 		"Places taken up to Phase 2B": 214,

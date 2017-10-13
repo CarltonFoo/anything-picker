@@ -1,9 +1,9 @@
 {
 	"code": "1195",
+	"name": "RULANG PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1195J",
 	"logo": "./Medias/Images/Schools/logos/tn_1195.jpg",
-	"name": "RULANG PRIMARY SCHOOL",
 	"website": "http://www.rulangpri.moe.edu.sg/",
 	"address": "6, JURONG WEST STREET 52 ( 649295 )",
 	"telephone": [
@@ -79,13 +79,749 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"ICT": "Enhancing 21st Century Competencies Through Robotics",
-			"Community Service & Student Leadership": "Sports Teach Responsibility, Inventiveness, Values & Excellence (STRIVE) @ Rulang"
+			"Coding": "Enhancing 21st Century Competencies Through Robotics",
+			"Sports & Outdoor Education": "Sports Teach Responsibility, Inventiveness, Values & Excellence (STRIVE) @ Rulang"
 		},
 		"Special Student Development Programmes Offered": "Rulang Primary School aims to provide a holistic education to develop all pupils into confident 21st Century learners and wholesome individuals.  Applied Learning Programme (ALP): Enhancing 21CC through Robotics challenges students to connect their existing schema and apply them to an authentic setting for acquisition of knowledge. Our Integrated Robotics Curriculum (IRC) lessons serve to bring about higher engagement in learning and cultivates teamwork through collaborative learning.   Learning for Life Programme (LLP): STRIVE @ Rulang (Sports Teach Responsibility, Inventiveness, Values & Excellence). This is a broad based programme for all students and is all-inclusive sporting and outdoor experience whilst providing opportunities for those with greater interest and/or talent to further develop their strengths and interests. We have a structured Physical Education programme that spans from P1 to P6 (modular system), Programme for Active Learning (PAL) which is targeted at P1 & P2 and a myriad of Co-Curricular Activities (CCAs) that are offered to the students at P3 to P6  through a skill, aptitude and interest based approach are aligned with 21CC. Our unique and structured Character Development Framework and Student Leadership Framework seek to develop pupils into wholesome individuals through five domains namely socialisation, citizenship, leadership, entrepreneurship and internationalisation. In imbuing identified values and outcomes, the framework has been integrated into instructional and non-instructional programmes while being explicitly taught in our customised school wide programmes namely Co-Curricular & Special Programmes (CCSP), GIFTS (Generating Interactions for Total Socialisation)   and Values-in-Practice Programme (VIP)."
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"4th",
+						"1st",
+						"2nd",
+						"3rd",
+						"1st",
+						"1st",
+						"2nd",
+						"1st"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Gold",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"2nd",
+						"2nd",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Gold",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze",
+					"Scout": "Gold"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"1st",
+						"1st",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Bronze",
+					"Ensemble - Handbell / Handchime": "Bronze",
+					"Ensemble - Strings": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Gold"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"1st",
+						"2nd",
+						"1st",
+						"2nd",
+						"1st",
+						"1st",
+						"1st",
+						"2nd"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Bronze",
+					"Ensemble - Handbell / Handchime": "Bronze",
+					"Ensemble - Strings": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"1st",
+						"1st",
+						"2nd",
+						"1st",
+						"1st",
+						"1st",
+						"1st",
+						"1st"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Malay": "Gold",
+					"Ensemble - Strings": "Gold",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2011": {
+				"School Excellence Awards": "SEA",
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"Outstanding PARTNERS"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"1st",
+						"1st",
+						"2nd",
+						"3rd",
+						"1st",
+						"2nd",
+						"1st",
+						"1st"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"2nd",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Malay": "Gold",
+					"Ensemble - Strings": "Gold",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2012": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"1st",
+						"1st",
+						"1st",
+						"3rd",
+						"2nd",
+						"1st",
+						"1st",
+						"1st"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"3rd",
+						"-",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Gold"
+				}
+			},
+			"2013": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"1st",
+						"2nd",
+						"1st",
+						"3rd",
+						"1st",
+						"1st",
+						"1st",
+						"1st"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Gold"
+				}
+			},
 			"2014": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [

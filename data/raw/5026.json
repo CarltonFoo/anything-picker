@@ -1,9 +1,9 @@
 {
 	"code": "5026",
+	"name": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL",
 	"levels": "PF",
 	"uen": " T07GS5026J",
 	"logo": "./Medias/Images/Schools/logos/tn_5026.jpg",
-	"name": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL",
 	"website": "http://www.scgs.moe.edu.sg",
 	"address": "190, DUNEARN ROAD ( 309437 )",
 	"telephone": [
@@ -18,6 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MDM TAN YUNCHIN EUGENIA",
 		"Vice Principal": "MISS SUSANNA CHAU",
+		"Vice Principal (Admin)": "MDM CHONG PEI SIE",
 		"School Vision": "To be an asset to the country by developing capable women of character and relevance.",
 		"School Mission": "To inspire and develop every pupil to fulfil her fullest potential, according to her individual pace and aspirations, so as to prepare her for meaningful roles in the community.",
 		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
@@ -54,6 +55,148 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2005": {},
+			"2006": {
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - International": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Brownies": "Bronze"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - International": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Brownies (Pack 2)": "Silver"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - International": "Gold (Hons)",
+					"Ensemble - Handbell / Handchime": "Gold"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Gold"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - International": "Gold (Hons)",
+					"Ensemble - Handbell / Handchime": "Gold"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Gold"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Choir": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Gold",
+					"Ensemble - Handbell / Handchime": "Gold",
+					"Ensemble - Strings": "Silver"
+				}
+			},
+			"2011": {
+				"School Excellence Awards": "SEA",
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Choir": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Gold",
+					"Ensemble - Handbell / Handchime": "Gold",
+					"Ensemble - Strings": "Silver"
+				}
+			},
+			"2012": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - International": "Gold",
+					"Ensemble - Handbell / Handchime": "Gold",
+					"Ensemble - Strings": "Gold"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Gold"
+				}
+			},
+			"2013": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - International": "Gold",
+					"Ensemble - Handbell / Handchime": "Gold",
+					"Ensemble - Strings": "Gold"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Gold"
+				}
+			},
 			"2014": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -120,27 +263,15 @@
 					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Distinction",
-					"Ensemble - Strings": "Accomplishment",
-					"Ensemble - Handbell / Handchime": "Distinction"
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Brownies (Pack 2)": "Gold"
 				}
 			},
 			"2017": {}
-		},
-		"Secondary": {
-			"2014": {},
-			"2015": {},
-			"2016": {},
-			"2017": {}
 		}
-	},
-	"PsleAggregateHistory": {
-		"2014": {},
-		"2015": {},
-		"2016": {},
-		"2017": {}
 	},
 	"postalCode": "309437"
 }

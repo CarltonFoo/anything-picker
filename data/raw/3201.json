@@ -1,9 +1,9 @@
 {
 	"code": "3201",
+	"name": "AHMAD IBRAHIM SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3201H",
 	"logo": "./Medias/Images/Schools/logos/tn_3201.jpg",
-	"name": "AHMAD IBRAHIM SECONDARY SCHOOL",
 	"website": "http://www.ahmadibrahimsec.moe.edu.sg",
 	"address": "751, YISHUN AVENUE 7 ( 768928 )",
 	"telephone": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Every AI student, a young lady or gentleman who cares, learns and excels for AI and for nation",
 		"School Mission": "To grow students with strength of character, nurture inquiring and disciplined minds, inspire courage to lead and serve",
-		"School Philosophy, Culture and Ethos": "Ahmad Ibrahim Secondary School believes in building strong academic foundations and instilling academic resilience to prepare students well for their post-secondary education.  We seek to build up towards a culture of excellence and strong purpose to foster a positive school identity.  Our teachers work as a team to nurture every AI student to be a young gentleman or lady who cares, learns and excels for AI and for nation.  The school is committed to preparing our students to be life, work and world ready.  Our character education focuses on inculcation of the core values of AI RISE (Resilience, Integrity, Steadfastness, Excellence) with Care, Courage and Gratitude.  Students are provided with various opportunities to discover, explore and develop their interests and leadership skill.  The school takes pride in its academic and co-curricular programmes that provide quality learning experience to support the holistic development of every student.",
+		"School Philosophy, Culture and Ethos": "Ahmad Ibrahim Secondary School believes in building strong academic foundations and instilling academic resilience to prepare students well for their post-secondary education.  We seek to build up towards a culture of excellence and strong purpose to foster a positive school identity.  Our teachers work as a team to nurture every AI student to be a young lady or gentleman who cares, learns and excels for AI and for nation.  The school is committed to preparing our students to be life, work and world ready.  Our character education focuses on inculcation of the core values of Resilience, Integrity, Steadfastness, Excellence, Care, Courage and Gratitude.  Students are provided with various opportunities to discover, explore and develop their interests and leadership skills.  The school takes pride in its academic and co-curricular programmes that provide quality learning experience to support the holistic development of every student.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,7 +38,6 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
-		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
@@ -49,6 +48,7 @@
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
+		"MUSIC 'O' LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
@@ -80,8 +80,8 @@
 			"Oratorical Debate & Drama Society"
 		],
 		"Clubs & Societies": [
-			"Infocomm And New Age Media",
-			"Leo Club"
+			"Green Service Club",
+			"Infocomm And New Age Media Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -92,10 +92,731 @@
 			"Languages & Humanities": "Critical Social Inquiry and Media Literacy",
 			"Sports & Outdoor Education": "Character Development through Outdoor Learning Experience (OLE)"
 		},
-		"Special Student Development Programmes Offered": "Character Development through Outdoor Learning Experience (OLE): Our Learning for Life Programme (LLP) is a broad-based developmental programme that spans from Sec 1 to 3, with extended opportunities for students with special interest in outdoor activities to be trained as OLE ambassadors.  It provides students with authentic, real world experiences to learn to work as a team and build their mental and emotional strength, self and collective leadership through taking on physical challenges.  OLE also promotes environmental appreciation through outdoor activities. Critical Social Inquiry (CSI) and Media Literacy: Our Applied Learning Programme (ALP) takes a multi-disciplinary approach where students extend their learning from existing curriculum subjects such as Languages, Humanities, Sciences and CCE using a critical media literacy lens. Students explore key issues that are related to the society e.g. social, ethical and environmental issues, and present their perspectives through various media forms.  The programme is guided by the 3Es approach-EXPLICATE for heightened awareness, EXPERIENCE for all and ENGAGEMENT for students anchored on values and reflection. Enhanced Music Programme (EMP):  EMP allows students to develop their passion and interest in music.  It is a two-year programme in upper secondary with visits to music performances and music master classes, culminating in the pursuit of O-Level Music or Higher Music.  There is also an accompanying two-year Music Preparatory Course (MPC) for lower sec students with music interest and talent. Student-initiated Service Learning Programme: To inspire courage to lead and serve, every class takes part in a structured 10-week programme to identify the need of a community to serve, plan and implement a service learning project.  Outstanding students are identified and nominated for A*STAR Award cum Research Exposure Programme, NAC Talent Development Programme so as to further develop and stretch their potential."
+		"Special Student Development Programmes Offered": "1. Character Development through Outdoor Learning Experience (OLE): Our Learning for Life Programme (LLP) is a broad-based developmental programme that spans from Sec 1 to 3, with extended opportunities for students with special interest in outdoor activities to be trained as OLE leaders.  It provides students with authentic, real world experiences to learn teamwork, build mental and emotional strength, develop self and collective leadership through taking on physical challenges.  OLE also promotes environmental appreciation through outdoor activities.  2. Critical Social Inquiry (CSI) and Media Literacy: Our Applied Learning Programme (ALP) takes a multi-disciplinary approach where students extend their learning from existing curriculum subjects such as Languages, Humanities, Sciences and CCE using a critical media literacy lens. Students explore key issues that are related to the society e.g. social, ethical and environmental issues, and present their perspectives through various media forms.  3. Enhanced Music Programme (EMP):  EMP allows students to develop their passion and interest in music.  It is a two-year programme in upper secondary with visits to music performances and music master classes, culminating in the pursuit of O-Level Music or Higher Music.  There is also an accompanying two-year Music Preparatory Course (MPC) for lower sec students with music interest and talent. 4. Student-initiated Service Learning Programme: To inspire courage to lead and serve, every class takes part in a structured 10-week programme to identify the need of a community to serve, plan and implement a service learning project.  5. With the school's firm belief in academic resilience and stretching student potential, outstanding students are identified and nominated for various stretch programmes which include journalism training, creative writing camp, Science Innovations projects."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"2nd",
+						"-",
+						"1st",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"4th",
+						"-",
+						"1st",
+						"-",
+						"1st",
+						"1st",
+						"1st",
+						"3rd"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncc (Sea)": "Silver",
+					"Npcc": "Bronze",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"1st"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - International": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Ncc (Sea)": "Bronze",
+					"Npcc": "Bronze",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"1st",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"3rd",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - International": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Ncc (Sea Boys)": "Bronze",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Orchestra - Chinese": "Gold",
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Silver",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Land Boys)": "Bronze",
+					"Ncc (Sea Boys)": "Bronze",
+					"Npcc": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"4th"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Silver",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Ncc (Sea Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2011": {
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"4th",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Bronze",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2012": {
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"4th"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"4th",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"4th",
+						"2nd",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Bronze",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2013": {
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"4th",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
 			"2014": {
 				"Sports & Games Competition": [
 					[
@@ -322,6 +1043,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"197",
+				"277",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"194",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"111",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"220",
+				"258",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"105",
+				"113",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"221",
+				"248",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"106",
+				"112",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"222",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"181",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"96",
+				"114",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"223",
+				"256",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"180",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"90",
+				"125",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"221",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"181",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"107",
+				"156",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"218",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"134",
+				"158",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"217",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"135",
+				"159",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"217",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"181",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"131",
+				"157",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"217",

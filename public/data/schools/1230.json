@@ -1,9 +1,9 @@
 {
 	"code": "1230",
+	"name": "Bedok Green Primary School",
 	"levels": "P",
 	"uen": " T07GS1230A",
 	"logo": "./Medias/Images/Schools/logos/tn_1230.jpg",
-	"name": "Bedok Green Primary School",
 	"website": "http://www.bedokgreenpri.moe.edu.sg",
 	"address": "1, Bedok South Ave 2 (469317)",
 	"telephone": [
@@ -370,7 +370,6 @@
 		"Vacancy for Phase 2A2": 53,
 		"No. of Applicants in Phase 2A2": 11,
 		"Places taken up to Phase 2A2": 98,
-		"Vacancy For Phase 2B": 41,
 		"Vacancy for Phase 2B": 41,
 		"No. of Applicants in Phase 2B": 0,
 		"Places taken up to Phase 2B": 96,
@@ -378,7 +377,7 @@
 		"No. of Applicants in Phase 2C": 56,
 		"Places taken up to Phase 2C": 152,
 		"Vacancy for Phase 2C Supplementary": 28,
-		"No. of Applicants in Phase 2C Supplementary": 10
+		"No. of Applicants in Phase 2C Supplementary": 15
 	},
 	"id": "1230"
 }

@@ -1,9 +1,9 @@
 {
 	"code": "1771",
+	"name": "Casuarina Primary School",
 	"levels": "P",
 	"uen": " T07GS1771E",
 	"logo": "./Medias/Images/Schools/logos/tn_1771.jpg",
-	"name": "Casuarina Primary School",
 	"website": "http://www.casuarinapri.moe.edu.sg/",
 	"address": "30, Pasir Ris St 41 (518935)",
 	"telephone": [
@@ -287,7 +287,6 @@
 		"Vacancy for Phase 2A2": 45,
 		"No. of Applicants in Phase 2A2": 9,
 		"Places taken up to Phase 2A2": 104,
-		"Vacancy For Phase 2B": 38,
 		"Vacancy for Phase 2B": 38,
 		"No. of Applicants in Phase 2B": 0,
 		"Places taken up to Phase 2B": 103,
