@@ -7,10 +7,10 @@
     "start": "npm run start-server",
     "dev": "npm run watch-server & npm run dev-server",
     "start-server": "node dist/server.js",
-    "watch-server": "BABEL_ENV=server babel-watch src/server.js",
+    "watch-server": "BABEL_ENV=node babel-watch src/server.js",
     "dev-server": "webpack-dev-server --config ./webpack.config.js --colors --progress",
     "build": "npm run babel && npm run webpack",
-    "babel": "mkdir -p dist/ && BABEL_ENV=server babel src/server.js -o dist/server.js && BABEL_ENV=server babel src/helpers/ -d dist/helpers/",
+    "babel": "mkdir -p dist/ && BABEL_ENV=node babel src/server.js -o dist/server.js && BABEL_ENV=node babel src/helpers/ -d dist/helpers/",
     "webpack": "webpack --config ./webpack.prod.config.js --colors --progress",
     "deploy": "docker build -t yongjun21/datagovsg-school-picker . && heroku container:push web",
     "test": "standard src/**/*.js"
@@ -44,7 +44,7 @@
       "transform-runtime"
     ],
     "env": {
-      "server": {
+      "node": {
         "plugins": [
           "transform-es2015-modules-commonjs"
         ]
