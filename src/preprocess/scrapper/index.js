@@ -5,9 +5,9 @@ import {ThrottledQueue} from '../../helpers/util'
 
 import {clinic as clinicList} from '../../../data/clinicList.json'
 
-const queue = new ThrottledQueue(100)
+const queue = new ThrottledQueue(50)
 const debug = []
-const jobs = clinicList.slice(0, 10)
+const jobs = clinicList.slice(0, 1)
   .map((id, i) => queue.push(fetchClinicInfo, id, clinicList.length - i))
 
 Promise.all(jobs).then(() => {
@@ -36,6 +36,7 @@ function fetchClinicInfo (id, k) {
 }
 
 function parseClinicInfo ($) {
+  console.log($('.gm-style img').text().trim().replace(/\s\s+/g, ' '))
   const result = {}
   result.name = $('.left_col > h1').text().trim()
 
