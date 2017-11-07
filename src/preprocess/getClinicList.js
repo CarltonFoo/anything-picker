@@ -1,63 +1,27 @@
 import axios from 'axios'
 import fs from 'fs'
-import querystring from 'querystring'
-import _range from 'lodash/range'
-
-import {ThrottledQueue} from '../helpers/util'
-
-const batchSize = 10
+import cheerio from 'cheerio'
 
 const endpoints = {
-  clinic: 4068,
-  hospital: 35,
-  nursing: 77,
-  laboratory: 212
+  locations: 76
 }
 
-const queue = new ThrottledQueue(100)
-
-const tasks = Object.keys(endpoints).map(ep => {
-  function fetchPage (pageNo) {
-    return axios({
-      method: 'post',
-      url: `http://hcidirectory.sg/hcidirectory/${ep}.do`,
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded'
-      },
-      data: querystring.stringify({
-        task: 'search',
-        clinicType: 'all',
-        hciTyp: 'all',
-        targetPageNo: pageNo
-      }),
-      responseType: 'text'
-    }).then(res => {
-      const matches = res.data.match(/<a href="\/hcidirectory.*?task=view">/g) || []
-      return matches
-        .filter(s => s.indexOf('pkId') > -1)
-        .map(s => s.match(/pkId=(.*?)&/)[1])
-    }).catch(err => {
-      queue.error = err
-      throw err
+Object.keys(endpoints).map(ep => {
+  return axios({
+    method: 'get',
+    url: `https://www.singhealth.com.sg/PatientCare/GP/Pages/Home.aspx`,
+    responseType: 'text'
+  }).then(res => cheerio.load(res.data))
+    .then(getClinicRegion)
+    .catch(function (error) {
+      console.log(error)
     })
-  }
 
-  function batchFetch (batchNo) {
-    return Promise.all(_range(batchSize).map(i => fetchPage(batchNo * batchSize + i + 1)))
-      .then(results => results.reduce((a, v) => a.concat(v), []))
+  function getClinicRegion ($) {
+    const result = {}
+    result.location = $('.contentpage > table').find('a').map(function () {
+      return $(this).attr('href').replace('/PatientCare/GP/Pages/', '').replace('.aspx', '').replace('https://www.singhealth.com.sg', '')
+    }).get()
+    fs.writeFile('data/clinicLocation.json', JSON.stringify(result, null, '\t'))
   }
-
-  const batchCount = Math.ceil(endpoints[ep] / batchSize / 10)
-  return Promise.all(_range(batchCount).map(i => queue.push(batchFetch, i)))
-    .then(results => results.reduce((a, v) => a.concat(v), []))
 })
-
-Promise.all(tasks)
-  .then(results => {
-    const merged = {}
-    Object.keys(endpoints).forEach((ep, i) => {
-      merged[ep] = results[i]
-    })
-    fs.writeFile('data/clinicList.json', JSON.stringify(merged))
-  })
-  .catch(console.error)
