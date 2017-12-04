@@ -1,0 +1,38 @@
+{
+	"name": "ST. ANDREW'S DENTAL SURGEONS",
+	"tel": "96345050",
+	"fax": "62262364",
+	"licensee": "Gian Siong Lin Jimmy",
+	"licensePeriod": "08/04/2017 to 07/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"address": "100 TRAS STREET, AMARA CORPORATE TOWER, #11-00 Singapore 079027",
+	"doctorInCharge": [
+		{
+			"name": "Jimmy Gian Siong Lin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9402290",
+	"coordinates": [
+		103.84347073661,
+		1.27458821795427
+	],
+	"svy21": [
+		29129.855226445,
+		28563.0121062044
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

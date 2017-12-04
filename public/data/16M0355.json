@@ -1,0 +1,36 @@
+{
+	"name": "DR HAACH AESTHETIC AND MEDICAL CLINIC",
+	"licensee": "DR HAACH PTE. LTD.",
+	"licensePeriod": "15/11/2016 to 14/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "252 NORTH BRIDGE ROAD, RAFFLES CITY SHOPPING CENTRE, #02-27A Singapore 179103",
+	"doctorInCharge": [
+		{
+			"name": "Chow U-Jin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0355",
+	"coordinates": [
+		103.853119904656,
+		1.29389357863315
+	],
+	"svy21": [
+		30203.7152231764,
+		30697.7055161744
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

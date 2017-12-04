@@ -1,0 +1,40 @@
+{
+	"name": "TOH YI MEDICAL CLINIC PTE LTD",
+	"tel": "64652719",
+	"fax": "64675801",
+	"licensee": "TOH YI MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "21/05/2016 to 20/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 18 TOH YI DRIVE, #01-107 Singapore 590018",
+	"doctorInCharge": [
+		{
+			"name": "YAP KIAN SUNG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14C0127",
+	"coordinates": [
+		103.773132242769,
+		1.3399791362286
+	],
+	"svy21": [
+		21301.9063877473,
+		35793.6834275685
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

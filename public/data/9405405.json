@@ -1,0 +1,44 @@
+{
+	"name": "CHILDREN & ADULT EAR NOSE THROAT SINUS SNORING ALLERGY CENTRE",
+	"tel": "67355500",
+	"fax": "67355522",
+	"licensee": "SINGAPORE EAR NOSE THROAT SINUS SNORING ALLERGY CENTRE PTE. LTD.",
+	"licensePeriod": "14/12/2013 to 13/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "290 ORCHARD ROAD, PARAGON, #11-03 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "tan nam guan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"FRCS (ENT) (Royal College of Surgeons of Edinburgh, United Kingdom) 1991",
+				"FRCS (ENT) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"id": "9405405",
+	"coordinates": [
+		103.835857545469,
+		1.30387230879998
+	],
+	"svy21": [
+		28282.5637398548,
+		31801.0936260298
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

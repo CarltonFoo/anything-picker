@@ -1,0 +1,37 @@
+{
+	"name": "IHP MEDICAL CLINIC @ APB",
+	"tel": "68603124",
+	"fax": "68603110",
+	"licensee": "INTEGRATED HEALTH PLANS PTE LTD",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "459 JALAN AHMAD IBRAHIM, Singapore 639934",
+	"doctorInCharge": [
+		{
+			"name": "TAN AIK LIM CALVIN",
+			"qualifications": [
+				"MB ChB (University of Bristol, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "15M0427",
+	"coordinates": [
+		103.647036245212,
+		1.33636401059473
+	],
+	"svy21": [
+		7268.71121526416,
+		35394.6451312844
+	],
+	"planningArea": "TS",
+	"neighbours": [
+		"PN",
+		"WC"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "SIMON ROAD FAMILY CLINIC",
+	"tel": "62878755",
+	"fax": "62874231",
+	"licensee": "CHUA BOON LING",
+	"licensePeriod": "30/07/2016 to 29/07/2018",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"address": "BLK 9 SIMON ROAD, Singapore 545895",
+	"doctorInCharge": [
+		{
+			"name": "CHUA BOON LING",
+			"qualifications": [
+				"MB ChB (University of Leicester, United Kingdom) 1992",
+				"Dip Geriatric Med (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1998",
+				"MRCGP (Family Med) (Royal College of General Practitioners, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403539",
+	"coordinates": [
+		103.885935907589,
+		1.36177436373461
+	],
+	"svy21": [
+		33855.6918369494,
+		38203.6699306313
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

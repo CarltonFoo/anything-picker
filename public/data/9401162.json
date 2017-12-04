@@ -1,0 +1,49 @@
+{
+	"name": "NEOH & ONG MEDICAL CLINIC",
+	"tel": "67423322",
+	"fax": "67490391",
+	"licensee": "NEOH SWEE SAN LINDA",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 2A EUNOS CRESCENT, #01-2447 Singapore 401002",
+	"doctorInCharge": [
+		{
+			"name": "NEOH SWEE SAN LINDA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday and Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday and Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday and Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401162",
+	"coordinates": [
+		103.903193509829,
+		1.32020110528463
+	],
+	"svy21": [
+		35776.3926602611,
+		33606.7570423856
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

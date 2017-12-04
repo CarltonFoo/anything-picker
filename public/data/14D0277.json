@@ -1,0 +1,43 @@
+{
+	"name": "CASA DENTAL (AMK)",
+	"tel": "64580667",
+	"fax": "63346823",
+	"licensee": "CASA DENTAL (AMK) PTE. LTD.",
+	"licensePeriod": "12/09/2016 to 11/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 710 ANG MO KIO AVENUE 8, #01-2611 Singapore 560710",
+	"doctorInCharge": [
+		{
+			"name": "Jasmine Lee Joke Nan",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "10:00 am to 01:00 pm, 02:00 pm to 08:30 pm",
+		"Saturday and Sunday": "10:00 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "14D0277",
+	"coordinates": [
+		103.848186835874,
+		1.37104583077815
+	],
+	"svy21": [
+		29654.6561475713,
+		39228.8028018996
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name": "ENT SURGEONS MEDICAL CENTRE",
+	"licensee": "ENT SURGEONS PTE. LTD.",
+	"licensePeriod": "10/05/2017 to 09/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #08-07 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Chua Yu Kim Dennis",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"id": "17M0132",
+	"coordinates": [
+		103.835439337571,
+		1.30516521383703
+	],
+	"svy21": [
+		28236.0209034365,
+		31944.0563655663
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

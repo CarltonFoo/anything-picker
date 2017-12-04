@@ -1,0 +1,52 @@
+{
+	"name": "GREENLINK MEDICAL CLINIC",
+	"tel": "67552238",
+	"fax": "67552238",
+	"licensee": "GREENLINK MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "01/06/2015 to 31/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 807 YISHUN RING ROAD, #01-4213 Singapore 760807",
+	"doctorInCharge": [
+		{
+			"name": "GIDEON HONG EU GEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2005",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "11C0070",
+	"coordinates": [
+		103.831578419935,
+		1.41649875808135
+	],
+	"svy21": [
+		27806.3452329617,
+		44254.7521310747
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

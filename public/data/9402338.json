@@ -1,0 +1,40 @@
+{
+	"name": "RIVERS DENTAL CLINIC",
+	"tel": "67550298",
+	"fax": "67547866",
+	"licensee": "Pang Yew Jhoe",
+	"licensePeriod": "24/03/2014 to 23/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 101 Yishun Ave 5, #01-81 Singapore 760101",
+	"doctorInCharge": [
+		{
+			"name": "Pang Yew Jhoe",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9402338",
+	"coordinates": [
+		103.827667722074,
+		1.43053575384082
+	],
+	"svy21": [
+		27371.1442933986,
+		45806.8930951096
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

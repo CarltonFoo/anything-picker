@@ -1,0 +1,53 @@
+{
+	"name": "ORTHOSMILE DENTAL PRACTICE LLP",
+	"tel": "63976880",
+	"fax": "63976811",
+	"licensee": "OrthoSmile Dental Practice LLP",
+	"licensePeriod": "20/09/2014 to 19/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER @ SQUARE 2, #09-29 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Chong Canon",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2000",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2009",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday and Wednesday": "11:00 am to 06:00 pm",
+		"Tuesday": "11:00 am to 08:00 pm",
+		"Thursday": "Closed",
+		"Friday": "11:00 am to 06:00 pm",
+		"Saturday": "09:30 am to 03:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9405704",
+	"coordinates": [
+		103.844160737673,
+		1.32070490289998
+	],
+	"svy21": [
+		29206.6250939984,
+		33662.3578150738
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

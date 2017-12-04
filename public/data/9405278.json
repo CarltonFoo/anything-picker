@@ -1,0 +1,39 @@
+{
+	"name": "A ST*R DENTAL SURGERY",
+	"tel": "64589595",
+	"fax": "64589595",
+	"licensee": "CHUA YEE BOON",
+	"licensePeriod": "20/08/2015 to 19/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 330 ANG MO KIO AVENUE 1, #01-1805 Singapore 560330",
+	"doctorInCharge": [
+		{
+			"name": "chua lu ling doreen",
+			"qualifications": [
+				"BDS (University of Adelaide, Australia) 2004",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9405278",
+	"coordinates": [
+		103.851030689651,
+		1.36243186402481
+	],
+	"svy21": [
+		29971.1495055454,
+		38276.316330228
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

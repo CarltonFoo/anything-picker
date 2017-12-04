@@ -1,0 +1,37 @@
+{
+	"name": "SMRT MEDICAL CLINIC @ BISHAN DEPOT",
+	"tel": "63333636",
+	"fax": "66725688",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "14/09/2016 to 13/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "300 BISHAN ROAD, BISHAN DEPOT, #01 Singapore 579828",
+	"doctorInCharge": [
+		{
+			"name": "Ong Kong Yiow Elton",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0272",
+	"coordinates": [
+		103.853345140483,
+		1.35624734056498
+	],
+	"svy21": [
+		30228.7263240172,
+		37592.4652362186
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

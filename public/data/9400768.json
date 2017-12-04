@@ -1,0 +1,49 @@
+{
+	"name": "JUNIOR BABY & CHILD CLINIC",
+	"tel": "64441123",
+	"fax": "64441123",
+	"licensee": "HIEW TECK MIN JUNIOR",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 57 MARINE TERRACE, #01-133 Singapore 440057",
+	"doctorInCharge": [
+		{
+			"name": "HIEW TECK MIN JUNIOR",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"M Med (Paed) (National University of Singapore, Singapore) 1988",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Tuesday and Friday": "08:30 am to 12:30 pm",
+		"Wednesday and Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:00 pm"
+	},
+	"id": "9400768",
+	"coordinates": [
+		103.915484799847,
+		1.30651257347317
+	],
+	"svy21": [
+		37144.34298521,
+		32093.189808676
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

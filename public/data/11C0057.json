@@ -1,0 +1,42 @@
+{
+	"name": "DR TYNG TAN AESTHETICS AND HAIR CLINIC",
+	"tel": "62350010",
+	"fax": "62354338",
+	"licensee": "RENEWAL AESTHETICS PTE. LTD.",
+	"licensePeriod": "06/05/2015 to 05/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "391B ORCHARD ROAD, NGEE ANN CITY TOWER B, #08-04 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "Tan Tyng Yuan",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2006",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm"
+	},
+	"id": "11C0057",
+	"coordinates": [
+		103.834676124723,
+		1.30242417189413
+	],
+	"svy21": [
+		28151.0824940456,
+		31640.966003729
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

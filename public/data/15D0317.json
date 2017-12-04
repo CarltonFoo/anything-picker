@@ -1,0 +1,38 @@
+{
+	"name": "Q & M DENTAL SURGERY (ANG MO KIO CENTRAL)",
+	"tel": "65521231",
+	"fax": "65541215",
+	"licensee": "Q & M DENTAL SURGERY (CLEMENTI CENTRAL) PTE. LTD.",
+	"licensePeriod": "18/09/2015 to 17/09/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 703 ANG MO KIO AVENUE 8, #01-2543 Singapore 560703",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0317",
+	"coordinates": [
+		103.847321383156,
+		1.3697752698018
+	],
+	"svy21": [
+		29558.3426061478,
+		39088.3100509066
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

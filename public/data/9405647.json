@@ -1,0 +1,45 @@
+{
+	"name": "GENTLE DENTAL CENTRE FOR AESTHETICS AND IMPLANTOLOGY PTE LTD",
+	"tel": "68874456",
+	"fax": "67348161",
+	"licensee": "GENTLE DENTAL CENTRE FOR AESTHETICS & IMPLANTOLOGY PTE. LTD.",
+	"licensePeriod": "21/07/2014 to 20/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "401 RIVER VALLEY ROAD, Singapore 248299",
+	"doctorInCharge": [
+		{
+			"name": "Ang Wee Kwan Justin",
+			"qualifications": [
+				"BDS (University of Manchester, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9405647",
+	"coordinates": [
+		103.830154881701,
+		1.29535352274709
+	],
+	"svy21": [
+		27647.9081986248,
+		30859.1302426476
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

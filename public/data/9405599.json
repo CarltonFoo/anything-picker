@@ -1,0 +1,48 @@
+{
+	"name": "INFECTIOUS DISEASES CARE PTE LTD",
+	"tel": "68366936",
+	"fax": "68366938",
+	"licensee": "INFECTIOUS DISEASES CARE PTE. LTD.",
+	"licensePeriod": "28/02/2017 to 27/02/2019",
+	"licenseClass": "[ 2 Years ]",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #12-18 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "ASOK KURUP",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1997",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Infectious Diseases"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": [
+			"Infectious Diseases"
+		],
+		"Specialist Medical": [
+			"Infectious Diseases"
+		]
+	},
+	"id": "9405599",
+	"coordinates": [
+		103.835439337571,
+		1.30516521383703
+	],
+	"svy21": [
+		28236.0209034365,
+		31944.0563655663
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

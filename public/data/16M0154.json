@@ -1,0 +1,47 @@
+{
+	"name": "EAGLE EYE CENTRE",
+	"tel": "62550002",
+	"fax": "62506066",
+	"licensee": "EAGLE EYE CENTRE WEST PTE LTD",
+	"licensePeriod": "26/05/2016 to 25/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "3 GATEWAY DRIVE, WESTGATE, #02-42A Singapore 608532",
+	"doctorInCharge": [
+		{
+			"name": "Theng Thiam Siew Julian",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1998",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1998",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"id": "16M0154",
+	"coordinates": [
+		103.742766383798,
+		1.33415754608946
+	],
+	"svy21": [
+		17922.4859149084,
+		35150.0649612676
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

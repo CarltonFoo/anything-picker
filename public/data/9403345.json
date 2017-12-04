@@ -1,0 +1,51 @@
+{
+	"name": "MY FAMILY CLINIC (CHOA CHU KANG)",
+	"tel": "67674566",
+	"fax": "67650515",
+	"licensee": "MY FAMILY CLINIC (CCK) PTE. LTD.",
+	"licensePeriod": "03/04/2015 to 02/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 475 CHOA CHU KANG AVE 3, SUNSHINE PLACE, #02-01 Singapore 680475",
+	"doctorInCharge": [
+		{
+			"name": "Yun Kok Onn",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2000",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Saturday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "9403345",
+	"coordinates": [
+		103.739015486021,
+		1.37789727654677
+	],
+	"svy21": [
+		17505.2381877434,
+		39986.6034532767
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

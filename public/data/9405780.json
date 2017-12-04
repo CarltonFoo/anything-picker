@@ -1,0 +1,44 @@
+{
+	"name": "AESTHETIC WORKS MEDICAL ASSOCIATES",
+	"tel": "64933678",
+	"fax": "64408321",
+	"licensee": "Aesthetic Works Pte. Ltd.",
+	"licensePeriod": "17/12/2014 to 16/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "80 Marine Parade Road, Parkway Parade, #05-06/07 Singapore 449269",
+	"doctorInCharge": [
+		{
+			"name": "Sim Kwang Chuor",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday and Wednesday": "10:30 am to 09:00 pm",
+		"Tuesday and Thursday": "10:30 am to 05:00 pm",
+		"Friday": "10:30 am to 09:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9405780",
+	"coordinates": [
+		103.905279491524,
+		1.30106975506311
+	],
+	"svy21": [
+		36008.602789619,
+		31491.3156742621
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

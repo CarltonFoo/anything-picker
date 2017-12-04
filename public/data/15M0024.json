@@ -1,0 +1,47 @@
+{
+	"name": "FULLERTON HEALTH @ OFC",
+	"tel": "66725000",
+	"fax": "65344165",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "02/02/2017 to 01/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "10 COLLYER QUAY, OCEAN FINANCIAL CENTRE, #03-08/09 Singapore 049315",
+	"doctorInCharge": [
+		{
+			"name": "Lim Tai Thong Benedict",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "15M0024",
+	"coordinates": [
+		103.851909612416,
+		1.28320475155527
+	],
+	"svy21": [
+		30069.0288400352,
+		29515.7891202532
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

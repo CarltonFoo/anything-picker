@@ -1,0 +1,38 @@
+{
+	"name": "HERITAGE DENTAL",
+	"tel": "62257638",
+	"fax": "62914743",
+	"licensee": "HERITAGE DENTAL PTE. LTD.",
+	"licensePeriod": "08/07/2017 to 07/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 1 TANJONG PAGAR PLAZA, #01-08 Singapore 082001",
+	"doctorInCharge": [
+		{
+			"name": "Chua Chew Kiat, Simon Jude",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17C0208",
+	"coordinates": [
+		103.842393164815,
+		1.27559619328056
+	],
+	"svy21": [
+		29009.9295703871,
+		28674.4683566671
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

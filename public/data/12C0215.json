@@ -1,0 +1,47 @@
+{
+	"name": "KIM TIAN GREEN FAMILY CLINIC",
+	"tel": "65702822",
+	"fax": "66945668",
+	"licensee": "Zeng Tao",
+	"licensePeriod": "03/10/2016 to 02/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 126 KIM TIAN ROAD, #01-06 Singapore 160126",
+	"doctorInCharge": [
+		{
+			"name": "Zeng Tao",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 02:30 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "12C0215",
+	"coordinates": [
+		103.82947001504,
+		1.28253466931818
+	],
+	"svy21": [
+		27571.6863934528,
+		29441.6877084114
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

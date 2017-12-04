@@ -1,0 +1,45 @@
+{
+	"name": "SHINE FAMILY CLINIC",
+	"tel": "96406495",
+	"fax": "65643048",
+	"licensee": "Choo Cheng Swee Desmond",
+	"licensePeriod": "24/08/2015 to 23/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 463 JURONG WEST STREET 41, #01-560 Singapore 640463",
+	"doctorInCharge": [
+		{
+			"name": "Choo Cheng Swee Desmond",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "11C0127",
+	"coordinates": [
+		103.723241115887,
+		1.35057698710495
+	],
+	"svy21": [
+		15749.6066890927,
+		36965.7347308975
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

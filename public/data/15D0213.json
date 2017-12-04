@@ -1,0 +1,40 @@
+{
+	"name": "PURE DENTAL STUDIO",
+	"tel": "62800150",
+	"fax": "67828223",
+	"licensee": "PURE DENTAL STUDIO PTE. LTD.",
+	"licensePeriod": "11/07/2017 to 10/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 190 LORONG 6 TOA PAYOH, #01-572 Singapore 310190",
+	"doctorInCharge": [
+		{
+			"name": "lim huay yuann",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0213",
+	"coordinates": [
+		103.848704963622,
+		1.33297913475345
+	],
+	"svy21": [
+		29712.3441096144,
+		35019.5821351688
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name": "PURE MEDICAL AESTHETICS CLINIC",
+	"tel": "64754262",
+	"fax": "64754992",
+	"licensee": "Skin Theory Pte. Ltd.",
+	"licensePeriod": "28/12/2016 to 27/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 8 EMPRESS ROAD, FARRER GARDENS, #01-09 Singapore 260008",
+	"doctorInCharge": [
+		{
+			"name": "Foo Winnie (Fu Wenjing Winnie)",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0396",
+	"coordinates": [
+		103.805373811937,
+		1.31641190098177
+	],
+	"svy21": [
+		24890.0181612363,
+		33187.6745305825
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

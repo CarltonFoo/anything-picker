@@ -1,0 +1,49 @@
+{
+	"name": "Q & M MEDICAL FAMILY CLINIC",
+	"tel": "67797440",
+	"fax": "62866866",
+	"licensee": "Q & M MEDICAL & AESTHETIC CLINIC (SERANGOON CENTRAL) PTE. LTD.",
+	"licensePeriod": "23/12/2015 to 22/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 262 SERANGOON CENTRAL DRIVE, #01-115 Singapore 550262",
+	"doctorInCharge": [
+		{
+			"name": "YAP SOON BOON RAYMOND",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:00 am to 09:30 pm",
+		"Saturday and Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "13M0353",
+	"coordinates": [
+		103.87204354837,
+		1.35323084558359
+	],
+	"svy21": [
+		32309.6499624373,
+		37258.9417788144
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

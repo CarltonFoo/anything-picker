@@ -1,0 +1,45 @@
+{
+	"name": "RAFFLESJAPANESECLINIC",
+	"tel": "63341175",
+	"fax": "63341178",
+	"licensee": "Raffles Japanese Clinic Pte. Ltd.",
+	"licensePeriod": "16/06/2016 to 15/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "177 River Valley Road, Liang Court Shopping Centre, #02-10 Singapore 179030",
+	"doctorInCharge": [
+		{
+			"name": "Yang Ching Yu",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1986"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:30 pm to 06:30 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405621",
+	"coordinates": [
+		103.844668934841,
+		1.2914901989264
+	],
+	"svy21": [
+		29263.1969846776,
+		30431.9464142006
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

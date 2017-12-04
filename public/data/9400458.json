@@ -1,0 +1,38 @@
+{
+	"name": "EASTERN DENTAL SURGERY",
+	"tel": "65674831",
+	"fax": "65674831",
+	"licensee": "Chiam Tok Joon",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 502 JURONG WEST ST 51, #01-813 Singapore 640502",
+	"doctorInCharge": [
+		{
+			"name": "Chiam Tok Joon",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400458",
+	"coordinates": [
+		103.718334683095,
+		1.35050127679183
+	],
+	"svy21": [
+		15203.5743513238,
+		36957.3883343879
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "SBCC BABY & CHILD CLINIC",
+	"tel": "62356706",
+	"fax": "67348898",
+	"licensee": "SBCC CLINIC PTE LTD",
+	"licensePeriod": "06/12/2016 to 05/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #09-05 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Nancy Tan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2001",
+				"M Med (Paed) (National University of Singapore, Singapore) 2001",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Yellow Fever Vaccination": [
+			"Paediatric Surgery"
+		],
+		"Specialist Medical": [
+			"Paediatric Surgery"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405427",
+	"coordinates": [
+		103.820124457043,
+		1.30706156461198
+	],
+	"svy21": [
+		26531.6166354362,
+		32153.7488403134
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "PROVIDENCE MEDICAL CENTRE PTE. LTD.",
+	"tel": "62262232",
+	"fax": "65362232",
+	"licensee": "PROVIDENCE MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "11/05/2016 to 10/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "8 CROSS STREET, PWC BUILDING, #01-02/03 Singapore 048424",
+	"doctorInCharge": [
+		{
+			"name": "Krishna Moorthy S/O Shanmugam",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MPH (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9404157",
+	"coordinates": [
+		103.849023808747,
+		1.28240747185501
+	],
+	"svy21": [
+		29747.8631950226,
+		29427.627897026
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

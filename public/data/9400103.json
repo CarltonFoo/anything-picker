@@ -1,0 +1,41 @@
+{
+	"name": "BEDOK DENTAL SURGERY",
+	"tel": "64430439",
+	"fax": "64430439",
+	"licensee": "CHOW LENG HOON",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 88 BEDOK NORTH ST 4, #01-133 Singapore 460088",
+	"doctorInCharge": [
+		{
+			"name": "CHOW LENG HOON",
+			"qualifications": [
+				"BDS (University of Otago, New Zealand) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 05:30 pm"
+	},
+	"id": "9400103",
+	"coordinates": [
+		103.939110909704,
+		1.33313335337233
+	],
+	"svy21": [
+		39773.5887343669,
+		35036.8823158182
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

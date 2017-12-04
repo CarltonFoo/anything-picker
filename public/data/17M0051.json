@@ -1,0 +1,38 @@
+{
+	"name": "YVL LASER CLINIC",
+	"tel": "63386168",
+	"fax": "63376785",
+	"licensee": "YVL MEDICAL AESTHETICS PTE. LTD.",
+	"licensePeriod": "07/03/2017 to 06/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "35 SELEGIE ROAD, PARKLANE SHOPPING MALL, #03-24 Singapore 188307",
+	"doctorInCharge": [
+		{
+			"name": "Tan Say Lock",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0051",
+	"coordinates": [
+		103.849448612005,
+		1.30064530196808
+	],
+	"svy21": [
+		29795.1275293687,
+		31444.2734161131
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

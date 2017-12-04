@@ -1,0 +1,48 @@
+{
+	"name": "NATIONAL SKIN CENTRE",
+	"tel": "62534455",
+	"fax": "62533225",
+	"licensee": "NATIONAL SKIN CENTRE (SINGAPORE) PTE LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 MANDALAY ROAD, Singapore 308205",
+	"doctorInCharge": [
+		{
+			"name": "TAN SUAT HOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1990",
+				"D Path (Path) (Royal College of Pathologists, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:00 am to 07:00 pm"
+	},
+	"id": "1300000",
+	"coordinates": [
+		103.849043098618,
+		1.31945808637619
+	],
+	"svy21": [
+		29749.9844963932,
+		33524.4941411465
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

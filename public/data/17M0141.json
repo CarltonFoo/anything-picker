@@ -1,0 +1,45 @@
+{
+	"name": "ML'VE HEALTHCARE (NOVENA)",
+	"tel": "65702260",
+	"fax": "65702261",
+	"licensee": "VERVENDEAVOUR (PTE.) LTD",
+	"licensePeriod": "17/05/2017 to 16/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "8 SINARAN DRIVE, NOVENA SPECIALIST CENTER, #07-10/11 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "ANDREW TAN EIK HOCK",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"FRCR (Royal College of Radiologists, United Kingdom) 2008",
+				"DIP (Certification Board of Nuclear Cardiology, United States) 2012"
+			],
+			"specialties": [
+				"Nuclear Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Nuclear Medicine"
+		]
+	},
+	"id": "17M0141",
+	"coordinates": [
+		103.844782386745,
+		1.32003005012671
+	],
+	"svy21": [
+		29275.8088362571,
+		33587.7363690063
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

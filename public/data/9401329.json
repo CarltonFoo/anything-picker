@@ -1,0 +1,41 @@
+{
+	"name": "PONGGOL CLINIC",
+	"tel": "62802585",
+	"fax": "62802585",
+	"licensee": "JEK SIU YIN DIANE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 23 HOUGANG AVE 3, #01-283 Singapore 530023",
+	"doctorInCharge": [
+		{
+			"name": "JEK SIU YIN DIANE",
+			"qualifications": [
+				"MB ChB (University of Edinburgh, United Kingdom) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401329",
+	"coordinates": [
+		103.890727960772,
+		1.36486666416771
+	],
+	"svy21": [
+		34388.9831999205,
+		38545.6130936034
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

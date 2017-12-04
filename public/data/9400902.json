@@ -1,0 +1,40 @@
+{
+	"name": "LAN MEDICAL CLINIC & SURGERY",
+	"tel": "67735112",
+	"fax": "67775670",
+	"licensee": "LIM YEW CHER ALEX",
+	"licensePeriod": "01/10/2014 to 30/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 308 CLEMENTI AVE 4, #01-345 Singapore 120308",
+	"doctorInCharge": [
+		{
+			"name": "LIM YEW CHER ALEX",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9400902",
+	"coordinates": [
+		103.766910446634,
+		1.32105185036525
+	],
+	"svy21": [
+		20609.4305831175,
+		33700.8176469766
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

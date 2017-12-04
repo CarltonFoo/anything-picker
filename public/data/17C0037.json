@@ -1,0 +1,40 @@
+{
+	"name": "LIANG CLINIC",
+	"tel": "62415944",
+	"fax": "64450141",
+	"licensee": "Leong Wai Hoe Justin",
+	"licensePeriod": "17/02/2017 to 16/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "695D EAST COAST ROAD, Singapore 459059",
+	"doctorInCharge": [
+		{
+			"name": "Leong Wai Hoe Justin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17C0037",
+	"coordinates": [
+		103.921920938648,
+		1.31195087572444
+	],
+	"svy21": [
+		37860.6052177912,
+		32694.5543513149
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

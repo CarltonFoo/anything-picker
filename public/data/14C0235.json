@@ -1,0 +1,43 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904394",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "300 TAMPINES AVENUE 5, NTUC INCOME TAMPINES JUNCTION, #01-05 Singapore 529653",
+	"doctorInCharge": [
+		{
+			"name": "Yap Yew Teck",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "14C0235",
+	"coordinates": [
+		103.941943293971,
+		1.35233601607452
+	],
+	"svy21": [
+		40088.7097722264,
+		37160.2321027275
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

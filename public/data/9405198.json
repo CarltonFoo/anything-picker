@@ -1,0 +1,38 @@
+{
+	"name": "Z MEDICAL AESTHETICS",
+	"tel": "90905556",
+	"fax": "62357313",
+	"licensee": "Teo Z'Shen",
+	"licensePeriod": "04/06/2015 to 03/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "290 ORCHARD ROAD, PARAGON, #11-04/05 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Teo Z'Shen",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9405198",
+	"coordinates": [
+		103.835857545469,
+		1.30387230879998
+	],
+	"svy21": [
+		28282.5637398548,
+		31801.0936260298
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name": "AARON DENTALCARE@ HOLLAND V.",
+	"tel": "64467313",
+	"fax": "64632232",
+	"licensee": "AARON DENTALCARE PTE. LTD.",
+	"licensePeriod": "25/11/2015 to 24/11/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"address": "BLK 8A Lorong Mambong, Singapore 277674",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hock Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "11C0219",
+	"coordinates": [
+		103.795291441774,
+		1.31119227155974
+	],
+	"svy21": [
+		23767.9391174167,
+		32610.5294599403
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "CHARLES CHAN HEART CLINIC",
+	"tel": "65358833",
+	"fax": "67206686",
+	"licensee": "Chan Wah Hak Nien Shen",
+	"licensePeriod": "06/08/2016 to 05/08/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"address": "6 Napier Road, Gleneagles Medical Centre, #02-02 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Chan Wah Hak Nien Shen",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1982",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1985",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1989",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:30 am to 05:30 pm"
+	},
+	"id": "9403903",
+	"coordinates": [
+		103.820124457043,
+		1.30706156461198
+	],
+	"svy21": [
+		26531.6166354362,
+		32153.7488403134
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

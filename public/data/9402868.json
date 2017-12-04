@@ -1,0 +1,41 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62428965",
+	"fax": "62428965",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "8 CHAI CHEE LANE,, EAST COAST PRIMARY SCHOOL, Singapore 469031",
+	"doctorInCharge": [
+		{
+			"name": "NOELINE TAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm"
+	},
+	"id": "9402868",
+	"coordinates": [
+		103.91988742021,
+		1.32910136512533
+	],
+	"svy21": [
+		37634.2276380919,
+		34590.9616671428
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

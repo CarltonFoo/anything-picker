@@ -1,0 +1,50 @@
+{
+	"name": "SOG - KW LEE CLINIC FOR WOMEN",
+	"tel": "64711233",
+	"fax": "64711088",
+	"licensee": "SINGAPORE O&G LTD.",
+	"licensePeriod": "21/04/2016 to 20/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #08-14/15/16 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Ng Koon Keng",
+			"qualifications": [
+				"MB ChB (University of Dundee, United Kingdom) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "14C0093",
+	"coordinates": [
+		103.820124457043,
+		1.30706156461198
+	],
+	"svy21": [
+		26531.6166354362,
+		32153.7488403134
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name": "FULLERTON HEALTHCARE @ OFS",
+	"tel": "67380211",
+	"fax": "67338825",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "18/11/2015 to 17/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "81 PASIR RIS HEIGHTS, OVERSEAS FAMILY SCHOOL, #A01-03 Singapore 519292",
+	"doctorInCharge": [
+		{
+			"name": "Benedict Lim Tai Thong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "15M0393",
+	"coordinates": [
+		103.941390802096,
+		1.38039457477029
+	],
+	"svy21": [
+		40027.0840363065,
+		40262.807431072
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

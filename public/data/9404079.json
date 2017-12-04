@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64621522",
+	"fax": "64621522",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "03/01/2014 to 02/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "11 Blackmore Drive,, Methodist Girls' School (Primary), Singapore 599986",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm"
+	},
+	"id": "9404079",
+	"coordinates": [
+		103.783393009829,
+		1.33294800935715
+	],
+	"svy21": [
+		22443.8042111415,
+		35016.1914550979
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

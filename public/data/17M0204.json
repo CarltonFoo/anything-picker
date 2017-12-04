@@ -1,0 +1,42 @@
+{
+	"name": "MY FAMILY CLINIC (ANGSANA BREEZE @ YISHUN)",
+	"tel": "66977700",
+	"fax": "66977755",
+	"licensee": "MY FAMILY CLINIC (ANGSANA BREEZE @ YISHUN) PTE. LTD.",
+	"licensePeriod": "03/07/2017 to 02/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 507 YISHUN AVENUE 4, #01-05 Singapore 760507",
+	"doctorInCharge": [
+		{
+			"name": "Tan Yan Yuan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2012",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2015",
+				"PG Dip (Practical Derm) (Cardiff University, United Kingdom) 2015"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0204",
+	"coordinates": [
+		103.8398303822,
+		1.41517634322679
+	],
+	"svy21": [
+		28724.6710463343,
+		44108.527108252
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

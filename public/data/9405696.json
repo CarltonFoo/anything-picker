@@ -1,0 +1,49 @@
+{
+	"name": "CENTRE FOR HAND AND RECONSTRUCTIVE MICROSURGERY (CHARMS)",
+	"tel": "67339093",
+	"fax": "67337889",
+	"licensee": "Lim Beng Hai",
+	"licensePeriod": "09/09/2014 to 08/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "290 ORCHARD ROAD, PARAGON, #09-08 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Lim Beng Hai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1991",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1991",
+				"FAMS (Orth Surg) (Academy of Medicine, Singapore) 1997"
+			],
+			"specialties": [
+				"Hand Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Hand Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405696",
+	"coordinates": [
+		103.835857545469,
+		1.30387230879998
+	],
+	"svy21": [
+		28282.5637398548,
+		31801.0936260298
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

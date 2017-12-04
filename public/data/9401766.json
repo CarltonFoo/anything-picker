@@ -1,0 +1,42 @@
+{
+	"name": "TJEN FATT  DENTAL SURGERY",
+	"tel": "62933792",
+	"fax": "62933792",
+	"licensee": "WONG NYOOK LIN",
+	"licensePeriod": "07/11/2016 to 06/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "53A CHANDER RD, Singapore 219549",
+	"doctorInCharge": [
+		{
+			"name": "Benjamin Loh Thien Shen",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401766",
+	"coordinates": [
+		103.851603868041,
+		1.30865014657631
+	],
+	"svy21": [
+		30034.981716943,
+		32329.4095983729
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

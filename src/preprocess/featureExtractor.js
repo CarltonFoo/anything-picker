@@ -4,8 +4,8 @@ import _maxBy from 'lodash/maxBy'
 import {exponentialSmoothing} from '../helpers/search'
 import {standardFilter, synonym} from '../helpers/text'
 
-import ccaMapping from '../../data/ccaMapping.json'
-import ccaFrequency from '../../data/tokens/ccas.json'
+// import ccaMapping from '../../data/ccaMapping.json'
+// import ccaFrequency from '../../data/tokens/ccas.json'
 
 export default {
   name (json) {
@@ -160,17 +160,17 @@ export default {
     return result
   },
 
-  ccas (json) {
-    const result = {}
-    const ccasOffered = json.Cca || {}
-    Object.keys(ccasOffered).forEach(group => {
-      ccasOffered[group].forEach(name => {
-        const token = ccaMapping[standardFilter(name)]
-        if (token) result[token] = 1
-      })
-    })
-    return result
-  },
+  // ccas (json) {
+  //   const result = {}
+  //   const ccasOffered = json.Cca || {}
+  //   Object.keys(ccasOffered).forEach(group => {
+  //     ccasOffered[group].forEach(name => {
+  //       const token = ccaMapping[standardFilter(name)]
+  //       if (token) result[token] = 1
+  //     })
+  //   })
+  //   return result
+  // },
 
   academicProgrammes (json) {
     const result = {}
@@ -432,15 +432,37 @@ export default {
     return json.studentCare === true
   },
 
-  uniqueCcas (json) {
-    const result = []
-    const ccasOffered = json.Cca || {}
-    Object.keys(ccasOffered).forEach(group => {
-      ccasOffered[group].forEach(name => {
-        const code = ccaMapping[standardFilter(name)]
-        if (code) result.push({name, code, frequency: ccaFrequency[code]})
+  // uniqueCcas (json) {
+  //   const result = []
+  //   const ccasOffered = json.Cca || {}
+  //   Object.keys(ccasOffered).forEach(group => {
+  //     ccasOffered[group].forEach(name => {
+  //       const code = ccaMapping[standardFilter(name)]
+  //       if (code) result.push({name, code, frequency: ccaFrequency[code]})
+  //     })
+  //   })
+  //   return result.sort((a, b) => a.frequency - b.frequency).slice(0, 3)
+  // },
+
+  openingHoursKeys (json) {
+    const result = {}
+    const operatingHours = json.operatingHours || {}
+    Object.values(operatingHours).forEach(key => {
+      const token = key
+      result[token] = 1
+    })
+    return result
+  },
+
+  openingHoursValues (json) {
+    const result = {}
+    const operatingHours = json.operatingHours || {}
+    Object.values(operatingHours).forEach(value => {
+      const tokens = value.split(', ')
+      tokens.forEach(token => {
+        result[token] = 1
       })
     })
-    return result.sort((a, b) => a.frequency - b.frequency).slice(0, 3)
+    return result
   }
 }

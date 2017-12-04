@@ -1,0 +1,47 @@
+{
+	"name": "ONE SURGICAL CLINIC & SURGERY",
+	"tel": "62505677",
+	"fax": "66991627",
+	"licensee": "ONE SURGICAL PTE. LTD.",
+	"licensePeriod": "11/07/2016 to 10/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #09-23 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Ng Chee Yung",
+			"qualifications": [
+				"MBBS (University of Western Australia, Australia) 1997",
+				"AFRCS (Royal College of Surgeons, Ireland) 2004"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm"
+	},
+	"id": "16M0202",
+	"coordinates": [
+		103.844226253167,
+		1.32214655190062
+	],
+	"svy21": [
+		29213.9156221645,
+		33821.7679953557
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "MANHATTAN MEDICAL CENTRE",
+	"tel": "67322332",
+	"fax": "67322332",
+	"licensee": "MANHATTAN MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "07/10/2015 to 06/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "151 CHIN SWEE ROAD, MANHATTAN HOUSE, #01-10/11/12 Singapore 169876",
+	"doctorInCharge": [
+		{
+			"name": "GOH WEI LEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405327",
+	"coordinates": [
+		103.840813247609,
+		1.28703443823015
+	],
+	"svy21": [
+		28834.0935909702,
+		29939.2498050947
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

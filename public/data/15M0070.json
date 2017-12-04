@@ -1,0 +1,42 @@
+{
+	"name": "MCR CLINIC PTE LTD",
+	"tel": "63919220",
+	"fax": "63919220",
+	"licensee": "MCR CLINIC PTE. LTD.",
+	"licensePeriod": "12/03/2017 to 11/03/2018",
+	"licenseClass": "[ 1 Year ( 1C ) ]",
+	"address": "BLK 633 VEERASAMY ROAD, #01-118 Singapore 200633",
+	"doctorInCharge": [
+		{
+			"name": "Roy Chio Han Sin",
+			"qualifications": [
+				"MBBS (University of Newcastle Upon Tyne, United Kingdom) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "07:30 am to 06:00 pm",
+		"Saturday": "07:30 am to 12:30 pm"
+	},
+	"id": "15M0070",
+	"coordinates": [
+		103.854943243934,
+		1.30570669566482
+	],
+	"svy21": [
+		30406.6258534919,
+		32003.9408751875
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

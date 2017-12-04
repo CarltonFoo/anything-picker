@@ -1,0 +1,38 @@
+{
+	"name": "NOVU MEDICAL AESTHETIC CLINIC NEX",
+	"tel": "65090035",
+	"fax": "62350412",
+	"licensee": "AESTHETIC MEDICAL HOLDINGS PTE. LTD.",
+	"licensePeriod": "04/11/2016 to 01/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 23 SERANGOON CENTRAL, NEX, #04-23 Singapore 556083",
+	"doctorInCharge": [
+		{
+			"name": "Sau Po Yi",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0074",
+	"coordinates": [
+		103.872296143862,
+		1.35076935230473
+	],
+	"svy21": [
+		32337.7653476885,
+		36986.7628072258
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

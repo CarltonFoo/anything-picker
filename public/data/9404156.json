@@ -1,0 +1,53 @@
+{
+	"name": "PACIFIC HEALTHCARE SPECIALIST CENTRE",
+	"tel": "68836966",
+	"fax": "68836956",
+	"licensee": "PACIFIC HEALTHCARE SPECIALIST SERVICES PTE. LTD.",
+	"licensePeriod": "17/05/2016 to 16/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "290 Orchard Road, Paragon, #19-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Alexia Kwan Yi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true,
+		"Specialist Medical": [
+			"Dermatology",
+			"General Surgery",
+			"Sports Medicine"
+		],
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm",
+		"Sunday to Sunday": "Closed"
+	},
+	"id": "9404156",
+	"coordinates": [
+		103.835857545469,
+		1.30387230879998
+	],
+	"svy21": [
+		28282.5637398548,
+		31801.0936260298
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64419906",
+	"fax": "64419906",
+	"licensee": "HEALTH PROMOTION BOARD",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "20 SIGLAP VIEW, ST. STEPHEN'S SCHOOL, Singapore 455789",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402917",
+	"coordinates": [
+		103.917258129598,
+		1.31878997295137
+	],
+	"svy21": [
+		37341.6528278189,
+		33450.7695051674
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

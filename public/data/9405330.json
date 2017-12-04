@@ -1,0 +1,46 @@
+{
+	"name": "NUTRAMED CLINIC",
+	"tel": "67350706",
+	"fax": "67359589",
+	"licensee": "NUTRAMED PTE. LTD.",
+	"licensePeriod": "27/07/2015 to 26/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 GRANGE ROAD, ORCHARD BUILDING, #10-10 Singapore 239693",
+	"doctorInCharge": [
+		{
+			"name": "Melanie Phuah Wei Jan",
+			"qualifications": [
+				"MBBS (University of Newcastle Upon Tyne, United Kingdom) 2000",
+				"GDMH (National University of Singapore, Singapore) 2014"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 03:00 pm"
+	},
+	"id": "9405330",
+	"coordinates": [
+		103.837359158088,
+		1.3013988090487
+	],
+	"svy21": [
+		28449.6799369147,
+		31527.5869796015
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

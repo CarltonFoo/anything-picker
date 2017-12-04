@@ -1,0 +1,51 @@
+{
+	"name": "ELIM RHEUMATIC CENTRE",
+	"tel": "65358833",
+	"fax": "67367377",
+	"licensee": "LIM UI CHONG",
+	"licensePeriod": "22/04/2016 to 21/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #05-04 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "LIM UI CHONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1995",
+				"FAMS (Rheumatology) (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"Rheumatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Internal Medicine",
+			"Rheumatology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "14M0095",
+	"coordinates": [
+		103.833961913093,
+		1.30450609984441
+	],
+	"svy21": [
+		28071.5971646011,
+		31871.1748442724
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

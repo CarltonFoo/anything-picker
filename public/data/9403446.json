@@ -1,0 +1,49 @@
+{
+	"name": "THE HEALING LIGHT CLINIC",
+	"tel": "67668500",
+	"fax": "67668522",
+	"licensee": "Delvin Ng",
+	"licensePeriod": "30/10/2013 to 29/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 533 Choa Chu Kang Street 51, Limbang Shopping Centre, #01-19 Singapore 680533",
+	"doctorInCharge": [
+		{
+			"name": "Delvin Ng",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1997",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9403446",
+	"coordinates": [
+		103.743099573442,
+		1.39207388703547
+	],
+	"svy21": [
+		17959.8063993678,
+		41554.1654404588
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

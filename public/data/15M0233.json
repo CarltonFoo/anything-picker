@@ -1,0 +1,43 @@
+{
+	"name": "ROLAND SHOULDER & ORTHOPAEDIC CLINIC",
+	"tel": "64441321",
+	"fax": "64916537",
+	"licensee": "ROLAND SHOULDER & ORTHOPAEDIC CLINIC PTE. LTD.",
+	"licensePeriod": "26/04/2016 to 25/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #08-28 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Chong Weng Wah Roland",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"id": "15M0233",
+	"coordinates": [
+		103.844226253167,
+		1.32214655190062
+	],
+	"svy21": [
+		29213.9156221645,
+		33821.7679953557
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

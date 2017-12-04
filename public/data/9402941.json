@@ -1,0 +1,42 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67696746",
+	"fax": "67696746",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 10 CHUA CHU KANG ST 64, Singapore 689100",
+	"doctorInCharge": [
+		{
+			"name": "THAM SAI SOO",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402941",
+	"coordinates": [
+		103.750985438887,
+		1.39676596249722
+	],
+	"svy21": [
+		18837.4187175743,
+		42072.9598012883
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "SMILE CENTRAL CLINIC",
+	"tel": "65636386",
+	"fax": "65632653",
+	"licensee": "SMILE CENTRAL DENTAL JURONG PTE. LTD.",
+	"licensePeriod": "18/11/2015 to 17/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 135 JURONG GATEWAY ROAD, #01-331 Singapore 600135",
+	"doctorInCharge": [
+		{
+			"name": "GOH CHOON GUAN DANIEL",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0391",
+	"coordinates": [
+		103.739676885744,
+		1.33382540744502
+	],
+	"svy21": [
+		17578.6553312764,
+		35113.3515920267
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

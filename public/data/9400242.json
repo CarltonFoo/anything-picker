@@ -1,0 +1,49 @@
+{
+	"name": "CHIN CHOO CLINIC",
+	"tel": "67452815",
+	"fax": "67440949",
+	"licensee": "Lin Yoong Chee Gerard",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"address": "BLK 35 CIRCUIT ROAD, #01-430 Singapore 370035",
+	"doctorInCharge": [
+		{
+			"name": "Lin Yoong Chee Gerard",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday and Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9400242",
+	"coordinates": [
+		103.886010316123,
+		1.3291589969451
+	],
+	"svy21": [
+		33864.0504919924,
+		34597.2280478124
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

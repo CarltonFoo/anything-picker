@@ -1,0 +1,44 @@
+{
+	"name": "SHENTON FAMILY MEDICAL CLINIC (BEDOK RESERVOIR)",
+	"tel": "64435936",
+	"fax": "64433672",
+	"licensee": "SHENTON FAMILY MEDICAL CLINIC (BEDOK RESERVOIR)",
+	"licensePeriod": "11/08/2016 to 10/08/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"address": "BLK 744 BEDOK RESERVOIR ROAD, #01-3065 Singapore 470744",
+	"doctorInCharge": [
+		{
+			"name": "Teoh Tsu Ping Kieron",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9402712",
+	"coordinates": [
+		103.921663304068,
+		1.33786042639307
+	],
+	"svy21": [
+		37831.8307774626,
+		35559.5019444302
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

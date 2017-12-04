@@ -1,0 +1,56 @@
+{
+	"name": "GERRARD TEOH HEMATOLOGY & MEDICAL CLINIC",
+	"tel": "63976850",
+	"fax": "63976851",
+	"licensee": "GERRARD TEOH HEMATOLOGY & MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "01/04/2017 to 31/03/2019",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER SQUARE 2, #08-34 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Teoh Kheng Hoe Gerrard",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Haematology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Haematology",
+			"Internal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "13C0073",
+	"coordinates": [
+		103.844160737673,
+		1.32070490289998
+	],
+	"svy21": [
+		29206.6250939984,
+		33662.3578150738
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

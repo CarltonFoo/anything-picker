@@ -1,0 +1,38 @@
+{
+	"name": "SMILES R US DENTAL CENTRE",
+	"tel": "67023345",
+	"fax": "67023345",
+	"licensee": "SMILES R US PTE. LTD.",
+	"licensePeriod": "09/12/2016 to 08/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "11 TANJONG KATONG ROAD, ONE KM, #03-10 Singapore 437157",
+	"doctorInCharge": [
+		{
+			"name": "Luo Wenyuan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "14D0366",
+	"coordinates": [
+		103.894738004768,
+		1.31461849889244
+	],
+	"svy21": [
+		34835.3929186771,
+		32989.4359148946
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

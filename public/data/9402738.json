@@ -1,0 +1,47 @@
+{
+	"name": "ADVANCE CLINIC & SURGERY PTE LTD",
+	"tel": "67421156",
+	"fax": "67426191",
+	"licensee": "ADVANCE CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "21/10/2014 to 20/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 301 UBI AVE 1, #01-269 Singapore 400301",
+	"doctorInCharge": [
+		{
+			"name": "LIM PENG KEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9402738",
+	"coordinates": [
+		103.901953040703,
+		1.33068802490988
+	],
+	"svy21": [
+		35638.3084538039,
+		34766.3438084107
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

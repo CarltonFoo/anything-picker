@@ -1,0 +1,46 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "65431118",
+	"fax": "65430130",
+	"licensee": "Raffles Medical Group Ltd",
+	"licensePeriod": "14/04/2014 to 13/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "60 AIRPORT BOULEVARD, CHANGI AIRPORT TERMINAL 2, #B16-025 Singapore 819643",
+	"doctorInCharge": [
+		{
+			"name": "Salleh bin Omar B A Alkhatia",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "9405545",
+	"coordinates": [
+		103.989067263098,
+		1.35497072514673
+	],
+	"svy21": [
+		45333.0701477863,
+		37451.851383023
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

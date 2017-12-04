@@ -1,0 +1,50 @@
+{
+	"name": "LIM CLINIC",
+	"tel": "64549172",
+	"fax": "64530643",
+	"licensee": "Lim Wan Ie",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 446 ANG MO KIO AVE10, #01-1663 Singapore 560446",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wan Ie",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday to Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400971",
+	"coordinates": [
+		103.855357145908,
+		1.36776095130956
+	],
+	"svy21": [
+		30452.6278010411,
+		38865.5836678147
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

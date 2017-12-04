@@ -1,0 +1,40 @@
+{
+	"name": "B9 DENTAL CENTRE",
+	"tel": "62518988",
+	"fax": "67778982",
+	"licensee": "R&C DENTAL (TOA PAYOH) PTE. LTD.",
+	"licensePeriod": "05/03/2016 to 04/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 520 LORONG 6 TOA PAYOH, HDB HUB, #01-64 Singapore 310520",
+	"doctorInCharge": [
+		{
+			"name": "lim yow long",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "14D0042",
+	"coordinates": [
+		103.84748049052,
+		1.33313323104703
+	],
+	"svy21": [
+		29576.0729251131,
+		35036.6204977594
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

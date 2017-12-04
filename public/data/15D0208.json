@@ -1,0 +1,43 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "63366222",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "23/06/2017 to 22/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "301 UPPER THOMSON ROAD, THOMSON PLAZA, ##02-12 Singapore 574408",
+	"doctorInCharge": [
+		{
+			"name": "Goh Siew Hor",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Wednesday to Saturday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "15D0208",
+	"coordinates": [
+		103.830919782333,
+		1.35466902496426
+	],
+	"svy21": [
+		27733.0413219556,
+		37417.9340793118
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "FULLERTON HEALTH @ DRS TRYTHALL HOY DAVIES",
+	"tel": "68365242",
+	"fax": "68365542",
+	"licensee": "DRS TRYTHALL HOY DAVIES (PTE) LTD",
+	"licensePeriod": "25/08/2016 to 24/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "391B ORCHARD ROAD, NGEE ANN CITY TOWER B, #25-01/07/08 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "11C0109",
+	"coordinates": [
+		103.834676124723,
+		1.30242417189413
+	],
+	"svy21": [
+		28151.0824940456,
+		31640.966003729
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

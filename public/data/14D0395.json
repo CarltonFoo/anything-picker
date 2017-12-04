@@ -1,0 +1,40 @@
+{
+	"name": "PURE NZ DENTAL",
+	"tel": "64630257",
+	"fax": "91062268",
+	"licensee": "PURE NZ DENTAL PTE. LTD.",
+	"licensePeriod": "30/12/2016 to 29/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "62 JALAN JURONG KECHIL, JK BUILDING, Singapore 598584",
+	"doctorInCharge": [
+		{
+			"name": "Justine Manggah Stewart Saga",
+			"qualifications": [
+				"BDS (University of Otago, New Zealand) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "14D0395",
+	"coordinates": [
+		103.774013020471,
+		1.34056479101277
+	],
+	"svy21": [
+		21399.9291016757,
+		35858.4397810455
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

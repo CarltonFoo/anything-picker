@@ -1,0 +1,50 @@
+{
+	"name": "THE BISHAN FAMILY DOCTORS",
+	"tel": "64546698",
+	"fax": "64546698",
+	"licensee": "LEE YIP KUAN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 283 BISHAN ST 22, #01-181 Singapore 570283",
+	"doctorInCharge": [
+		{
+			"name": "LEE YIP KUAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9401665",
+	"coordinates": [
+		103.844748631736,
+		1.35891907129934
+	],
+	"svy21": [
+		29272.0322091244,
+		37887.8853883017
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

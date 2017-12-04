@@ -1,0 +1,48 @@
+{
+	"name": "SCAL- NKF DIALYSIS CENTRE (WOODLANDS BRANCH)",
+	"tel": "62990200",
+	"fax": "63625849",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "14/09/2016 to 13/09/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"address": "BLK 365 Woodlands Ave 5, #01-490 Singapore 730365",
+	"doctorInCharge": [
+		{
+			"name": "Mooppil Nanda Kumar",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "07:00 am to 11:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404240",
+	"coordinates": [
+		103.787634150698,
+		1.43431838441912
+	],
+	"svy21": [
+		22916.0149948467,
+		46225.2073449492
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

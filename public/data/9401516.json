@@ -1,0 +1,42 @@
+{
+	"name": "SINGAPORE TELECOM CLINIC",
+	"tel": "68383881",
+	"fax": "67355572",
+	"licensee": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "31 EXETER ROAD, B2 COMCENTRE, Singapore 239732",
+	"doctorInCharge": [
+		{
+			"name": "Joanne Koay Siew Li",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 am, 02:00 pm to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9401516",
+	"coordinates": [
+		103.83882414475,
+		1.29883731532586
+	],
+	"svy21": [
+		28612.7203380903,
+		31244.3505082019
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

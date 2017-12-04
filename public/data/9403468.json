@@ -1,0 +1,50 @@
+{
+	"name": "ALEXANDRA FAMILY CLINIC & SURGERY",
+	"tel": "64797022",
+	"fax": "64798366",
+	"licensee": "TAN CHEE KEONG",
+	"licensePeriod": "23/12/2013 to 22/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 57 DAWSON ROAD, #02-02 Singapore 142057",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHEE KEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 03:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday to Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "9403468",
+	"coordinates": [
+		103.810958956467,
+		1.29270339855063
+	],
+	"svy21": [
+		25511.5673628375,
+		30566.1039248612
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

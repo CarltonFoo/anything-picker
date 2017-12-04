@@ -1,0 +1,41 @@
+{
+	"name": "CARING DENTAL SENGKANG",
+	"tel": "00000000",
+	"fax": "00000000",
+	"licensee": "caring dental sengkang pte. ltd.",
+	"licensePeriod": "05/07/2016 to 04/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 473A FERNVALE STREET, #01-01 Singapore 791473",
+	"doctorInCharge": [
+		{
+			"name": "Tan Yang Xian Christopher",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0196",
+	"coordinates": [
+		103.881232764244,
+		1.39785974876815
+	],
+	"svy21": [
+		33332.2066650754,
+		42193.7989753634
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

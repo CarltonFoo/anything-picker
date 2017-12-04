@@ -1,0 +1,40 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68840494",
+	"fax": "68840494",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 31 WOODLANDS CIRCLE, Singapore 738908",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHING TENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday to Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402911",
+	"coordinates": [
+		103.794581221647,
+		1.44415064298951
+	],
+	"svy21": [
+		23689.1373903845,
+		47312.39509161
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

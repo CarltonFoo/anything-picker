@@ -1,0 +1,42 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64462381",
+	"fax": "64462381",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "21/06/2014 to 20/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "600 Upper Changi Road, ANGLICAN HIGH SCHOOL, Singapore 487012",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403617",
+	"coordinates": [
+		103.941857925437,
+		1.33118040459547
+	],
+	"svy21": [
+		40079.3129556095,
+		34820.9481590763
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

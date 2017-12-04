@@ -1,0 +1,41 @@
+{
+	"name": "SHANGRI-LA MEDICAL CLINIC",
+	"tel": "62134984",
+	"fax": "62134684",
+	"licensee": "SHANGRI-LA HOTEL LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "22 ORANGE GROVE ROAD, LEVEL 4, SHANGRI-LA HOTEL LTD, Singapore 258350",
+	"doctorInCharge": [
+		{
+			"name": "FOO YUNG HUI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm, 09:00 am to 11:00 am"
+	},
+	"id": "9401476",
+	"coordinates": [
+		103.826788133417,
+		1.31122438238089
+	],
+	"svy21": [
+		27273.2231890913,
+		32614.0489000138
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

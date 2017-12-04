@@ -1,0 +1,43 @@
+{
+	"name": "DR PRIYA SEN SKIN AND LASER CENTRE",
+	"tel": "66356981",
+	"fax": "64635137",
+	"licensee": "PRIYA SEN SKIN AND LASER CENTRE PTE. LTD.",
+	"licensePeriod": "20/08/2016 to 19/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "10 JALAN SERENE, SERENE CENTRE, #02-03 Singapore 258748",
+	"doctorInCharge": [
+		{
+			"name": "SEN PRIYA RANI",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1995",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"id": "14M0248",
+	"coordinates": [
+		103.81369629522,
+		1.32259059908735
+	],
+	"svy21": [
+		25816.2353525208,
+		33870.8744391911
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

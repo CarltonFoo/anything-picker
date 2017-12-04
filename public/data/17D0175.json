@@ -1,0 +1,43 @@
+{
+	"name": "TANGLIN DENTAL @ YISHUN",
+	"tel": "67332322",
+	"fax": "64688001",
+	"licensee": "DR YK DENTAL CLINICS PTE. LTD.",
+	"licensePeriod": "13/06/2017 to 12/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "18 YISHUN AVENUE 9, JUNCTION NINE, #01-38 Singapore 768897",
+	"doctorInCharge": [
+		{
+			"name": "Lew Jon Keith",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "17D0175",
+	"coordinates": [
+		103.84166098599,
+		1.43312283983182
+	],
+	"svy21": [
+		28928.384020363,
+		46092.9609547779
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

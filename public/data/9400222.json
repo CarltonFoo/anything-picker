@@ -1,0 +1,44 @@
+{
+	"name": "CHEOK DENTAL SURGERY",
+	"tel": "65323273",
+	"fax": "65325978",
+	"licensee": "CHEOK KHONG BENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "150 SOUTH BRIDGE ROAD, FOOK HAI BUILDING, #03-13 Singapore 058727",
+	"doctorInCharge": [
+		{
+			"name": "CHEOK KHONG BENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:30 am to 06:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400222",
+	"coordinates": [
+		103.846439133077,
+		1.28497488239924
+	],
+	"svy21": [
+		29460.2085363073,
+		29711.5172791034
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

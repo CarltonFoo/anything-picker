@@ -1,0 +1,54 @@
+{
+	"name": "THE DENTAL STUDIO",
+	"tel": "68360050",
+	"fax": "68368385",
+	"licensee": "The Dental Studio Pte. Ltd.",
+	"licensePeriod": "12/11/2014 to 11/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "290 Orchard Road, Paragon, #13-01 to 06 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Ng Hsu Ching Lynette",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998",
+				"MRD RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2004",
+				"MDS (Prosthodontics) (Singapore) (National University of Singapore, Singapore) 2004",
+				"FAMS (Prosthodontics) (Academy of Medicine, Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 06:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9405020",
+	"coordinates": [
+		103.835857545469,
+		1.30387230879998
+	],
+	"svy21": [
+		28282.5637398548,
+		31801.0936260298
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

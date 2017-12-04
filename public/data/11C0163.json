@@ -1,0 +1,47 @@
+{
+	"name": "SMILEPOD DENTISTRY LLP",
+	"tel": "64635886",
+	"fax": "64635686",
+	"licensee": "SMILEPOD DENTISTRY LLP",
+	"licensePeriod": "07/10/2015 to 06/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "587 BUKIT TIMAH ROAD, CORONATION PLAZA, #03-03 Singapore 269707",
+	"doctorInCharge": [
+		{
+			"name": "Chong Canon",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2000",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2009",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Thursday and Public Holiday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "11C0163",
+	"coordinates": [
+		103.809999570047,
+		1.32383512178761
+	],
+	"svy21": [
+		25404.8279538853,
+		34008.4909447636
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"name": "MEDICARE ASSOCIATES CLINIC & SURGERY",
+	"tel": "62842427",
+	"fax": "62842427",
+	"licensee": "LEE SIEW CHONG JOHN",
+	"licensePeriod": "03/01/2014 to 02/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 107 SERANGOON NORTH AVE 1, #01-679 Singapore 550107",
+	"doctorInCharge": [
+		{
+			"name": "LEE SIEW CHONG JOHN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401082",
+	"coordinates": [
+		103.870224884546,
+		1.36990040378363
+	],
+	"svy21": [
+		32107.2250727238,
+		39102.1737862919
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

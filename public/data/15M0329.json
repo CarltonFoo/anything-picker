@@ -1,0 +1,44 @@
+{
+	"name": "SENJA GATEWAY FAMILY CLINIC",
+	"tel": "62197956",
+	"fax": "62197956",
+	"licensee": "SENJA GATEWAY FAMILY CLINIC LLP",
+	"licensePeriod": "28/09/2015 to 27/09/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 635C SENJA ROAD, #01-03 Singapore 673635",
+	"doctorInCharge": [
+		{
+			"name": "TAN SWEE MENG, ROBIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "15M0329",
+	"coordinates": [
+		103.758433939145,
+		1.38650187058095
+	],
+	"svy21": [
+		19666.3020034358,
+		40937.9798466451
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

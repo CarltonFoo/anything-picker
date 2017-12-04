@@ -1,0 +1,38 @@
+{
+	"name": "DENTIGIENE DENTAL SURGERY PTE LTD",
+	"tel": "62998980",
+	"fax": "62918935",
+	"licensee": "DENTIGIENE DENTAL SURGERY PTE LTD",
+	"licensePeriod": "06/06/2015 to 05/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 102 TOWNER RD, #01-250 Singapore 322102",
+	"doctorInCharge": [
+		{
+			"name": "LIM JIN LING JOANNA",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400337",
+	"coordinates": [
+		103.862002015145,
+		1.3205860945691
+	],
+	"svy21": [
+		31192.1832145127,
+		33649.2363717221
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

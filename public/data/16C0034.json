@@ -1,0 +1,42 @@
+{
+	"name": "Q & M MEDICAL CLINIC (BUKIT BATOK)",
+	"tel": "65099558",
+	"fax": "65099568",
+	"licensee": "Q & M MEDICAL CLINIC (BUKIT BATOK) PTE. LTD.",
+	"licensePeriod": "10/02/2016 to 09/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 151 BT BATOK ST 11, #01-252 Singapore 650151",
+	"doctorInCharge": [
+		{
+			"name": "Koh Shunjie Kelvin",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "16C0034",
+	"coordinates": [
+		103.744211483999,
+		1.34874703502595
+	],
+	"svy21": [
+		18083.3693590285,
+		36763.2921041455
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

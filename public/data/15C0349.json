@@ -1,0 +1,47 @@
+{
+	"name": "CSK® NOVENA LASER AESTHETIC CLINIC",
+	"tel": "61006886",
+	"fax": "63972775",
+	"licensee": "CLEARSK CENTRE PTE. LTD.",
+	"licensePeriod": "22/07/2016 to 21/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "10 SINARAN DRIVE, SQUARE 2, #10-25/26 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "SHIAU EE LENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1999",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2003",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday and Friday": "10:00 am to 02:00 pm, 04:00 pm to 08:00 pm"
+	},
+	"id": "15C0349",
+	"coordinates": [
+		103.844160737673,
+		1.32070490289998
+	],
+	"svy21": [
+		29206.6250939984,
+		33662.3578150738
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

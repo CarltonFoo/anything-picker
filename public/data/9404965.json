@@ -1,0 +1,43 @@
+{
+	"name": "GREENLIFE DENTAL CLINIC",
+	"tel": "62993556",
+	"fax": "62991038",
+	"licensee": "Greenlife Dental Clinic Pte. Ltd.",
+	"licensePeriod": "10/09/2016 to 09/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 14 BEACH ROAD, #01-4661 Singapore 190014",
+	"doctorInCharge": [
+		{
+			"name": "Au Eong Kah Chuan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404965",
+	"coordinates": [
+		103.863006472509,
+		1.30366320140456
+	],
+	"svy21": [
+		31303.9916026965,
+		31777.9909215607
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

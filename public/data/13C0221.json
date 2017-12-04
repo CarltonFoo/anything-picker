@@ -1,0 +1,43 @@
+{
+	"name": "NOVU MEDICAL AESTHETIC CLINIC RAFFLES CITY",
+	"tel": "63331128",
+	"fax": "62350412",
+	"licensee": "AESTHETIC MEDICAL HOLDINGS PTE. LTD.",
+	"licensePeriod": "04/11/2016 to 01/09/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "252 NORTH BRIDGE ROAD, RAFFLES CITY SHOPPING CENTRE, #B2-06/07 Singapore 179103",
+	"doctorInCharge": [
+		{
+			"name": "Tham Chi Yuan Kenrick",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:30 am to 09:00 pm",
+		"Saturday": "09:30 am to 09:00 pm",
+		"Sunday and Public Holiday": "09:30 am to 08:00 pm"
+	},
+	"id": "13C0221",
+	"coordinates": [
+		103.853119904656,
+		1.29389357863315
+	],
+	"svy21": [
+		30203.7152231764,
+		30697.7055161744
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

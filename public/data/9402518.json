@@ -1,0 +1,37 @@
+{
+	"name": "GLAXO WELLCOME MANUFACTURING MEDICAL CENTRE",
+	"tel": "68604542",
+	"fax": "68600619",
+	"licensee": "GLAXO WELLCOME MANUFACTURING PTE LTD",
+	"licensePeriod": "24/08/2015 to 23/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 PIONEER SECTOR 1, Singapore 628413",
+	"doctorInCharge": [
+		{
+			"name": "WONG KAI CHEONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1967"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9402518",
+	"coordinates": [
+		103.662353974157,
+		1.30744021636212
+	],
+	"svy21": [
+		8973.20047576353,
+		32196.2621605955
+	],
+	"planningArea": "PN",
+	"neighbours": [
+		"BL",
+		"JW",
+		"TS",
+		"WC"
+	]
+}

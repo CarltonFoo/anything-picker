@@ -1,0 +1,40 @@
+{
+	"name": "MICRON SEMICONDUCTOR ASIA PTE. LTD (FAB 10W, MEDICAL CLINIC)",
+	"tel": "63607333",
+	"fax": "63657528",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "06/05/2017 to 05/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 WOODLANDS IND PARK D STREET 1, Singapore 738799",
+	"doctorInCharge": [
+		{
+			"name": "Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "11C0054",
+	"coordinates": [
+		103.76764115448,
+		1.43229803909475
+	],
+	"svy21": [
+		20691.0900315652,
+		46001.8617091775
+	],
+	"planningArea": "SK",
+	"neighbours": [
+		"BP",
+		"LK",
+		"MD",
+		"CC",
+		"WD",
+		"CK",
+		"WC"
+	]
+}

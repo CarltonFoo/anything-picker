@@ -1,0 +1,56 @@
+{
+	"name": "FRONTIER MEDICAL ASSOCIATES",
+	"tel": "67587536",
+	"fax": "67584601",
+	"licensee": "FRONTIER MEDICAL ASSOCIATES (YISHUN) PTE. LTD.",
+	"licensePeriod": "20/01/2014 to 19/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 654 YISHUN AVE 4, #01-437 Singapore 760654",
+	"doctorInCharge": [
+		{
+			"name": "GOH SHU HUEY",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1998",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday and Tuesday": "08:30 am to 01:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday and Friday": "08:30 am to 01:30 pm",
+		"Thursday": "08:30 am to 01:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9405453",
+	"coordinates": [
+		103.840410313172,
+		1.42305346445827
+	],
+	"svy21": [
+		28789.2064435296,
+		44979.5396439489
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

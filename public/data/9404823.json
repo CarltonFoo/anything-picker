@@ -1,0 +1,47 @@
+{
+	"name": "K N CHIN & ASSOCIATES PTE LTD",
+	"tel": "65389533",
+	"fax": "65365815",
+	"licensee": "K N CHIN & ASSOCIATES PTE LTD",
+	"licensePeriod": "02/05/2014 to 01/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "24 RAFFLES PLACE, CLIFFORD CENTRE, #02-18 Singapore 048621",
+	"doctorInCharge": [
+		{
+			"name": "MICHEL FOO SIEW NGOH",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "9404823",
+	"coordinates": [
+		103.85213030831,
+		1.28385590711691
+	],
+	"svy21": [
+		30093.5899467627,
+		29587.7907209918
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

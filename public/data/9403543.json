@@ -1,0 +1,37 @@
+{
+	"name": "VICTORY CLINIC & SURGERY",
+	"tel": "64671641",
+	"fax": "64671641",
+	"licensee": "KHOO CHUN LENG WILLIAM",
+	"licensePeriod": "03/08/2016 to 02/08/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"address": "BLK 21 GHIM MOH ROAD, #01-205 Singapore 270021",
+	"doctorInCharge": [
+		{
+			"name": "KHOO CHUN LENG WILLIAM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9403543",
+	"coordinates": [
+		103.788545950724,
+		1.3101030259412
+	],
+	"svy21": [
+		23017.2274397034,
+		32490.098661501
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

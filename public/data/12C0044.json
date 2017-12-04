@@ -1,0 +1,41 @@
+{
+	"name": "CELEVENUS WELLNESS AND AESTHETIC CLINIC",
+	"tel": "64109621",
+	"fax": "64109623",
+	"licensee": "Chau Chee Ping",
+	"licensePeriod": "11/04/2017 to 10/04/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"address": "391B ORCHARD ROAD, NGEE ANN CITY TOWER B, #16-03/04 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "Chau Chee Ping",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "10:00 am to 09:30 pm"
+	},
+	"id": "12C0044",
+	"coordinates": [
+		103.834676124723,
+		1.30242417189413
+	],
+	"svy21": [
+		28151.0824940456,
+		31640.966003729
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

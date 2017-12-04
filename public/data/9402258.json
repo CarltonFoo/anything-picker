@@ -1,0 +1,47 @@
+{
+	"name": "WELLNESS ASSESSMENT CENTRE",
+	"tel": "67898888",
+	"fax": "65056090",
+	"licensee": "WELLNESS ASSESSMENT CENTRE PTE LTD",
+	"licensePeriod": "15/09/2016 to 14/09/2017",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"address": "350 ORCHARD ROAD, SHAW HOUSE, #08-00 Singapore 238868",
+	"doctorInCharge": [
+		{
+			"name": "Wong Kae Thong",
+			"qualifications": [
+				"MD (University of Western Ontario, Canada) 2000",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2006",
+				"M Med (Paed) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "9402258",
+	"coordinates": [
+		103.831507321866,
+		1.30580978432631
+	],
+	"svy21": [
+		27798.423768675,
+		32015.3296278119
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

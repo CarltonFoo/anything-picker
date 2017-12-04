@@ -1,0 +1,41 @@
+{
+	"name": "HARBOUR POINT DENTAL CENTRE BY FDC",
+	"tel": "62718133",
+	"fax": "62718722",
+	"licensee": "HARBOUR DENTAL PTE. LTD.",
+	"licensePeriod": "27/06/2016 to 26/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 HARBOURFRONT PLACE, HARBOURFRONT TOWER ONE, #01-02 Singapore 098633",
+	"doctorInCharge": [
+		{
+			"name": "NURUL AIZAT BIN ZAINUDIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 03:00 pm"
+	},
+	"id": "12C0114",
+	"coordinates": [
+		103.819139250987,
+		1.26477806938574
+	],
+	"svy21": [
+		26421.946347353,
+		27478.2587832045
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

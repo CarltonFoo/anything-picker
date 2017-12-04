@@ -1,0 +1,44 @@
+{
+	"name": "PARKWAY EYE CENTRE @ MOUNT ELIZABETH",
+	"tel": "68873366",
+	"fax": "68873682",
+	"licensee": "PARKWAY HOSPITALS SINGAPORE PTE. LTD.",
+	"licensePeriod": "16/11/2014 to 15/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #16-14 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Loh Chi-Keon Kelvin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405751",
+	"coordinates": [
+		103.835439337571,
+		1.30516521383703
+	],
+	"svy21": [
+		28236.0209034365,
+		31944.0563655663
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

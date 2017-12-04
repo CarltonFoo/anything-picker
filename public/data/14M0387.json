@@ -1,0 +1,39 @@
+{
+	"name": "SOUTH BRIDGE AESTHETICS CLINIC",
+	"tel": "97308999",
+	"fax": "97308999",
+	"licensee": "SOUTH BRIDGE AESTHETICS CLINIC PTE. LTD.",
+	"licensePeriod": "29/12/2016 to 28/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "277 SOUTH BRIDGE ROAD, Singapore 058826",
+	"doctorInCharge": [
+		{
+			"name": "Lee Gim Beng Winston",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005",
+				"MCEM (The College of Emergency Medicine, United Kingdom) 2014"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0387",
+	"coordinates": [
+		103.845237964715,
+		1.2817601800326
+	],
+	"svy21": [
+		29326.5301375594,
+		29356.051440388
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

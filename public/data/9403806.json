@@ -1,0 +1,41 @@
+{
+	"name": "PETER CHUAH CLINIC",
+	"tel": "64472388",
+	"fax": "63442610",
+	"licensee": "PETER CHUAH SEONG PYN",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"address": "80 MARINE PARADE RD, PARKWAY PARADE, #04-03 Singapore 449269",
+	"doctorInCharge": [
+		{
+			"name": "PETER CHUAH SEONG PYN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"Dip Derm (University of London, United Kingdom) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "10:00 am to 12:30 pm, 02:30 pm to 05:30 pm"
+	},
+	"id": "9403806",
+	"coordinates": [
+		103.905279491524,
+		1.30106975506311
+	],
+	"svy21": [
+		36008.602789619,
+		31491.3156742621
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62654284",
+	"fax": "62654284",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "07/02/2015 to 06/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 161 CORPORATION WALK, Singapore 618310",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403312",
+	"coordinates": [
+		103.718089546936,
+		1.33820397676916
+	],
+	"svy21": [
+		15176.2292257221,
+		35597.6142998803
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

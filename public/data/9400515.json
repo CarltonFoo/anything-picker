@@ -1,0 +1,49 @@
+{
+	"name": "FAMILY CLINIC",
+	"tel": "67585151",
+	"fax": "67585151",
+	"licensee": "TAN KIAW KUANG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 103 YISHUN RING ROAD, #01-73 Singapore 760103",
+	"doctorInCharge": [
+		{
+			"name": "TAN KIAW KUANG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Tuesday": "10:00 am to 12:30 pm, 03:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday and Friday": "10:00 am to 12:30 pm, 03:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "10:00 am to 12:30 pm, 03:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday to Sunday": "10:00 am to 12:30 pm"
+	},
+	"id": "9400515",
+	"coordinates": [
+		103.828892847163,
+		1.43136934951879
+	],
+	"svy21": [
+		27507.4825517507,
+		45899.0676108319
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

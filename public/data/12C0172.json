@@ -1,0 +1,41 @@
+{
+	"name": "PPP LASER CLINIC MARINE PARADE CENTRAL",
+	"tel": "64400028",
+	"fax": "62350412",
+	"licensee": "AESTHETIC MEDICAL HOLDINGS PTE. LTD.",
+	"licensePeriod": "13/08/2016 to 12/08/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"address": "BLK 87 MARINE PARADE CENTRAL, #01-503 Singapore 440087",
+	"doctorInCharge": [
+		{
+			"name": "Yam Kok Choy",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 09:00 pm",
+		"Saturday to Sunday": "09:00 am to 07:00 pm"
+	},
+	"id": "12C0172",
+	"coordinates": [
+		103.905639343596,
+		1.30245317807702
+	],
+	"svy21": [
+		36048.6467267172,
+		31644.2887321785
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

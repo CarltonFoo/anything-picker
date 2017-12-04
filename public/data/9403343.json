@@ -1,0 +1,45 @@
+{
+	"name": "MEDIPOINT MEDICAL CENTRE (WOODLANDS BRANCH)",
+	"tel": "68938776",
+	"fax": "68939025",
+	"licensee": "LAM BEE LAN",
+	"licensePeriod": "17/04/2016 to 16/04/2018",
+	"licenseClass": "[ 2 Years ( 1B ) ]",
+	"address": "BLK 548 WOODLANDS DR 44, VISTA POINT, #02-24 Singapore 730548",
+	"doctorInCharge": [
+		{
+			"name": "Chew May Ling",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Tuesday": "08:30 am to 01:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday to Thursday": "08:30 am to 01:30 pm",
+		"Friday": "08:30 am to 01:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9403343",
+	"coordinates": [
+		103.793931079754,
+		1.43089994500938
+	],
+	"svy21": [
+		23616.7614654908,
+		45847.2003939338
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "GPA DENTALCARE @ GOLDHILL",
+	"tel": "62519633",
+	"fax": "63963870",
+	"licensee": "GPA DENTAL GROUP (SINGAPORE) PTE. LTD.",
+	"licensePeriod": "28/10/2016 to 27/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "101 THOMSON ROAD, UNITED SQUARE, #01-96/97/98/99 Singapore 307591",
+	"doctorInCharge": [
+		{
+			"name": "Goh Wilson",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 09:00 pm",
+		"Saturday and Sunday": "09:00 am to 06:00 pm"
+	},
+	"id": "9405734",
+	"coordinates": [
+		103.843611443038,
+		1.3171945098856
+	],
+	"svy21": [
+		29145.4956319388,
+		33274.1963187382
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

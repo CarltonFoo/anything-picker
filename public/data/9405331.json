@@ -1,0 +1,45 @@
+{
+	"name": "HOUGANG SPECIALIST EYE CENTRE PTE LTD",
+	"tel": "68759291",
+	"fax": "68759290",
+	"licensee": "HOUGANG SPECIALIST EYE CENTRE PTE. LTD.",
+	"licensePeriod": "09/10/2015 to 08/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 501 Hougang Ave 8, #01-628 Singapore 530501",
+	"doctorInCharge": [
+		{
+			"name": "Yap Soo Keong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1993",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"id": "9405331",
+	"coordinates": [
+		103.886531403839,
+		1.37205269626366
+	],
+	"svy21": [
+		33921.9384346036,
+		39340.1975478195
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

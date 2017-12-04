@@ -1,0 +1,44 @@
+{
+	"name": "SIA ALH CLINIC",
+	"tel": "65414705",
+	"fax": "65434706",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "01/04/2017 to 31/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "25 AIRLINE ROAD, AIRLINE HOUSE, Singapore 819829",
+	"doctorInCharge": [
+		{
+			"name": "Benedict Lim Tai Thong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
+	"id": "15M0078",
+	"coordinates": [
+		103.997294020206,
+		1.37716302164885
+	],
+	"svy21": [
+		46248.4503717879,
+		39905.8330057785
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

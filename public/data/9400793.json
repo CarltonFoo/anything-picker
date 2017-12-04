@@ -1,0 +1,40 @@
+{
+	"name": "K F HO DENTAL SURGERY",
+	"tel": "62713568",
+	"fax": "62713568",
+	"licensee": "HO KHAI FONG",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"address": "BLK 35 TELOK BLANGAH RISE, #01-295 Singapore 090035",
+	"doctorInCharge": [
+		{
+			"name": "HO KHAI FONG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 05:00 pm"
+	},
+	"id": "9400793",
+	"coordinates": [
+		103.82212324602,
+		1.27302201949384
+	],
+	"svy21": [
+		26754.0467252349,
+		28389.8304776195
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

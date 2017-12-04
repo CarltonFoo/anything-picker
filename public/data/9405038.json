@@ -1,0 +1,42 @@
+{
+	"name": "SMILEFOCUS FAMILY DENTISTRY",
+	"tel": "68340877",
+	"fax": "68340977",
+	"licensee": "Dr Marcus Cooney & Associates Pte Ltd",
+	"licensePeriod": "05/12/2014 to 04/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #14-02/03 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Brendan Gin",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday to Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405038",
+	"coordinates": [
+		103.823907153629,
+		1.3031375815005
+	],
+	"svy21": [
+		26952.5940440902,
+		31719.8530864771
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

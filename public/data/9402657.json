@@ -1,0 +1,52 @@
+{
+	"name": "STARCARE CLINIC AND SURGERY  PTE. LTD.",
+	"tel": "65616878",
+	"fax": "65617698",
+	"licensee": "STARCARE CLINIC AND SURGERY PTE. LTD.",
+	"licensePeriod": "30/06/2017 to 29/06/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"address": "BLK 207 BUKIT BATOK ST 21, #01-108 Singapore 650207",
+	"doctorInCharge": [
+		{
+			"name": "LOKE FOO SHIN KELLY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday and Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:30 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm",
+		"Thursday and Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:30 pm to 10:00 pm",
+		"Saturday": "08:30 am to 12:00 pm"
+	},
+	"id": "9402657",
+	"coordinates": [
+		103.749382188265,
+		1.34624866176032
+	],
+	"svy21": [
+		18658.8022606373,
+		36487.0140000582
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "MENDIS AESTHETICS & SURGERY",
+	"tel": "62351728",
+	"fax": "62351728",
+	"licensee": "Mendis Ajit Rohan",
+	"licensePeriod": "09/12/2015 to 08/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "333A ORCHARD ROAD, MANDARIN GALLERY, #04-17 Singapore 238897",
+	"doctorInCharge": [
+		{
+			"name": "Mendis Ajit Rohan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 04:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9405403",
+	"coordinates": [
+		103.836583965806,
+		1.30200471731967
+	],
+	"svy21": [
+		28363.4079504283,
+		31594.5850707572
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "DR SOH FAMILY CLINIC",
+	"tel": "67917735",
+	"fax": "67926566",
+	"licensee": "Soh Chern Tau",
+	"licensePeriod": "01/07/2015 to 30/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 966 JURONG WEST STREET 93, #01-221 Singapore 640966",
+	"doctorInCharge": [
+		{
+			"name": "Soh Chern Tau",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "11C0094",
+	"coordinates": [
+		103.692916978764,
+		1.34170245953321
+	],
+	"svy21": [
+		12374.8060488757,
+		35984.6057570372
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

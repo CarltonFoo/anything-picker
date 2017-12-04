@@ -1,0 +1,37 @@
+{
+	"name": "G H HENG CLINIC",
+	"tel": "62700714",
+	"fax": "68780470",
+	"licensee": "HENG GEK HONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 133 JLN BUKIT MERAH, #01-1522 Singapore 160133",
+	"doctorInCharge": [
+		{
+			"name": "HENG GEK HONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1966"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9400558",
+	"coordinates": [
+		103.82740093837,
+		1.27955093259636
+	],
+	"svy21": [
+		27341.4143836275,
+		29111.7619640883
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

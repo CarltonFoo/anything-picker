@@ -1,0 +1,41 @@
+{
+	"name": "DENTAL SURGERY CENTRE",
+	"tel": "64418887",
+	"fax": "64418887",
+	"licensee": "DAY SURGERY CENTRE (DENTAL) PTE. LTD",
+	"licensePeriod": "30/01/2017 to 29/01/2018",
+	"licenseClass": "[ 1 Year ( 1C ) ]",
+	"address": "BLK 204 BEDOK NORTH STREET 1, #01-427 Singapore 460204",
+	"doctorInCharge": [
+		{
+			"name": "Chua Teck Hum",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0023",
+	"coordinates": [
+		103.929995919076,
+		1.3263590952062
+	],
+	"svy21": [
+		38759.2131650476,
+		34287.7768086623
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

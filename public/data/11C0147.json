@@ -1,0 +1,47 @@
+{
+	"name": "LIM JIT FONG COLORECTAL CENTRE",
+	"tel": "64760181",
+	"fax": "64760183",
+	"licensee": "Lim Jit Fong",
+	"licensePeriod": "21/09/2015 to 20/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #09-09 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Lim Jit Fong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"FRCS (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1999"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm"
+	},
+	"id": "11C0147",
+	"coordinates": [
+		103.820124457043,
+		1.30706156461198
+	],
+	"svy21": [
+		26531.6166354362,
+		32153.7488403134
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

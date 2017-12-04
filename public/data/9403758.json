@@ -1,0 +1,45 @@
+{
+	"name": "RIDGEWOOD MEDICAL CLINIC",
+	"tel": "64691666",
+	"fax": "64683575",
+	"licensee": "CHAN WAH MEI",
+	"licensePeriod": "08/02/2014 to 07/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "5 RIDGEWOOD CLOSE, G4 RIDGEWOOD CONDOMINIUM, Singapore 276696",
+	"doctorInCharge": [
+		{
+			"name": "CHAN WAH MEI",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9403758",
+	"coordinates": [
+		103.778947255411,
+		1.31661898038664
+	],
+	"svy21": [
+		21948.9982867874,
+		33210.620870648
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

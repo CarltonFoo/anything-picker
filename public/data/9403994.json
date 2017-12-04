@@ -1,0 +1,44 @@
+{
+	"name": "HEALTHCARE FOR WOMEN",
+	"tel": "63155035",
+	"fax": "63155037",
+	"licensee": "HEALTHCARE FOR WOMEN PRIVATE LIMITED",
+	"licensePeriod": "05/08/2015 to 04/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 106A Punggol Field, #01-546 Singapore 821106",
+	"doctorInCharge": [
+		{
+			"name": "Chen Chern Yi",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9403994",
+	"coordinates": [
+		103.90834413446,
+		1.39660486076682
+	],
+	"svy21": [
+		36349.3446465842,
+		42055.1186409667
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

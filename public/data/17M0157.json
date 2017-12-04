@@ -1,0 +1,41 @@
+{
+	"name": "TOKYO GARDEN MEDICAL AESTHETICS",
+	"tel": "62215929",
+	"fax": "62214098",
+	"licensee": "GOOD MEDICAL PTE. LTD.",
+	"licensePeriod": "31/05/2017 to 30/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "435 ORCHARD ROAD, WISMA ATRIA, #15-04 Singapore 238877",
+	"doctorInCharge": [
+		{
+			"name": "Wee Hoe Meng Daniel",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0157",
+	"coordinates": [
+		103.833205752808,
+		1.30370477426152
+	],
+	"svy21": [
+		27987.443452687,
+		31782.5683790073
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

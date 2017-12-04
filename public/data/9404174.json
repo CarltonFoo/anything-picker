@@ -1,0 +1,50 @@
+{
+	"name": "LUSUMU FAMILY CLINIC",
+	"tel": "64459910",
+	"fax": "64450905",
+	"licensee": "Seah Chiew Wan",
+	"licensePeriod": "11/01/2016 to 10/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 530 Bedok North St 3, #01-638 Singapore 460530",
+	"doctorInCharge": [
+		{
+			"name": "Seah Chiew Wan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Thursday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Friday and Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "06:30 pm to 09:30 pm"
+	},
+	"id": "9404174",
+	"coordinates": [
+		103.927020293564,
+		1.33371332018836
+	],
+	"svy21": [
+		38428.0248825867,
+		35100.9576699287
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

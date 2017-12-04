@@ -1,0 +1,45 @@
+{
+	"name": "DRS THOMPSON & THOMSON RADLINK MEDICARE",
+	"tel": "65325376",
+	"fax": "65333860",
+	"licensee": "DRS THOMPSON & THOMSON (RADLINK MEDICARE) PTE. LTD.",
+	"licensePeriod": "21/09/2014 to 20/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "24 RAFFLES PLACE, CLIFFORD CENTRE, #02-08 Singapore 048621",
+	"doctorInCharge": [
+		{
+			"name": "P'ng Chin Guan",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:00 pm",
+		"Saturday": "09:30 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
+	"id": "9405707",
+	"coordinates": [
+		103.85213030831,
+		1.28385590711691
+	],
+	"svy21": [
+		30093.5899467627,
+		29587.7907209918
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

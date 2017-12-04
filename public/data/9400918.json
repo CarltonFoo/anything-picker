@@ -1,0 +1,38 @@
+{
+	"name": "LEE CLINIC & SURGERY",
+	"tel": "62251313",
+	"fax": "62251313",
+	"licensee": "LEE KEEN KHUEN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 333 KRETA AYER ROAD, #01-20 Singapore 080333",
+	"doctorInCharge": [
+		{
+			"name": "LEE KEEN KHUEN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9400918",
+	"coordinates": [
+		103.84246340102,
+		1.28074833681275
+	],
+	"svy21": [
+		29017.7442794954,
+		29244.1657780409
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

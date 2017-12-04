@@ -1,0 +1,39 @@
+{
+	"name": "HOUGANG GREEN DENTAL SURGERY",
+	"tel": "63867800",
+	"fax": "63867800",
+	"licensee": "ONG LIAN SAN CLEMENT",
+	"licensePeriod": "09/02/2017 to 08/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "21 HOUGANG STREET 51, HOUGANG GREEN SHOPPING MALL, #02-18 Singapore 538719",
+	"doctorInCharge": [
+		{
+			"name": "ONG LIAN SAN CLEMENT",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0043",
+	"coordinates": [
+		103.887832017102,
+		1.37924529070163
+	],
+	"svy21": [
+		34066.6627102569,
+		40135.5216910206
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

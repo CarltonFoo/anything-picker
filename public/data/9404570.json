@@ -1,0 +1,40 @@
+{
+	"name": "TOOTH ANGELS & CO. DENTAL SURGEONS",
+	"tel": "64680189",
+	"fax": "64680104",
+	"licensee": "TOOTH ANGELS & CO. DENTAL SURGEONS (CORONATION PLAZA) PTE. LTD.",
+	"licensePeriod": "25/09/2015 to 24/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "587 BUKIT TIMAH ROAD, CORONATION PLAZA, #02-34 Singapore 269707",
+	"doctorInCharge": [
+		{
+			"name": "MELVIN MARK CHIA",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9404570",
+	"coordinates": [
+		103.809999570047,
+		1.32383512178761
+	],
+	"svy21": [
+		25404.8279538853,
+		34008.4909447636
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

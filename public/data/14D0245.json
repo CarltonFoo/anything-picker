@@ -1,0 +1,37 @@
+{
+	"name": "COAST DENTAL",
+	"tel": "64404605",
+	"fax": "96450453",
+	"licensee": "SALMAH DENTAL CONSULTANCY PTE. LTD.",
+	"licensePeriod": "19/08/2016 to 18/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "479 JOO CHIAT ROAD, Singapore 427684",
+	"doctorInCharge": [
+		{
+			"name": "Nijamuddeen Abdul Latiff",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "14D0245",
+	"coordinates": [
+		103.904839882166,
+		1.30633253742861
+	],
+	"svy21": [
+		35959.6616695113,
+		32073.2461131327
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

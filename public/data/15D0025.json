@@ -1,0 +1,39 @@
+{
+	"name": "NEUSMILE DENTAL GROUP (KOVAN) PTE LTD",
+	"tel": "62860616",
+	"fax": "62860407",
+	"licensee": "NEUSMILE DENTAL GROUP (KOVAN) PTE. LTD.",
+	"licensePeriod": "02/02/2017 to 01/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "9 SIMON ROAD, Singapore 545895",
+	"doctorInCharge": [
+		{
+			"name": "HOW POW HIAN WINSTON",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0025",
+	"coordinates": [
+		103.885935907589,
+		1.36177436373461
+	],
+	"svy21": [
+		33855.6918369494,
+		38203.6699306313
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

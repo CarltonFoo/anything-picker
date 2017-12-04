@@ -1,0 +1,42 @@
+{
+	"name": "LEONG DENTAL SURGEONS",
+	"tel": "65356500",
+	"fax": "65356500",
+	"licensee": "LEONG KOK KIN",
+	"licensePeriod": "20/05/2017 to 19/05/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"address": "22 MALACCA STREET, ROYAL BROTHERS BUILDING, #10-01 Singapore 048980",
+	"doctorInCharge": [
+		{
+			"name": "LEONG KOK KIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:30 pm"
+	},
+	"id": "9400935",
+	"coordinates": [
+		103.850862398855,
+		1.28394905767084
+	],
+	"svy21": [
+		29952.4820292676,
+		29598.089826202
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

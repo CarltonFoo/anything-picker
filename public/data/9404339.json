@@ -1,0 +1,48 @@
+{
+	"name": "DRS. BAIN + PARTNERS",
+	"tel": "65325522",
+	"fax": "65344418",
+	"licensee": "DRS. BAIN AND PARTNERS LLP",
+	"licensePeriod": "03/01/2015 to 02/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 RAFFLES QUAY, ONE RAFFLES QUAY - NORTH TOWER, #09-03 Singapore 048583",
+	"doctorInCharge": [
+		{
+			"name": "ONG BEE SIM",
+			"qualifications": [
+				"MBBS (University of Queensland, Australia) 1986",
+				"Dip OM (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404339",
+	"coordinates": [
+		103.851899818913,
+		1.28118338714692
+	],
+	"svy21": [
+		30067.9405244123,
+		29292.2770711072
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

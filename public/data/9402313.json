@@ -1,0 +1,42 @@
+{
+	"name": "FIRST IMPRESSIONS DENTAL SURGERY PTE LTD",
+	"tel": "67942981",
+	"fax": "67797635",
+	"licensee": "FIRST IMPRESSIONS DENTAL SURGERY PTE LTD",
+	"licensePeriod": "17/08/2014 to 16/08/2019",
+	"licenseClass": "[ 5 Years ( 2D ) ]",
+	"address": "1 BT BATOK CENTRAL LINK, WEST MALL, #04-12 Singapore 658713",
+	"doctorInCharge": [
+		{
+			"name": "LIM TIEN SUNG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Sunday": "09:00 am to 09:00 pm"
+	},
+	"id": "9402313",
+	"coordinates": [
+		103.749244800949,
+		1.3500192089773
+	],
+	"svy21": [
+		18643.5269475635,
+		36903.9428237472
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

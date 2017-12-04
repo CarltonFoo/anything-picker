@@ -1,0 +1,53 @@
+{
+	"name": "LIM COUNTRY CLINIC",
+	"tel": "62868047",
+	"fax": "62889394",
+	"licensee": "LIM KA PHECK ANGELA",
+	"licensePeriod": "17/08/2016 to 16/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 208 HOUGANG ST 21, #01-207 Singapore 530208",
+	"doctorInCharge": [
+		{
+			"name": "LIM KA PHECK ANGELA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401991",
+	"coordinates": [
+		103.886636111344,
+		1.35869679955106
+	],
+	"svy21": [
+		33933.6238437379,
+		37863.3701375686
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "THE O&G CARE CLINIC",
+	"tel": "63976138",
+	"fax": "63976139",
+	"licensee": "THE O&G CARE CLINIC PTE. LTD.",
+	"licensePeriod": "16/08/2016 to 15/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #09-12 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "wee horng yen",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1995",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1999"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"id": "12C0174",
+	"coordinates": [
+		103.844160737673,
+		1.32070490289998
+	],
+	"svy21": [
+		29206.6250939984,
+		33662.3578150738
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

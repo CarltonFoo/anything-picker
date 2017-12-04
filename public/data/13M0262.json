@@ -1,0 +1,47 @@
+{
+	"name": "NOBEL ENT HEAD, NECK & THYROID  SURGERY CENTRE",
+	"tel": "62516630",
+	"fax": "62516631",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "29/06/2016 to 28/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL, #05-01 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Hobbs Christopher Geoffrey Laurence",
+			"qualifications": [
+				"MBBS (Imperial College of Science, Technology and Medicine, United Kingdom) 1996",
+				"BSc (Pathology with Basic Med Sci) (University of London, United Kingdom) 1995",
+				"MRCS (Royal College of Surgeons of England, United Kingdom) 2000",
+				"FRCS (Royal College of Surgeons of England, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"id": "13M0262",
+	"coordinates": [
+		103.837601926678,
+		1.3418228200124
+	],
+	"svy21": [
+		28476.690207812,
+		35997.4666535873
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

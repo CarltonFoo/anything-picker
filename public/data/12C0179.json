@@ -1,0 +1,50 @@
+{
+	"name": "WOODGROVE MEDICAL",
+	"tel": "63668831",
+	"fax": "63669961",
+	"licensee": "WOODGROVE MEDICAL LLP",
+	"licensePeriod": "03/09/2016 to 02/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"address": "30 WOODLANDS AVENUE 1, THE WOODGROVE, #02-03/04 Singapore 739065",
+	"doctorInCharge": [
+		{
+			"name": "Ang Kiam Hwee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 04:00 pm",
+		"Sunday": "08:30 am to 04:00 pm"
+	},
+	"id": "12C0179",
+	"coordinates": [
+		103.781136882893,
+		1.42919469096154
+	],
+	"svy21": [
+		22192.9543915149,
+		45658.6703248266
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"name": "UNITED CLINIC & SURGERY",
+	"tel": "62703765",
+	"fax": "62757907",
+	"licensee": "HO CHEONG HOCK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 8 TELOK BLANGAH CRESCENT, #01-157 Singapore 090008",
+	"doctorInCharge": [
+		{
+			"name": "HO CHEONG HOCK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401802",
+	"coordinates": [
+		103.819341303524,
+		1.27779539068996
+	],
+	"svy21": [
+		26444.4410891002,
+		28917.6466952842
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"name": "TWINKLE DENTAL (TAMPINES NORTH) PTE LTD",
+	"tel": "66948995",
+	"fax": "66948995",
+	"licensee": "TWINKLE DENTAL (TAMPINES NORTH) PTE. LTD.",
+	"licensePeriod": "03/11/2015 to 02/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 476 TAMPINES STREET 44, #01-185 Singapore 520476",
+	"doctorInCharge": [
+		{
+			"name": "Russell Tan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0376",
+	"coordinates": [
+		103.953359364582,
+		1.36092283930267
+	],
+	"svy21": [
+		41359.1447957261,
+		38109.7811271157
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

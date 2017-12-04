@@ -1,0 +1,37 @@
+{
+	"name": "PING'S CLINIC & SURGERY",
+	"tel": "64549516",
+	"licensee": "KWAK PING LAM",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 555 ANG MO KIO AVE 10, #01-1974 Singapore 560555",
+	"doctorInCharge": [
+		{
+			"name": "KWAK PING LAM",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401321",
+	"coordinates": [
+		103.857024005721,
+		1.37119666371479
+	],
+	"svy21": [
+		30638.1255327361,
+		39245.4890570361
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

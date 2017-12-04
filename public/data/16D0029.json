@@ -1,0 +1,43 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64353756",
+	"fax": "64382248",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "27/01/2016 to 26/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "21 HILLCREST ROAD, RAFFLES GIRLS' PRIMARY SCHOOL, Singapore 289072",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0029",
+	"coordinates": [
+		103.806442915912,
+		1.32940426000123
+	],
+	"svy21": [
+		25009.0146507304,
+		34624.3017604034
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

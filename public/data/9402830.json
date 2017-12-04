@@ -1,0 +1,43 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "65651863",
+	"fax": "65651863",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 2 BT BATOK ST 52, Singapore 659243",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402830",
+	"coordinates": [
+		103.754165828711,
+		1.35424191127296
+	],
+	"svy21": [
+		19191.1979939705,
+		37370.8497486655
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

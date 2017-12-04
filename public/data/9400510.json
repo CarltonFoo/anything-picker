@@ -1,0 +1,43 @@
+{
+	"name": "FAITH FAMILY CLINIC",
+	"tel": "64466326",
+	"fax": "64448019",
+	"licensee": "NG TSORNG CHINN",
+	"licensePeriod": "01/01/2015 to 31/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 57 MARINE TERRACE, #01-113 Singapore 440057",
+	"doctorInCharge": [
+		{
+			"name": "NG TSORNG CHINN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400510",
+	"coordinates": [
+		103.915484799847,
+		1.30651257347317
+	],
+	"svy21": [
+		37144.34298521,
+		32093.189808676
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

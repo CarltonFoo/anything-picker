@@ -1,0 +1,45 @@
+{
+	"name": "LEONG EYE CLINIC & SURGERY",
+	"tel": "67340325",
+	"fax": "67340326",
+	"licensee": "LEONG SEEK KEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #06-43 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "LEONG SEEK KEE",
+			"qualifications": [
+				"MBBS (University of Malaya, Singapore) 1961",
+				"DO (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1967",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1971",
+				"FAMS (Academy of Medicine, Singapore) 1974"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"id": "9400936",
+	"coordinates": [
+		103.833961913093,
+		1.30450609984441
+	],
+	"svy21": [
+		28071.5971646011,
+		31871.1748442724
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "THONG TECK SIAN TONG LIAN SIN SIA-NKF DIALYSIS CENTRE",
+	"tel": "32990200",
+	"fax": "63654179",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "14/07/2017 to 13/07/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"address": "BLK 825 WOODLANDS ST 81, #01-30 Singapore 730825",
+	"doctorInCharge": [
+		{
+			"name": "Mooppil Nanda Kumar",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "07:00 am to 11:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9402509",
+	"coordinates": [
+		103.789589257706,
+		1.4388312258324
+	],
+	"svy21": [
+		23133.5983934859,
+		46724.2105608732
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

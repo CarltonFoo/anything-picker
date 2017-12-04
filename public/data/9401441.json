@@ -1,0 +1,47 @@
+{
+	"name": "S Y NG CLINIC",
+	"tel": "64528144",
+	"fax": "65522240",
+	"licensee": "NG SENG YEUN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 226A ANG MO KIO AVE 1, #01-631 Singapore 561226",
+	"doctorInCharge": [
+		{
+			"name": "NG SENG YEUN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Saturday": "09:12 pm to 09:12 pm, 02:04 pm to 09:12 pm, 07:09 pm to 09:12 pm"
+	},
+	"id": "9401441",
+	"coordinates": [
+		103.839283930528,
+		1.36749458006864
+	],
+	"svy21": [
+		28663.8720501214,
+		38836.1192687973
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

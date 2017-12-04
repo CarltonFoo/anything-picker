@@ -1,0 +1,41 @@
+{
+	"name": "ISMILE DENTAL SURGERY",
+	"tel": "63885061",
+	"fax": "63829102",
+	"licensee": "ISMILE DENTAL SURGERY PTE LTD",
+	"licensePeriod": "29/08/2016 to 28/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "1 SENGKANG SQUARE, COMPASS ONE, #04-15 Singapore 545078",
+	"doctorInCharge": [
+		{
+			"name": "Chiong Yew Chieng",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0250",
+	"coordinates": [
+		103.895070061064,
+		1.39205277861036
+	],
+	"svy21": [
+		34872.1297153383,
+		41551.7292007189
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

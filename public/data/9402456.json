@@ -1,0 +1,43 @@
+{
+	"name": "Q & M DENTAL SURGERY (TOA PAYOH) PTE LTD",
+	"tel": "63566789",
+	"fax": "63581326",
+	"licensee": "Q & M DENTAL SURGERY (TOA PAYOH) PTE. LTD.",
+	"licensePeriod": "26/04/2015 to 25/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 190 TOA PAYOH LOR 6, #01-590 Singapore 310190",
+	"doctorInCharge": [
+		{
+			"name": "NG JET WEI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9402456",
+	"coordinates": [
+		103.848704963622,
+		1.33297913475345
+	],
+	"svy21": [
+		29712.3441096144,
+		35019.5821351688
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

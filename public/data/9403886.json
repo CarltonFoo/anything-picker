@@ -1,0 +1,39 @@
+{
+	"name": "THE MEDICAL PRACTICE PTE LTD",
+	"tel": "63329086",
+	"fax": "62386053",
+	"licensee": "THE MEDICAL PRACTICE PTE. LTD.",
+	"licensePeriod": "29/12/2014 to 28/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 RAFFLES LINK, #01-03A Singapore 039393",
+	"doctorInCharge": [
+		{
+			"name": "KARINA KHO SOO EE",
+			"qualifications": [
+				"BMBS (University of Nottingham, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"id": "9403886",
+	"coordinates": [
+		103.854173501689,
+		1.29277773074185
+	],
+	"svy21": [
+		30320.9724235218,
+		30574.3217429761
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

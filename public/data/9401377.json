@@ -1,0 +1,39 @@
+{
+	"name": "RAINBOW DENTAL SURGERY",
+	"tel": "65661637",
+	"fax": "65661637",
+	"licensee": "See How Bin",
+	"licensePeriod": "10/10/2014 to 09/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 376 Bukit Batok Street 31, #01-102 Singapore 650376",
+	"doctorInCharge": [
+		{
+			"name": "See How Bin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9401377",
+	"coordinates": [
+		103.749579868748,
+		1.35831705249928
+	],
+	"svy21": [
+		18680.8479768457,
+		37821.4757067505
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

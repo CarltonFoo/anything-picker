@@ -1,0 +1,40 @@
+{
+	"name": "ASSOCIATED DENTAL SURGERY",
+	"tel": "64683481",
+	"fax": "64683481",
+	"licensee": "SEOW KWANG MIN",
+	"licensePeriod": "06/03/2014 to 05/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "2 PANDAN VALLEY, #01-204 Singapore 597626",
+	"doctorInCharge": [
+		{
+			"name": "SEOW KWANG MIN",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 1975"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400071",
+	"coordinates": [
+		103.778972458647,
+		1.3204417118743
+	],
+	"svy21": [
+		21951.8123920374,
+		33633.3190141767
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

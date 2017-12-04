@@ -1,0 +1,41 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67847817",
+	"fax": "67847817",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "22/02/2014 to 21/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "250 TAMPINES STREET 12, TAMPINES PRIMARY SCHOOL, Singapore 529426",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday to Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9405492",
+	"coordinates": [
+		103.944004684986,
+		1.34977870805929
+	],
+	"svy21": [
+		40318.1325834999,
+		36877.4678724092
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

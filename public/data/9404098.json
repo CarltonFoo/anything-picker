@@ -1,0 +1,43 @@
+{
+	"name": "THE AESTHETICS CLINIC",
+	"tel": "62358770",
+	"fax": "62357081",
+	"licensee": "The Aesthetics Clinic Pte. Ltd.",
+	"licensePeriod": "22/02/2014 to 21/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 Scotts Road, Shaw Centre, #27-00 Singapore 228208",
+	"doctorInCharge": [
+		{
+			"name": "Dana Elliott Srither",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9404098",
+	"coordinates": [
+		103.831970581812,
+		1.30611334655652
+	],
+	"svy21": [
+		27849.9803452557,
+		32048.8959439825
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

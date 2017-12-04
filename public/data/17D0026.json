@@ -1,0 +1,38 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63440508",
+	"fax": "63440508",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "14/02/2017 to 13/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "51 KOON SENG ROAD, HAIG GIRLS' SCHOOL, Singapore 427072",
+	"doctorInCharge": [
+		{
+			"name": "Tan Noeline",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17D0026",
+	"coordinates": [
+		103.902902557195,
+		1.31194344271385
+	],
+	"svy21": [
+		35744.03794121,
+		32693.6655622404
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

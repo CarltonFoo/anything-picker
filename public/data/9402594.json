@@ -1,0 +1,40 @@
+{
+	"name": "THE DENTAL CENTRE, NTU",
+	"tel": "67908578",
+	"fax": "67908578",
+	"licensee": "NEO TSUN HAN",
+	"licensePeriod": "14/01/2014 to 13/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK - NANYANG AVENUE, NTU MEDICAL CENTRE, Singapore 639798",
+	"doctorInCharge": [
+		{
+			"name": "NEO TSUN HAN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9402594",
+	"coordinates": [
+		103.680612953205,
+		1.34289069865789
+	],
+	"svy21": [
+		11005.5048940815,
+		36116.0776500404
+	],
+	"planningArea": "WC",
+	"neighbours": [
+		"LK",
+		"PN",
+		"JW",
+		"SK",
+		"TH",
+		"CK",
+		"TS"
+	]
+}

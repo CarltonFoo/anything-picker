@@ -1,0 +1,43 @@
+{
+	"name": "PACIFIC VEIN AND ENDOVASCULAR CENTRE",
+	"tel": "62382966",
+	"fax": "62350023",
+	"licensee": "CHENG AND ASSOCIATES HEALTHCARE SOLUTIONS PTE. LTD.",
+	"licensePeriod": "23/09/2016 to 22/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "290 Orchard Road, Paragon, #19-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Shin Chuen",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1998",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2006"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "16C0283",
+	"coordinates": [
+		103.835857545469,
+		1.30387230879998
+	],
+	"svy21": [
+		28282.5637398548,
+		31801.0936260298
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

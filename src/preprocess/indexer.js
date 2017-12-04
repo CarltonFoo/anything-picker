@@ -23,6 +23,9 @@ export function indexSchoolData () {
     'studentCare',
     'uniqueCcas'
   ])
+  // include only those that are necessary
+  // needed for display and filtering
+  // write a feature extractor for each index
 
   const result = []
   Object.keys(forwardIndex).forEach(key => {
@@ -30,6 +33,6 @@ export function indexSchoolData () {
     result.push(forwardIndex[key])
   })
 
-  fs.writeFileSync('public/schoolList.json', JSON.stringify(result))
+  fs.writeFileSync('public/clinicList.json', JSON.stringify(result))
   return result
 }

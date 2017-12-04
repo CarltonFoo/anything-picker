@@ -1,0 +1,38 @@
+{
+	"name": "NF DENTISMILE @ MARINASQ",
+	"tel": "62278885",
+	"fax": "63379210",
+	"licensee": "NF DENTISMILE PTE. LTD.",
+	"licensePeriod": "27/05/2016 to 26/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "6 RAFFLES BOULEVARD, MARINA SQUARE, #B1-11 Singapore 039594",
+	"doctorInCharge": [
+		{
+			"name": "Siah Yien Kiat",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0165",
+	"coordinates": [
+		103.857026955372,
+		1.29157395654847
+	],
+	"svy21": [
+		30638.5383880343,
+		30441.2173765413
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "ANTHONY'S BABY & CHILD CLINIC",
+	"tel": "62802122",
+	"fax": "62883279",
+	"licensee": "Chee Keng Jin Anthony",
+	"licensePeriod": "12/12/2014 to 11/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 327 Hougang Avenue 5, #01-160 Singapore 530327",
+	"doctorInCharge": [
+		{
+			"name": "Chee Keng Jin Anthony",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"M Med (Paed) (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"id": "9404315",
+	"coordinates": [
+		103.895987624672,
+		1.36830683201863
+	],
+	"svy21": [
+		34974.3117042501,
+		38926.024170028
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

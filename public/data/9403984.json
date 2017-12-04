@@ -1,0 +1,51 @@
+{
+	"name": "HEALTHMARK FAMILY MEDICINE CLINIC",
+	"tel": "67672281",
+	"fax": "67672283",
+	"licensee": "United Vision Holdings Pte. Ltd.",
+	"licensePeriod": "05/07/2015 to 04/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "BLK 601 Choa Chu Kang St 62, #01-09 Singapore 680601",
+	"doctorInCharge": [
+		{
+			"name": "Siaw Tung Yeng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Saturday": "08:30 am to 01:00 pm",
+		"Monday and Wednesday": "08:30 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:30 pm to 05:00 pm"
+	},
+	"id": "9403984",
+	"coordinates": [
+		103.744921736632,
+		1.3969336307861
+	],
+	"svy21": [
+		18162.6096388772,
+		42091.5242453497
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

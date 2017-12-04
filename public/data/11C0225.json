@@ -1,0 +1,44 @@
+{
+	"name": "Q & M DENTAL CENTRE (BUGIS)",
+	"tel": "68372292",
+	"fax": "63377309",
+	"licensee": "Q & M DENTAL SURGERY (BRADDELL) PTE. LTD.",
+	"licensePeriod": "07/12/2015 to 06/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "516A North Bridge Road, #03-00, #04-00, #02-00, Singapore 188740",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday to Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "11C0225",
+	"coordinates": [
+		103.855957521689,
+		1.2986158986511
+	],
+	"svy21": [
+		30519.512659668,
+		31219.8779958636
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

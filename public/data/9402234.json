@@ -1,0 +1,43 @@
+{
+	"name": "NEW WORLD CLINIC & SURGERY",
+	"tel": "63929201",
+	"fax": "63929202",
+	"licensee": "ONG HOK YU",
+	"licensePeriod": "16/01/2014 to 15/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"address": "1 JLN BERSEH, NEW WORLD CENTRE, #01-02 Singapore 209037",
+	"doctorInCharge": [
+		{
+			"name": "ONG HOK YU",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 11:45 am, 02:00 pm to 03:45 pm, 06:45 pm to 08:00 pm"
+	},
+	"id": "9402234",
+	"coordinates": [
+		103.857010982845,
+		1.30778509510262
+	],
+	"svy21": [
+		30636.7439808873,
+		32233.7616801783
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

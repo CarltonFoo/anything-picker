@@ -1,0 +1,37 @@
+{
+	"name": "HEALTHWAY DENTAL CLINIC",
+	"tel": "62609081",
+	"fax": "62609083",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "02/09/2015 to 01/09/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "BLK 710 TAMPINES STREET 71, #01-134 Singapore 520710",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hock Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0297",
+	"coordinates": [
+		103.937730607912,
+		1.35860238807567
+	],
+	"svy21": [
+		39619.854769608,
+		37853.116131654
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

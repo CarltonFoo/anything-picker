@@ -1,0 +1,41 @@
+{
+	"name": "YEOH & ASSOCIATES DENTAL SURGEONS",
+	"tel": "62353665",
+	"fax": "62566719",
+	"licensee": "YEOH CHENG EE FREDRICK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"address": "402 ORCHARD RD, DELFI ORCHARD, #05-17 Singapore 238876",
+	"doctorInCharge": [
+		{
+			"name": "YEOH CHENG EE FREDRICK",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:00 am, 02:00 pm to 04:00 pm"
+	},
+	"id": "9401940",
+	"coordinates": [
+		103.828469994324,
+		1.30717887298468
+	],
+	"svy21": [
+		27460.3975249408,
+		32166.7168552578
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

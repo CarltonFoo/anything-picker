@@ -1,0 +1,42 @@
+{
+	"name": "WONG, ONG & PARTNERS DENTAL SURGEONS",
+	"tel": "65323663",
+	"fax": "65323207",
+	"licensee": "ONG ENG CHIANG",
+	"licensePeriod": "30/09/2015 to 29/09/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "39 ROBINSON ROAD, ROBINSON POINT, #17-02 Singapore 068911",
+	"doctorInCharge": [
+		{
+			"name": "ONG ENG CHIANG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:30 pm"
+	},
+	"id": "9401895",
+	"coordinates": [
+		103.849547235122,
+		1.27959191340039
+	],
+	"svy21": [
+		29806.1182277398,
+		29116.2983478792
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

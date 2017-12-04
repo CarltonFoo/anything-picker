@@ -1,0 +1,42 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64354107",
+	"fax": "63454107",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "21/01/2015 to 20/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"address": "17 MARTIA ROAD,, CHIJ (KATONG) PRIMARY SCHOOL, Singapore 424821",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9405082",
+	"coordinates": [
+		103.911105620496,
+		1.30648535277089
+	],
+	"svy21": [
+		36656.9804726075,
+		32090.1643723622
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

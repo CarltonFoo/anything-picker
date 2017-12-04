@@ -1,0 +1,41 @@
+{
+	"name": "NOUR!SH DENTAL CARE & IMPLANTS",
+	"tel": "63440091",
+	"fax": "63440091",
+	"licensee": "NOUR!SH (PTE.) LIMITED",
+	"licensePeriod": "16/08/2016 to 15/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "132 EAST COAST ROAD, Singapore 428817",
+	"doctorInCharge": [
+		{
+			"name": "Chionh Chye Kiat Eric",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000",
+				"MSc (University of London, United Kingdom) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0241",
+	"coordinates": [
+		103.905347008954,
+		1.30601911253084
+	],
+	"svy21": [
+		36016.101228565,
+		32038.5907851756
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

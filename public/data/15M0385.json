@@ -1,0 +1,41 @@
+{
+	"name": "LIFESCAN MEDICAL CENTRE",
+	"tel": "65086350",
+	"fax": "65086351",
+	"licensee": "THE MEDICAL SUITE PTE. LTD.",
+	"licensePeriod": "12/11/2015 to 11/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"address": "290 ORCHARD ROAD, PARAGON, #07-18 to 20 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Low Bee Lee",
+			"qualifications": [
+				"MB BCh BAO, LRCP & SI (National University of Ireland, Ireland) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "15M0385",
+	"coordinates": [
+		103.835857545469,
+		1.30387230879998
+	],
+	"svy21": [
+		28282.5637398548,
+		31801.0936260298
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

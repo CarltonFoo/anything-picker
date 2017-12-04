@@ -1,0 +1,51 @@
+{
+	"name": "HOUGANG CENTRAL MEDICAL CLINIC",
+	"tel": "96354047",
+	"fax": "63820405",
+	"licensee": "KONG SUI SHING GEORGINA",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"address": "BLK 804 HOUGANG CENTRAL, #01-124 Singapore 530804",
+	"doctorInCharge": [
+		{
+			"name": "KONG SUI SHING GEORGINA",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400704",
+	"coordinates": [
+		103.89447367673,
+		1.37115128124189
+	],
+	"svy21": [
+		34805.8194035785,
+		39240.5447213594
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}
