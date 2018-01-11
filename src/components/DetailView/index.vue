@@ -16,10 +16,7 @@
 import {mapState, mapActions} from 'vuex'
 import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
-import CardForPrimary from './CardForPrimary'
-import CardForPreschool from './CardForPreschool'
-
-const DetailCard = process.env.VERSION === 'preschool' ? CardForPreschool : CardForPrimary
+import DetailCard from './DetailCard'
 
 export default {
   name: 'DetailView',
@@ -28,13 +25,13 @@ export default {
     selectedTab: String
   },
   computed: {
-    ...mapState(['schoolDetail', 'travelTime', 'bookmarked', 'location']),
+    ...mapState(['entityDetail', 'travelTime', 'bookmarked', 'location']),
     ...mapState({
       homeSchoolDistance: state => state.homeSchoolDistance}
     ),
     detail () {
-      if (this.schoolId in this.schoolDetail) {
-        let school = this.schoolDetail[this.schoolId]
+      if (this.schoolId in this.entityDetail) {
+        let school = this.entityDetail[this.schoolId]
 
         if (this.location) {
           // const {oneKm, twoKm} = this.homeSchoolDistance
@@ -53,7 +50,7 @@ export default {
 
         return school
       } else {
-        this.fetchSchoolDetail(this.schoolId)
+        this.fetchEntityDetail(this.schoolId)
       }
     },
     isBookmarked () {
@@ -61,7 +58,7 @@ export default {
     }
   },
   methods: {
-    ...mapActions(['fetchSchoolDetail']),
+    ...mapActions(['fetchEntityDetail']),
     close () {
       this.$router.push({path: this.selectedTab, query: this.$route.query})
     }
