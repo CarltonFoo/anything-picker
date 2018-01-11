@@ -9,7 +9,6 @@ files.forEach(file => {
   try {
     cleanOperatingHours
     const raw = require('../../data/raw/' + file)
-    // const raw = require('../../data/rawtest/' + file)
     const processed = Object.assign({}, raw)
     processed.id = raw.hciCode
     delete processed.hciCode
@@ -28,8 +27,7 @@ files.forEach(file => {
     processed.location = location
     Object.assign(processed, location)
 
-    fs.writeFileSync(`public/data/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
-    // fs.writeFileSync(`public/outputtest/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
+    fs.writeFileSync(`public/data/entities/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
   } catch (err) {
     console.log('Bad record', file)
     throw err
