@@ -1,0 +1,5634 @@
+[
+ {
+   "S": {
+      "N": 1
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "BALESTIER",
+   "CLINIC NAME": "ACCESS MEDICAL (WHAMPOA)",
+   "PHONE": "62521070",
+   "FAX": 67107327,
+   "Address": "Whampoa Drive 87 #01-869  Singapore 320087"
+},
+ {
+   "S": {
+      "N": 2
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "BALESTIER",
+   "CLINIC NAME": "HEAL MEDICAL CENTRE (FORMERLY KNOWN AS HEAL BALESTIER CLINIC PTE LTD)",
+   "PHONE": "62509550 /\n62512501",
+   "FAX": 63550598,
+   "Address": "Balestier Road 262 #04-01/02 Okio Singapore 329714"
+},
+ {
+   "S": {
+      "N": 3
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "BALESTIER",
+   "CLINIC NAME": "LIVEWELL MEDICAL FAMILY CLINIC",
+   "PHONE": "69099888",
+   "FAX": 69091448,
+   "Address": "Ah Hood Road 20 #01-08 Zhongshan Mall Singapore 329984"
+},
+ {
+   "S": {
+      "N": 4
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "BALESTIER",
+   "CLINIC NAME": "PARIQUA CLINIC",
+   "PHONE": "62921351",
+   "FAX": 62921351,
+   "Address": "Bendemeer Road 47 #01-1463  Singapore 330047"
+},
+ {
+   "S": {
+      "N": 5
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "BALESTIER",
+   "CLINIC NAME": "PLUSHEALTH MEDICAL CLINIC & SURGERY",
+   "PHONE": "62647845",
+   "FAX": 62648520,
+   "Address": "Whampoa Drive 89 #01-841  Singapore 320089"
+},
+ {
+   "S": {
+      "N": 6
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "BALESTIER",
+   "CLINIC NAME": "PROVIDENCE CLINIC @ BALESTIER PTE LTD",
+   "PHONE": "62550063",
+   "FAX": 62550063,
+   "Address": "Balestier Road 400 #01-45 Balestier Plaza Singapore 329802"
+},
+ {
+   "S": {
+      "N": 7
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "BUKIT TIMAH",
+   "CLINIC NAME": "DR.W MEDICAL CLINIC",
+   "PHONE": "64754262",
+   "FAX": 64754992,
+   "Address": "Empress Road 8 #01-09  Singapore 260008"
+},
+ {
+   "S": {
+      "N": 8
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "BUKIT TIMAH",
+   "CLINIC NAME": "YAP MEDICARE CLINIC & SURGERY",
+   "PHONE": "64712338",
+   "FAX": 64763371,
+   "Address": "Empress Road 8 #01-03  Singapore 260008"
+},
+ {
+   "S": {
+      "N": 9
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "FARRER PARK",
+   "CLINIC NAME": "Q & M MEDICAL & AESTHETIC CLINIC (FARRER PARK) PTE LTD",
+   "PHONE": "65099558",
+   "FAX": 65099568,
+   "Address": "Kitchener Road 180 #B1-13/15 City Square Mall Singapore 208539"
+},
+ {
+   "S": {
+      "N": 10
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "HOLLAND",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (HOLLAND DRIVE)",
+   "PHONE": "67789793",
+   "FAX": 67789521,
+   "Address": "Holland Drive 41 #01-07  Singapore 270041"
+},
+ {
+   "S": {
+      "N": 11
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "HOLLAND",
+   "CLINIC NAME": "MAY MEDICAL CLINIC & SURGERY PTE LTD",
+   "PHONE": "67743328",
+   "FAX": 67743329,
+   "Address": "Holland Drive 41 #01-19  Singapore 270041"
+},
+ {
+   "S": {
+      "N": 12
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "HOLLAND",
+   "CLINIC NAME": "RIDGEWOOD MEDICAL CLINIC",
+   "PHONE": "64691666",
+   "FAX": 64683575,
+   "Address": "Ridgewood Close 5 #G4 Ridgewood Condominium Singapore 276696"
+},
+ {
+   "S": {
+      "N": 13
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "HOLLAND",
+   "CLINIC NAME": "THE GP ENDOSCOPY & PILES CENTRE\n(DLEEDON)",
+   "PHONE": "64635633",
+   "FAX": 64635233,
+   "Address": "Leedon Heights 19 #01-62 D'Leedon Singapore 266227"
+},
+ {
+   "S": {
+      "N": 14
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "LITTLE INDIA",
+   "CLINIC NAME": "ACUMED MEDICAL GROUP (SERANGOON)",
+   "PHONE": "63415288",
+   "FAX": 63415289,
+   "Address": "Belilios Lane 4A & 6A Level 2  Singapore 219953"
+},
+ {
+   "S": {
+      "N": 15
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "LITTLE INDIA",
+   "CLINIC NAME": "APOLLO MEDICAL CENTRE",
+   "PHONE": "62962777",
+   "FAX": 62961156,
+   "Address": "Chander Road 668 #01-24  Singapore 210668"
+},
+ {
+   "S": {
+      "N": 16
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "LITTLE INDIA",
+   "CLINIC NAME": "TAYKA MEDICAL",
+   "PHONE": "63924473",
+   "FAX": 63924593,
+   "Address": "Desker Road 29A   Singapore 209562"
+},
+ {
+   "S": {
+      "N": 17
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "NOVENA",
+   "CLINIC NAME": "A LIFE CLINIC PTE LTD",
+   "PHONE": "67372283",
+   "FAX": 62561328,
+   "Address": "Sinaran Drive 10 #09-21 Novena Medical Centre Singapore 307506"
+},
+ {
+   "S": {
+      "N": 18
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "NOVENA",
+   "CLINIC NAME": "CENTRAL HEALTH (MEDICAL CENTRE) (FORMERLY KNOWN AS CENTRAL @ NOVENA (MEDICAL CLINIC))",
+   "PHONE": "65849388",
+   "FAX": 65849488,
+   "Address": "Hougang Avenue 8 681 #01-829  Singapore 530681"
+},
+ {
+   "S": {
+      "N": 19
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "NOVENA",
+   "CLINIC NAME": "FEMA CLINIC & SURGERY",
+   "PHONE": "68543720 /\n64451936",
+   "FAX": null,
+   "Address": "Sinaran Drive 10 #09-32 Novena Medical Centre Singapore 307506"
+},
+ {
+   "S": {
+      "N": 20
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "NOVENA",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CENTRE (THOMSON)",
+   "PHONE": "63528696",
+   "FAX": 63528695,
+   "Address": "Thomson Road 238 #03-32A Novena Square Singapore 307683"
+},
+ {
+   "S": {
+      "N": 21
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "ACMS MEDICAL CLINIC",
+   "PHONE": "62625052",
+   "FAX": 62625022,
+   "Address": "Grange Road 1 #06-06 Orchard Building Singapore 239693"
+},
+ {
+   "S": {
+      "N": 22
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "AMDA INTERNATIONAL PEACE CLINIC",
+   "PHONE": "66941661",
+   "FAX": 66941771,
+   "Address": "Orchard Road 501 #05-01 Wheelock Place Singapore 238880"
+},
+ {
+   "S": {
+      "N": 23
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "CHONG'S MEDICAL CENTRE",
+   "PHONE": "63383297",
+   "FAX": 63325629,
+   "Address": "Clemenceau Avenue 190 #01-29/30 Singapore Shopping\nCentre Singapore 239924"
+},
+ {
+   "S": {
+      "N": 24
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "DOCTOR JAY MEDICAL CENTRE",
+   "PHONE": "62355196",
+   "FAX": 62355196,
+   "Address": "Killiney Road 115   Singapore 239553"
+},
+ {
+   "S": {
+      "N": 25
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "DRS FERNANDEZ & PARTNERS",
+   "PHONE": "63380686",
+   "FAX": 63347391,
+   "Address": "Grange Road 1 #12-04 Orchard Building Singapore 239693"
+},
+ {
+   "S": {
+      "N": 26
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "FULLERTON HEALTHCARE @ DRS TRYTHALL,\nHOY DAVIES (NGEE ANN CITY)",
+   "PHONE": "66643801",
+   "FAX": 68365542,
+   "Address": "Orchard Road 391B #25-07 Ngee Ann City Tower B Singapore 238874"
+},
+ {
+   "S": {
+      "N": 27
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "GP HEALTHCARE PTE LTD (FORMERLY KNOWN AS DR CHAN PENG MUN CLINIC & SURGERY)",
+   "PHONE": "67336060",
+   "FAX": 67385273,
+   "Address": "Koek Road 5 #01-23 Cuppage Plaza Singapore 228796"
+},
+ {
+   "S": {
+      "N": 28
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "HEALTHSPRINGS MEDICAL ASSOCIATES (FORMERLY KNOWN AS DR RICHARD CHOO & PARTNERS PTE LTD)",
+   "PHONE": "67345260",
+   "FAX": 67371960,
+   "Address": "Orchard Road 541 #10-02 Liat Towers Singapore 238881"
+},
+ {
+   "S": {
+      "N": 29
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "LIFESCAN MEDICAL CENTRE (ORCHARD)",
+   "PHONE": "62353253",
+   "FAX": 62352026,
+   "Address": "Orchard Road 290 #07-\n18/19/20 Tower 2, Lobby C,\nParagon Singapore 238859"
+},
+ {
+   "S": {
+      "N": 30
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "NEWCASTLE CLINIC PTE LTD",
+   "PHONE": "67362322",
+   "FAX": 67389186,
+   "Address": "Orchard Road 541 #18-02A Liat Towers Singapore 238881"
+},
+ {
+   "S": {
+      "N": 31
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "PACIFIC MEDICAL CLINIC (FORMERLY KNOWN\nAS ATRIA MEDICAL CLINIC)",
+   "PHONE": "67341433",
+   "FAX": 67362866,
+   "Address": "Orchard Road 290 #12-01 Paragon Medical Tower\nLift Lobby 1 Singapore 238859"
+},
+ {
+   "S": {
+      "N": 32
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "PARSONS MEDICAL CLINIC AND SURGERY PTE LTD",
+   "PHONE": "87770736 /\n97467720",
+   "FAX": 64846010,
+   "Address": "Orchard Road 360 #04-10 International Building Singapore 238869"
+},
+ {
+   "S": {
+      "N": 33
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "POINT MEDICAL GROUP (PARAGON)",
+   "PHONE": "62352343",
+   "FAX": 62357313,
+   "Address": "Orchard Road 290 #11-04/05 Paragon Medical Centre Singapore 238859"
+},
+ {
+   "S": {
+      "N": 34
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "PRIME MEDICAL GROUP PTE LTD",
+   "PHONE": "67328096",
+   "FAX": 67375841,
+   "Address": "Orchard Road 290 #09-11/12 The Paragon Singapore 238859"
+},
+ {
+   "S": {
+      "N": 35
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "TWIN CITY MEDICAL PRACTICE PTE LTD\n(ORCHARD)",
+   "PHONE": "62352511",
+   "FAX": 67333892,
+   "Address": "Orchard Road 391B #14-10 Ngee Ann City Tower B Singapore 238874"
+},
+ {
+   "S": {
+      "N": 36
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "RIVER VALLEY",
+   "CLINIC NAME": "ATLAS PACIFIC MEDICAL",
+   "PHONE": "63869098",
+   "FAX": 63869298,
+   "Address": "River Valley Road 428 #01-10 Loft @ Nathan Singapore 248327"
+},
+ {
+   "S": {
+      "N": 37
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "RIVER VALLEY",
+   "CLINIC NAME": "PINNACLE FAMILY CLINIC",
+   "PHONE": "68366986",
+   "FAX": 68365969,
+   "Address": "River Valley Road 240   Singapore 238297"
+},
+ {
+   "S": {
+      "N": 38
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "RIVER VALLEY",
+   "CLINIC NAME": "TWIN CITY MEDICAL CENTRE (KIM SENG\nPROMENADE)",
+   "PHONE": "62351175",
+   "FAX": 62351187,
+   "Address": "Kim Seng Promenade 1 #01-32 Great World City East\nTower (office lobby) Singapore 237994"
+},
+ {
+   "S": {
+      "N": 39
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "ACCESS MEDICAL (KIM KEAT)",
+   "PHONE": "62523858",
+   "FAX": 62523511,
+   "Address": "Lorong 7 Toa Payoh 19 #01-272  Singapore 310019"
+},
+ {
+   "S": {
+      "N": 40
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "ACCESS MEDICAL (TOA PAYOH)",
+   "PHONE": "62528223",
+   "FAX": 62523678,
+   "Address": "Lorong 4 Toa Payoh 66 #01-315  Singapore 310066"
+},
+ {
+   "S": {
+      "N": 41
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "AICARE FAMILY CLINIC",
+   "PHONE": "62667820",
+   "FAX": 62667825,
+   "Address": "Toa Payoh Lorong 2 83 #01-457  Singapore 310083"
+},
+ {
+   "S": {
+      "N": 42
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "ASSOCIATE DISPENSARIES",
+   "PHONE": "62562308",
+   "FAX": 62562308,
+   "Address": "Lorong 4 Toa Payoh 94 #01-20  Singapore 310094"
+},
+ {
+   "S": {
+      "N": 43
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "CAMRY MEDICAL CENTRE (TOA PAYOH)",
+   "PHONE": "62580553",
+   "FAX": 62589353,
+   "Address": "Toa Payoh Lorong 4 95 #01-66  Singapore 310095"
+},
+ {
+   "S": {
+      "N": 44
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "CHNG CLINIC & SURGERY",
+   "PHONE": "62504522",
+   "FAX": 62533803,
+   "Address": "Toa Payoh Central 178 #01-236  Singapore 310178"
+},
+ {
+   "S": {
+      "N": 45
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "DOCTORS INC. MEDICAL GROUP PTE LTD",
+   "PHONE": "63563633",
+   "FAX": 63562622,
+   "Address": "Lorong 6 Toa Payoh 190 #01-590  Singapore 310190"
+},
+ {
+   "S": {
+      "N": 46
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "DRS CHAN & TANG FAMILY CLINIC",
+   "PHONE": "62511782",
+   "FAX": 62511023,
+   "Address": "Lorong 1 Toa Payoh 125 #01-549  Singapore 310125"
+},
+ {
+   "S": {
+      "N": 47
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "E MEDICAL CLINIC & SURGERY (TOA PAYOH)",
+   "PHONE": "63569391",
+   "FAX": 63569391,
+   "Address": "Lorong 1 Toa Payoh 126 #01-567  Singapore 310126"
+},
+ {
+   "S": {
+      "N": 48
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "FAITH CLINIC (TOA PAYOH)",
+   "PHONE": "62527896",
+   "FAX": 62527896,
+   "Address": "Lorong 8 Toa Payoh 211 #01-19  Singapore 310211"
+},
+ {
+   "S": {
+      "N": 49
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "FAMILYCARE CLINIC & SURGERY",
+   "PHONE": "62509033",
+   "FAX": 63561521,
+   "Address": "Lorong 4 Toa Payoh 85C #01-380  Singapore 313085"
+},
+ {
+   "S": {
+      "N": 50
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (TOA PAYOH)",
+   "PHONE": "67333855",
+   "FAX": 67333532,
+   "Address": "Lorong 6 Toa Payoh 190 #02-512  Singapore 310190"
+},
+ {
+   "S": {
+      "N": 51
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "HEALTHWAY TOA PAYOH CLINIC",
+   "PHONE": "62553773",
+   "FAX": 63526772,
+   "Address": "Toa Payoh Central 177 #01-130  Singapore 310177"
+},
+ {
+   "S": {
+      "N": 52
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "LIM CLINIC & SURGERY (TOA PAYOH)",
+   "PHONE": "62527473",
+   "FAX": 62567833,
+   "Address": "Lorong 1 Toa Payoh 109 #01-312  Singapore 310109"
+},
+ {
+   "S": {
+      "N": 53
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "MAKE-WELL FAMILY CLINIC & SURGERY",
+   "PHONE": "62534235",
+   "FAX": 63545461,
+   "Address": "Lorong 4 Toa Payoh 70 #01-351  Singapore 310070"
+},
+ {
+   "S": {
+      "N": 54
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "MEDIVIEW CLINIC & SURGERY",
+   "PHONE": "62532351",
+   "FAX": 62532351,
+   "Address": "Lorong 1 Toa Payoh 150 #01-999  Singapore 310150"
+},
+ {
+   "S": {
+      "N": 55
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "MEI LING CLINIC (TOA PAYOH) LLP",
+   "PHONE": "62535600",
+   "FAX": 62530722,
+   "Address": "Lorong 6 Toa Payoh 500 #04-33 HDB Hub Singapore 310500"
+},
+ {
+   "S": {
+      "N": 56
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "MY FAMILY CLINIC (TOA PAYOH CENTRAL)",
+   "PHONE": "62380301",
+   "FAX": 62380351,
+   "Address": "Toa Payoh Central 79D #01-53  Singapore 314079"
+},
+ {
+   "S": {
+      "N": 57
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "PICTON MEDICAL CENTRE (TOA PAYOH)",
+   "PHONE": "63541220",
+   "FAX": 63567858,
+   "Address": "Toa Payoh Lorong 1 163 #01- 1012/1014  Singapore 310163"
+},
+ {
+   "S": {
+      "N": 58
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "UNIHEALTH 24-HR CLINIC (TOA PAYOH)",
+   "PHONE": "62031639",
+   "FAX": 62549938,
+   "Address": "Toa Payoh Central 178 #01-218  Singapore 310178"
+},
+ {
+   "S": {
+      "N": 59
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "BALESTIER",
+   "CLINIC NAME": "CHIRON MEDICAL CLINIC",
+   "PHONE": "62914963",
+   "FAX": null,
+   "Address": "St. George's Road 3 #01-95  Singapore 320003"
+},
+ {
+   "S": {
+      "N": 60
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "HOLLAND",
+   "CLINIC NAME": "SILVER CROSS FAMILY CLINIC (HOLLAND\nAVENUE)",
+   "PHONE": "64622818",
+   "FAX": 64662878,
+   "Address": "Holland Avenue 275A   Singapore 278993"
+},
+ {
+   "S": {
+      "N": 61
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "ORCHARD",
+   "CLINIC NAME": "WL&H MEDICAL",
+   "PHONE": "66629366",
+   "FAX": 66629367,
+   "Address": "Orchard Boulevard 1 #09-04 Camden Medical Centre Singapore 248649"
+},
+ {
+   "S": {
+      "N": 62
+   },
+   "ZONE": "CENTRAL",
+   "ESTATE": "TOA PAYOH",
+   "CLINIC NAME": "FINEST HEALTH MEDICAL CENTRE",
+   "PHONE": "62640852",
+   "FAX": 62640835,
+   "Address": "Lorong 7 Toa Payoh 19 #01-268  Singapore 310019"
+},
+ {
+   "S": {
+      "N": 63
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "BOON KENG",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (TOWNER)",
+   "PHONE": "62977592",
+   "FAX": 62976934,
+   "Address": "Towner Road 101 #01-236  Singapore 322101"
+},
+ {
+   "S": {
+      "N": 64
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "BOON KENG",
+   "CLINIC NAME": "TAN-TEOH CLINIC & SURGERY (TOWNER ROAD)",
+   "PHONE": "62992292",
+   "FAX": 62995662,
+   "Address": "Towner Road 101 #01-216  Singapore 322101"
+},
+ {
+   "S": {
+      "N": 65
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "BOON KENG",
+   "CLINIC NAME": "THE FAMILY CLINIC @ TOWNER",
+   "PHONE": "62950995",
+   "FAX": 62950997,
+   "Address": "Towner Road 101 #01-202  Singapore 322101"
+},
+ {
+   "S": {
+      "N": 66
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "GEYLANG",
+   "CLINIC NAME": "ANTEH DISPENSARY PTE LTD",
+   "PHONE": "67441809",
+   "FAX": 68418948,
+   "Address": "Lorong 22 Geylang 1 #01-02 Grandview Suites Singapore 398664"
+},
+ {
+   "S": {
+      "N": 67
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "GEYLANG",
+   "CLINIC NAME": "TAY CLINIC",
+   "PHONE": "67446336",
+   "FAX": 67442788,
+   "Address": "Geylang Road 494   Singapore 389452"
+},
+ {
+   "S": {
+      "N": 68
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "KALLANG",
+   "CLINIC NAME": "NORTHEAST MEDICAL GROUP (KALLANG)",
+   "PHONE": "62413298",
+   "FAX": 62413219,
+   "Address": "Jalan Tiga 39 #01-01  Singapore 390039"
+},
+ {
+   "S": {
+      "N": 69
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "KALLANG",
+   "CLINIC NAME": "SPRING MEDICAL CLINIC (OLD AIRPORT ROAD) PTE LTD",
+   "PHONE": "62477077",
+   "FAX": 62479385,
+   "Address": "Jalan Tiga 39 #01-03  Singapore 390039"
+},
+ {
+   "S": {
+      "N": 70
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "KALLANG",
+   "CLINIC NAME": "THE CLINIC @ APERIA PTE LTD",
+   "PHONE": "63416892",
+   "FAX": 63416893,
+   "Address": "Kallang Avenue 12 #03-15 Aperia Singapore 339511"
+},
+ {
+   "S": {
+      "N": 71
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "LAVENDER",
+   "CLINIC NAME": "KING GEORGE'S MEDICAL CLINIC PTE LTD",
+   "PHONE": "62939883",
+   "FAX": 62954782,
+   "Address": "King George's Avenue 803 #01-144  Singapore 200803"
+},
+ {
+   "S": {
+      "N": 72
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "MACPHERSON",
+   "CLINIC NAME": "ACCESS MEDICAL (CIRCUIT ROAD)",
+   "PHONE": "65478840",
+   "FAX": 65478842,
+   "Address": "Circuit Road 88 #01-965  Singapore 370088"
+},
+ {
+   "S": {
+      "N": 73
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "MACPHERSON",
+   "CLINIC NAME": "LIFECARE MEDICAL CENTRE",
+   "PHONE": "67461533",
+   "FAX": 67461533,
+   "Address": "Circuit Road 36 #01-416  Singapore 370036"
+},
+ {
+   "S": {
+      "N": 74
+   },
+   "ZONE": "CENTRAL EAST",
+   "ESTATE": "POTONG PASIR",
+   "CLINIC NAME": "GOH MEDICAL CLINIC",
+   "PHONE": "62827886",
+   "FAX": 62827886,
+   "Address": "Potong Pasir Avenue 3 136 #01-164  Singapore 350136"
+},
+ {
+   "S": {
+      "N": 75
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "ACCORD MEDICAL CLINIC (ANG MO KIO)",
+   "PHONE": "64511528",
+   "FAX": 64573782,
+   "Address": "Ang Mo Kio Avenue 4 157 #01-578  Singapore 560157"
+},
+ {
+   "S": {
+      "N": 76
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "ANG MO KIO MEDICAL CENTRE",
+   "PHONE": "64570273",
+   "FAX": 67528637,
+   "Address": "Ang Mo Kio Avenue 4 157 #01-558  Singapore 560157"
+},
+ {
+   "S": {
+      "N": 77
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "ATRIO FAMILY CLINIC (ANG MO KIO)",
+   "PHONE": "64554282",
+   "FAX": 64554280,
+   "Address": "Ang Mo Kio Avenue 10 532 #01-2461  Singapore 560532"
+},
+ {
+   "S": {
+      "N": 78
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "BEWELL CLINIC PTE LTD",
+   "PHONE": "65559038",
+   "FAX": 65559048,
+   "Address": "Ang Mo Kio Avenue 5 5012 #01-01 Ang Mo Kio Techplace II Singapore 569876"
+},
+ {
+   "S": {
+      "N": 79
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "CHUA MEDICO CLINIC LLP",
+   "PHONE": "64562275",
+   "FAX": 64562275,
+   "Address": "Ang Mo Kio Avenue 10 529 #01-2323  Singapore 560529"
+},
+ {
+   "S": {
+      "N": 80
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "FAMILY HEALTH MEDICAL CENTRE PTE LTD",
+   "PHONE": "64541980",
+   "FAX": 64549501,
+   "Address": "Ang Mo Kio Avenue 1 226G #01-681  Singapore 567226"
+},
+ {
+   "S": {
+      "N": 81
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "FRONTIER MEDICAL ASSOCIATES (ANG MO KIO)",
+   "PHONE": "64532571",
+   "FAX": 64548425,
+   "Address": "Ang Mo Kio Avenue 4 163 #01-426  Singapore 560163"
+},
+ {
+   "S": {
+      "N": 82
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "HEALTHPATH MEDICAL CLINIC AND SURGERY",
+   "PHONE": "64832556",
+   "FAX": 64834339,
+   "Address": "Ang Mo Kio Avenue 1 338 #01-1651  Singapore 560338"
+},
+ {
+   "S": {
+      "N": 83
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (ANG MO KIO)",
+   "PHONE": "64554629",
+   "FAX": 64564463,
+   "Address": "Ang Mo Kio Avenue 8 721 #01-2801  Singapore 560721"
+},
+ {
+   "S": {
+      "N": 84
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "HILL SPRING MEDICAL CLINIC",
+   "PHONE": "64563200",
+   "FAX": 64563070,
+   "Address": "Jalan Leban 12   Singapore 577552"
+},
+ {
+   "S": {
+      "N": 85
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "KI MEDICAL CLINIC",
+   "PHONE": "64554475",
+   "FAX": 64554475,
+   "Address": "Ang Mo Kio Avenue 10 416 #01-975  Singapore 560416"
+},
+ {
+   "S": {
+      "N": 86
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "KINGSLEY FAMILY CLINIC",
+   "PHONE": "62650669",
+   "FAX": 66002688,
+   "Address": "Ang Mo Kio Avenue 8 704 #01-2551  Singapore 560704"
+},
+ {
+   "S": {
+      "N": 87
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "MY FAMILY DOCTOR (ANG MO KIO)",
+   "PHONE": "65530100",
+   "FAX": 64578406,
+   "Address": "Ang Mo Kio Avenue 1 330 #01-1803  Singapore 560330"
+},
+ {
+   "S": {
+      "N": 88
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "NORTHEAST MEDICAL GROUP (ANG MO KIO)",
+   "PHONE": "64524910",
+   "FAX": 64525107,
+   "Address": "Ang Mo Kio Avenue 8 2450 #01-02 Ang Mo Kio MRT Singapore 569811"
+},
+ {
+   "S": {
+      "N": 89
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "ONG MEDICAL CLINIC (ANG MO KIO)",
+   "PHONE": "64523586",
+   "FAX": 64559059,
+   "Address": "Ang Mo Kio Street 31 316B #01-10  Singapore 563316"
+},
+ {
+   "S": {
+      "N": 90
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "PEACE FAMILY CLINIC & SURGERY (ANG MO KIO)",
+   "PHONE": "64516558",
+   "FAX": 64516559,
+   "Address": "Ang Mo Kio Avenue 10 452 #01-1787  Singapore 560452"
+},
+ {
+   "S": {
+      "N": 91
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "SUMMIT MEDICAL CLINIC (ANG MO KIO)",
+   "PHONE": "64560060",
+   "FAX": 64532143,
+   "Address": "Ang Mo Kio Avenue 4 632 #01-956  Singapore 560632"
+},
+ {
+   "S": {
+      "N": 92
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "TAN MEDICARE CLINIC PTE LTD",
+   "PHONE": "64544211",
+   "FAX": 64564230,
+   "Address": "Ang Mo Kio Avenue 4 629 #01-986  Singapore 560629"
+},
+ {
+   "S": {
+      "N": 93
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "TAN-TEOH CLINIC & SURGERY (ANG MO KIO)",
+   "PHONE": "64520818",
+   "FAX": 64525270,
+   "Address": "Ang Mo Kio Avenue 3 302 #01-1846  Singapore 560302"
+},
+ {
+   "S": {
+      "N": 94
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "THE CHUNGKIAW FAMILY PRACTICE PTE LTD",
+   "PHONE": "64551009",
+   "FAX": 64550992,
+   "Address": "Ang Mo Kio Avenue 9 17 #01-06 Ang Moh Kio - Thye Hua Kwan Hospital Singapore 569766"
+},
+ {
+   "S": {
+      "N": 95
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "TONG CLINIC & SURGERY",
+   "PHONE": "64528311",
+   "FAX": null,
+   "Address": "Ang Mo Kio Street 31 316B #01-05  Singapore 563316"
+},
+ {
+   "S": {
+      "N": 96
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "UNIHEALTH 24-HR CLINIC (ANG MO KIO)",
+   "PHONE": "69192998",
+   "FAX": 62662851,
+   "Address": "Ang Mo Kio Avenue 10 525 #01-2407  Singapore 560525"
+},
+ {
+   "S": {
+      "N": 97
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "ANG MO KIO",
+   "CLINIC NAME": "WELL FAMILY CLINIC & SURGERY (ANG MO\nKIO)",
+   "PHONE": "64549519",
+   "FAX": 65527182,
+   "Address": "Ang Mo Kio Avenue 10 555 #01-1948  Singapore 560555"
+},
+ {
+   "S": {
+      "N": 98
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "BISHAN",
+   "CLINIC NAME": "ASPEN CLINIC",
+   "PHONE": "64553829",
+   "FAX": 64567217,
+   "Address": "Bishan Street 22 283 #01-185  Singapore 570283"
+},
+ {
+   "S": {
+      "N": 99
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "BISHAN",
+   "CLINIC NAME": "HEALTHCARE FAMILY CLINIC & SURGERY",
+   "PHONE": "64542373",
+   "FAX": 64550869,
+   "Address": "Sin Ming Avenue 403 #01-311  Singapore 570403"
+},
+ {
+   "S": {
+      "N": 100
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "BISHAN",
+   "CLINIC NAME": "LIFELINE BISHAN MEDICAL CLINIC",
+   "PHONE": "62598969",
+   "FAX": 62598969,
+   "Address": "Bishan Street 11 501 #01-376  Singapore 570501"
+},
+ {
+   "S": {
+      "N": 101
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "BISHAN",
+   "CLINIC NAME": "RADLINK MEDICARE (BISHAN) PTE LTD",
+   "PHONE": "62557545",
+   "FAX": 63582830,
+   "Address": "Bishan Street 11 503 #01-464  Singapore 570503"
+},
+ {
+   "S": {
+      "N": 102
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "BISHAN",
+   "CLINIC NAME": "T P SIM FAMILY CLINIC & SURGERY",
+   "PHONE": "63538010",
+   "FAX": 63538021,
+   "Address": "Bishan Street 11 509 #01-378  Singapore 570509"
+},
+ {
+   "S": {
+      "N": 103
+   },
+   "ZONE": "CENTRAL NORTH",
+   "ESTATE": "BISHAN",
+   "CLINIC NAME": "TAN'S T & T CLINIC & SURGERY",
+   "PHONE": "63531133",
+   "FAX": 63535996,
+   "Address": "Bishan Street 11 152 #01-213  Singapore 570152"
+},
+ {
+   "S": {
+      "N": 104
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "ALEXANDRA",
+   "CLINIC NAME": "FULLERTON HEALTHCARE @ ALEXANDRA\nRETAIL CENTRE",
+   "PHONE": "62733366",
+   "FAX": 62721049,
+   "Address": "Alexandra Road 460 #02-18 Alexandra Retail Centre Singapore 119963"
+},
+ {
+   "S": {
+      "N": 105
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "ALEXANDRA",
+   "CLINIC NAME": "SHENTON WELLNESS CENTRE",
+   "PHONE": "63761630",
+   "FAX": 62709766,
+   "Address": "Alexandra Road 460 #02-15 PSA Building Singapore 119963"
+},
+ {
+   "S": {
+      "N": 106
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "ALEXANDRA",
+   "CLINIC NAME": "THE CLINIC @ BUSINESS CITY",
+   "PHONE": "68167180",
+   "FAX": 64381575,
+   "Address": "Pasir Panjang Road 20 #02-26 Mapletree Business City Singapore 117439"
+},
+ {
+   "S": {
+      "N": 107
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "ALEXANDRA",
+   "CLINIC NAME": "THE FAMILY PRACTICE @ SKYVILLE",
+   "PHONE": "62551382",
+   "FAX": 62551387,
+   "Address": "Dawson Road 85 #01-06  Singapore 141085"
+},
+ {
+   "S": {
+      "N": 108
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "ALEXANDRA",
+   "CLINIC NAME": "TOWN HALL CLINIC PTE LTD (ALEXANDRA)",
+   "PHONE": "62788088",
+   "FAX": 62728778,
+   "Address": "Alexandra Road 438A #B1-02 Alexandra Technopark Block A Singapore 119967"
+},
+ {
+   "S": {
+      "N": 109
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "ACCESS MEDICAL (REDHILL CLOSE)",
+   "PHONE": "68733165",
+   "FAX": 68733167,
+   "Address": "Redhill Close 86 #01-600  Singapore 150086"
+},
+ {
+   "S": {
+      "N": 110
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "BUKIT MERAH CENTRAL MEDICAL CENTRE",
+   "PHONE": "62735455",
+   "FAX": 62748846,
+   "Address": "Bukit Merah Central 165 #03-3683  Singapore 150165"
+},
+ {
+   "S": {
+      "N": 111
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "DRS CHUA & PARTNERS (AV) PTE LTD",
+   "PHONE": "63773179",
+   "FAX": 63773169,
+   "Address": "Bukit Merah Lane 1 125 #01-174 Alexandra Village Singapore 150125"
+},
+ {
+   "S": {
+      "N": 112
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "DRS KOO, KOH & ASSOCIATES PTE LTD",
+   "PHONE": "62712395",
+   "FAX": 62712396,
+   "Address": "Bukit Merah Central 163 #01-3609  Singapore 150163"
+},
+ {
+   "S": {
+      "N": 113
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "FRIENDSHIP CLINIC & SURGERY",
+   "PHONE": "62726628",
+   "FAX": 62726628,
+   "Address": "Jalan Bukit Merah 1 #01-4524  Singapore 150001"
+},
+ {
+   "S": {
+      "N": 114
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "HL FAMILY CLINIC & SURGERY PTE LTD (BUKIT\nMERAH)",
+   "PHONE": "62785966",
+   "FAX": 62785966,
+   "Address": "Jalan Bukit Merah 111 #01-1704  Singapore 160111"
+},
+ {
+   "S": {
+      "N": 115
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "HONG ASSOCIATES CLINIC",
+   "PHONE": "62702233",
+   "FAX": 62702708,
+   "Address": "Jalan Bukit Merah 111 #01-1682  Singapore 160111"
+},
+ {
+   "S": {
+      "N": 116
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "MAO MEDICAL CENTRE & SURGERY PTE LTD",
+   "PHONE": "62781910",
+   "FAX": 62754935,
+   "Address": "Silat Avenue 149 #01-54  Singapore 160149"
+},
+ {
+   "S": {
+      "N": 117
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "PROVIDENCE CLINIC @ REDHILL",
+   "PHONE": "64710301",
+   "FAX": 64710301,
+   "Address": "Redhill Close 86 #01-596  Singapore 150086"
+},
+ {
+   "S": {
+      "N": 118
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "BUKIT MERAH",
+   "CLINIC NAME": "SHALOM CLINIC & SURGERY",
+   "PHONE": "62780270",
+   "FAX": 62784215,
+   "Address": "Bukit Merah Lane 1 123 #01-104 Alexandra Village Singapore 150123"
+},
+ {
+   "S": {
+      "N": 119
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "QUEENSTOWN",
+   "CLINIC NAME": "MEDICAL CENTRE @ COMMONWEALTH",
+   "PHONE": "64756116",
+   "FAX": 64766116,
+   "Address": "Tanglin Halt Road 88 #01-03  Singapore 141088"
+},
+ {
+   "S": {
+      "N": 120
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "QUEENSTOWN",
+   "CLINIC NAME": "MEI LING CLINIC (MEI LING STREET)",
+   "PHONE": "64741782",
+   "FAX": 64749201,
+   "Address": "Mei Ling Street 158 #01-80  Singapore 140158"
+},
+ {
+   "S": {
+      "N": 121
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "QUEENSTOWN",
+   "CLINIC NAME": "MY FAMILY CLINIC (TANGLIN HALT)",
+   "PHONE": "64738920",
+   "FAX": 64795504,
+   "Address": "Commonwealth Drive 46-2 #01-372  Singapore 140462"
+},
+ {
+   "S": {
+      "N": 122
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "QUEENSTOWN",
+   "CLINIC NAME": "TENG CLINIC",
+   "PHONE": "64733187",
+   "FAX": null,
+   "Address": "Stirling Road 171 #01-1101  Singapore 140171"
+},
+ {
+   "S": {
+      "N": 123
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "TIONG BAHRU",
+   "CLINIC NAME": "BEO CRESCENT CLINIC & SURGERY",
+   "PHONE": "62750269",
+   "FAX": 62750062,
+   "Address": "Beo Crescent 40 #01-02  Singapore 160040"
+},
+ {
+   "S": {
+      "N": 124
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "TIONG BAHRU",
+   "CLINIC NAME": "FIRSTHEALTH CLINIC & SURGERY",
+   "PHONE": "66944981",
+   "FAX": 66944982,
+   "Address": "Kim Tian Road 126 #01-04  Singapore 160126"
+},
+ {
+   "S": {
+      "N": 125
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "TIONG BAHRU",
+   "CLINIC NAME": "HEALTH FIRST FAMILY CLINIC",
+   "PHONE": "67932833",
+   "FAX": 67932877,
+   "Address": "Jalan Membina 26 #01-06  Singapore 161026"
+},
+ {
+   "S": {
+      "N": 126
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "TIONG BAHRU",
+   "CLINIC NAME": "ONECARE CLINIC TIONG BAHRU",
+   "PHONE": "63582568",
+   "FAX": 63582569,
+   "Address": "Boon Tiong Road 11A #01-08  Singapore 161011"
+},
+ {
+   "S": {
+      "N": 127
+   },
+   "ZONE": "CENTRAL SOUTH",
+   "ESTATE": "TIONG BAHRU",
+   "CLINIC NAME": "THE ICLINIC",
+   "PHONE": "62713135",
+   "FAX": 62712257,
+   "Address": "Jalan Membina 18 #02-08  Singapore 164018"
+},
+ {
+   "S": {
+      "N": 128
+   },
+   "ZONE": "CITY",
+   "ESTATE": "BUGIS",
+   "CLINIC NAME": "CITYHEALTH CLINIC & SURGERY",
+   "PHONE": "62995398",
+   "FAX": 62990206,
+   "Address": "Beach Road 152 #03-08 Gateway East Building Singapore 189721"
+},
+ {
+   "S": {
+      "N": 129
+   },
+   "ZONE": "CITY",
+   "ESTATE": "BUGIS",
+   "CLINIC NAME": "TEXTILE CENTRE CLINIC",
+   "PHONE": "62982400",
+   "FAX": 62982400,
+   "Address": "Jalan Sultan 200 #03-32 Textile Centre Singapore 199018"
+},
+ {
+   "S": {
+      "N": 130
+   },
+   "ZONE": "CITY",
+   "ESTATE": "CHINATOWN",
+   "CLINIC NAME": "VIENNA MEDICAL CLINIC",
+   "PHONE": "65368800",
+   "FAX": 64382946,
+   "Address": "South Bridge Road 277A   Singapore 58826"
+},
+ {
+   "S": {
+      "N": 131
+   },
+   "ZONE": "CITY",
+   "ESTATE": "CITY HALL",
+   "CLINIC NAME": "DRS SINGH & PARTNERS (RAFFLES CITY)",
+   "PHONE": "63388883",
+   "FAX": 63383565,
+   "Address": "North Bridge Road 252 #02-16 Raffles City Shopping\nCentre Singapore 179103"
+},
+ {
+   "S": {
+      "N": 132
+   },
+   "ZONE": "CITY",
+   "ESTATE": "CITY HALL",
+   "CLINIC NAME": "K N CHIN & ASSOCIATES PTE LTD (TEMASEK\nBOULEVARD)",
+   "PHONE": "63372522",
+   "FAX": 63346656,
+   "Address": "Temasek Boulevard 3 #02-400 Suntec City Mall Singapore 38983"
+},
+ {
+   "S": {
+      "N": 133
+   },
+   "ZONE": "CITY",
+   "ESTATE": "CITY HALL",
+   "CLINIC NAME": "SHALOM MEDICAL GROUP PTE LTD",
+   "PHONE": "63371884",
+   "FAX": 63376976,
+   "Address": "Bain Street 231 #03-57 Bras Basah Complex Singapore 180231"
+},
+ {
+   "S": {
+      "N": 134
+   },
+   "ZONE": "CITY",
+   "ESTATE": "CITY HALL",
+   "CLINIC NAME": "SHENTON MEDICAL GROUP (BRAS BASAH)",
+   "PHONE": "68870151",
+   "FAX": 63376874,
+   "Address": "Bras Basah Road 90 #B1-02 Esplanade MRT Station Singapore 189562"
+},
+ {
+   "S": {
+      "N": 135
+   },
+   "ZONE": "CITY",
+   "ESTATE": "CITY HALL",
+   "CLINIC NAME": "THE CLINIC @ CAMPUS PTE LTD",
+   "PHONE": "63339300",
+   "FAX": 63339301,
+   "Address": "Stamford Road 70 #B1-21 Li Ka Shing Library\nBuilding Singapore 178901"
+},
+ {
+   "S": {
+      "N": 136
+   },
+   "ZONE": "CITY",
+   "ESTATE": "HAVELOCK ROAD",
+   "CLINIC NAME": "FRONTIER MEDICAL ASSOCIATES (HAVELOCK)",
+   "PHONE": "66843770",
+   "FAX": 66843771,
+   "Address": "Havelock Road 51 #01-02  Singapore 161051"
+},
+ {
+   "S": {
+      "N": 137
+   },
+   "ZONE": "CITY",
+   "ESTATE": "HAVELOCK ROAD",
+   "CLINIC NAME": "ICARE MEDICAL AND WELLNESS CLINIC",
+   "PHONE": "62746858",
+   "FAX": 62746342,
+   "Address": "Havelock Road 22 #01-701  Singapore 160022"
+},
+ {
+   "S": {
+      "N": 138
+   },
+   "ZONE": "CITY",
+   "ESTATE": "MARINA\nBOULEVARD",
+   "CLINIC NAME": "BETHESDA MEDICAL CENTRE",
+   "PHONE": "63378933",
+   "FAX": 68843633,
+   "Address": "Temasek Boulevard 3 #B1-124 Suntec City Mall Singapore 38983"
+},
+ {
+   "S": {
+      "N": 139
+   },
+   "ZONE": "CITY",
+   "ESTATE": "MARINA\nBOULEVARD",
+   "CLINIC NAME": "CLINIC @ THE SAIL",
+   "PHONE": "62255410",
+   "FAX": 62255910,
+   "Address": "Marina Boulevard 2 #B1-11/12 The Sail @ Marina Bay Singapore 18987"
+},
+ {
+   "S": {
+      "N": 140
+   },
+   "ZONE": "CITY",
+   "ESTATE": "MARINA BOULEVARD",
+   "CLINIC NAME": "CRAWFURD MEDICAL CENTRE PTE LTD",
+   "PHONE": "68049580",
+   "FAX": 63419757,
+   "Address": "Temasek Boulevard 3 #02-482 Suntec City Mall (North Wing Between Tower 1 & 2) Singapore 38983"
+},
+ {
+   "S": {
+      "N": 141
+   },
+   "ZONE": "CITY",
+   "ESTATE": "MARINA\nBOULEVARD",
+   "CLINIC NAME": "FULLERTON HEALTHCARE GROUP PTE LTD\n(MARINA BOULEVARD)",
+   "PHONE": "66369371",
+   "FAX": 66369372,
+   "Address": "Marina Boulevard 10 #01-03 Marina Bay Financial\nCentre Tower 2 Singapore 18981"
+},
+ {
+   "S": {
+      "N": 142
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "DRS THOMPSON & THOMSON (RADLINK MEDICARE)",
+   "PHONE": "65325376",
+   "FAX": 65333860,
+   "Address": "Raffles Place 24 #02-08 Clifford Centre Singapore 48621"
+},
+ {
+   "S": {
+      "N": 143
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "FULLERTON HEALTHCARE @ OFC",
+   "PHONE": "66725000",
+   "FAX": 65344165,
+   "Address": "Collyer Quay 10 #03-08/09 Ocean Financial Centre Singapore 49315"
+},
+ {
+   "S": {
+      "N": 144
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "HEALTH PARTNERS MEDICAL CLINIC",
+   "PHONE": "62255036",
+   "FAX": 62255478,
+   "Address": "Cecil Street 100 #09-01 The Globe Singapore 69532"
+},
+ {
+   "S": {
+      "N": 145
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "K N CHIN & ASSOCIATES PTE LTD (RAFFLES\nPLACE)",
+   "PHONE": "65389533",
+   "FAX": 65365815,
+   "Address": "Raffles Place 24 #02-18 Clifford Centre Singapore 48621"
+},
+ {
+   "S": {
+      "N": 146
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "MOBILEDOCTOR CLINIC",
+   "PHONE": "62500625",
+   "FAX": 62500665,
+   "Address": "Cross Street 20 #02-11/12 China Square Central (China Court) Singapore 48422"
+},
+ {
+   "S": {
+      "N": 147
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "NORTHEAST (TMA) MEDICAL ASSOCIATE PTE LTD",
+   "PHONE": "65572770",
+   "FAX": 65361413,
+   "Address": "Malacca Street 20 #B1-00  Singapore 48979"
+},
+ {
+   "S": {
+      "N": 148
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "OC MEDICAL RAFFLES PLACE PTE LTD",
+   "PHONE": "63522639",
+   "FAX": 63582691,
+   "Address": "Raffles Place 1 #04- 12/13/14/1\n5  Singapore 48616"
+},
+ {
+   "S": {
+      "N": 149
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "PROVIDENCE MEDICAL CENTRE PTE LTD",
+   "PHONE": "62262232",
+   "FAX": 65362232,
+   "Address": "Cross Street 8 #01-03 PWC Building Singapore 48424"
+},
+ {
+   "S": {
+      "N": 150
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "THE CLINIC @ CAPITAGREEN",
+   "PHONE": "63846851",
+   "FAX": 63846852,
+   "Address": "Market Street 138 #02-01A  Singapore 48946"
+},
+ {
+   "S": {
+      "N": 151
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "THE CLINIC @ ONE GEORGE STREET",
+   "PHONE": "64385322",
+   "FAX": 64381575,
+   "Address": "George Street 1 #05-05 Lobby C Singapore 49145"
+},
+ {
+   "S": {
+      "N": 152
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "THE MEDICAL CENTRE CLINIC (HONG LEONG)",
+   "PHONE": "62207585",
+   "FAX": 62217387,
+   "Address": "Raffles Quay 16 #14-15 Hong Leong Building Singapore 48581"
+},
+ {
+   "S": {
+      "N": 153
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "THE MEDICAL PRACTICE PTE LTD",
+   "PHONE": "63329086",
+   "FAX": 62386053,
+   "Address": "Raffles Link 1 #01-03A  Singapore 39393"
+},
+ {
+   "S": {
+      "N": 154
+   },
+   "ZONE": "CITY",
+   "ESTATE": "SELEGIE",
+   "CLINIC NAME": "PARKLANE MEDICAL CENTRE PTE LTD",
+   "PHONE": "63346778",
+   "FAX": 63368278,
+   "Address": "Selegie Road 35 #02-25A Parklane Shopping Mall Singapore 188307"
+},
+ {
+   "S": {
+      "N": 155
+   },
+   "ZONE": "CITY",
+   "ESTATE": "SHENTON WAY",
+   "CLINIC NAME": "DR LIM LEAN HUAT & ASSOCIATES PTE LTD",
+   "PHONE": "63238611",
+   "FAX": 63238011,
+   "Address": "Shenton Way 6 #40-03 Tower One Singapore 68809"
+},
+ {
+   "S": {
+      "N": 156
+   },
+   "ZONE": "CITY",
+   "ESTATE": "SHENTON WAY",
+   "CLINIC NAME": "FULLERTON HEALTHCARE @ GETHIN JONES\n(SHENTON WAY)",
+   "PHONE": "62278900",
+   "FAX": 62248491,
+   "Address": "Shenton Way 78 #04-01  Singapore 79120"
+},
+ {
+   "S": {
+      "N": 157
+   },
+   "ZONE": "CITY",
+   "ESTATE": "SHENTON WAY",
+   "CLINIC NAME": "LIFESCAN MEDICAL CENTRE (OUE\nDOWNTOWN GALLERY)",
+   "PHONE": "62211358",
+   "FAX": 62212696,
+   "Address": "Shenton Way 6A #02-19/20 OUE Downtown Gallery Singapore 68815"
+},
+ {
+   "S": {
+      "N": 158
+   },
+   "ZONE": "CITY",
+   "ESTATE": "SHENTON WAY",
+   "CLINIC NAME": "TRINITY MEDICAL (SHENTON)",
+   "PHONE": "62279918",
+   "FAX": 62272207,
+   "Address": "Shenton Way 6 #21-10 OUE Downtown Two Singapore 68809"
+},
+ {
+   "S": {
+      "N": 159
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "CITYMED HEALTH ASSOCIATES PTE LTD",
+   "PHONE": "62262636",
+   "FAX": 62262733,
+   "Address": "Keppel Road 19 #01-01 Jit Poh Building Singapore 89058"
+},
+ {
+   "S": {
+      "N": 160
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "CLEARBRIDGE MEDICAL ASIA PTE LTD",
+   "PHONE": "63271080",
+   "FAX": 63271081,
+   "Address": "Kee Seng Street 11 #01-02 Onze @ Tanjong Pagar Singapore 89218"
+},
+ {
+   "S": {
+      "N": 161
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "CLIFFORD DISPENSARY PTE LTD (ROBINSON\nROAD)",
+   "PHONE": "65350365 /\n65350371",
+   "FAX": 65353231,
+   "Address": "Robinson Road 77 #06-02 Robinson 77 Singapore 68896"
+},
+ {
+   "S": {
+      "N": 162
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "DRS CHUA & PARTNERS PTE LTD (TANJONG\nPAGAR)",
+   "PHONE": "62210607",
+   "FAX": 62241918,
+   "Address": "Tanjong Pagar Road 1 #01-10 Tanjong Pagar Plaza Singapore 82001"
+},
+ {
+   "S": {
+      "N": 163
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "DUXTON MEDICAL CLINIC",
+   "PHONE": "65383573",
+   "FAX": 65383925,
+   "Address": "Tanjong Pagar Plaza 7 #01-106  Singapore 81007"
+},
+ {
+   "S": {
+      "N": 164
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (ROBINSON ROAD)",
+   "PHONE": "62202383",
+   "FAX": 62202160,
+   "Address": "Robinson Road 144 #01-02/03 Robinson Square Singapore 68908"
+},
+ {
+   "S": {
+      "N": 165
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "MHC MEDICAL CENTRE (AMARA) PTE LTD",
+   "PHONE": "62255220",
+   "FAX": 62255426,
+   "Address": "Tras Street 100 #15-\n01/02/03 100AM Singapore 79027"
+},
+ {
+   "S": {
+      "N": 166
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "SEACARE MARITIME MEDICAL CENTRE\n(TANJONG PAGAR)",
+   "PHONE": "62227728",
+   "FAX": 62246387,
+   "Address": "Tras Street 100 #18-02/03 100AM Singapore 79027"
+},
+ {
+   "S": {
+      "N": 167
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "THE BONHAM CLINIC PTE LTD",
+   "PHONE": "65331177",
+   "FAX": 64384189,
+   "Address": "Peck Seah Street 100 #11-16/17  Singapore 79333"
+},
+ {
+   "S": {
+      "N": 168
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "THE IRON SUITES MEDICAL CENTRE",
+   "PHONE": "67021929",
+   "FAX": 67021939,
+   "Address": "Robinson Road 160 #04-11 SBF Centre Singapore 68914"
+},
+ {
+   "S": {
+      "N": 169
+   },
+   "ZONE": "CITY",
+   "ESTATE": "TANJONG PAGAR",
+   "CLINIC NAME": "TPC MEDICAL CLINIC",
+   "PHONE": "63868980",
+   "FAX": 63866007,
+   "Address": "Wallich Street 7 #B1-15  Singapore 78884"
+},
+ {
+   "S": {
+      "N": 170
+   },
+   "ZONE": "CITY",
+   "ESTATE": "BUGIS",
+   "CLINIC NAME": "ONG'S CLINIC",
+   "PHONE": "63371814",
+   "FAX": 63373802,
+   "Address": "Bencoolen Street 175 #01-44 Burlington Square Singapore 189649"
+},
+ {
+   "S": {
+      "N": 171
+   },
+   "ZONE": "CITY",
+   "ESTATE": "RAFFLES PLACE",
+   "CLINIC NAME": "DOCTORS FOR LIFE MEDICAL",
+   "PHONE": "69090527",
+   "FAX": 69090537,
+   "Address": "Pickering Street 3 #01-02 Nankin Row Singapore 48660"
+},
+ {
+   "S": {
+      "N": 172
+   },
+   "ZONE": "EAST",
+   "ESTATE": "ALJUNIED",
+   "CLINIC NAME": "HISEMAINN MEDICAL CLINIC (SIMS PLACE) (FORMERLY KNOWN AS T J MEDICAL CLINIC & SURGERY)",
+   "PHONE": "67424413",
+   "FAX": 67483813,
+   "Address": "Sims Place 48 #01-167  Singapore 380048"
+},
+ {
+   "S": {
+      "N": 173
+   },
+   "ZONE": "EAST",
+   "ESTATE": "ALJUNIED",
+   "CLINIC NAME": "S T MEDICAL CENTRE (ALJUNIED CRESCENT)",
+   "PHONE": "67458119",
+   "FAX": 67458119,
+   "Address": "Aljunied Crescent 95 #01-521  Singapore 380095"
+},
+ {
+   "S": {
+      "N": 174
+   },
+   "ZONE": "EAST",
+   "ESTATE": "ALJUNIED",
+   "CLINIC NAME": "SIMS DRIVE MEDICAL CLINIC",
+   "PHONE": "67411607",
+   "FAX": 67411607,
+   "Address": "Sims Place 53 #01-174  Singapore 380053"
+},
+ {
+   "S": {
+      "N": 175
+   },
+   "ZONE": "EAST",
+   "ESTATE": "ALJUNIED",
+   "CLINIC NAME": "YSL ALJUNIED CLINIC & SURGERY PTE LTD",
+   "PHONE": "63430626",
+   "FAX": 63430625,
+   "Address": "Upper Aljunied Lane 5 #01-42  Singapore 360005"
+},
+ {
+   "S": {
+      "N": 176
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "ACCESS MEDICAL (EAST COAST)",
+   "PHONE": "62418812",
+   "FAX": 62418840,
+   "Address": "Bedok South Road 18 #01-69  Singapore 460018"
+},
+ {
+   "S": {
+      "N": 177
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "ACCESS MEDICAL BEDOK SOUTH",
+   "PHONE": "64453100",
+   "FAX": 64453200,
+   "Address": "New Upper Changi Road 59 #01-1268  Singapore 461059"
+},
+ {
+   "S": {
+      "N": 178
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "ACUMED MEDICAL GROUP (BEDOK)",
+   "PHONE": "64438077",
+   "FAX": 64438700,
+   "Address": "Bedok North Street 1 214 #01-165  Singapore 460214"
+},
+ {
+   "S": {
+      "N": 179
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "BEDOK CLINIC & SURGERY",
+   "PHONE": "62410943",
+   "FAX": 64420966,
+   "Address": "Bedok South Road 17 #01-565  Singapore 460017"
+},
+ {
+   "S": {
+      "N": 180
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "BEDOK DAY & NIGHT CLINIC PTE LTD",
+   "PHONE": "64441104",
+   "FAX": 64441104,
+   "Address": "Bedok North Avenue 2 418 #01-85  Singapore 460418"
+},
+ {
+   "S": {
+      "N": 181
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "BEDOK FAMILY CLINIC & SURGERY",
+   "PHONE": "64410236",
+   "FAX": 64410276,
+   "Address": "Bedok North Street 1 218 #01-17  Singapore 460218"
+},
+ {
+   "S": {
+      "N": 182
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "BEDOK MEDICAL CENTRE",
+   "PHONE": "62414111",
+   "FAX": 64436201,
+   "Address": "Bedok South Road 18 #01-57  Singapore 460018"
+},
+ {
+   "S": {
+      "N": 183
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "FAITH CLINIC (BEDOK)",
+   "PHONE": "64448019",
+   "FAX": null,
+   "Address": "Bedok Reservoir Road 746 #01-3013  Singapore 470746"
+},
+ {
+   "S": {
+      "N": 184
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "FRONTIER PEOPLE'S CLINIC (BEDOK)",
+   "PHONE": "64430261",
+   "FAX": 64453185,
+   "Address": "Bedok North Street 2 123 #01-152  Singapore 460123"
+},
+ {
+   "S": {
+      "N": 185
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "HL FAMILY CLINIC & SURGERY (BEDOK) PTE\nLTD",
+   "PHONE": "64420494",
+   "FAX": 64429373,
+   "Address": "Bedok North Street 4 89 #01-83  Singapore 460089"
+},
+ {
+   "S": {
+      "N": 186
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "HONG WHYE CLINIC",
+   "PHONE": "64445355",
+   "FAX": 64416270,
+   "Address": "Bedok North Avenue 2 412 #01-144  Singapore 460412"
+},
+ {
+   "S": {
+      "N": 187
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "ISLAND GROUP CLINIC BEDOK",
+   "PHONE": "62416666",
+   "FAX": 62416102,
+   "Address": "New Upper Changi Road 25 #01-646  Singapore 462025"
+},
+ {
+   "S": {
+      "N": 188
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "KCS MEDICAL CENTRE PTE LTD",
+   "PHONE": "64438322",
+   "FAX": 64418322,
+   "Address": "Bedok North Avenue 2 515 #01-205  Singapore 460515"
+},
+ {
+   "S": {
+      "N": 189
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "KHO CLINIC",
+   "PHONE": "62428266",
+   "FAX": 62432614,
+   "Address": "Bedok North Street 3 537 #01-519  Singapore 460537"
+},
+ {
+   "S": {
+      "N": 190
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "LEE CLINIC (BEDOK NORTH)",
+   "PHONE": "62418827",
+   "FAX": 62414724,
+   "Address": "Bedok North Street 2 123 #01-156  Singapore 460123"
+},
+ {
+   "S": {
+      "N": 191
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "NORTHEAST MEDICAL GROUP (BEDOK NORTH) (FORMERLY KNOWN AS 531 CLINIC & SURGERY)",
+   "PHONE": "64412402",
+   "FAX": 64413292,
+   "Address": "Bedok North Street 3 531 #01-692  Singapore 460531"
+},
+ {
+   "S": {
+      "N": 192
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "PHOON CLINIC & SURGERY",
+   "PHONE": "64452119",
+   "FAX": 64487329,
+   "Address": "Bedok Reservoir Road 632 #01-828  Singapore 470632"
+},
+ {
+   "S": {
+      "N": 193
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "PICTON MEDICAL CLINIC (BEDOK)",
+   "PHONE": "62416831",
+   "FAX": 64451681,
+   "Address": "New Upper Changi Road 57 #01-1346  Singapore 461057"
+},
+ {
+   "S": {
+      "N": 194
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "RESERVOIR ROAD CLINIC & SURGERY",
+   "PHONE": "64490289",
+   "FAX": 64490523,
+   "Address": "Bedok Reservoir Road 704 #01-3622  Singapore 470704"
+},
+ {
+   "S": {
+      "N": 195
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "S T MEDICAL CLINIC (BEDOK NORTH)",
+   "PHONE": "64440159",
+   "FAX": 64440159,
+   "Address": "Bedok North Street 3 531 #01-694  Singapore 460531"
+},
+ {
+   "S": {
+      "N": 196
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "THE FAHRENHEIT MEDICAL CENTRE",
+   "PHONE": "64438063",
+   "FAX": 64438063,
+   "Address": "Bedok North Street 1 218 #01-27  Singapore 460218"
+},
+ {
+   "S": {
+      "N": 197
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "WAN MEDICAL CLINIC",
+   "PHONE": "62438352",
+   "FAX": 62438302,
+   "Address": "Bedok North Avenue 2 416 #01-21  Singapore 460416"
+},
+ {
+   "S": {
+      "N": 198
+   },
+   "ZONE": "EAST",
+   "ESTATE": "BEDOK",
+   "CLINIC NAME": "WONG FAMILY CLINIC & SURGERY PTE LTD",
+   "PHONE": "68461613",
+   "FAX": 68486925,
+   "Address": "Bedok Reservoir Road 117 #01-68  Singapore 470117"
+},
+ {
+   "S": {
+      "N": 199
+   },
+   "ZONE": "EAST",
+   "ESTATE": "Chai Chee",
+   "CLINIC NAME": "CHAI CHEE CLINIC & SURGERY",
+   "PHONE": "62441231",
+   "FAX": 62441215,
+   "Address": "Chai Chee Road 25A #01-453  Singapore 461025"
+},
+ {
+   "S": {
+      "N": 200
+   },
+   "ZONE": "EAST",
+   "ESTATE": "Chai Chee",
+   "CLINIC NAME": "HEALTHLINE FAMILY CLINIC & SURGERY PTE\nLTD (CHAI CHEE)",
+   "PHONE": "64463260",
+   "FAX": 64463259,
+   "Address": "Chai Chee Road 25A #01-467  Singapore 461025"
+},
+ {
+   "S": {
+      "N": 201
+   },
+   "ZONE": "EAST",
+   "ESTATE": "Chai Chee",
+   "CLINIC NAME": "LIM CLINIC & SURGERY (CHAI CHEE)",
+   "PHONE": "62412211",
+   "FAX": 62412268,
+   "Address": "Chai Chee Road 20 #01-\n418/420  Singapore 461020"
+},
+ {
+   "S": {
+      "N": 202
+   },
+   "ZONE": "EAST",
+   "ESTATE": "Chai Chee",
+   "CLINIC NAME": "SM HANEEFA CLINIC",
+   "PHONE": "62434237",
+   "FAX": 64494639,
+   "Address": "Chai Chee Road 11 #01-23  Singapore 461011"
+},
+ {
+   "S": {
+      "N": 203
+   },
+   "ZONE": "EAST",
+   "ESTATE": "CHANGI",
+   "CLINIC NAME": "SHENTON MEDICAL GROUP (CHANGI\nBUSINESS PARK AVENUE 1)",
+   "PHONE": "66362490",
+   "FAX": 65436410,
+   "Address": "Changi Business Park Avenue\n1 2 #01-03 UE Biz Hub East Singapore 486015"
+},
+ {
+   "S": {
+      "N": 204
+   },
+   "ZONE": "EAST",
+   "ESTATE": "EUNOS",
+   "CLINIC NAME": "ALLIANCE CLINIC & PARTNERS PTE LTD",
+   "PHONE": "68469585",
+   "FAX": 68423821,
+   "Address": "Jalan Tenaga 652 #01-50  Singapore 410652"
+},
+ {
+   "S": {
+      "N": 205
+   },
+   "ZONE": "EAST",
+   "ESTATE": "EUNOS",
+   "CLINIC NAME": "EC FAMILY CLINIC",
+   "PHONE": "67426103",
+   "FAX": 67426103,
+   "Address": "Eunos Crescent 30 #01-18  Singapore 409423"
+},
+ {
+   "S": {
+      "N": 206
+   },
+   "ZONE": "EAST",
+   "ESTATE": "EUNOS",
+   "CLINIC NAME": "SHENTON MEDICAL GROUP (EUNOS)",
+   "PHONE": "68488018",
+   "FAX": 67478474,
+   "Address": "Eunos Road 8 10 #05-02 Singapore Post Centre Singapore 408600"
+},
+ {
+   "S": {
+      "N": 207
+   },
+   "ZONE": "EAST",
+   "ESTATE": "KATONG",
+   "CLINIC NAME": "ASSURANCE MEDICARE CLINIC AND SURGERY (FORMERLY KNOWN AS LAU CLINIC AND SURGERY (TJG KATONG))",
+   "PHONE": "63457810",
+   "FAX": 63487592,
+   "Address": "Tanjong Katong Road 370   Singapore 437127"
+},
+ {
+   "S": {
+      "N": 208
+   },
+   "ZONE": "EAST",
+   "ESTATE": "KATONG",
+   "CLINIC NAME": "MINDCHAMPS MEDICAL CLINIC (TANJONG KATONG)",
+   "PHONE": "63845644",
+   "FAX": 63845604,
+   "Address": "Tanjong Katong Road 11 #02-03 OneKM Shopping Mall Singapore 437157"
+},
+ {
+   "S": {
+      "N": 209
+   },
+   "ZONE": "EAST",
+   "ESTATE": "KATONG",
+   "CLINIC NAME": "MINMED CLINIC (HAIG ROAD) (FORMERLY KNOWN AS DAYSPRING MEDICAL CLINIC (HAIG ROAD))",
+   "PHONE": "67410123",
+   "FAX": 67423453,
+   "Address": "Haig Road 30   Singapore 438737"
+},
+ {
+   "S": {
+      "N": 210
+   },
+   "ZONE": "EAST",
+   "ESTATE": "KEMBANGAN",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (LENGKONG)",
+   "PHONE": "67494062",
+   "FAX": 67476487,
+   "Address": "Lengkong Tiga 110 #01-231  Singapore 410110"
+},
+ {
+   "S": {
+      "N": 211
+   },
+   "ZONE": "EAST",
+   "ESTATE": "LOYANG",
+   "CLINIC NAME": "LOYANG MEDICAL CENTRE",
+   "PHONE": "65431690",
+   "FAX": 65422528,
+   "Address": "Tops Avenue 1 103A #01-01 Loyang Offshore Supply\nBase Singapore 508988"
+},
+ {
+   "S": {
+      "N": 212
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "ACCESS MEDICAL (MARINE TERRACE)",
+   "PHONE": "62415208",
+   "FAX": 62415127,
+   "Address": "Marine Terrace 58 #01-61  Singapore 440058"
+},
+ {
+   "S": {
+      "N": 213
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "C & K FAMILY CLINIC PTE LTD",
+   "PHONE": "62429588",
+   "FAX": 62429277,
+   "Address": "Upper East Coast Road 108   Singapore 455297"
+},
+ {
+   "S": {
+      "N": 214
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "FAITH FAMILY CLINIC (MARINE TERRACE)",
+   "PHONE": "64466326",
+   "FAX": null,
+   "Address": "Marine Terrace 57 #01-113  Singapore 440057"
+},
+ {
+   "S": {
+      "N": 215
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "FAMILY MEDICINE CLINIC",
+   "PHONE": "64491606",
+   "FAX": 64491606,
+   "Address": "Marine Terrace 58 #01-65  Singapore 440058"
+},
+ {
+   "S": {
+      "N": 216
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "FRANKEL CLINIC",
+   "PHONE": "64455457",
+   "FAX": 64455457,
+   "Address": "East Coast Road 697 #01-01  Singapore 459060"
+},
+ {
+   "S": {
+      "N": 217
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "LIANG CLINIC",
+   "PHONE": "62415944",
+   "FAX": 64450141,
+   "Address": "East Coast Road 695D   Singapore 459059"
+},
+ {
+   "S": {
+      "N": 218
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "MARINE PARADE CLINIC",
+   "PHONE": "62419065",
+   "FAX": 64434549,
+   "Address": "Marine Terrace 59 #01-81  Singapore 440059"
+},
+ {
+   "S": {
+      "N": 219
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "MEDILINE WEI MIN CLINIC (MARINE PARADE)",
+   "PHONE": "62479221",
+   "FAX": 62479392,
+   "Address": "Marine Parade Central 81 #01-634  Singapore 440081"
+},
+ {
+   "S": {
+      "N": 220
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "ONECARE CLINIC MARINE PARADE",
+   "PHONE": "63441620",
+   "FAX": 63441622,
+   "Address": "Marine Parade Central 81 #01-644  Singapore 440081"
+},
+ {
+   "S": {
+      "N": 221
+   },
+   "ZONE": "EAST",
+   "ESTATE": "MARINE PARADE",
+   "CLINIC NAME": "TRINITY MEDICAL CENTRE (MARINE PARADE)",
+   "PHONE": "63440027",
+   "FAX": 63480683,
+   "Address": "Marine Parade Central 87 #01-503  Singapore 440087"
+},
+ {
+   "S": {
+      "N": 222
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PASIR RIS",
+   "CLINIC NAME": "DAYSPRING MEDICAL CLINIC (PASIR RIS)",
+   "PHONE": "65850123",
+   "FAX": 65850103,
+   "Address": "Pasir Ris Central Street 3 1 #05-09 White Sands Singapore 518457"
+},
+ {
+   "S": {
+      "N": 223
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PASIR RIS",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (PASIR RIS CENTRAL)",
+   "PHONE": "65820601",
+   "FAX": 65820871,
+   "Address": "Pasir Ris Central 10 #01-20 Pasir Ris MRT Singapore 519634"
+},
+ {
+   "S": {
+      "N": 224
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PASIR RIS",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (PASIR RIS)",
+   "PHONE": "65846822",
+   "FAX": 65846883,
+   "Address": "Elias Road 625 #01-322 Elias Mall Singapore 510625"
+},
+ {
+   "S": {
+      "N": 225
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PASIR RIS",
+   "CLINIC NAME": "LILY AW PASIR RIS FAMILY CLINIC & SURGERY",
+   "PHONE": "65822122",
+   "FAX": 65842378,
+   "Address": "Pasir Ris Drive 6 446 #01-116  Singapore 510446"
+},
+ {
+   "S": {
+      "N": 226
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PASIR RIS",
+   "CLINIC NAME": "OEI FAMILY CLINIC",
+   "PHONE": "65815881",
+   "FAX": 65830362,
+   "Address": "Elias Road 625 #02-316 Elias Mall Singapore 510625"
+},
+ {
+   "S": {
+      "N": 227
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PASIR RIS",
+   "CLINIC NAME": "ONECARE CLINIC LOYANG",
+   "PHONE": "63857435",
+   "FAX": 63853469,
+   "Address": "Pasir Ris Street 21 258 #02-14 Loyang Point Singapore 510258"
+},
+ {
+   "S": {
+      "N": 228
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PASIR RIS",
+   "CLINIC NAME": "OXFORD MEDICAL CENTRE",
+   "PHONE": "65851496",
+   "FAX": 65851496,
+   "Address": "Pasir Ris Street 72 735 #02-330 Pasir Ris West Plaza Singapore 510735"
+},
+ {
+   "S": {
+      "N": 229
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PASIR RIS",
+   "CLINIC NAME": "WELL MEDICAL CLINIC & SURGERY",
+   "PHONE": "65852252",
+   "FAX": 65832850,
+   "Address": "Pasir Ris Drive 10 739 #01-11  Singapore 510739"
+},
+ {
+   "S": {
+      "N": 230
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PAYA LEBAR",
+   "CLINIC NAME": "PHOENIX MEDICAL GROUP (PAYA LEBAR)",
+   "PHONE": "67022940",
+   "FAX": 67022941,
+   "Address": "Paya Lebar 60 #02-09 Paya Lebar Square Singapore 409051"
+},
+ {
+   "S": {
+      "N": 231
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PAYA LEBAR",
+   "CLINIC NAME": "TAI SENG CLINIC",
+   "PHONE": "62882434",
+   "FAX": 62882434,
+   "Address": "Irving Place 11 #01-09/10 Tai Seng Point Singapore 369551"
+},
+ {
+   "S": {
+      "N": 232
+   },
+   "ZONE": "EAST",
+   "ESTATE": "PAYA LEBAR",
+   "CLINIC NAME": "THE CLINIC @ TAI SENG PTE LTD",
+   "PHONE": "63840160",
+   "FAX": 63840175,
+   "Address": "Tai Seng Street 18 #01-07/08 Mapletree 18 Singapore 539775"
+},
+ {
+   "S": {
+      "N": 233
+   },
+   "ZONE": "EAST",
+   "ESTATE": "SIMEI",
+   "CLINIC NAME": "CHUA MEDICAL CENTRE PTE LTD",
+   "PHONE": "67853825",
+   "FAX": 67853825,
+   "Address": "Simei Street 3 248 #01-134  Singapore 520248"
+},
+ {
+   "S": {
+      "N": 234
+   },
+   "ZONE": "EAST",
+   "ESTATE": "SIMEI",
+   "CLINIC NAME": "FAITH CLINIC (SIMEI)",
+   "PHONE": "67884303",
+   "FAX": null,
+   "Address": "Simei Street 1 139 #01-10  Singapore 520139"
+},
+ {
+   "S": {
+      "N": 235
+   },
+   "ZONE": "EAST",
+   "ESTATE": "SIMEI",
+   "CLINIC NAME": "SIMEI CLINIC & SURGERY PTE LTD",
+   "PHONE": "67855021",
+   "FAX": 67879220,
+   "Address": "Simei Street 3 248 #01-132  Singapore 520248"
+},
+ {
+   "S": {
+      "N": 236
+   },
+   "ZONE": "EAST",
+   "ESTATE": "SIMEI",
+   "CLINIC NAME": "TRINITY MEDICAL & AESTHETIC CLINIC (SIMEI)",
+   "PHONE": "62602822",
+   "FAX": 62607543,
+   "Address": "Simei Street 1 151 #01-33  Singapore 520151"
+},
+ {
+   "S": {
+      "N": 237
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "ABLE MEDICAL CLINIC",
+   "PHONE": "69093955",
+   "FAX": 69093980,
+   "Address": "Tampines Street 21 201D #01-1129  Singapore 524201"
+},
+ {
+   "S": {
+      "N": 238
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "ADVANCED MEDICAL TAMPINES",
+   "PHONE": "67854014",
+   "FAX": null,
+   "Address": "Tampines Street 43 482 #01-238  Singapore 520482"
+},
+ {
+   "S": {
+      "N": 239
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "ALLHEALTH FAMILY CLINIC",
+   "PHONE": "67026467",
+   "FAX": 67026468,
+   "Address": "Tampines Street 86 872C #01-01  Singapore 523872"
+},
+ {
+   "S": {
+      "N": 240
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "CECILIA FAMILY CLINIC & SURGERY",
+   "PHONE": "67883812",
+   "FAX": 67848678,
+   "Address": "Tampines Street 43 484 #01-224  Singapore 520484"
+},
+ {
+   "S": {
+      "N": 241
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "CHERN MEDICAL CLINIC",
+   "PHONE": "67810036",
+   "FAX": 67810036,
+   "Address": "Tampines Street 11 138 #01-112  Singapore 521138"
+},
+ {
+   "S": {
+      "N": 242
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "CHIA & LEE MEDICAL & DENTAL CLINIC",
+   "PHONE": "67812969",
+   "FAX": 65332596,
+   "Address": "Tampines Avenue 4 802 #01-15  Singapore 520802"
+},
+ {
+   "S": {
+      "N": 243
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "F K LIM FAMILY CLINIC",
+   "PHONE": "67860201",
+   "FAX": 67860201,
+   "Address": "Tampines Street 21 267 #01-43  Singapore 520267"
+},
+ {
+   "S": {
+      "N": 244
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "FAITH HEALTHCARE (TAMPINES)",
+   "PHONE": "64433843",
+   "FAX": null,
+   "Address": "Tampines Street 32 11 #01-11 Tampines Mart Singapore 529287"
+},
+ {
+   "S": {
+      "N": 245
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "FAITH MEDICAL CLINIC & SURGERY",
+   "PHONE": "67881061",
+   "FAX": 67881061,
+   "Address": "Tampines Street 45 487C #B1-103  Singapore 522487"
+},
+ {
+   "S": {
+      "N": 246
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "GREENFOREST FAMILY CLINIC",
+   "PHONE": "67850157",
+   "FAX": 67852791,
+   "Address": "Tampines Avenue 8 878C #01-71  Singapore 523878"
+},
+ {
+   "S": {
+      "N": 247
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (TAMPINES STREET 21)",
+   "PHONE": "62608801",
+   "FAX": 62608802,
+   "Address": "Tampines Street 21 201D #01-1143  Singapore 524201"
+},
+ {
+   "S": {
+      "N": 248
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "HEALTHWAY TAMPINES CENTRAL CLINIC",
+   "PHONE": "67890383",
+   "FAX": 67890393,
+   "Address": "Tampines Central 1 503 #01-311  Singapore 520503"
+},
+ {
+   "S": {
+      "N": 249
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "HEALTHWAY TAMPINES CLINIC (TAMPINES STREET 71)",
+   "PHONE": "62609081",
+   "FAX": 62609083,
+   "Address": "Tampines Street 71 710 #01-134  Singapore 520710"
+},
+ {
+   "S": {
+      "N": 250
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "HONG FAMILY CLINIC",
+   "PHONE": "67843300",
+   "FAX": 67843300,
+   "Address": "Tampines Street 22 282 #01-300  Singapore 520282"
+},
+ {
+   "S": {
+      "N": 251
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "HWANG & LIANG FAMILY CLINIC & SURGERY",
+   "PHONE": "67888888",
+   "FAX": 67878777,
+   "Address": "Tampines Street 44 476 #01-173  Singapore 520476"
+},
+ {
+   "S": {
+      "N": 252
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "J T MEDICAL CENTRE",
+   "PHONE": "67837945",
+   "FAX": 67837659,
+   "Address": "Tampines Street 82 844 #01-135  Singapore 560844"
+},
+ {
+   "S": {
+      "N": 253
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "JOYHEALTH MEDICAL CLINIC & SURGERY",
+   "PHONE": "67811868",
+   "FAX": 67818327,
+   "Address": "Tampines Street 81 825 #01-50  Singapore 520825"
+},
+ {
+   "S": {
+      "N": 254
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "KARRI FAMILY CLINIC",
+   "PHONE": "67850311",
+   "FAX": 67857511,
+   "Address": "Tampines Street 83 866A #03-05 Tampines Central\nCommunity Complex Singapore 521866"
+},
+ {
+   "S": {
+      "N": 255
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "KOH CLINIC & SURGERY PTE LTD",
+   "PHONE": "67822882",
+   "FAX": 67864465,
+   "Address": "Tampines Avenue 4 801 #01-269  Singapore 520801"
+},
+ {
+   "S": {
+      "N": 256
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "LITTLE CROSS FAMILY CLINIC PTE LTD",
+   "PHONE": "65440040",
+   "FAX": 65440040,
+   "Address": "Tampines Street 91 929 #01-445  Singapore 520929"
+},
+ {
+   "S": {
+      "N": 257
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "MEDICARE ASSOCIATES PTE LTD",
+   "PHONE": "67880137",
+   "FAX": 67880137,
+   "Address": "Tampines Avenue 9 Street 43 482 #01-236  Singapore 520482"
+},
+ {
+   "S": {
+      "N": 258
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "NORTHEAST (TAMPINES) MEDICAL CENTRE PTE LTD",
+   "PHONE": "67867848",
+   "FAX": 67867443,
+   "Address": "Tampines Central 1 20 #01-25 Tampines MRT Station Singapore 529538"
+},
+ {
+   "S": {
+      "N": 259
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "ONECARE CLINIC TAMPINES",
+   "PHONE": "64435938",
+   "FAX": 64435708,
+   "Address": "Tampines Street 81 827 #01-142  Singapore 520827"
+},
+ {
+   "S": {
+      "N": 260
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "ONECARE CLINIC TAMPINES MRT",
+   "PHONE": "67853702",
+   "FAX": 67853762,
+   "Address": "Tampines Central 1 20 #01-27 Tampines MRT Station Singapore 529538"
+},
+ {
+   "S": {
+      "N": 261
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "Q & M MEDICAL CLINIC & AESTHETIC CLINIC\n(TAMPINES CENTRAL) PTE LTD",
+   "PHONE": "67813323",
+   "FAX": 67899630,
+   "Address": "Tampines Central 10 #04-18/19 Tampines One Singapore 529536"
+},
+ {
+   "S": {
+      "N": 262
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "RADLINK MEDICARE (TAMPINES) PTE LTD",
+   "PHONE": "67857515",
+   "FAX": 67855928,
+   "Address": "Tampines Central 6 5 #01-13 Telepark Singapore 529482"
+},
+ {
+   "S": {
+      "N": 263
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "RUBY MEDICAL CENTRE PTE LTD (TAMPINES CENTRAL)",
+   "PHONE": "67837847",
+   "FAX": 67837847,
+   "Address": "Tampines Central 1 505 #01-339  Singapore 520505"
+},
+ {
+   "S": {
+      "N": 264
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "SEASONS CLINIC",
+   "PHONE": "67877836",
+   "FAX": 67865186,
+   "Address": "Tampines Street 82 844 #01-139  Singapore 520844"
+},
+ {
+   "S": {
+      "N": 265
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "SUNSHINE CLINIC FAMILY PRACTICE &\nSURGERY",
+   "PHONE": "67833122",
+   "FAX": 67833122,
+   "Address": "Tampines Street 42 445 #01-02  Singapore 520445"
+},
+ {
+   "S": {
+      "N": 266
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "TAMPINES MEDILIFE CLINIC",
+   "PHONE": "67825142",
+   "FAX": 67825142,
+   "Address": "Tampines Avenue 4 801 #01-263  Singapore 520801"
+},
+ {
+   "S": {
+      "N": 267
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "THE FAMILY MEDICAL CENTRE (TAMPINES)",
+   "PHONE": "67873328",
+   "FAX": 67873328,
+   "Address": "Tampines Street 81 827 #01-148  Singapore 520827"
+},
+ {
+   "S": {
+      "N": 268
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "UNITED MEDICAL PRACTITIONERS PTE LTD",
+   "PHONE": "67812281",
+   "FAX": 67872315,
+   "Address": "Tampines Street 11 139 #01-16  Singapore 521139"
+},
+ {
+   "S": {
+      "N": 269
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "VIVA MEDICAL CLINIC (TAMPINES STREET)",
+   "PHONE": "67828020",
+   "FAX": 67828060,
+   "Address": "Tampines Street 42 450A #01-356  Singapore 521450"
+},
+ {
+   "S": {
+      "N": 270
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "VIVA MEDICAL GROUP PTE LTD",
+   "PHONE": "66357240",
+   "FAX": 66357241,
+   "Address": "Tampines Central 8 519A #01-08  Singapore 521519"
+},
+ {
+   "S": {
+      "N": 271
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "W Y TEH FAMILY CLINIC AND SURGERY",
+   "PHONE": "67836802",
+   "FAX": 67836039,
+   "Address": "Tampines Street 44 462 #01-60  Singapore 520462"
+},
+ {
+   "S": {
+      "N": 272
+   },
+   "ZONE": "EAST",
+   "ESTATE": "TAMPINES",
+   "CLINIC NAME": "YAO MEDICAL CLINIC",
+   "PHONE": "67830232",
+   "FAX": 67830232,
+   "Address": "Tampines Street 41 419 #01-96  Singapore 520419"
+},
+ {
+   "S": {
+      "N": 273
+   },
+   "ZONE": "EAST",
+   "ESTATE": "UBI",
+   "CLINIC NAME": "ACCORD MEDICAL CLINIC (UBI)",
+   "PHONE": "68441528",
+   "FAX": 68443782,
+   "Address": "Ubi Avenue 1 325 #01-701  Singapore 400325"
+},
+ {
+   "S": {
+      "N": 274
+   },
+   "ZONE": "EAST",
+   "ESTATE": "UBI",
+   "CLINIC NAME": "ADVANCE CLINIC & SURGERY PTE LTD",
+   "PHONE": "67421156",
+   "FAX": 67426191,
+   "Address": "Ubi Avenue 1 301 #01-269  Singapore 400301"
+},
+ {
+   "S": {
+      "N": 275
+   },
+   "ZONE": "EAST",
+   "ESTATE": "UBI",
+   "CLINIC NAME": "CARITAS CLINIC",
+   "PHONE": "67489284",
+   "FAX": 67421955,
+   "Address": "Ubi Avenue 1 304 #01-127  Singapore 400304"
+},
+ {
+   "S": {
+      "N": 276
+   },
+   "ZONE": "EAST",
+   "ESTATE": "UBI",
+   "CLINIC NAME": "FRONTIER MEDICAL ASSOCIATES (UBI)",
+   "PHONE": "67460909",
+   "FAX": 68412425,
+   "Address": "Ubi Avenue 1 304 #01-87  Singapore 400304"
+},
+ {
+   "S": {
+      "N": 277
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "SEMBAWANG",
+   "CLINIC NAME": "CANBERRA CARE MEDICAL CLINIC",
+   "PHONE": "64831128",
+   "FAX": 64831128,
+   "Address": "Canberra Crescent 120 #01-04  Singapore 750120"
+},
+ {
+   "S": {
+      "N": 278
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "SEMBAWANG",
+   "CLINIC NAME": "CANBERRA MEDICAL AESTHETICS",
+   "PHONE": "68520500",
+   "FAX": 67572741,
+   "Address": "Canberra Road 306A #01-01  Singapore 751306"
+},
+ {
+   "S": {
+      "N": 279
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "SEMBAWANG",
+   "CLINIC NAME": "DAY & NIGHT FAMILY CLINIC",
+   "PHONE": "64816625",
+   "FAX": 64816831,
+   "Address": "Jalan Malu Malu 77  Kindol Gardens Singapore 769687"
+},
+ {
+   "S": {
+      "N": 280
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "SEMBAWANG",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (SEMBAWANG)",
+   "PHONE": "65551445",
+   "FAX": 65551446,
+   "Address": "Sembawang Drive 30 #03-20 Sun Plaza Singapore 757713"
+},
+ {
+   "S": {
+      "N": 281
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "SEMBAWANG",
+   "CLINIC NAME": "PEACE FAMILY CLINIC & SURGERY (SEMBAWANG DRIVE)",
+   "PHONE": "65556674",
+   "FAX": 65556684,
+   "Address": "Sembawang Drive 406 #01-820  Singapore 750406"
+},
+ {
+   "S": {
+      "N": 282
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "SEMBAWANG",
+   "CLINIC NAME": "SEMBAWANG MART MEDICAL CENTRE PTE LTD (FORMERLY KNOWN AS THE CLINIQ (SEMBAWANG X-RAY CENTRE))",
+   "PHONE": "64819793",
+   "FAX": 64819796,
+   "Address": "Canberra Road 511 #02-02A Sembawang Mart Singapore 750511"
+},
+ {
+   "S": {
+      "N": 283
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "SEMBAWANG",
+   "CLINIC NAME": "TEMASEK MEDICAL CENTRE (SEMBAWANG)",
+   "PHONE": "65551155",
+   "FAX": 64811568,
+   "Address": "Sembawang Drive 406 #01-824  Singapore 750406"
+},
+ {
+   "S": {
+      "N": 284
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "UPPER THOMSON",
+   "CLINIC NAME": "CHONG'S CLINIC",
+   "PHONE": "64536492",
+   "FAX": 64536035,
+   "Address": "Upper Thomson Road 234   Singapore 574365"
+},
+ {
+   "S": {
+      "N": 285
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "UPPER THOMSON",
+   "CLINIC NAME": "HORIZON MEDICAL CENTRE",
+   "PHONE": "62502692",
+   "FAX": 62502692,
+   "Address": "Upper Thomson Road 200 #01-11 Thomson Imperial Court Singapore 574424"
+},
+ {
+   "S": {
+      "N": 286
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "DOCTORS CLINIC & SURGERY",
+   "PHONE": "62691017",
+   "FAX": 63621496,
+   "Address": "Woodlands Street 31 305 #01-91  Singapore 730305"
+},
+ {
+   "S": {
+      "N": 287
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "DR NAH & LEE FAMILY CLINIC",
+   "PHONE": "62501528",
+   "FAX": 62501779,
+   "Address": "Woodlands Crescent 780 #01-03  Singapore 730780"
+},
+ {
+   "S": {
+      "N": 288
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "FRONTIER MEDICAL ASSOCIATES (WOODLANDS)",
+   "PHONE": "63663631",
+   "FAX": 63663638,
+   "Address": "Woodlands Drive 50 899C #01-296  Singapore 732899"
+},
+ {
+   "S": {
+      "N": 289
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "HEALTHWAY WOODLANDS FAMILY CLINIC",
+   "PHONE": "63649661",
+   "FAX": 63649662,
+   "Address": "Woodlands Drive 50 888 #02-737 888 Plaza Singapore 730888"
+},
+ {
+   "S": {
+      "N": 290
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "HOPE FAMILY CLINIC & SURGERY",
+   "PHONE": "63691328",
+   "FAX": 63691328,
+   "Address": "Woodlands Street 82 883 #01-470 Woodlands North Plaza Singapore 730883"
+},
+ {
+   "S": {
+      "N": 291
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "LIAN CLINIC PTE LTD",
+   "PHONE": "62697435",
+   "FAX": 63661157,
+   "Address": "Marsiling Lane 18 #01-269  Singapore 730018"
+},
+ {
+   "S": {
+      "N": 292
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "MY FAMILY CLINIC (WOODLANDS)",
+   "PHONE": "68840658",
+   "FAX": 68840658,
+   "Address": "Woodlands Avenue 6 768 #02-07 Woodlands Mart Singapore 730768"
+},
+ {
+   "S": {
+      "N": 293
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "PROCROSS MEDICAL CLINIC",
+   "PHONE": "62199648",
+   "FAX": 62199649,
+   "Address": "Woodlands Drive 75 689A #01-86  Singapore 731689"
+},
+ {
+   "S": {
+      "N": 294
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "REGIONAL PATIENTCARE MEDICAL GROUP PTE\nLTD (WOODLANDS)",
+   "PHONE": "63669027",
+   "FAX": 68939839,
+   "Address": "Woodlands Avenue 6 678 #01-726  Singapore 730678"
+},
+ {
+   "S": {
+      "N": 295
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "SILVER CROSS FAMILY CLINIC (WOODLANDS)",
+   "PHONE": "63633646",
+   "FAX": 63633349,
+   "Address": "Woodlands Street 31 305 #01-75  Singapore 730305"
+},
+ {
+   "S": {
+      "N": 296
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "SINGAPORE FAMILY CLINIC & SURGERY (WOODLANDS)",
+   "PHONE": "63647450",
+   "FAX": 63647451,
+   "Address": "Woodlands Drive 70 717 #01-114  Singapore 730717"
+},
+ {
+   "S": {
+      "N": 297
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "TEMASEK MEDICAL CENTRE (WOODLANDS)",
+   "PHONE": "63668366",
+   "FAX": 62690138,
+   "Address": "Woodlands Street 82 883 #01-464 Woodlands North Plaza Singapore 730883"
+},
+ {
+   "S": {
+      "N": 298
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "WOODGROVE MEDICAL LLP",
+   "PHONE": "63668831",
+   "FAX": 63669961,
+   "Address": "Woodlands Avenue 1 30 #02-03/04 The Woodgrove Singapore 739065"
+},
+ {
+   "S": {
+      "N": 299
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "WOODLANDS MEDICAL CENTRE (MARSILING)",
+   "PHONE": "62698888",
+   "FAX": 63654119,
+   "Address": "Marsiling Crescent 210 #01-09  Singapore 730210"
+},
+ {
+   "S": {
+      "N": 300
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "WOODLANDS",
+   "CLINIC NAME": "YIM MEDICAL CENTRE (ADMIRALTY MRT)",
+   "PHONE": "68939181",
+   "FAX": 68939183,
+   "Address": "Woodlands Avenue 6 678 #01-722  Singapore 730678"
+},
+ {
+   "S": {
+      "N": 301
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "CARE4LIFE MEDICAL CLINIC (YISHUN)",
+   "PHONE": "69092259",
+   "FAX": 69092259,
+   "Address": "Yishun Street 51 513 #01-03  Singapore 760513"
+},
+ {
+   "S": {
+      "N": 302
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "CHANLAI HEALTHCARE CLINIC",
+   "PHONE": "67563456",
+   "FAX": 67565600,
+   "Address": "Yishun Street 61 604 #01-325  Singapore 760604"
+},
+ {
+   "S": {
+      "N": 303
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "FRONTIER MEDICAL ASSOCIATES (YISHUN)",
+   "PHONE": "67587536",
+   "FAX": 67584601,
+   "Address": "Yishun Avenue 4 654 #01-437  Singapore 760654"
+},
+ {
+   "S": {
+      "N": 304
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "GOOD DOCTORS MEDICAL CLINIC",
+   "PHONE": "69093457",
+   "FAX": 69093458,
+   "Address": "Yishun Avenue 9 18 #02-55 Junction Nine Mall Singapore 768897"
+},
+ {
+   "S": {
+      "N": 305
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CENTRE (YISHUN)",
+   "PHONE": "67537626",
+   "FAX": 67530125,
+   "Address": "Yishun Avenue 11 417 #01-321  Singapore 760417"
+},
+ {
+   "S": {
+      "N": 306
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (YISHUN ST 72)",
+   "PHONE": "68537101",
+   "FAX": 68537107,
+   "Address": "Yishun Street 72 748 #01-230  Singapore 760748"
+},
+ {
+   "S": {
+      "N": 307
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (YISHUN)",
+   "PHONE": "67551345",
+   "FAX": 67551346,
+   "Address": "Yishun Avenue 5 101 #01-15  Singapore 760101"
+},
+ {
+   "S": {
+      "N": 308
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "HEARTLAND FAMILY CLINIC",
+   "PHONE": "62500655",
+   "FAX": 62502803,
+   "Address": "Yishun Street 31 333C #01-167  Singapore 763333"
+},
+ {
+   "S": {
+      "N": 309
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "KONG CLINIC & SURGERY",
+   "PHONE": "67580136",
+   "FAX": 67580136,
+   "Address": "Yishun Street 22 293 #01-223  Singapore 760293"
+},
+ {
+   "S": {
+      "N": 310
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "MY FAMILY CLINIC (ANGSANA BREEZE @\nYISHUN)",
+   "PHONE": "67530178",
+   "FAX": 67530179,
+   "Address": "Yishun Avenue 4 507 #01-05  Singapore 760507"
+},
+ {
+   "S": {
+      "N": 311
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "ONECARE CLINIC YISHUN",
+   "PHONE": "63342373",
+   "FAX": 63342374,
+   "Address": "Yishun Avenue 1 431 #01-04  Singapore 760431"
+},
+ {
+   "S": {
+      "N": 312
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "PACIFIC MEDICAL & DENTAL GROUP",
+   "PHONE": "67524050",
+   "FAX": 67529365,
+   "Address": "Yishun Street 71 716 #01-270  Singapore 760716"
+},
+ {
+   "S": {
+      "N": 313
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "PARSONS MEDICAL CLINIC PTE LTD",
+   "PHONE": "64846010",
+   "FAX": 64846010,
+   "Address": "Yishun Avenue 2 779 #01-1541  Singapore 760779"
+},
+ {
+   "S": {
+      "N": 314
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "PUBLIC MEDICAL CLINIC & SURGERY",
+   "PHONE": "67556539",
+   "FAX": 67552320,
+   "Address": "Yishun Avenue 4 664 #01-275  Singapore 760664"
+},
+ {
+   "S": {
+      "N": 315
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "REGIONAL PATIENTCARE MEDICAL GROUP PTE\nLTD (YISHUN)",
+   "PHONE": "67561611",
+   "FAX": 67568028,
+   "Address": "Yishun Central 1 932 #01-97  Singapore 760932"
+},
+ {
+   "S": {
+      "N": 316
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "ROYAL CARE MEDICAL YISHUN JUNCTION 9",
+   "PHONE": "67107338",
+   "FAX": 67105338,
+   "Address": "Yishun Avenue 9 317 #01-03 Multi Storey Car Park Singapore 760317"
+},
+ {
+   "S": {
+      "N": 317
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "SILVER CROSS FAMILY CLINIC (YISHUN)",
+   "PHONE": "67599181",
+   "FAX": 67583731,
+   "Address": "Yishun Ring Road 846 #01-3661  Singapore 760846"
+},
+ {
+   "S": {
+      "N": 318
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "UNITED HEALTH FAMILY CLINIC & SURGERY",
+   "PHONE": "62571182",
+   "FAX": 62571182,
+   "Address": "Yishun Street 61 627 #01-63  Singapore 760627"
+},
+ {
+   "S": {
+      "N": 319
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "WELLCARE FAMILY CLINIC",
+   "PHONE": "67543740",
+   "FAX": 67543742,
+   "Address": "Yishun Street 72 747 #01-106  Singapore 760747"
+},
+ {
+   "S": {
+      "N": 320
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "YISHUN CENTRAL CLINIC",
+   "PHONE": "67536338",
+   "FAX": 67536082,
+   "Address": "Yishun Central 1 935 #01-47  Singapore 760935"
+},
+ {
+   "S": {
+      "N": 321
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "YISHUN CENTRAL MEDICAL CLINIC",
+   "PHONE": "67558931",
+   "FAX": 67558931,
+   "Address": "Yishun Street 11 160 #01-212  Singapore 760160"
+},
+ {
+   "S": {
+      "N": 322
+   },
+   "ZONE": "NORTH",
+   "ESTATE": "YISHUN",
+   "CLINIC NAME": "YISHUNONE FAMILY CLINIC",
+   "PHONE": "67590950",
+   "FAX": 67590950,
+   "Address": "Yishun Avenue 5 743 #01-534  Singapore 760743"
+},
+ {
+   "S": {
+      "N": 323
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "DRS LIM & CHAN CLINIC (HOUGANG)",
+   "PHONE": "62800990",
+   "FAX": 62801973,
+   "Address": "Hougang Avenue 1 106 #01-1235  Singapore 530106"
+},
+ {
+   "S": {
+      "N": 324
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "FAMILY CARE MEDICAL CENTRE PTE LTD",
+   "PHONE": "63855177",
+   "FAX": 63124792,
+   "Address": "Hougang Avenue 9 916 #01-08  Singapore 530916"
+},
+ {
+   "S": {
+      "N": 325
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "GOH CLINIC & SURGERY (HOUGANG)",
+   "PHONE": "63863836 /\n62846880",
+   "FAX": 62840594,
+   "Address": "Hougang Street 21 204 #01-101  Singapore 530204"
+},
+ {
+   "S": {
+      "N": 326
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "GRACE (SL) MEDICAL CENTRE",
+   "PHONE": "63850400",
+   "FAX": 63850393,
+   "Address": "Hougang Central 811 #01-208  Singapore 530811"
+},
+ {
+   "S": {
+      "N": 327
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "HALLEY MEDICAL CLINIC",
+   "PHONE": "63122632",
+   "FAX": 63122732,
+   "Address": "Hougang Street 91 1 #01-21 Hougang 1 Singapore 538692"
+},
+ {
+   "S": {
+      "N": 328
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "HEALTHCARE HOUGANG MEDICAL CLINIC",
+   "PHONE": "62881426",
+   "FAX": 62881426,
+   "Address": "Hougang Avenue 5 311 #01-191  Singapore 530311"
+},
+ {
+   "S": {
+      "N": 329
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "HEALTHCARE MEDICAL @ KOVAN",
+   "PHONE": "62821118",
+   "FAX": 62822011,
+   "Address": "Hougang Street 21 208 #01-205  Singapore 530208"
+},
+ {
+   "S": {
+      "N": 330
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "HEALTHWAY HOUGANG CENTRAL CLINIC",
+   "PHONE": "63437620",
+   "FAX": 63437621,
+   "Address": "Hougang Avenue 10 90 #04-06 Hougang Mall Singapore 538766"
+},
+ {
+   "S": {
+      "N": 331
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (HOUGANG)",
+   "PHONE": "63880339",
+   "FAX": 63880337,
+   "Address": "Hougang Avenue 8 684 #01-965  Singapore 530684"
+},
+ {
+   "S": {
+      "N": 332
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "IDOC CLINIC",
+   "PHONE": "69093485",
+   "FAX": 69093486,
+   "Address": "Hougang Street 51 21 #01-43 Hougang Green Shopping Mall Singapore 538719"
+},
+ {
+   "S": {
+      "N": 333
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "LONDON (MH) CLINIC & SURGERY",
+   "PHONE": "62807262",
+   "FAX": 62807262,
+   "Address": "Hougang Avenue 1 104 #01-1123  Singapore 530104"
+},
+ {
+   "S": {
+      "N": 334
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "MEDICA CLINIC",
+   "PHONE": "63862187",
+   "FAX": 63879543,
+   "Address": "Hougang Avenue 8 681 #01-837  Singapore 530681"
+},
+ {
+   "S": {
+      "N": 335
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "MEDLIFE CLINIC & SURGERY",
+   "PHONE": "63850836",
+   "FAX": 63852463,
+   "Address": "Hougang Avenue 8 684 #01-985  Singapore 530684"
+},
+ {
+   "S": {
+      "N": 336
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "MY FAMILY CLINIC (HOUGANG CENTRAL)",
+   "PHONE": "63852117",
+   "FAX": 63865015,
+   "Address": "Hougang Central 804 #01-118  Singapore 530804"
+},
+ {
+   "S": {
+      "N": 337
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "ONECARE CLINIC HOUGANG",
+   "PHONE": "65250325",
+   "FAX": 65250396,
+   "Address": "Hougang Avenue 1 104 #01-1125  Singapore 530104"
+},
+ {
+   "S": {
+      "N": 338
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "PANHEALTH FAMILY CLINIC (HOUGANG)",
+   "PHONE": "66101496",
+   "FAX": 66106127,
+   "Address": "Hougang Avenue 9 932B #01-02  Singapore 532932"
+},
+ {
+   "S": {
+      "N": 339
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "PARKWAY SHENTON MEDICAL GROUP\n(KOVAN)",
+   "PHONE": "68449630",
+   "FAX": 68449730,
+   "Address": "Hougang Street 21 205  Heartand Mall Singapore 530205"
+},
+ {
+   "S": {
+      "N": 340
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "PRIMECARE MEDICAL CLINIC",
+   "PHONE": "63863007",
+   "FAX": 63865529,
+   "Address": "Hougang Avenue 8 681 #01-823  Singapore 530681"
+},
+ {
+   "S": {
+      "N": 341
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "PROCROSS MEDICAL CENTRE",
+   "PHONE": "67022848",
+   "FAX": 67022840,
+   "Address": "Hougang Avenue 10 449 #B1-509  Singapore 530449"
+},
+ {
+   "S": {
+      "N": 342
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "RADIANT MEDICAL & AESTHETIC CENTRE\n(HOUGANG)",
+   "PHONE": "68812389",
+   "FAX": 68812387,
+   "Address": "Hougang Central 810 #01-220  Singapore 530810"
+},
+ {
+   "S": {
+      "N": 343
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "SIMON ROAD FAMILY CLINIC",
+   "PHONE": "62878755",
+   "FAX": 62874231,
+   "Address": "Simon Road 9   Singapore 545895"
+},
+ {
+   "S": {
+      "N": 344
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "SINGAPORE FAMILY CLINIC & SURGERY (HOUGANG)",
+   "PHONE": "62849692",
+   "FAX": 62846535,
+   "Address": "Hougang Avenue 1 108 #01-1299  Singapore 530108"
+},
+ {
+   "S": {
+      "N": 345
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "ST HEALTHCARE PTE LTD",
+   "PHONE": "64880618",
+   "FAX": 62855113,
+   "Address": "Airport Road 492  Aeromedical Centre Singapore 539945"
+},
+ {
+   "S": {
+      "N": 346
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "HOUGANG",
+   "CLINIC NAME": "STAT MEDICAL @ HOUGANG PTE LTD",
+   "PHONE": "62827254",
+   "FAX": 62828769,
+   "Address": "Hougang Avenue 5 311 #01-183  Singapore 530311"
+},
+ {
+   "S": {
+      "N": 347
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "AVENUE K CLINIC @ PUNGGOL",
+   "PHONE": "68344843",
+   "FAX": null,
+   "Address": "Edgefield Plains 615A #01-327  Singapore 821615"
+},
+ {
+   "S": {
+      "N": 348
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "EDGEDALE MEDICAL CLINIC",
+   "PHONE": "66352272",
+   "FAX": 66352272,
+   "Address": "Edgedale Plains 122A #01-187  Singapore 821122"
+},
+ {
+   "S": {
+      "N": 349
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "ETERN MEDICAL CLINIC (PUNGGOL)",
+   "PHONE": "64259935",
+   "FAX": 64259936,
+   "Address": "Punggol Central 70 #01-05 Punggol MRT Station Singapore 828868"
+},
+ {
+   "S": {
+      "N": 350
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (PUNGGOL PLACE)",
+   "PHONE": "66948581",
+   "FAX": 66948582,
+   "Address": "Punggol Place 273C #01-874  Singapore 823273"
+},
+ {
+   "S": {
+      "N": 351
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "HEALTHWAY PUNGGOL CLINIC",
+   "PHONE": "63153493",
+   "FAX": 63153494,
+   "Address": "Punggol Field 168 #02-07A Punggol Plaza Singapore 820168"
+},
+ {
+   "S": {
+      "N": 352
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "MEDI HEALTHCARE CLINIC (PUNGGOL)",
+   "PHONE": "64448748",
+   "FAX": 64448749,
+   "Address": "Sumang Walk 218 #01-02  Singapore 820218"
+},
+ {
+   "S": {
+      "N": 353
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "MINMED CLINIC (PUNGGOL)",
+   "PHONE": "63880123",
+   "FAX": 65830103,
+   "Address": "Punggol Central 83 #02-15 Waterway Point Singapore 828761"
+},
+ {
+   "S": {
+      "N": 354
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "MUTUAL HEALTHCARE MEDICAL CLINIC (PUNGGOL)",
+   "PHONE": "63155036",
+   "FAX": 63155037,
+   "Address": "Punggol Field Road 106A #01-546  Singapore 821106"
+},
+ {
+   "S": {
+      "N": 355
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "MY FAMILY CLINIC (PUNGGOL CENTRAL)",
+   "PHONE": "68537351",
+   "FAX": 68537352,
+   "Address": "Punggol Central 301 #01-02  Singapore 820301"
+},
+ {
+   "S": {
+      "N": 356
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "MY FAMILY CLINIC (PUNGGOL WATERWAY TERRACE)",
+   "PHONE": "64445390",
+   "FAX": 64445391,
+   "Address": "Punggol Walk 308C #01-302 Waterway Terraces 1 Singapore 823308"
+},
+ {
+   "S": {
+      "N": 357
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "PANHEALTH FAMILY CLINIC",
+   "PHONE": "69660595",
+   "FAX": 69668639,
+   "Address": "Sumang Link 312B #01-03  Singapore 822312"
+},
+ {
+   "S": {
+      "N": 358
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "PUNGGOL FAMILY CLINIC PTE LTD",
+   "PHONE": "63439989",
+   "FAX": 63439979,
+   "Address": "Punggol Field 168 #01-13 Punggol Plaza Singapore 820168"
+},
+ {
+   "S": {
+      "N": 359
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "PUNGGOL RIPPLES FAMILY CLINIC",
+   "PHONE": "65383707",
+   "FAX": 66361500,
+   "Address": "Punggol Walk 211D #01-667  Singapore 824211"
+},
+ {
+   "S": {
+      "N": 360
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "Q & M MUTUAL HEALTHCARE MEDICAL CLINIC",
+   "PHONE": "63846605",
+   "FAX": 63846838,
+   "Address": "Punggol Central 70 #01-07 Punggol NEL MRT Station Singapore 828868"
+},
+ {
+   "S": {
+      "N": 361
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "PUNGGOL",
+   "CLINIC NAME": "TRINITY MEDICAL (PUNGGOL)",
+   "PHONE": "66948238",
+   "FAX": 66948239,
+   "Address": "Punggol Place 273C #01-880  Singapore 823273"
+},
+ {
+   "S": {
+      "N": 362
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SELETAR",
+   "CLINIC NAME": "PHOENIX MEDICAL GROUP (SELETAR)",
+   "PHONE": "65553512",
+   "FAX": 64842240,
+   "Address": "Seletar Road 1 #02-11 Greenwich V Singapore 807011"
+},
+ {
+   "S": {
+      "N": 363
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "ETERN MEDICAL CLINIC (FERNVALE PALM)",
+   "PHONE": "66047224",
+   "FAX": 66047760,
+   "Address": "Sengkang West Way 432A #01-03  Singapore 791432"
+},
+ {
+   "S": {
+      "N": 364
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "ETERN MEDICAL CLINIC (SENGKANG)",
+   "PHONE": "64257255",
+   "FAX": 64257995,
+   "Address": "Sengkang West Avenue 33 #03-33 The Seletar Mall Singapore 797653"
+},
+ {
+   "S": {
+      "N": 365
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "FAITH HEALTHCARE (RIVERVALE) (FORMERLY KNOWN AS FAITH CLINIC (RIVERVALE))",
+   "PHONE": "63157879",
+   "FAX": null,
+   "Address": "Rivervale Crescent 11 #02-15 Rivervale Mall Singapore 545082"
+},
+ {
+   "S": {
+      "N": 366
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "FERNVALE FAMILY CLINIC",
+   "PHONE": "68756182",
+   "FAX": 68756182,
+   "Address": "Fernvale Lane 405C #01-101  Singapore 793405"
+},
+ {
+   "S": {
+      "N": 367
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "FRONTIER MEDICAL ASSOCIATES (BC) PTE LTD",
+   "PHONE": "63152913",
+   "FAX": 63152914,
+   "Address": "Buangkok Crescent 982 #01-03  Singapore 530982"
+},
+ {
+   "S": {
+      "N": 368
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "HEALTHWAY ANCHORVALE CLINIC",
+   "PHONE": "63123106",
+   "FAX": 63123107,
+   "Address": "Anchorvale Road 308 #01-03  Singapore 540308"
+},
+ {
+   "S": {
+      "N": 369
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "HEALTHWAY COMPASSVALE CLINIC",
+   "PHONE": "63438770",
+   "FAX": 63438771,
+   "Address": "Compassvale Link 267 #01-04  Singapore 540267"
+},
+ {
+   "S": {
+      "N": 370
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (RIVERVALE)",
+   "PHONE": "68812689",
+   "FAX": 68812686,
+   "Address": "Rivervale Drive 118 #02-17 Rivervale Plaza Singapore 540118"
+},
+ {
+   "S": {
+      "N": 371
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "KANG CLINIC",
+   "PHONE": "64811044",
+   "FAX": 67553930,
+   "Address": "Jalan Kayu 229   Singapore 799453"
+},
+ {
+   "S": {
+      "N": 372
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "MEDIVENE CLINIC & SURGERY",
+   "PHONE": "63850441",
+   "FAX": 63850442,
+   "Address": "Anchorvale Street 330 #01-05  Singapore 540330"
+},
+ {
+   "S": {
+      "N": 373
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "MINMED CLINIC (SENGKANG)",
+   "PHONE": "63860123",
+   "FAX": 63862103,
+   "Address": "Sengkang Square 1 #04-13 Compass One Singapore 545078"
+},
+ {
+   "S": {
+      "N": 374
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "MUTUAL HEALTHCARE MEDICAL CLINIC (ANCHORVALE)",
+   "PHONE": "64893833",
+   "FAX": 64893973,
+   "Address": "Anchorvale Drive 319B #01-92  Singapore 542319"
+},
+ {
+   "S": {
+      "N": 375
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "MUTUAL HEALTHCARE MEDICAL CLINIC (COMPASSVALE)",
+   "PHONE": "65473593",
+   "FAX": 65473594,
+   "Address": "Compassvale Lane 205A #01-53  Singapore 541205"
+},
+ {
+   "S": {
+      "N": 376
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "MY FAMILY CLINIC (ANCHORVALE)",
+   "PHONE": "67023963",
+   "FAX": 67023973,
+   "Address": "Anchorvale Road 326A #01-260  Singapore 541326"
+},
+ {
+   "S": {
+      "N": 377
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "MY FAMILY CLINIC (RIVERVALE)",
+   "PHONE": "68811978",
+   "FAX": 68810312,
+   "Address": "Rivervale Crescent 11 #02-11A Rivervale Mall Singapore 545082"
+},
+ {
+   "S": {
+      "N": 378
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "PINNACLE FAMILY CLINIC (COMPASSVALE)",
+   "PHONE": "63861089",
+   "FAX": 63861308,
+   "Address": "Compassvale Crescent 289C #01-04  Singapore 543289"
+},
+ {
+   "S": {
+      "N": 379
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "RCMC RIVERVALE CRESCENT MEDICAL CENTRE",
+   "PHONE": "68860772",
+   "FAX": 68860773,
+   "Address": "Rivervale Crescent 182A #01-04  Singapore 541182"
+},
+ {
+   "S": {
+      "N": 380
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "SHENTON MEDICAL GROUP (SENGKANG)",
+   "PHONE": "63153671",
+   "FAX": 63158190,
+   "Address": "Sengkang Central 10 #01-04 Buangkok NEL MRT Station Singapore 545061"
+},
+ {
+   "S": {
+      "N": 381
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "SUNBEAM MEDICAL CLINIC (ANCHORVALE)",
+   "PHONE": "68023642",
+   "FAX": 63858982,
+   "Address": "Anchorvale Link 318B #01-257  Singapore 542318"
+},
+ {
+   "S": {
+      "N": 382
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SENGKANG",
+   "CLINIC NAME": "THE OLIVE TREE FAMILY CLINIC & SURGERY PTE LTD",
+   "PHONE": "63888697",
+   "FAX": 68813202,
+   "Address": "Anchorvale Link 303 #01-02  Singapore 540303"
+},
+ {
+   "S": {
+      "N": 383
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "COMFORT CLINIC & SURGERY",
+   "PHONE": "62807271",
+   "FAX": 62807271,
+   "Address": "Serangoon Avenue 4 214 #01-100  Singapore 550214"
+},
+ {
+   "S": {
+      "N": 384
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "CURAMED MEDICAL AND AESTHETIC CLINIC",
+   "PHONE": "65130529",
+   "FAX": 65130571,
+   "Address": "Upper Serangoon Road 1187 #01-54 The Midtown Singapore 533971"
+},
+ {
+   "S": {
+      "N": 385
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "DRS LIM & CHAN CLINIC (LORONG LEW LIAN)",
+   "PHONE": "62803009",
+   "FAX": 62832151,
+   "Address": "Lorong Lew Lian 2 #01-50  Singapore 531002"
+},
+ {
+   "S": {
+      "N": 386
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "FAMILY HEALTHCARE CLINIC & SURGERY (SERANGOON)",
+   "PHONE": "62889557",
+   "FAX": 62889557,
+   "Address": "Serangoon North Avenue 2 151 #01-35  Singapore 550151"
+},
+ {
+   "S": {
+      "N": 387
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "JOASH FAMILY CLINIC & SURGERY",
+   "PHONE": "62827371",
+   "FAX": null,
+   "Address": "Upper Serangoon Road 1030   Singapore 534767"
+},
+ {
+   "S": {
+      "N": 388
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "MEDILINE WEI MIN CLINIC (SERANGOON\nGARDEN)",
+   "PHONE": "62886029",
+   "FAX": 62887623,
+   "Address": "Kensington Park Road 14   Singapore 557265"
+},
+ {
+   "S": {
+      "N": 389
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "MILFORD MEDICAL GROUP",
+   "PHONE": "62869993",
+   "FAX": 62824338,
+   "Address": "Serangoon Avenue 3 237 #01-116  Singapore 550237"
+},
+ {
+   "S": {
+      "N": 390
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "Q & M MEDICAL FAMILY CLINIC",
+   "PHONE": "64882336",
+   "FAX": 62813586,
+   "Address": "Serangoon Central Drive 262 #01-115  Singapore 550262"
+},
+ {
+   "S": {
+      "N": 391
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "S G CLINIC FAMILY PRACTICE",
+   "PHONE": "63821988",
+   "FAX": 62881474,
+   "Address": "Serangoon Garden Way 84   Singapore 555980"
+},
+ {
+   "S": {
+      "N": 392
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "SILVER CROSS FAMILY CLINIC (SERANGOON)",
+   "PHONE": "62878702",
+   "FAX": 62877890,
+   "Address": "Serangoon Central Drive 262 #01-109  Singapore 550262"
+},
+ {
+   "S": {
+      "N": 393
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "STERLING CLINIC & SURGERY",
+   "PHONE": "62849971",
+   "FAX": 64874451,
+   "Address": "Lorong Lew Lian 3 #01-64  Singapore 531003"
+},
+ {
+   "S": {
+      "N": 394
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "T H CHIA MEDICAL PRACTICE PTE LTD",
+   "PHONE": "62813268",
+   "FAX": 62813268,
+   "Address": "Serangoon North Avenue 2 151 #01-19  Singapore 550151"
+},
+ {
+   "S": {
+      "N": 395
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "THE FAMILY PHYSICIAN CLINIC",
+   "PHONE": "65551828",
+   "FAX": 65551829,
+   "Address": "Serangoon North Avenue 3 542B #01-02  Singapore 552542"
+},
+ {
+   "S": {
+      "N": 396
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "TRUCARE MEDICAL & SURGERY",
+   "PHONE": "63853525",
+   "FAX": 63853273,
+   "Address": "Upper Serangoon Road 1187 #01-53 The Midtown Singapore 533971"
+},
+ {
+   "S": {
+      "N": 397
+   },
+   "ZONE": "NORTH EAST",
+   "ESTATE": "SERANGOON",
+   "CLINIC NAME": "W P SIM FAMILY CLINIC & SURGERY",
+   "PHONE": "62889924",
+   "FAX": 62824332,
+   "Address": "Serangoon North Avenue 1 153 #01-548  Singapore 550153"
+},
+ {
+   "S": {
+      "N": 398
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "ACCESS MEDICAL (BUKIT BATOK)",
+   "PHONE": "68732458",
+   "FAX": 68732456,
+   "Address": "Bukit Batok Street 11 164 #01-152  Singapore 650164"
+},
+ {
+   "S": {
+      "N": 399
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "BUKIT BATOK MEDICAL CLINIC",
+   "PHONE": "65603311",
+   "FAX": 65692400,
+   "Address": "Bukit Batok Street 21 207 #01-114  Singapore 650207"
+},
+ {
+   "S": {
+      "N": 400
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "FRONTIER MEDICAL ASSOCIATES (BUKIT\nBATOK)",
+   "PHONE": "65665773",
+   "FAX": 65665747,
+   "Address": "Bukit Batok Street 51 528 #01-64  Singapore 650528"
+},
+ {
+   "S": {
+      "N": 401
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "HEALTH PARTNERS FAMILY CLINIC",
+   "PHONE": "68989031",
+   "FAX": 68989035,
+   "Address": "Bukit Batok Central Link 1 #01-37 West Mall Singapore 658713"
+},
+ {
+   "S": {
+      "N": 402
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "HISEMAINN MEDICAL CLINIC (BUKIT BATOK)",
+   "PHONE": "65691375",
+   "FAX": 65667565,
+   "Address": "Bukit Batok Street 25 289E #01-160  Singapore 654289"
+},
+ {
+   "S": {
+      "N": 403
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "LAI MEDICAL CLINIC PTE LTD",
+   "PHONE": "65632935",
+   "FAX": 65638276,
+   "Address": "Bukit Batok Street 21 213 #01-209  Singapore 650213"
+},
+ {
+   "S": {
+      "N": 404
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "LIFELINE NEIGHBOURHOOD MEDICAL CLINIC PTE LTD",
+   "PHONE": "65678316",
+   "FAX": 65678316,
+   "Address": "Bukit Batok East Avenue 3 280 #01-333  Singapore 650280"
+},
+ {
+   "S": {
+      "N": 405
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "ONECARE CLINIC BUKIT BATOK",
+   "PHONE": "65636913",
+   "FAX": 65636973,
+   "Address": "Bukit Batok Central 630 #01-148  Singapore 650630"
+},
+ {
+   "S": {
+      "N": 406
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "ONECARE CLINIC BUKIT GOMBAK MRT",
+   "PHONE": "62558472",
+   "FAX": 62506502,
+   "Address": "Bukit Batok West Avenue 5 802 #01-16 Bukit Gombak MRT\nStation Singapore 659083"
+},
+ {
+   "S": {
+      "N": 407
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "PHOENIX MEDICAL GROUP (HILLVIEW)",
+   "PHONE": "67107157",
+   "FAX": 67107167,
+   "Address": "Hillview Rise 4 #02-20 Hill V2 Singapore 667979"
+},
+ {
+   "S": {
+      "N": 408
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "Q & M MEDICAL CLINIC (BUKIT BATOK) PTE LTD",
+   "PHONE": "65653866",
+   "FAX": 65607233,
+   "Address": "Bukit Batok Street 11 151 #01-252  Singapore 650151"
+},
+ {
+   "S": {
+      "N": 409
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "SINGAPORE FAMILY CLINIC & SURGERY (BUKIT BATOK)",
+   "PHONE": "65679881",
+   "FAX": 65679897,
+   "Address": "Bukit Batok Street 11 153 #01-284  Singapore 650153"
+},
+ {
+   "S": {
+      "N": 410
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "STARCARE CLINIC & SURGERY",
+   "PHONE": "65616878",
+   "FAX": 65617698,
+   "Address": "Bukit Batok Street 21 207 #01-108  Singapore 650207"
+},
+ {
+   "S": {
+      "N": 411
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "TEMASEK MEDICAL CENTRE (BUKIT BATOK)",
+   "PHONE": "65656556",
+   "FAX": 65665483,
+   "Address": "Bukit Batok West Avenue 4 413 #01-214  Singapore 650413"
+},
+ {
+   "S": {
+      "N": 412
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "UNIVERSAL MEDICAL CLINIC",
+   "PHONE": "65639955",
+   "FAX": 65639956,
+   "Address": "Bukit Batok Street 11 164 #01-144  Singapore 650164"
+},
+ {
+   "S": {
+      "N": 413
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "CASHEW MEDICAL & SURGERY",
+   "PHONE": "67634255",
+   "FAX": 67630802,
+   "Address": "Fajar Road 445 #02-522 Fajar Shopping Centre Singapore 670445"
+},
+ {
+   "S": {
+      "N": 414
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "CHONG & LIM FAMILY CLINIC",
+   "PHONE": "67626881",
+   "FAX": 68937584,
+   "Address": "Gangsa Road 103 #01-39  Singapore 670103"
+},
+ {
+   "S": {
+      "N": 415
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "HEALTHSPRINGS MEDICAL CLINIC",
+   "PHONE": "68926681",
+   "FAX": 68920061,
+   "Address": "Jelapang Road 524A #02-01/02 Greenridge Shopping Centre Singapore 671524"
+},
+ {
+   "S": {
+      "N": 416
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (FAJAR)",
+   "PHONE": "67690600",
+   "FAX": 67690900,
+   "Address": "Fajar Road 445 #02-534 Fajar Shopping Centre Singapore 670445"
+},
+ {
+   "S": {
+      "N": 417
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "MY FAMILY CLINIC (SEGAR)",
+   "PHONE": "67107269",
+   "FAX": 67107095,
+   "Address": "Segar Road 485 #01-508  Singapore 670485"
+},
+ {
+   "S": {
+      "N": 418
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "MY FAMILY CLINIC (SENJA)",
+   "PHONE": "63140638",
+   "FAX": 63140723,
+   "Address": "Senja Road 628 #01-04 Senja Grand Singapore 670628"
+},
+ {
+   "S": {
+      "N": 419
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "NUHEALTH MEDICAL CENTRE",
+   "PHONE": "62199298",
+   "FAX": 67694663,
+   "Address": "Woodlands Road 1 #01-23 Junction 10 Singapore 677899"
+},
+ {
+   "S": {
+      "N": 420
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "ONECARE CLINIC BUKIT PANJANG",
+   "PHONE": "62508533",
+   "FAX": 62509533,
+   "Address": "Segar Road 547 #01-05  Singapore 670547"
+},
+ {
+   "S": {
+      "N": 421
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "PARKWAY SHENTON MEDICAL GROUP (BUKIT\nPANJANG)",
+   "PHONE": "67692863",
+   "FAX": 67692683,
+   "Address": "Jelebu Road 1 #03-02 Bukit Panjang Plaza Singapore 677743"
+},
+ {
+   "S": {
+      "N": 422
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "PROHEALTH 24-HOUR MEDICAL CLINIC",
+   "PHONE": "67652115",
+   "FAX": 67653115,
+   "Address": "Bukit Panjang Ring Road 259 #01-18  Singapore 671259"
+},
+ {
+   "S": {
+      "N": 423
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "BUKIT PANJANG",
+   "CLINIC NAME": "SUNBEAM MEDICAL CLINIC",
+   "PHONE": "66100968",
+   "FAX": 67690089,
+   "Address": "Fajar Road 443C #01-76  Singapore 673443"
+},
+ {
+   "S": {
+      "N": 424
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "EVERCARE MEDICAL CLINIC (CHOA CHU KANG AVENUE 1)",
+   "PHONE": "67699655",
+   "FAX": 67664935,
+   "Address": "Choa Chu Kang Avenue 1 253 #01-14A  Singapore 680253"
+},
+ {
+   "S": {
+      "N": 425
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "EVERCARE MEDICAL CLINIC (CHOA CHU KANG AVENUE 3)",
+   "PHONE": "67666465",
+   "FAX": 67690767,
+   "Address": "Choa Chu Kang Avenue 3 475 #02-02  Singapore 680475"
+},
+ {
+   "S": {
+      "N": 426
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "HARMONY FAMILY CLINIC",
+   "PHONE": "67623979",
+   "FAX": 67621293,
+   "Address": "Choa Chu Kang Central 235 #B1-25  Singapore 680235"
+},
+ {
+   "S": {
+      "N": 427
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (CHOA CHU KANG AVENUE 3)",
+   "PHONE": "68926330",
+   "FAX": 68926329,
+   "Address": "Choa Chu Kang Avenue 3 475 #02-03 Sunshine Plaza Singapore 680475"
+},
+ {
+   "S": {
+      "N": 428
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (CHOA CHU KANG)",
+   "PHONE": "67622555",
+   "FAX": 67628098,
+   "Address": "Choa Chu Kang Street 51 534 #01-37 Limbang Shopping Centre Singapore 680534"
+},
+ {
+   "S": {
+      "N": 429
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "HEALTHWERKZ MEDICAL CENTRE (CCK) PTE LTD",
+   "PHONE": "67662827",
+   "FAX": 67660568,
+   "Address": "Choa Chu Kang Central 225 #01-199  Singapore 680225"
+},
+ {
+   "S": {
+      "N": 430
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "LIN & SONS CLINIC & SURGERY PTE LTD",
+   "PHONE": "67690554",
+   "FAX": 67690554,
+   "Address": "Teck Whye Lane 18 #01-97  Singapore 680018"
+},
+ {
+   "S": {
+      "N": 431
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "ONECARE CLINIC CHOA CHU KANG",
+   "PHONE": "67666146",
+   "FAX": 67667149,
+   "Address": "Choa Chu Kang Avenue 7 810 #01-09  Singapore 680810"
+},
+ {
+   "S": {
+      "N": 432
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "PRO-LIFE MEDICAL ASSOCIATES PTE LTD",
+   "PHONE": "67646717",
+   "FAX": 67646717,
+   "Address": "Choa Chu Kang Avenue 1 253 #01-20  Singapore 680253"
+},
+ {
+   "S": {
+      "N": 433
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "RIVER OF LIFE FAMILY CLINIC",
+   "PHONE": "67600501",
+   "FAX": 67600870,
+   "Address": "Teck Whye Lane 26 #01-190  Singapore 680026"
+},
+ {
+   "S": {
+      "N": 434
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "ROYAL CARE MEDICAL FAMILY CLINIC",
+   "PHONE": "67608784",
+   "FAX": 67608740,
+   "Address": "Choa Chu Kang Avenue 1 818 #01-13  Singapore 680818"
+},
+ {
+   "S": {
+      "N": 435
+   },
+   "ZONE": "NORTH WEST",
+   "ESTATE": "CHOA CHU KANG",
+   "CLINIC NAME": "TEMASEK MEDICAL CENTRE (CHOA CHU KANG)",
+   "PHONE": "67665766",
+   "FAX": 67665800,
+   "Address": "Choa Chu Kang Street 62 624 #01-226  Singapore 680624"
+},
+ {
+   "S": {
+      "N": 436
+   },
+   "ZONE": "SOUTH",
+   "ESTATE": "TELOK BLANGAH",
+   "CLINIC NAME": "ACACIA MEDICAL CLINIC",
+   "PHONE": "66840274",
+   "FAX": 66840247,
+   "Address": "Depot Road 180 #01-07 The Interlace Singapore 109684"
+},
+ {
+   "S": {
+      "N": 437
+   },
+   "ZONE": "SOUTH",
+   "ESTATE": "TELOK BLANGAH",
+   "CLINIC NAME": "CLIFFORD DISPENSARY PTE LTD\n(HARBOURFRONT PLACE)",
+   "PHONE": "63760788",
+   "FAX": 63760775,
+   "Address": "HarbourFront Place 3 #04-01 HarbourFront Tower 2 Singapore 99254"
+},
+ {
+   "S": {
+      "N": 438
+   },
+   "ZONE": "SOUTH",
+   "ESTATE": "TELOK BLANGAH",
+   "CLINIC NAME": "NEW HEALTH FAMILY CLINIC PTE LTD",
+   "PHONE": "62786200",
+   "FAX": 62767140,
+   "Address": "Depot Road 108 #01-08 Depot Heights Shopping Centre Singapore 100108"
+},
+ {
+   "S": {
+      "N": 439
+   },
+   "ZONE": "SOUTH",
+   "ESTATE": "TELOK BLANGAH",
+   "CLINIC NAME": "SHENTON MEDICAL GROUP (HARBOURFRONT)",
+   "PHONE": "63775727",
+   "FAX": 62719493,
+   "Address": "HarbourFront Place 1 #01-04 HarbourFront Tower 1 Singapore 98633"
+},
+ {
+   "S": {
+      "N": 440
+   },
+   "ZONE": "SOUTH",
+   "ESTATE": "TELOK BLANGAH",
+   "CLINIC NAME": "TELOK BLANGAH MEDICAL CENTRE",
+   "PHONE": "62782727",
+   "FAX": 62720963,
+   "Address": "Telok Blangah Drive 77 #01-244  Singapore 100077"
+},
+ {
+   "S": {
+      "N": 441
+   },
+   "ZONE": "SOUTH",
+   "ESTATE": "TELOK BLANGAH",
+   "CLINIC NAME": "THOMAS CLINIC & SURGERY",
+   "PHONE": "62704354",
+   "FAX": 62760702,
+   "Address": "Telok Blangah Heights 61 #01-97  Singapore 100061"
+},
+ {
+   "S": {
+      "N": 442
+   },
+   "ZONE": "SOUTH WEST",
+   "ESTATE": "BUONA VISTA",
+   "CLINIC NAME": "DOVER CLINIC & SURGERY PTE LTD",
+   "PHONE": "67757410",
+   "FAX": 67762851,
+   "Address": "Dover Crescent 28 #01-89  Singapore 130028"
+},
+ {
+   "S": {
+      "N": 443
+   },
+   "ZONE": "SOUTH WEST",
+   "ESTATE": "BUONA VISTA",
+   "CLINIC NAME": "DOVER MEDICAL CENTRE",
+   "PHONE": "67756266",
+   "FAX": 67756966,
+   "Address": "Ayer Rajah Crescent 69 #01-03  Singapore 139961"
+},
+ {
+   "S": {
+      "N": 444
+   },
+   "ZONE": "SOUTH WEST",
+   "ESTATE": "BUONA VISTA",
+   "CLINIC NAME": "FULLERTON HEALTHCARE @ METROPOLIS",
+   "PHONE": "63395938",
+   "FAX": 63395937,
+   "Address": "North Buona Vista Drive 9 #01-03 The Metropolis Singapore 138588"
+},
+ {
+   "S": {
+      "N": 445
+   },
+   "ZONE": "SOUTH WEST",
+   "ESTATE": "BUONA VISTA",
+   "CLINIC NAME": "FUSION MEDICAL & HEALTH SCREENING\nCENTRE",
+   "PHONE": "62506548",
+   "FAX": null,
+   "Address": "Fusionopolis Link 1 #01-05 Nexus @ One-North Singapore 138542"
+},
+ {
+   "S": {
+      "N": 446
+   },
+   "ZONE": "SOUTH WEST",
+   "ESTATE": "BUONA VISTA",
+   "CLINIC NAME": "NORTHEAST (BUONA VISTA) MEDICAL CENTRE PTE LTD",
+   "PHONE": "66943282",
+   "FAX": 66943283,
+   "Address": "Ghim Moh Link 25 #01-10  Singapore 270025"
+},
+ {
+   "S": {
+      "N": 447
+   },
+   "ZONE": "SOUTH WEST",
+   "ESTATE": "BUONA VISTA",
+   "CLINIC NAME": "THE CHELSEA CLINIC (ROCHESTER)",
+   "PHONE": "65703913",
+   "FAX": 65705438,
+   "Address": "Rochester Drive 35 #03-21 Rochester Mall Singapore 138639"
+},
+ {
+   "S": {
+      "N": 448
+   },
+   "ZONE": "SOUTH WEST",
+   "ESTATE": "BUONA VISTA",
+   "CLINIC NAME": "THE CLINIC @ FUSIONOPOLIS PTE LTD",
+   "PHONE": "64660602",
+   "FAX": 64660603,
+   "Address": "Fusionopolis Place 1 #01-05 Galaxis Singapore 138522"
+},
+ {
+   "S": {
+      "N": 449
+   },
+   "ZONE": "SOUTH WEST",
+   "ESTATE": "BUONA VISTA",
+   "CLINIC NAME": "TRINITY MEDICAL CLINIC (DOVER CRESCENT)",
+   "PHONE": "67788868",
+   "FAX": 67788868,
+   "Address": "Dover Crescent 19A #01-01  Singapore 131019"
+},
+ {
+   "S": {
+      "N": 450
+   },
+   "ZONE": "WEST",
+   "ESTATE": "BOON LAY",
+   "CLINIC NAME": "BOON LAY CLINIC & SURGERY",
+   "PHONE": "62655247",
+   "FAX": 62680866,
+   "Address": "Boon Lay Place 221 #01- 240/244  Singapore 640221"
+},
+ {
+   "S": {
+      "N": 451
+   },
+   "ZONE": "WEST",
+   "ESTATE": "BOON LAY",
+   "CLINIC NAME": "COMMUNITY MEDICAL CLINIC",
+   "PHONE": "62610672",
+   "FAX": 62610672,
+   "Address": "Boon Lay Place 221 #02-160 Boon Lay Shopping Centre Singapore 640221"
+},
+ {
+   "S": {
+      "N": 452
+   },
+   "ZONE": "WEST",
+   "ESTATE": "BOON LAY",
+   "CLINIC NAME": "MY DOCTOR @ LAKESIDE",
+   "PHONE": "62657270",
+   "FAX": 62652170,
+   "Address": "Boon Lay Way 201 #01-05 Lakeside MRT Station Singapore 649845"
+},
+ {
+   "S": {
+      "N": 453
+   },
+   "ZONE": "WEST",
+   "ESTATE": "BOON LAY",
+   "CLINIC NAME": "ONECARE CLINIC BOON LAY",
+   "PHONE": "62611580",
+   "FAX": 62611584,
+   "Address": "Boon Lay Place 221 #01-152 Boon Lay Shopping\nCentre Singapore 640221"
+},
+ {
+   "S": {
+      "N": 454
+   },
+   "ZONE": "WEST",
+   "ESTATE": "BOON LAY",
+   "CLINIC NAME": "UNICARE FAMILY CLINIC & SURGERY",
+   "PHONE": "62660196",
+   "FAX": 65663770,
+   "Address": "Boon Lay Avenue 216 #01-03  Singapore 640216"
+},
+ {
+   "S": {
+      "N": 455
+   },
+   "ZONE": "WEST",
+   "ESTATE": "BUKIT BATOK",
+   "CLINIC NAME": "NORTHEAST MEDICAL GROUP (BUKIT BATOK)",
+   "PHONE": "62661442",
+   "FAX": 62661420,
+   "Address": "Bukit Batok Central 10 #01-01 Bukit Batok MRT Station Singapore 659958"
+},
+ {
+   "S": {
+      "N": 456
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "ARCADIA CLINIC",
+   "PHONE": "64695122",
+   "FAX": 64695762,
+   "Address": "Pandan Valley 2 #01-211  Singapore 597626"
+},
+ {
+   "S": {
+      "N": 457
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "CLEMENTI FAMILY & AESTHETIC CLINIC PTE\nLTD",
+   "PHONE": "67766177",
+   "FAX": 67766165,
+   "Address": "Clementi Avenue 3 321 #01-14/15  Singapore 129905"
+},
+ {
+   "S": {
+      "N": 458
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (CLEMENTI)",
+   "PHONE": "68722214",
+   "FAX": 68722216,
+   "Address": "Clementi Avenue 3 443 #01-63  Singapore 120443"
+},
+ {
+   "S": {
+      "N": 459
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "HEALTHWAY WEST COAST CLINIC",
+   "PHONE": "67745901",
+   "FAX": 67780396,
+   "Address": "Clementi West Street 2 727 #01-258  Singapore 120727"
+},
+ {
+   "S": {
+      "N": 460
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "LC CLINIC MEDICAL SURGERY AESTHETICS PTE LTD (FORMERLY KNOWN AS BENESSERE CLINIC PTE LTD)",
+   "PHONE": "64640932",
+   "FAX": 64640241,
+   "Address": "Clementi Avenue 3 446 #01-191  Singapore 120446"
+},
+ {
+   "S": {
+      "N": 461
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "MY FAMILY CLINIC (CLEMENTI)",
+   "PHONE": "66942574",
+   "FAX": 66942573,
+   "Address": "Clementi Avenue 1 420A #01-05  Singapore 121420"
+},
+ {
+   "S": {
+      "N": 462
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "NEWEST MEDICAL AND LASER CLINIC PTE LTD",
+   "PHONE": "62660451",
+   "FAX": 62660452,
+   "Address": "West Coast Drive 1 #01-49/50 Newest Singapore 128020"
+},
+ {
+   "S": {
+      "N": 463
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "TEO CLINIC & SURGERY PTE LTD",
+   "PHONE": "67760216",
+   "FAX": 68725008,
+   "Address": "Clementi Avenue 2 352 #01-111  Singapore 120352"
+},
+ {
+   "S": {
+      "N": 464
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "THE JURONG DISPENSARY",
+   "PHONE": "67774494",
+   "FAX": 67774494,
+   "Address": "Clementi Avenue 3 443 #01-77  Singapore 120443"
+},
+ {
+   "S": {
+      "N": 465
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "UNION CLINIC & SURGERY",
+   "PHONE": "67770783",
+   "FAX": 67743543,
+   "Address": "Clementi West Street 2 722 #01-168  Singapore 120722"
+},
+ {
+   "S": {
+      "N": 466
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "VIVA MEDICAL GROUP (WESTSIDE) (FORMERLY KNOWN AS TAN CLINIC AND SURGERY)",
+   "PHONE": "67779069",
+   "FAX": 67770035,
+   "Address": "West Coast Road 154 #01-81 West Coast Plaza Singapore 127371"
+},
+ {
+   "S": {
+      "N": 467
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "WEST COAST CLINIC & SURGERY (CLEMENTI WEST) PTE LTD",
+   "PHONE": "67770183",
+   "FAX": 67743235,
+   "Address": "Clementi West Street 2 722 #01-162  Singapore 120722"
+},
+ {
+   "S": {
+      "N": 468
+   },
+   "ZONE": "WEST",
+   "ESTATE": "CLEMENTI",
+   "CLINIC NAME": "YARRA MEDICAL CLINIC",
+   "PHONE": "62643703",
+   "FAX": 62643716,
+   "Address": "West Coast Drive 1 #01-11 Newest Singapore 128020"
+},
+ {
+   "S": {
+      "N": 469
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG",
+   "CLINIC NAME": "POINT MEDICAL GROUP (JURONG POINT)",
+   "PHONE": "67922370",
+   "FAX": 67924781,
+   "Address": "Jurong West Central 2  #B1A-20A Jurong Point Shopping Centre Singapore 648886"
+},
+ {
+   "S": {
+      "N": 470
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG",
+   "CLINIC NAME": "SILVER CROSS FAMILY CLINIC (JURONG WEST)",
+   "PHONE": "68992141",
+   "FAX": 68992642,
+   "Address": "Jurong West Avenue 1 502 #01-803  Singapore 640502"
+},
+ {
+   "S": {
+      "N": 471
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG EAST",
+   "CLINIC NAME": "BEWELL CLINIC @ DORM PTE LTD",
+   "PHONE": "65656338",
+   "FAX": 65153105,
+   "Address": "Toh Guan Road East 28 #02-01  Singapore 608596"
+},
+ {
+   "S": {
+      "N": 472
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG EAST",
+   "CLINIC NAME": "E.J. TAN CLINIC & SURGERY",
+   "PHONE": "65606600",
+   "FAX": 65630108,
+   "Address": "Jurong East Street 13 104 #01-100  Singapore 600104"
+},
+ {
+   "S": {
+      "N": 473
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG EAST",
+   "CLINIC NAME": "HEALTHWAY @ WESTGATE",
+   "PHONE": "65606127",
+   "FAX": 65606284,
+   "Address": "Gateway Drive 3 #04-32 Westgate Singapore 608532"
+},
+ {
+   "S": {
+      "N": 474
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG EAST",
+   "CLINIC NAME": "MINMED CLINIC (JURONG EAST)",
+   "PHONE": "63330123",
+   "FAX": 67340103,
+   "Address": "Jurong Gateway 50 #04-17 JEM Singapore 608549"
+},
+ {
+   "S": {
+      "N": 475
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG EAST",
+   "CLINIC NAME": "PANDAN CLINIC PTE LTD",
+   "PHONE": "65603186",
+   "FAX": 65669036,
+   "Address": "Pandan Gardens 415 #01-115  Singapore 600415"
+},
+ {
+   "S": {
+      "N": 476
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG EAST",
+   "CLINIC NAME": "SUMMIT MEDICAL CLINIC (JURONG)",
+   "PHONE": "65673003",
+   "FAX": 65673003,
+   "Address": "Jurong Gateway Road 134 #01-307  Singapore 600134"
+},
+ {
+   "S": {
+      "N": 477
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG EAST",
+   "CLINIC NAME": "TRINITY MEDICAL CLINIC (JURONG GATEWAY)",
+   "PHONE": "65607088",
+   "FAX": 65665067,
+   "Address": "Jurong Gateway Road 130 #02- 205/207  Singapore 600130"
+},
+ {
+   "S": {
+      "N": 478
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "ACCESS MEDICAL (JURONG WEST)",
+   "PHONE": "68732420",
+   "FAX": 68732419,
+   "Address": "Jurong West Street 41 463 #01-564  Singapore 640463"
+},
+ {
+   "S": {
+      "N": 479
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "CARING FAMILY CLINIC PTE LTD",
+   "PHONE": "65645677",
+   "FAX": 65692776,
+   "Address": "Jurong West Street 51 501 #01-271  Singapore 640501"
+},
+ {
+   "S": {
+      "N": 480
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "DRS OH, LIM, WONG & PARTNERS",
+   "PHONE": "67913988",
+   "FAX": 67918802,
+   "Address": "Jurong West Street 92 959 #01-154  Singapore 640959"
+},
+ {
+   "S": {
+      "N": 481
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "FAITH FAMILY CLINIC (JURONG)",
+   "PHONE": "67916780",
+   "FAX": 67916780,
+   "Address": "Jurong West Street 75 762 #01-316 Gek Poh Shopping Centre Singapore 640762"
+},
+ {
+   "S": {
+      "N": 482
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "FOO CLINIC",
+   "PHONE": "67918853",
+   "FAX": 67914259,
+   "Address": "Jurong West Street 91 962 #01-306  Singapore 640962"
+},
+ {
+   "S": {
+      "N": 483
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "FRONTIER MEDICAL ASSOCIATES (JURONG WEST)",
+   "PHONE": "68622340",
+   "FAX": 68622170,
+   "Address": "Jurong West Street 64 678D #01-347  Singapore 644678"
+},
+ {
+   "S": {
+      "N": 484
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "FULLERTON HEALTHCARE @ DRS TRYTHALL,\nHOY, DAVIES (JURONG POINT)",
+   "PHONE": "67930611",
+   "FAX": 67931393,
+   "Address": "Jurong West Central 2 1 #B1-A19B Jurong Point Shopping\nCentre Singapore 648886"
+},
+ {
+   "S": {
+      "N": 485
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "HEALTHWAY JURONG WEST CLINIC",
+   "PHONE": "67921812",
+   "FAX": 67924480,
+   "Address": "Jurong West Central 1 690 #01-193  Singapore 640690"
+},
+ {
+   "S": {
+      "N": 486
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "HEALTHWAY MEDICAL CLINIC (JURONG WEST)",
+   "PHONE": "67915680",
+   "FAX": 67918133,
+   "Address": "Jurong West Street 92 960 #01-166  Singapore 640960"
+},
+ {
+   "S": {
+      "N": 487
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "HISEMAINN MEDICAL CLINIC (JURONG WEST)",
+   "PHONE": "67958990",
+   "FAX": 67939134,
+   "Address": "Jurong West Street 25 276 #01-06  Singapore 640276"
+},
+ {
+   "S": {
+      "N": 488
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "ICON MEDICAL CLINIC",
+   "PHONE": "65600521",
+   "FAX": 65691075,
+   "Address": "Jurong West Street 52 517 #01-101  Singapore 640517"
+},
+ {
+   "S": {
+      "N": 489
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "JURONG DAY & NIGHT CLINIC",
+   "PHONE": "67922257",
+   "FAX": 67922257,
+   "Address": "Jurong West Street 93 966 #01-219  Singapore 640966"
+},
+ {
+   "S": {
+      "N": 490
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "JURPOINT MEDICARE CLINIC",
+   "PHONE": "67940070",
+   "FAX": 68623629,
+   "Address": "Jurong West Central 2 1 #B1A-20B Jurong Point Shopping\nCentre Singapore 648886"
+},
+ {
+   "S": {
+      "N": 491
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "LOI + WONG CLINIC & SURGERY",
+   "PHONE": "65626676",
+   "FAX": 65626676,
+   "Address": "Jurong West Street 41 492 #01-08  Singapore 640492"
+},
+ {
+   "S": {
+      "N": 492
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "ONE MEDICAL CLINIC",
+   "PHONE": "67922143",
+   "FAX": 67925793,
+   "Address": "Jurong West Avenue 5 728 #01-K1  Singapore 640728"
+},
+ {
+   "S": {
+      "N": 493
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "PIER MEDICAL CENTRE PTE LTD",
+   "PHONE": "67915677",
+   "FAX": 67910525,
+   "Address": "Jurong West Avenue 5 725 #B1-164  Singapore 640725"
+},
+ {
+   "S": {
+      "N": 494
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "PIONEER MEDICAL CENTRE PTE LTD",
+   "PHONE": "67907668",
+   "FAX": 67907228,
+   "Address": "Jurong West Street 61 651 #01-06  Singapore 640651"
+},
+ {
+   "S": {
+      "N": 495
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "PIONEER MEDICARE",
+   "PHONE": "63397422",
+   "FAX": 63397427,
+   "Address": "Soon Lee Street 3 #01-08 Pioneer Junction Singapore 627606"
+},
+ {
+   "S": {
+      "N": 496
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "POINT MEDICAL GROUP (TAMAN JURONG)",
+   "PHONE": "62656587",
+   "FAX": 62680424,
+   "Address": "Yung Sheng Road 399 #01-31  Singapore 610399"
+},
+ {
+   "S": {
+      "N": 497
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "SHINE FAMILY CLINIC",
+   "PHONE": "65637934 /\n96406495",
+   "FAX": 65643048,
+   "Address": "Jurong West Street 41 463 #01-560  Singapore 640463"
+},
+ {
+   "S": {
+      "N": 498
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "TAYKA MEDICAL FAMILY CLINIC",
+   "PHONE": "65645528",
+   "FAX": 65649678,
+   "Address": "Jurong West Street 52 526 #01-323  Singapore 640526"
+},
+ {
+   "S": {
+      "N": 499
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "TEBAN GARDEN CLINIC",
+   "PHONE": "65619052",
+   "FAX": 65623906,
+   "Address": "Teban Gardens Road 61 #01-01  Singapore 600061"
+},
+ {
+   "S": {
+      "N": 500
+   },
+   "ZONE": "WEST",
+   "ESTATE": "JURONG WEST",
+   "CLINIC NAME": "THE DOCTOR'S CLINIC",
+   "PHONE": "65669901",
+   "FAX": null,
+   "Address": "Jurong West Avenue 1 429 #01-318  Singapore 640429"
+},
+ {
+   "S": {
+      "N": 501
+   },
+   "ZONE": "WEST",
+   "ESTATE": "UPPER BUKIT TIMAH",
+   "CLINIC NAME": "CHANG CLINIC",
+   "PHONE": "64663811",
+   "FAX": 64670780,
+   "Address": "Jalan Anak Bukit 1 #B1-08/10 Bukit Timah Plaza Singapore 588996"
+},
+ {
+   "S": {
+      "N": 502
+   },
+   "ZONE": "WEST",
+   "ESTATE": "UPPER BUKIT TIMAH",
+   "CLINIC NAME": "CHUNGKIAW CLINIC PTE LTD",
+   "PHONE": "64662255",
+   "FAX": 64676480,
+   "Address": "Upper Bukit Timah Road 118  Goh & Goh Building Singapore 588173"
+},
+ {
+   "S": {
+      "N": 503
+   },
+   "ZONE": "WEST",
+   "ESTATE": "UPPER BUKIT TIMAH",
+   "CLINIC NAME": "HEALTHCARE MEDICAL @ RAIL MALL",
+   "PHONE": "67655733",
+   "FAX": 67655377,
+   "Address": "Upper Bukit Timah Road 446  Rail Mall Singapore 678067"
+},
+ {
+   "S": {
+      "N": 504
+   },
+   "ZONE": "WEST",
+   "ESTATE": "UPPER BUKIT TIMAH",
+   "CLINIC NAME": "KERRY MEDICAL",
+   "PHONE": "63140970",
+   "FAX": 63140162,
+   "Address": "Jalan Jurong Kechil 182 #01-65 The Hillford Singapore 596152"
+},
+ {
+   "S": {
+      "N": 505
+   },
+   "ZONE": "WEST",
+   "ESTATE": "UPPER BUKIT TIMAH",
+   "CLINIC NAME": "MANDARIN MEDICAL CENTRE",
+   "PHONE": "64667822",
+   "FAX": 64664353,
+   "Address": "Jalan Jurong Kechil 66   Singapore 598586"
+},
+ {
+   "S": {
+      "N": 506
+   },
+   "ZONE": "WEST",
+   "ESTATE": "UPPER BUKIT\nTIMAH",
+   "CLINIC NAME": "MEDILINE WEI MIN CLINIC (BUKIT TIMAH)",
+   "PHONE": "66358883",
+   "FAX": 66358884,
+   "Address": "Bukit Timah Road 833 #01-05 Royalville Singapore 279887"
+},
+ {
+   "S": {
+      "N": 507
+   },
+   "ZONE": "WEST",
+   "ESTATE": "UPPER BUKIT TIMAH",
+   "CLINIC NAME": "NAM SENG CLINIC PTE LTD",
+   "PHONE": "64682824 /\n64620082",
+   "FAX": 64679353,
+   "Address": "Upper Bukit Timah Road 144 #01-22 Beauty World Centre Singapore 588177"
+},
+ {
+   "S": {
+      "N": 508
+   },
+   "ZONE": "WEST",
+   "ESTATE": "UPPER BUKIT\nTIMAH",
+   "CLINIC NAME": "SILVER CROSS FAMILY CLINIC (BUKIT TIMAH)",
+   "PHONE": "68751191",
+   "FAX": 68751911,
+   "Address": "Cheong Chin Nam Road 3   Singapore 599728"
+},
+ {
+   "S": {
+      "N": 509
+   },
+   "ZONE": "WEST",
+   "ESTATE": "WEST COAST",
+   "CLINIC NAME": "CHIN LEONG CLINIC",
+   "PHONE": "67789493",
+   "FAX": 67746695,
+   "Address": "West Coast Road 517 #01-555  Singapore 120517"
+},
+ {
+   "S": {
+      "N": 510
+   },
+   "ZONE": "WEST",
+   "ESTATE": "WEST COAST",
+   "CLINIC NAME": "L'VING VINE MEDICAL & WELLNESS CLINIC",
+   "PHONE": "67777442",
+   "FAX": 67777563,
+   "Address": "West Coast Road 154 #01-84/85 West Coast Plaza Singapore 127371"
+},
+ {
+   "S": {
+      "N": 511
+   },
+   "ZONE": "WEST",
+   "ESTATE": "WEST COAST",
+   "CLINIC NAME": "MINDCHAMPS MEDICAL @ WEST COAST",
+   "PHONE": "62554010",
+   "FAX": 62553815,
+   "Address": "West Coast Drive 1 #01-23 Newest Singapore 128020"
+},
+ {
+   "S": {
+      "N": 512
+   },
+   "ZONE": "WEST",
+   "ESTATE": "WEST COAST",
+   "CLINIC NAME": "MYHEALTH MEDICAL CENTRE",
+   "PHONE": "68726920",
+   "FAX": 68726919,
+   "Address": "West Coast Drive 501 #01-256  Singapore 120501"
+}
+]
