@@ -2,8 +2,8 @@
 	"name": "THE CHOOLANI CLINIC",
 	"tel": "65702000",
 	"fax": "65702212",
-	"licensee": "CHOOLANI MEDICAL CONSULTING PTE. LTD.",
-	"licensePeriod": "06/01/2016 to 05/01/2018",
+	"licensee": "CHOOLANI SURGICAL CONSULTING PTE LTD",
+	"licensePeriod": "06/01/2018 to 05/01/2020",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "16M0003",
 	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #11-48 Singapore 329563",
@@ -30,12 +30,42 @@
 		"Specialist Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 06:00 pm",
-		"Tuesday": "09:00 am to 06:00 pm",
-		"Wednesday": "09:00 am to 06:00 pm",
-		"Thursday": "09:00 am to 06:00 pm",
-		"Friday": "09:00 am to 06:00 pm",
-		"Saturday": "09:00 am to 06:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		]
 	},
 	"id": "16M0003",
 	"coordinates": [

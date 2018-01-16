@@ -24,15 +24,76 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "08:30 am to 02:00 pm, 06:00 pm to 11:55 pm",
-		"New Year (01/01/2018)": "08:30 am to 02:00 pm, 06:00 pm to 11:55 pm",
-		"Monday": "08:30 am to 02:00 pm, 06:00 pm to 11:55 pm",
-		"Tuesday": "08:30 am to 02:00 pm, 06:00 pm to 11:55 pm",
-		"Wednesday": "08:30 am to 02:00 pm, 06:00 pm to 11:55 pm",
-		"Thursday": "08:30 am to 02:00 pm, 06:00 pm to 11:55 pm",
-		"Friday": "08:30 am to 02:00 pm, 06:00 pm to 11:55 pm",
-		"Saturday": "08:30 am to 02:00 pm, 06:00 pm to 11:55 pm",
-		"Sunday": "08:30 am to 02:00 pm, 06:00 pm to 11:55 pm"
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"13:55"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"13:55"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"13:55"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"13:55"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"13:55"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"13:55"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"13:55"
+			]
+		]
 	},
 	"id": "15M0360",
 	"coordinates": [

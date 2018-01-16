@@ -1,0 +1,21 @@
+{
+	"name": "CHRYSALIS AESTHETIC CLINIC",
+	"licensee": "CHRYSALIS AESTHETIC CLINIC PTE. LTD.",
+	"licensePeriod": "26/12/2017 to 25/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0411",
+	"address": "101 IRRAWADDY ROAD, ROYAL SQUARE AT NOVENA, #18-07 Singapore 329565",
+	"doctorInCharge": [
+		{
+			"name": "HO RUI MING",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0411"
+}

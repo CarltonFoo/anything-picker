@@ -1,6 +1,6 @@
 {
 	"name": "CENTRE FOR FOOT AND ANKLE SURGERY",
-	"tel": "67382628",
+	"tel": "96920952",
 	"fax": "67382629",
 	"licensee": "CENTRE FOR FOOT AND ANKLE SURGERY PTE. LTD.",
 	"licensePeriod": "18/02/2016 to 17/02/2018",
@@ -25,6 +25,66 @@
 		"Specialist Medical": [
 			"Orthopaedic Surgery"
 		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "15M0051",
 	"coordinates": [

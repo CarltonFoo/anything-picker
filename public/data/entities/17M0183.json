@@ -1,6 +1,6 @@
 {
 	"name": "PIONEER POLYCLINIC",
-	"tel": "68196530",
+	"tel": "63553000",
 	"fax": "68612344",
 	"licensee": "NATIONAL UNIVERSITY POLYCLINICS",
 	"licensePeriod": "17/07/2017 to 16/07/2019",
@@ -25,14 +25,64 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
-		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
-		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
-		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
-		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
-		"Saturday": "08:00 am to 12:30 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"14:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "17M0183",
 	"coordinates": [

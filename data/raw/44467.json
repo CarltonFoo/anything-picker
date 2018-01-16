@@ -3,8 +3,8 @@
 	"tel": "62277777",
 	"fax": "62253735",
 	"licensee": "PARKWAY SHENTON PTE LTD",
-	"licensePeriod": "27/12/2015 to 26/12/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "27/12/2017 to 26/12/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "13M0358",
 	"address": "32 JURONG WEST STREET 24, Singapore 649697",
 	"doctorInCharge": [
@@ -20,8 +20,6 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
 		"Monday to Friday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
 		"Saturday and Sunday": "07:00 am to 01:00 pm"
 	}

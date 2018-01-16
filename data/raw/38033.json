@@ -9,13 +9,11 @@
 	"address": "BLK 275D COMPASSVALE LINK, #01-01(UNIT 12) Singapore 544275",
 	"doctorInCharge": [
 		{
-			"name": "Tan Eileen",
+			"name": "Choi Sai Wai",
 			"qualifications": [
 				"MBBS (National University of Singapore, Singapore) 2002"
 			],
-			"specialties": [
-				"Family Physician"
-			]
+			"specialties": []
 		}
 	],
 	"detailedServices": {

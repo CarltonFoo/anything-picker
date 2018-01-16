@@ -1,0 +1,24 @@
+{
+	"name": "FRONTIER MEDICAL ASSOCIATES",
+	"tel": "67450875",
+	"fax": "67451673",
+	"licensee": "FMA (ADMIRALTY) PTE. LTD.",
+	"licensePeriod": "09/01/2018 to 08/01/2020",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "18M0009",
+	"address": "BLK 691 WOODLANDS DRIVE 73, #01-04 Singapore 730691",
+	"doctorInCharge": [
+		{
+			"name": "Lim Xiu Mei Laura",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	}
+}

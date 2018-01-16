@@ -19,10 +19,6 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed"
-	},
 	"id": "13C0110",
 	"coordinates": [
 		103.7707683,

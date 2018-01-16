@@ -1,6 +1,6 @@
 {
 	"name": "PAUL W. NGUI PSYCHIATRIC CLINIC",
-	"tel": "65330088",
+	"tel": "67344426",
 	"fax": "67344427",
 	"licensee": "NGUI WILLIAM PAUL",
 	"licensePeriod": "27/02/2016 to 26/02/2018",
@@ -25,12 +25,63 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Wednesday": "09:00 am to 01:00 pm",
-		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9401295",
 	"coordinates": [

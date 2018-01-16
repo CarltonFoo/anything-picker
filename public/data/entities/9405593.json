@@ -21,7 +21,16 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Saturday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm"
+		"Saturday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "9405593",
 	"coordinates": [

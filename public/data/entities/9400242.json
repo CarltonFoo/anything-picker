@@ -3,8 +3,8 @@
 	"tel": "67452815",
 	"fax": "67440949",
 	"licensee": "Lin Yoong Chee Gerard",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "9400242",
 	"address": "BLK 35 CIRCUIT ROAD, #01-430 Singapore 370035",
 	"doctorInCharge": [
@@ -26,14 +26,89 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
-		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
-		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
-		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
-		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
-		"Saturday": "08:30 am to 12:00 pm",
-		"Sunday": "08:30 am to 12:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		]
 	},
 	"id": "9400242",
 	"coordinates": [

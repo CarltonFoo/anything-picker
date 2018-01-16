@@ -3,15 +3,15 @@
 	"tel": "65701390",
 	"fax": "65701395",
 	"licensee": "ACUMED MEDICAL PTE. LTD.",
-	"licensePeriod": "06/01/2016 to 05/01/2018",
+	"licensePeriod": "06/01/2018 to 05/01/2020",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "16M0004",
 	"address": "128 TUAS SOUTH AVENUE 3, JTC BIOMED ONE @ TUAS BIOMEDICAL PARK, #01-03 Singapore 637370",
 	"doctorInCharge": [
 		{
-			"name": "Sukhvinder Singh",
+			"name": "Chen Teik Hong Andrew",
 			"qualifications": [
-				"MBBS (National University of Singapore, Singapore) 2004"
+				"MBBS (University of Melbourne, Australia) 2001"
 			],
 			"specialties": [
 				"Family Physician"
@@ -22,17 +22,59 @@
 		"General Medical": true
 	},
 	"programmes": [
-		"Chronic Disease Management Programme (CDMP)"
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Friday": "08:30 am to 01:00 pm",
-		"Saturday": "Closed",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Saturday": [],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "16M0004",
 	"coordinates": [

@@ -20,5 +20,8 @@
 	],
 	"detailedServices": {
 		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "07:30 am to 10:30 am, 04:00 pm to 06:15 pm"
 	}
 }

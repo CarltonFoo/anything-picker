@@ -3,8 +3,8 @@
 	"tel": "63390528",
 	"fax": "63390823",
 	"licensee": "KK TANG BRAINSPINE SURGERY PTE. LTD.",
-	"licensePeriod": "31/12/2015 to 30/12/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "31/12/2017 to 30/12/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "13M0359",
 	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #10-28/29 Singapore 329563",
 	"doctorInCharge": [
@@ -29,14 +29,64 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "13M0359",
 	"coordinates": [

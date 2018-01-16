@@ -23,8 +23,6 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "08:30 am to 12:30 pm, 06:30 am to 10:00 pm",
-		"New Year (01/01/2018)": "08:30 am to 12:30 pm, 06:30 am to 10:00 pm",
 		"Monday to Friday": "08:30 am to 02:30 pm, 06:30 pm to 11:00 pm",
 		"Saturday and Sunday": "08:30 am to 12:30 pm, 06:30 am to 10:00 pm"
 	}

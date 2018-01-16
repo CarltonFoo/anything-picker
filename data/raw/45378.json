@@ -25,5 +25,9 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)",
 		"Integrated Screening Programme (ISP) "
-	]
+	],
+	"operatingHours": {
+		"Monday to Thursday": "08:30 am to 10:00 pm",
+		"Friday to Saturday": "08:30 am to 06:00 pm"
+	}
 }

@@ -1,0 +1,36 @@
+{
+	"name": "AZATACA PLASTIC SURGERY",
+	"tel": "67788648",
+	"fax": "63550598",
+	"licensee": "AZATACA LLP",
+	"licensePeriod": "23/12/2017 to 22/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0410",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #06-48 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Christopher Chui Hoe Kong",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2001",
+				"MRCS (Surgery) (Royal College of Surgeons of Edinburgh, United Kingdom) 2006",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Plastic Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Liposuction"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Plastic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 06:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

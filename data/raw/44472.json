@@ -3,8 +3,8 @@
 	"tel": "67332268",
 	"fax": "67372268",
 	"licensee": "ALOHA DENTAL PTE. LTD.",
-	"licensePeriod": "02/01/2016 to 01/01/2018",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "02/01/2018 to 01/01/2020",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "14D0002",
 	"address": "14 SCOTTS ROAD, FAR EAST PLAZA, #04-125/126 Singapore 228213",
 	"doctorInCharge": [
@@ -21,8 +21,15 @@
 			]
 		}
 	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
 	"detailedServices": {
-		"General Dental": true
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics",
+			"Periodontology"
+		]
 	},
 	"operatingHours": {
 		"Monday to Friday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm"

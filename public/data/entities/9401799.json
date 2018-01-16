@@ -3,8 +3,8 @@
 	"tel": "62823357",
 	"fax": "62823357",
 	"licensee": "KOH MUI NOI BETTY",
-	"licensePeriod": "01/01/2017 to 31/12/2017",
-	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"licensePeriod": "01/01/2018 to 31/12/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9401799",
 	"address": "BLK 152 SERANGOON NORTH AVE 1, #01-330 Singapore 550152",
 	"doctorInCharge": [
@@ -25,14 +25,89 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Saturday": "08:30 am to 12:30 pm",
-		"Sunday": "09:00 am to 12:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9401799",
 	"coordinates": [

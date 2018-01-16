@@ -18,5 +18,10 @@
 	],
 	"detailedServices": {
 		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "12:00 pm to 06:00 pm",
+		"Saturday to Sunday": "Closed"
 	}
 }

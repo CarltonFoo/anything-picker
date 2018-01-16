@@ -29,10 +29,25 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "02:00 pm to 05:30 pm",
-		"Wednesday": "02:00 pm to 05:30 pm",
-		"Friday": "02:00 pm to 05:30 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "15M0032",
 	"coordinates": [

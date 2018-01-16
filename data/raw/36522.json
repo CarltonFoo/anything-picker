@@ -25,9 +25,5 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
-	],
-	"operatingHours": {
-		"Christmas Day (25/12/2017)": "08:00 am to 12:00 am",
-		"New Year (01/01/2018)": "08:00 am to 12:00 am"
-	}
+	]
 }

@@ -3,7 +3,7 @@
 	"tel": "67329939",
 	"fax": "67326883",
 	"licensee": "ORCHARD SCOTTS DENTAL PTE LTD",
-	"licensePeriod": "06/01/2016 to 05/01/2018",
+	"licensePeriod": "06/01/2018 to 05/01/2020",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "16D0006",
 	"address": "541 ORCHARD ROAD, LIAT TOWERS, #07-01 Singapore 238881",
@@ -16,6 +16,9 @@
 			],
 			"specialties": []
 		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
 	],
 	"detailedServices": {
 		"General Dental": true

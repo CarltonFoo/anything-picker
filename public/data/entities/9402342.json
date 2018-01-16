@@ -3,7 +3,7 @@
 	"tel": "67761966",
 	"fax": "67764988",
 	"licensee": "CHAN CHI KIONG CLIFTON",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licensePeriod": "01/01/2018 to 31/12/2019",
 	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "9402342",
 	"address": "BLK 352 CLEMENTI AVE 2, #01-127 Singapore 120352",
@@ -26,14 +26,44 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "10:00 am to 04:30 pm",
-		"Tuesday": "10:00 am to 06:30 pm",
-		"Wednesday": "10:00 am to 04:30 pm",
-		"Thursday": "10:00 am to 06:30 pm",
-		"Friday": "10:00 am to 04:30 pm",
-		"Saturday": "10:00 am to 04:30 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"00:00",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"18:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"18:30"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"16:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9402342",
 	"coordinates": [

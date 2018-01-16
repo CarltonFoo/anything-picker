@@ -22,5 +22,9 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
-	]
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	}
 }

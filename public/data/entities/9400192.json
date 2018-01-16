@@ -3,7 +3,7 @@
 	"tel": "64743228",
 	"fax": "64743237",
 	"licensee": "CHAN KONG HON",
-	"licensePeriod": "02/01/2016 to 01/01/2018",
+	"licensePeriod": "02/01/2018 to 01/01/2020",
 	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "9400192",
 	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-14/15 Singapore 258499",
@@ -28,11 +28,56 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		]
 	},
 	"id": "9400192",
 	"coordinates": [

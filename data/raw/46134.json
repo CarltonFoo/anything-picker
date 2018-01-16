@@ -1,0 +1,26 @@
+{
+	"name": "ACCESS MEDICAL (TAMPINES 730)",
+	"tel": "67478180",
+	"fax": "67478186",
+	"licensee": "ACCESS MEDICAL TAMPINES 730 PTE. LTD.",
+	"licensePeriod": "15/12/2017 to 14/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0398",
+	"address": "BLK 730 TAMPINES STREET 71, TAMPINES COURTVIEW, #01-51 Singapore 520730",
+	"doctorInCharge": [
+		{
+			"name": "LIM YONG CHIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCS (Royal College of Surgeons, Ireland) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	}
+}

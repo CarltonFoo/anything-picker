@@ -3,7 +3,7 @@
 	"tel": "68368386",
 	"fax": "68362619",
 	"licensee": "HEALTHSPRINGS LASER AND AESTHETIC CLINIC PTE. LTD.",
-	"licensePeriod": "03/12/2015 to 02/12/2017",
+	"licensePeriod": "03/12/2017 to 02/12/2019",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "9405074",
 	"address": "541 ORCHARD ROAD, LIAT TOWERS, #11-01 Singapore 238881",
@@ -24,14 +24,44 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 05:00 pm",
-		"Tuesday": "09:00 am to 05:00 pm",
-		"Wednesday": "09:00 am to 05:00 pm",
-		"Thursday": "09:00 am to 05:00 pm",
-		"Friday": "09:00 am to 05:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9405074",
 	"coordinates": [

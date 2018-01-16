@@ -3,7 +3,7 @@
 	"tel": "62452838",
 	"fax": "62452838",
 	"licensee": "LUMINOUS DENTAL CLINIC @ BEDOK SOUTH PTE. LTD.",
-	"licensePeriod": "11/12/2015 to 10/12/2017",
+	"licensePeriod": "11/12/2017 to 10/12/2022",
 	"licenseClass": "[ 5 Years ]",
 	"hciCode": "13D0349",
 	"address": "BLK 18 BEDOK SOUTH ROAD, #01-71 Singapore 460018",
@@ -20,15 +20,92 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
-		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
-		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
-		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
-		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
-		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
-		"Saturday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Sunday": "09:30 am to 01:00 pm"
+		"Monday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "13D0349",
 	"coordinates": [

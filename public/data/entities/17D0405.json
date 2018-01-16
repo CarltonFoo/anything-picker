@@ -1,0 +1,23 @@
+{
+	"name": "POLYGEMS DENTAL CARE (SELETAR)",
+	"tel": "63622204",
+	"fax": "63622204",
+	"licensee": "POLYGEMS (PG) DENTAL CARE (SELETAR) PTE. LTD.",
+	"licensePeriod": "21/12/2017 to 20/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0405",
+	"address": "BLK 417 FERNVALE LINK, #01-04 Singapore 790417",
+	"doctorInCharge": [
+		{
+			"name": "CHUA KOON TING",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17D0405"
+}

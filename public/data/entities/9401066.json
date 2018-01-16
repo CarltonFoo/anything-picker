@@ -3,8 +3,8 @@
 	"tel": "62713586",
 	"fax": "62713586",
 	"licensee": "CHANG HAU SENG",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "9401066",
 	"address": "BLK 35 TELOK BLANGAH RISE, #01-295 Singapore 090035",
 	"doctorInCharge": [
@@ -20,14 +20,81 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
-		"Tuesday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
-		"Wednesday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm",
-		"Thursday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm",
-		"Friday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm",
-		"Saturday": "09:15 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Sunday": "09:15 am to 12:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:15",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:15",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:15",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:15",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:15",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:15",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:15",
+				"14:00"
+			]
+		]
 	},
 	"id": "9401066",
 	"coordinates": [

@@ -3,16 +3,16 @@
 	"tel": "62277777",
 	"fax": "62253735",
 	"licensee": "PARKWAY SHENTON PTE LTD",
-	"licensePeriod": "01/12/2015 to 30/11/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "01/12/2017 to 30/11/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "13M0337",
 	"address": "1 DEFU AVENUE 1, Singapore 539540",
 	"doctorInCharge": [
 		{
-			"name": "Ivan Lau Eng Kien",
+			"name": "Chua Teck Meng Henry",
 			"qualifications": [
-				"MBBS (National University of Singapore, Singapore) 1999",
-				"Dip (Family Med) (National University of Singapore, Singapore) 2008"
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2016"
 			],
 			"specialties": [
 				"Family Physician"

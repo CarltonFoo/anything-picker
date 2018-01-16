@@ -3,7 +3,7 @@
 	"tel": "62706600",
 	"fax": "64686581",
 	"licensee": "WEE SIN LIN",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licensePeriod": "01/01/2018 to 31/12/2019",
 	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9401714",
 	"address": "BLK 116 BT MERAH VIEW, #01-235 Singapore 151116",
@@ -20,13 +20,68 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "10:15 am to 12:15 pm, 03:30 pm to 07:30 pm",
-		"Tuesday": "10:15 am to 12:15 pm, 03:30 pm to 07:30 pm",
-		"Wednesday": "10:15 am to 12:15 pm, 03:30 pm to 07:30 pm",
-		"Thursday": "10:15 am to 12:15 pm, 03:30 pm to 07:30 pm",
-		"Friday": "10:15 am to 12:15 pm, 03:30 pm to 07:30 pm",
-		"Saturday": "10:00 am to 11:30 am",
-		"Sunday": "10:00 am to 11:30 am"
+		"Monday": [
+			[
+				"00:15",
+				"14:15"
+			],
+			[
+				"15:30",
+				"19:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:15",
+				"14:15"
+			],
+			[
+				"15:30",
+				"19:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:15",
+				"14:15"
+			],
+			[
+				"15:30",
+				"19:30"
+			]
+		],
+		"Thursday": [
+			[
+				"00:15",
+				"14:15"
+			],
+			[
+				"15:30",
+				"19:30"
+			]
+		],
+		"Friday": [
+			[
+				"00:15",
+				"14:15"
+			],
+			[
+				"15:30",
+				"19:30"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"01:30"
+			]
+		],
+		"Sunday": [
+			[
+				"00:00",
+				"01:30"
+			]
+		]
 	},
 	"id": "9401714",
 	"coordinates": [

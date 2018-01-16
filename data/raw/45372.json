@@ -1,6 +1,6 @@
 {
 	"name": "LE CHAMP - NKF DIALYSIS CENTRE (BUKIT PANJANG BRANCH)",
-	"tel": "68912782",
+	"tel": "62990200",
 	"fax": "68912592",
 	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
 	"licensePeriod": "14/06/2016 to 25/02/2018",
@@ -26,5 +26,8 @@
 		"Specialist Medical": [
 			"Renal Medicine"
 		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "07:00 am to 11:00 pm"
 	}
 }

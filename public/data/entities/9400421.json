@@ -28,14 +28,64 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
-		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
-		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
-		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
-		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
-		"Saturday": "08:30 am to 12:30 pm",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:45"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:45"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:45"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:45"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:45"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9400421",
 	"coordinates": [

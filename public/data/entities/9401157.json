@@ -3,8 +3,8 @@
 	"tel": "65660460",
 	"fax": "65678316",
 	"licensee": "WILLIAM CHIA HWEE YEAN",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "9401157",
 	"address": "BLK 280 BT BATOK EAST AVE 3, #01-331 Singapore 650280",
 	"doctorInCharge": [
@@ -20,13 +20,48 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "10:00 am to 12:30 pm",
-		"Thursday": "10:00 am to 12:30 pm",
-		"Tuesday": "10:00 am to 12:30 pm",
-		"Wednesday": "10:00 am to 12:30 pm",
-		"Friday": "10:00 am to 12:30 pm",
-		"Saturday": "10:00 am to 12:30 pm",
-		"Sunday": "10:00 am to 12:30 pm"
+		"Monday": [
+			[
+				"00:00",
+				"14:30"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"14:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"14:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"14:30"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"14:30"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"00:00",
+				"14:30"
+			]
+		]
 	},
 	"id": "9401157",
 	"coordinates": [

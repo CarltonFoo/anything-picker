@@ -1,0 +1,26 @@
+{
+	"name": "TRUECARE CLINIC",
+	"tel": "62998880",
+	"fax": "93271300",
+	"licensee": "TRUE CARE MEDICAL PTE. LTD.",
+	"licensePeriod": "01/12/2017 to 30/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0385",
+	"address": "88 RANGOON ROAD, RANGOON 88, #01-06 Singapore 218374",
+	"doctorInCharge": [
+		{
+			"name": "Andhare Harshal Bhimrao",
+			"qualifications": [
+				"MBBS (Grant Medical College, Mumbai, India) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	}
+}

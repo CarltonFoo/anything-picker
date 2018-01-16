@@ -3,8 +3,8 @@
 	"tel": "67810780",
 	"fax": "67891058",
 	"licensee": "Tng Seng Ghee",
-	"licensePeriod": "31/12/2016 to 30/12/2017",
-	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"licensePeriod": "31/12/2017 to 30/12/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9404338",
 	"address": "BLK 272 Tampines Street 22, #01-26 Singapore 520272",
 	"doctorInCharge": [
@@ -20,11 +20,56 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		]
 	},
 	"id": "9404338",
 	"coordinates": [

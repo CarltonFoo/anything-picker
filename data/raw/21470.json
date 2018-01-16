@@ -3,8 +3,8 @@
 	"tel": "64472388",
 	"fax": "63442610",
 	"licensee": "PETER CHUAH SEONG PYN",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "01/01/2018 to 31/12/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
 	"hciCode": "9403806",
 	"address": "80 MARINE PARADE RD, PARKWAY PARADE, #04-03 Singapore 449269",
 	"doctorInCharge": [
@@ -21,7 +21,6 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"New Year (01/01/2018)": "Closed",
 		"Monday to Saturday": "10:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
 		"Monday to Wednesday": "10:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
 		"Thursday": "Closed",

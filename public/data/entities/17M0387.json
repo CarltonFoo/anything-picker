@@ -1,0 +1,29 @@
+{
+	"name": "NOBEL SURGERY CENTRE",
+	"tel": "66940764",
+	"fax": "66940765",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "07/12/2017 to 06/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0387",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #05-39 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Leong Quor Meng",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2000",
+				"MRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2003",
+				"M Med (Surg) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "17M0387"
+}

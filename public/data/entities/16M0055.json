@@ -26,6 +26,44 @@
 		"Community Health Assistance Scheme (CHAS)",
 		"Integrated Screening Programme (ISP) "
 	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		]
+	},
 	"id": "16M0055",
 	"coordinates": [
 		103.7517067,

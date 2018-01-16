@@ -1,0 +1,22 @@
+{
+	"name": "MEIPLUS DENTALCARE",
+	"tel": "65381500",
+	"fax": "65383700",
+	"licensee": "MYKONOS MEDICAL PTE. LTD.",
+	"licensePeriod": "05/12/2017 to 04/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0384",
+	"address": "32 PEKIN STREET, FAR EAST SQUARE, #03-01 Singapore 048762",
+	"doctorInCharge": [
+		{
+			"name": "How Pow Hian Winston",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	}
+}

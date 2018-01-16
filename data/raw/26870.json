@@ -1,6 +1,6 @@
 {
 	"name": "TELEO PTE LTD",
-	"tel": "62971577",
+	"tel": "62922777",
 	"fax": "63963777",
 	"licensee": "TELEO PTE. LTD.",
 	"licensePeriod": "06/04/2016 to 05/04/2018",
@@ -21,7 +21,8 @@
 	},
 	"operatingHours": {
 		"Public Holiday": "Closed",
-		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Monday to Friday": "08:00 am to 05:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
 		"Sunday to Sunday": "Closed"
 	}
 }

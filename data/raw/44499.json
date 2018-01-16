@@ -1,5 +1,7 @@
 {
 	"name": "ONCOSOLUTIONS CANCER CENTER",
+	"tel": "66356255",
+	"fax": "81818486",
 	"licensee": "Tan Aik Huang Terence",
 	"licensePeriod": "16/02/2016 to 15/02/2018",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
@@ -23,5 +25,9 @@
 		"Specialist Medical": [
 			"Medical Oncology"
 		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
 	}
 }

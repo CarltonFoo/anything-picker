@@ -17,6 +17,9 @@
 	"detailedServices": {
 		"General Medical": true
 	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
 	"id": "16M0198",
 	"coordinates": [
 		103.8373592,

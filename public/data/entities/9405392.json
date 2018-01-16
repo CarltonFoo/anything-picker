@@ -3,10 +3,10 @@
 	"tel": "67337488",
 	"fax": "62356846",
 	"licensee": "Lee Boon Chuan Nelson",
-	"licensePeriod": "30/11/2013 to 29/11/2018",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "23/12/2017 to 22/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "9405392",
-	"address": "290 ORCHARD ROAD, PARAGON, #18-03 Singapore 238859",
+	"address": "101 IRRAWADDY ROAD, ROYAL SQUARE AT NOVENA, #13-07 Singapore 329565",
 	"doctorInCharge": [
 		{
 			"name": "Lee Boon Chuan Nelson",
@@ -25,14 +25,64 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9405392",
 	"coordinates": [

@@ -1,10 +1,10 @@
 {
 	"name": "ORIENT DENTAL CLINIC",
 	"tel": "65636800",
-	"fax": "64255801",
+	"fax": "65636700",
 	"licensee": "ORIENT DENTAL PTE. LTD.",
-	"licensePeriod": "02/12/2015 to 01/12/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "02/12/2017 to 01/12/2022",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
 	"hciCode": "13D0339",
 	"address": "BLK 345 JURONG EAST STREET 31, #01-13 Singapore 600345",
 	"doctorInCharge": [
@@ -20,14 +20,44 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 08:00 pm",
-		"Tuesday": "09:00 am to 05:00 pm",
-		"Wednesday": "09:00 am to 05:00 pm",
-		"Thursday": "02:00 pm to 08:00 pm",
-		"Friday": "09:00 am to 05:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"14:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "13D0339",
 	"coordinates": [

@@ -1,6 +1,6 @@
 {
 	"name": "GOLDEN MILE CLINIC",
-	"tel": "62970293",
+	"tel": "62982013",
 	"fax": "62982013",
 	"licensee": "KHOO BOO CHEONG",
 	"licensePeriod": "11/03/2016 to 10/03/2018",
@@ -22,14 +22,59 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "10:00 am to 02:00 pm, 04:00 pm to 07:00 pm",
-		"Tuesday": "10:00 am to 02:00 pm, 04:00 pm to 07:00 pm",
-		"Wednesday": "10:00 am to 02:00 pm, 04:00 pm to 07:00 pm",
-		"Thursday": "10:00 am to 02:00 pm, 04:00 pm to 07:00 pm",
-		"Friday": "10:00 am to 02:00 pm, 04:00 pm to 07:00 pm",
-		"Saturday": "Closed",
-		"Sunday": "12:00 pm to 05:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"01:00",
+				"13:00"
+			],
+			[
+				"16:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"01:00",
+				"13:00"
+			],
+			[
+				"16:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"01:00",
+				"13:00"
+			],
+			[
+				"16:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"01:00",
+				"13:00"
+			],
+			[
+				"16:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"01:00",
+				"13:00"
+			],
+			[
+				"16:00",
+				"18:00"
+			]
+		],
+		"Saturday": [],
+		"Sunday": []
 	},
 	"id": "9402621",
 	"coordinates": [

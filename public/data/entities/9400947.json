@@ -3,7 +3,7 @@
 	"tel": "98199411",
 	"fax": "67363332",
 	"licensee": "LIEN LIAN SZE",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licensePeriod": "01/01/2018 to 31/12/2019",
 	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "9400947",
 	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #05-03 Singapore 228510",
@@ -28,7 +28,7 @@
 		]
 	},
 	"operatingHours": {
-		"Sunday": "Closed"
+		"Sunday": []
 	},
 	"id": "9400947",
 	"coordinates": [

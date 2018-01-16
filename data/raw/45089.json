@@ -23,7 +23,8 @@
 		"General Medical": true
 	},
 	"programmes": [
-		"Chronic Disease Management Programme (CDMP)"
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
 		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 am to 07:00 pm",

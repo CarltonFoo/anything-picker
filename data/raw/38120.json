@@ -9,14 +9,14 @@
 	"address": "11 HOSPITAL DRIVE, Singapore 169610",
 	"doctorInCharge": [
 		{
-			"name": "Soo Khee Chee",
+			"name": "William Hwang Ying Khee",
 			"qualifications": [
-				"MBBS (University of Singapore, Singapore) 1975",
-				"FRACS (Gen Surg) (Royal Australasian College of Surgeons, Australia) 1983",
-				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1989"
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1997"
 			],
 			"specialties": [
-				"General Surgery"
+				"Haematology"
 			]
 		}
 	],

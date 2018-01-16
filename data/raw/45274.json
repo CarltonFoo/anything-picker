@@ -21,8 +21,6 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
 		"Monday to Friday": "11:30 am to 07:30 pm",
 		"Saturday and Sunday": "01:00 pm to 06:30 pm"
 	}

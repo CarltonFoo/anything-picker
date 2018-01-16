@@ -3,7 +3,7 @@
 	"tel": "63335550",
 	"fax": "65702045",
 	"licensee": "W.S. GO & ASSOCIATES PTE. LTD.",
-	"licensePeriod": "08/12/2015 to 07/12/2017",
+	"licensePeriod": "08/12/2017 to 07/12/2019",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15C0417",
 	"address": "8 SINARAN DRIVE, NOVENA SPECIALIST CENTER, #05-16 Singapore 307470",
@@ -30,11 +30,56 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "15C0417",
 	"coordinates": [

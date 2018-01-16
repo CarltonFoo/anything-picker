@@ -20,7 +20,10 @@
 		"General Dental": true
 	},
 	"operatingHours": {
+		"Monday to Wednesday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
 		"Thursday and Sunday": "Closed",
+		"Friday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
 		"Sunday and Public Holiday": "Closed"
 	}
 }

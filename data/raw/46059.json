@@ -1,6 +1,6 @@
 {
 	"name": "PRECIOUS MEDICAL CLINIC",
-	"tel": "65101984",
+	"tel": "66028166",
 	"fax": "68836964",
 	"licensee": "PRECIOUS MEDICAL CLINIC PTE. LTD.",
 	"licensePeriod": "28/10/2017 to 27/10/2019",
@@ -18,5 +18,9 @@
 	],
 	"detailedServices": {
 		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "03:00 pm to 08:00 pm",
+		"Monday to Saturday": "09:00 am to 02:00 pm"
 	}
 }

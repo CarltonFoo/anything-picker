@@ -1,0 +1,24 @@
+{
+	"name": "TAN'S T & T CLINIC AND SURGERY",
+	"tel": "63531133",
+	"fax": "63535996",
+	"licensee": "TG MEDICAL PTE. LTD.",
+	"licensePeriod": "01/01/2018 to 31/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0392",
+	"address": "BLK 152 BISHAN STREET 11, BISHAN GREEN, #01-213 Singapore 570152",
+	"doctorInCharge": [
+		{
+			"name": "Goh Xinwei Ivanna",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	}
+}

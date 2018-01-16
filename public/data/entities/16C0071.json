@@ -21,6 +21,38 @@
 	"detailedServices": {
 		"General Medical": true
 	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		]
+	},
 	"id": "16C0071",
 	"coordinates": [
 		103.824358,

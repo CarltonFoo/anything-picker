@@ -1,0 +1,34 @@
+{
+	"name": "ROBERTSON CHOO OEHLERS LEE & LYE DENTAL SURGEONS",
+	"tel": "67373833",
+	"fax": "68836964",
+	"licensee": "PACIFIC HEALTHCARE SPECIALIST SERVICES PTE.LTD",
+	"licensePeriod": "30/11/2017 to 29/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0340",
+	"address": "290 ORCHARD ROAD, PARAGON, #19-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Lee Kim Chuan Lewis",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983",
+				"MDS (Oral & Maxillofacial Surgery) (Singapore) (National University of Singapore, Singapore) 1987",
+				"FDS RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1989",
+				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	}
+}

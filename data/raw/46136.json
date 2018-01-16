@@ -1,0 +1,26 @@
+{
+	"name": "WISMA GEYLANG SERAI CLINIC & SURGERY",
+	"tel": "67478072",
+	"fax": "67478073",
+	"licensee": "WISMA GEYLANG SERAI CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "15/12/2017 to 14/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0399",
+	"address": "1 GEYLANG SERAI, SRI GEYLANG SERAI, #01-208 Singapore 402001",
+	"doctorInCharge": [
+		{
+			"name": "Wan Wei Hwang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2006",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	}
+}

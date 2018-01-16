@@ -14,13 +14,17 @@
 				"MBBS (National University of Singapore, Singapore) 1997"
 			],
 			"specialties": [
-				"Aviation Medicine"
+				"Aviation Medicine",
+				"Family Physician"
 			]
 		}
 	],
 	"detailedServices": {
 		"General Medical": true
 	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
 	"id": "17M0316",
 	"coordinates": [
 		103.7117037,

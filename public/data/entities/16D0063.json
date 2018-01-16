@@ -19,6 +19,38 @@
 	"detailedServices": {
 		"General Dental": true
 	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		]
+	},
 	"id": "16D0063",
 	"coordinates": [
 		103.7462758,

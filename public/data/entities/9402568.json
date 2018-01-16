@@ -3,7 +3,7 @@
 	"tel": "65551270",
 	"fax": "65551270",
 	"licensee": "HO VOON CHOONG",
-	"licensePeriod": "10/12/2015 to 09/12/2017",
+	"licensePeriod": "10/12/2017 to 09/12/2022",
 	"licenseClass": "[ 5 Years ]",
 	"hciCode": "9402568",
 	"address": "BLK 406 SEMBAWANG DRIVE, #01-824 Singapore 750406",
@@ -20,7 +20,7 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Sunday": "Closed"
+		"Sunday": []
 	},
 	"id": "9402568",
 	"coordinates": [

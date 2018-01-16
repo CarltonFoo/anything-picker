@@ -29,13 +29,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "10:30 am to 12:00 pm, 01:00 pm to 06:30 pm",
-		"Tuesday": "10:30 am to 12:00 pm, 01:00 pm to 06:30 pm",
-		"Wednesday": "10:30 am to 12:00 pm, 01:00 pm to 06:30 pm",
-		"Thursday": "Closed",
-		"Friday": "10:30 am to 12:00 pm, 01:00 pm to 06:30 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"00:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:30"
+			]
+		],
+		"Thursday": [],
+		"Friday": [
+			[
+				"00:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9404983",
 	"coordinates": [

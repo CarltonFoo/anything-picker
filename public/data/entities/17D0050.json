@@ -1,6 +1,6 @@
 {
 	"name": "THE DENTAL IMPLANT CENTRE",
-	"tel": "62800256",
+	"tel": "65322644",
 	"fax": "62800756",
 	"licensee": "Nuffield Dental Holdings Private Limited",
 	"licensePeriod": "06/03/2017 to 05/03/2018",
@@ -18,6 +18,38 @@
 	],
 	"detailedServices": {
 		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		]
 	},
 	"id": "17D0050",
 	"coordinates": [

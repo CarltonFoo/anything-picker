@@ -3,8 +3,8 @@
 	"tel": "64442559",
 	"fax": "63484189",
 	"licensee": "BURHANUDIN ABDUL HUSAIN VASENWALA",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "9400858",
 	"address": "BLK 136 BEDOK NORTH AVE 3, #01-150 Singapore 460136",
 	"doctorInCharge": [
@@ -20,11 +20,36 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 05:00 pm",
-		"Tuesday": "09:00 am to 05:00 pm",
-		"Wednesday": "09:00 am to 05:00 pm",
-		"Thursday": "09:00 am to 05:00 pm",
-		"Friday": "09:00 am to 05:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "9400858",
 	"coordinates": [

@@ -3,8 +3,8 @@
 	"tel": "62735455",
 	"fax": "62748846",
 	"licensee": "BUKIT MERAH CENTRAL MEDICAL CENTRE PTE LTD",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "9400138",
 	"address": "BLK 165 BT MERAH CENTRAL, #03-3683 Singapore 150165",
 	"doctorInCharge": [
@@ -22,12 +22,62 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Saturday": "08:30 am to 01:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "9400138",
 	"coordinates": [

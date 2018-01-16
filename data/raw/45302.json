@@ -3,8 +3,8 @@
 	"tel": "68730451",
 	"fax": "68730452",
 	"licensee": "CASA DENTAL (HOLLAND) PTE. LTD.",
-	"licensePeriod": "14/12/2015 to 13/12/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "14/12/2017 to 13/12/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "15D0422",
 	"address": "BLK 45 HOLLAND DRIVE, #01-353 Singapore 270045",
 	"doctorInCharge": [
@@ -15,6 +15,9 @@
 			],
 			"specialties": []
 		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
 	],
 	"detailedServices": {
 		"General Dental": true

@@ -1,6 +1,6 @@
 {
 	"name": "INTEGRATIVE CRITICAL CARE ANAESTHESIA & PAIN SERVICES",
-	"tel": "63390233",
+	"tel": "67334344",
 	"fax": "63391338",
 	"licensee": "INTEGRATIVE CRITICAL CARE ANAESTHESIA AND PAIN SERVICES PTE. LTD.",
 	"licensePeriod": "31/03/2016 to 30/03/2018",
@@ -29,12 +29,42 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 05:30 pm",
-		"Tuesday": "08:30 am to 05:30 pm",
-		"Wednesday": "08:30 am to 05:30 pm",
-		"Thursday": "08:30 am to 05:30 pm",
-		"Friday": "08:30 am to 05:30 pm",
-		"Saturday": "08:30 am to 01:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "13C0227",
 	"coordinates": [

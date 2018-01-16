@@ -20,7 +20,12 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Saturday": "09:30 am to 03:00 pm"
+		"Saturday": [
+			[
+				"09:30",
+				"15:00"
+			]
+		]
 	},
 	"id": "9401412",
 	"coordinates": [

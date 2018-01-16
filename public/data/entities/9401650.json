@@ -3,8 +3,8 @@
 	"tel": "67760216",
 	"fax": "68725008",
 	"licensee": "TEO CLINIC & SURGERY PTE LTD",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "01/01/2018 to 31/12/2019",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
 	"hciCode": "9401650",
 	"address": "BLK 352 CLEMENTI AVE 2, #01-111 Singapore 120352",
 	"doctorInCharge": [
@@ -27,12 +27,42 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 04:30 pm",
-		"Tuesday": "09:00 am to 04:30 pm",
-		"Wednesday": "09:00 am to 04:30 pm",
-		"Thursday": "09:00 am to 04:30 pm",
-		"Friday": "09:00 am to 04:30 pm",
-		"Saturday": "09:00 am to 12:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		]
 	},
 	"id": "9401650",
 	"coordinates": [

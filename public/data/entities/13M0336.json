@@ -3,13 +3,13 @@
 	"tel": "62277777",
 	"fax": "62253735",
 	"licensee": "PARKWAY SHENTON PTE LTD",
-	"licensePeriod": "01/12/2015 to 30/11/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "01/12/2017 to 30/11/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "13M0336",
 	"address": "30 JURONG WEST STREET 24, Singapore 649696",
 	"doctorInCharge": [
 		{
-			"name": "Si Hoe Sing Yin",
+			"name": "Kate Moriah Si-Hoe Sing Yin",
 			"qualifications": [
 				"MBBS (University of Singapore, Singapore) 1963"
 			],
@@ -20,14 +20,69 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
-		"Tuesday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
-		"Wednesday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
-		"Thursday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
-		"Friday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
-		"Saturday": "07:00 am to 01:00 pm",
-		"Sunday": "07:00 am to 01:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"07:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"07:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "13M0336",
 	"coordinates": [

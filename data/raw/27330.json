@@ -23,8 +23,6 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
 		"Monday and Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
 		"Tuesday and Thursday": "08:30 am to 01:00 pm, 02:00 pm to 08:00 pm",
 		"Wednesday to Wednesday": "08:30 pm to 01:00 pm, 02:00 pm to 06:00 pm",

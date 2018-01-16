@@ -1,6 +1,6 @@
 {
 	"name": "EXPATDENTAL",
-	"tel": "63976718",
+	"tel": "62500048",
 	"fax": "63976192",
 	"licensee": "EXPAT DENTAL ORTHODONTICS PTE. LTD.",
 	"licensePeriod": "17/03/2016 to 16/03/2018",
@@ -18,5 +18,13 @@
 	],
 	"detailedServices": {
 		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday and Wednesday": "09:00 am to 06:00 pm",
+		"Tuesday and Thursday": "10:00 am to 07:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "Closed"
 	}
 }

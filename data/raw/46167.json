@@ -1,0 +1,21 @@
+{
+	"name": "LUMINOUS DENTAL CLINIC @ YISHUN",
+	"tel": "65382001",
+	"licensee": "LUMINOUS DENTAL CLINIC @ YISHUN PTE. LTD.",
+	"licensePeriod": "29/12/2017 to 28/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "18D0004",
+	"address": "1 NORTHPOINT DRIVE, NORTHPOINT CITY, #02-150 Singapore 768019",
+	"doctorInCharge": [
+		{
+			"name": "Lee Tze Hong Kevin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	}
+}

@@ -3,8 +3,8 @@
 	"tel": "67452104",
 	"fax": "68410265",
 	"licensee": "CHUAH CLINIC & SURGERY PTE LTD",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
-	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "9400281",
 	"address": "BLK 113 ALJUNIED AVE 2, #01-19 Singapore 380113",
 	"doctorInCharge": [
@@ -25,8 +25,6 @@
 	],
 	"operatingHours": {
 		"Public Holiday": "08:30 am to 12:30 pm",
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
 		"Monday to Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
 		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
 		"Saturday and Sunday": "08:30 am to 12:30 pm"

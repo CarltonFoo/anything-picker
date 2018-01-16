@@ -26,7 +26,12 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:30 am to 01:00 pm"
+		"Monday": [
+			[
+				"09:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "9401173",
 	"coordinates": [

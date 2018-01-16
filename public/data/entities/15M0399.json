@@ -26,8 +26,8 @@
 		]
 	},
 	"operatingHours": {
-		"Saturday": "Closed",
-		"Sunday": "Closed"
+		"Saturday": [],
+		"Sunday": []
 	},
 	"id": "15M0399",
 	"coordinates": [

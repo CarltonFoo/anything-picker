@@ -32,8 +32,8 @@
 		]
 	},
 	"operatingHours": {
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "12C0143",
 	"coordinates": [

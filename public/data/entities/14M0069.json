@@ -1,6 +1,6 @@
 {
 	"name": "PACIFIC HEALTHCARE SPECIALIST CENTRE",
-	"tel": "62388566",
+	"tel": "68836955",
 	"fax": "68836956",
 	"licensee": "PACIFIC HEALTHCARE SPECIALIST SERVICES PTE. LTD.",
 	"licensePeriod": "31/03/2016 to 30/03/2018",
@@ -68,12 +68,42 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 06:00 pm",
-		"Tuesday": "09:00 am to 06:00 pm",
-		"Wednesday": "09:00 am to 06:00 pm",
-		"Thursday": "09:00 am to 06:00 pm",
-		"Friday": "09:00 am to 06:00 pm",
-		"Saturday": "09:00 am to 12:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		]
 	},
 	"id": "14M0069",
 	"coordinates": [

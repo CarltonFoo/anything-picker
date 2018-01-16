@@ -1,0 +1,30 @@
+{
+	"name": "H L KONG MEDICAL ONCOLOGY CENTRE",
+	"tel": "62359383",
+	"fax": "62358112",
+	"licensee": "ICON SOC PTE. LTD.",
+	"licensePeriod": "02/01/2018 to 01/01/2020",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0403",
+	"address": "290 ORCHARD ROAD, PARAGON MEDICAL, #17-01/02 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "KONG HWAI LOONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1993",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1993",
+				"FAMS (Med Oncology) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	}
+}

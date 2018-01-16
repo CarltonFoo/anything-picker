@@ -3,7 +3,7 @@
 	"tel": "67521401",
 	"fax": "67580136",
 	"licensee": "Kong Clinic & Surgery Pte. Ltd.",
-	"licensePeriod": "18/12/2016 to 17/12/2017",
+	"licensePeriod": "18/12/2017 to 17/12/2019",
 	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9404321",
 	"address": "BLK 293 Yishun St 22, #01-223 Singapore 760293",
@@ -25,14 +25,59 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
-		"Tuesday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
-		"Wednesday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
-		"Thursday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
-		"Friday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
-		"Saturday": "Closed",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Saturday": [],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9404321",
 	"coordinates": [

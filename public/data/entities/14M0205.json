@@ -20,11 +20,36 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "11:00 pm to 09:00 pm",
-		"Tuesday": "11:00 pm to 09:00 pm",
-		"Wednesday": "11:00 pm to 09:00 pm",
-		"Thursday": "11:00 pm to 09:00 pm",
-		"Friday": "11:00 pm to 09:00 pm"
+		"Monday": [
+			[
+				"13:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"13:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"13:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"13:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"13:00",
+				"21:00"
+			]
+		]
 	},
 	"id": "14M0205",
 	"coordinates": [

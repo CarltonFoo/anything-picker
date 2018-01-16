@@ -3,7 +3,7 @@
 	"tel": "62356151",
 	"fax": "67374426",
 	"licensee": "SUWANDI KOJODJOJO",
-	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licensePeriod": "01/01/2018 to 31/12/2019",
 	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "9401568",
 	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #10-14 Singapore 228510",
@@ -29,12 +29,66 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 05:00 pm, 09:00 am to 12:00 pm",
-		"Tuesday": "09:00 am to 05:00 pm, 09:00 am to 12:00 pm",
-		"Wednesday": "09:00 am to 05:00 pm, 09:00 am to 12:00 pm",
-		"Thursday": "09:00 am to 05:00 pm, 09:00 am to 12:00 pm",
-		"Friday": "09:00 am to 05:00 pm, 09:00 am to 12:00 pm",
-		"Saturday": "09:00 am to 05:00 pm, 09:00 am to 12:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9401568",
 	"coordinates": [
