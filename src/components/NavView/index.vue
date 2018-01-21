@@ -1,14 +1,16 @@
 <template>
   <div class="picker-nav toolbar" v-show="$route.path !== '/intro'">
     <a class="branding" href="/" @click="clearLocalStorage">
-      <img src="/assets/SPBeta_Logo.svg">
+      <img src="/assets/CA_Logo.svg">
     </a>
 
     <div class="actions">
 
-      <a class="info-button" href="https://blog.data.gov.sg/find-the-right-school-using-our-new-school-picker-tool-3a7250b63390">i</a>
+      <!-- <a class="info-button" href="https://blog.data.gov.sg/find-the-right-school-using-our-new-school-picker-tool-3a7250b63390">i</a> -->
 
-      <div class="bookmark-button desktop-only"
+      <SearchBox />
+
+      <!-- <div class="bookmark-button desktop-only"
         :class="{'bg-positive': bookmarkActive, 'text-white': bookmarkActive}"
         @click="route">
         <img src="/assets/Star_White.svg" />BOOKMARK
@@ -19,7 +21,7 @@
         @click="route">
         <img :src="bookmarkActive ? '/assets/Star_Green_Solid.svg' : '/assets/Star_White.svg'" />
         <span class="bookmark-indicator bg-positive" v-show="hasBookmark & !bookmarkActive" />
-      </div>
+      </div> -->
 
     </div>
   </div>
@@ -27,6 +29,7 @@
 
 <script>
 import {LocalStorage} from 'quasar-framework'
+import SearchBox from './SearchBox'
 
 export default {
   props: {
@@ -47,6 +50,9 @@ export default {
     clearLocalStorage () {
       LocalStorage.remove('query')
     }
+  },
+  components: {
+    SearchBox
   }
 }
 </script>

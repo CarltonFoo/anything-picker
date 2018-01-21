@@ -2,46 +2,6 @@ import {optionsSelected} from 'helpers/util'
 import {capitalize} from 'helpers/text'
 import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
-export const homeSchoolDistance = {
-  namespaced: true,
-  state: {
-    oneKm: [],
-    twoKm: []
-  },
-  mutations: {
-    setData (state, {oneKm, twoKm}) {
-      state.oneKm = oneKm
-      state.twoKm = twoKm
-    }
-  },
-  actions: {
-    queryOnemap (context, {postalCode, lnglat}) {
-      context.commit('setData', {oneKm: [], twoKm: []})
-      let url = window.location.origin + '/nearby-school'
-      if (postalCode) url += '?postalCode=' + postalCode
-      else if (lnglat) url += '?location=' + toSVY21(lnglat).join(',')
-      else return
-      return window.fetch(url)
-        .then(res => res.json())
-        .then(json => context.commit('setData', json.result))
-        .catch(err => console.error(err))
-    }
-  }
-}
-
-export const schoolLevel = {
-  state: {
-    options: [
-      {label: 'Primary', value: 'P'},
-      {label: 'Secondary', value: 'S'},
-      {label: 'Junior College', value: 'J'},
-      {label: 'Pri 1 to Sec 4/5 (Mixed level)', value: 'F'},
-      {label: 'Integrated Programme', value: 'T'}
-    ],
-    selected: null
-  }
-}
-
 export const planningAreas = {
   namespaced: true,
   state: {
@@ -114,6 +74,151 @@ export const planningAreas = {
       // using &nbsp; unicode as space char are collapsed by html
       return label.join(',\u00A0\u00A0')
     }
+  }
+}
+
+export const operatingHours = {
+  state: {
+    options: [
+      {label: 'Morning (7am to 12pm)', value: 'morn'},
+      {label: 'Afternoon (12pm to 6am)', value: 'aftnn'},
+      {label: 'Evening/Night (6pm to 12am)', value: 'night'},
+      {label: 'Midnight (12am to 7am)', value: 'midnight'},
+      {label: '24 Hours', value: '24h'}
+    ],
+    selected: null
+  }
+}
+
+export const price = {
+  state: {
+    options: [
+      {label: '$', value: '$'},
+      {label: '$$', value: '$$'},
+      {label: '$$$', value: '$$$'},
+      {label: '$$$$', value: '$$$$'},
+      {label: '$$$$$', value: '$$$$$'}
+    ],
+    selected: null
+  }
+}
+
+export const insurance = {
+  namespaced: true,
+  state: {
+    options: [{
+      label: 'INSURANCE',
+      schemes: [
+        {label: 'AIA', value: 'aia'},
+        {label: 'Aillance Healthcare', value: 'alliance'},
+        {label: 'AXA MediSmart', value: 'axamed'},
+        {label: 'AXA Cliniccare', value: 'axacli'},
+        {label: 'Baby Bonus Accredited', value: 'bba'},
+        {label: 'CHAS', value: 'chas'},
+        {label: 'Civil Servant Medical Billing System', value: 'csmbs'},
+        {label: 'Great Eastern', value: 'ge'},
+        {label: 'NTUC', value: 'ntuc'},
+        {label: 'Prudential', value: 'prudential'}
+      ]
+    }],
+    selected: []
+  },
+  getters: {
+    selectedDisplayText (state) {
+      const label = []
+      state.options.forEach(insurancename => {
+        if (optionsSelected(insurancename, state.selected)) {
+          label.push(capitalize(insurancename.label))
+        } else {
+          insurancename.schemes.forEach(scheme => {
+            if (optionsSelected(scheme, state.selected)) {
+              label.push(scheme.label)
+            }
+          })
+        }
+      })
+
+      label.sort(item => item.indexOf('Insurance') > -1 ? 0 : 1)
+      // using &nbsp; unicode as space char are collapsed by html
+      return label.join(',\u00A0\u00A0')
+    }
+  }
+}
+
+export const clinicType = {
+  namespaced: true,
+  state: {
+    options: [{
+      label: 'TYPE OF CLINIC',
+      types: [
+        {label: 'Dentists', value: 'dentist'},
+        {label: 'Hospitals', value: 'hospital'},
+        {label: 'Polyclinics', value: 'poly'},
+        {label: 'Private Clinics', value: 'private'},
+        {label: '24 Hour Clinics', value: '24h'}
+      ]
+    }],
+    selected: []
+  },
+  getters: {
+    selectedDisplayText (state) {
+      const label = []
+      state.options.forEach(clinictype => {
+        if (optionsSelected(clinictype, state.selected)) {
+          label.push(capitalize(clinictype.label))
+        } else {
+          clinictype.types.forEach(type => {
+            if (optionsSelected(type, state.selected)) {
+              label.push(type.label)
+            }
+          })
+        }
+      })
+
+      label.sort(item => item.indexOf('Types') > -1 ? 0 : 1)
+      // using &nbsp; unicode as space char are collapsed by html
+      return label.join(',\u00A0\u00A0')
+    }
+  }
+}
+
+export const homeSchoolDistance = {
+  namespaced: true,
+  state: {
+    oneKm: [],
+    twoKm: []
+  },
+  mutations: {
+    setData (state, {oneKm, twoKm}) {
+      state.oneKm = oneKm
+      state.twoKm = twoKm
+    }
+  },
+  actions: {
+    queryOnemap (context, {postalCode, lnglat}) {
+      context.commit('setData', {oneKm: [], twoKm: []})
+      let url = window.location.origin + '/nearby-school'
+      if (postalCode) url += '?postalCode=' + postalCode
+      else if (lnglat) url += '?location=' + toSVY21(lnglat).join(',')
+      else return
+      return window.fetch(url)
+        .then(res => res.json())
+        .then(json => context.commit('setData', json.result))
+        .catch(err => console.error(err))
+    }
+  }
+}
+
+export const schoolLevel = {
+  state: {
+    options: [
+      {label: 'Primary', value: 'P'},
+      {label: 'Secondary', value: 'S'},
+      {label: 'Junior College', value: 'J'},
+      {label: 'Pri 1 to Sec 4/5 (Mixed level)', value: 'F'},
+      {label: 'Integrated Programme', value: 'T'}
+    ],
+    selected: null
   }
 }
 

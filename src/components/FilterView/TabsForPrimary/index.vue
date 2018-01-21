@@ -1,28 +1,35 @@
 <template>
   <div class="picker-filter toolbar tertiary no-padding">
-    <SearchBox />
+    <!-- <SearchBox /> -->
     <div class="row auto">
-      <SchoolLevelTab class="width-1of4" />
-      <LocationTab class="width-1of4" @expand="openModal" />
-  	  <CcaTab class="width-1of4" @expand="openModal" />
-  	  <MoreOptionsTab class="width-1of4" @expand="openModal" />
+      <LocationTab class="width-1of5" @expand="openModal" />
+      <OperatingHoursTab class="width-1of5" />
+      <PriceTab class="width-1of5" />
+  	  <InsuranceTab class="width-1of5" @expand="openModal" />
+      <TypeTab class="width-1of5" @expand="openModal" />
+  	  <!-- <MoreOptionsTab class="width-1of5" @expand="openModal" /> -->
     </div>
 
     <LocationModal ref="location" />
-    <CcaModal ref="cca" />
-    <MoreOptionsModal ref="more" />
+    <InsuranceModal ref="insurance" />
+    <TypeModal ref="type" />
+    <!-- <MoreOptionsModal ref="more" /> -->
   </div>
 </template>
 
 <script>
-import SchoolLevelTab from './SchoolLevelTab'
 import LocationTab from './LocationTab'
 import LocationModal from './LocationModal'
-import CcaTab from './CcaTab'
-import CcaModal from './CcaModal'
-import MoreOptionsTab from './MoreOptionsTab'
-import MoreOptionsModal from './MoreOptionsModal'
-import SearchBox from './SearchBox'
+import OperatingHoursTab from './OperatingHoursTab'
+import PriceTab from './PriceTab'
+import InsuranceTab from './InsuranceTab'
+import InsuranceModal from './InsuranceModal'
+import TypeTab from './TypeTab'
+import TypeModal from './TypeModal'
+// import SchoolLevelTab from './SchoolLevelTab'
+// import MoreOptionsTab from './MoreOptionsTab'
+// import MoreOptionsModal from './MoreOptionsModal'
+// import SearchBox from './SearchBox'
 
 export default {
   name: 'FilterView',
@@ -32,14 +39,18 @@ export default {
     }
   },
   components: {
-    SchoolLevelTab,
     LocationTab,
     LocationModal,
-    CcaTab,
-    CcaModal,
-    MoreOptionsTab,
-    MoreOptionsModal,
-    SearchBox
+    OperatingHoursTab,
+    PriceTab,
+    InsuranceTab,
+    InsuranceModal,
+    TypeTab,
+    TypeModal,
+    // SchoolLevelTab,
+    // MoreOptionsTab,
+    // MoreOptionsModal,
+    // SearchBox
   }
 }
 </script>
@@ -57,8 +68,8 @@ export default {
     letter-spacing: 0.75px;
   }
 
-  .width-1of4 {
-    min-width: 210px;
+  .width-1of5 {
+    min-width: 168px;
     border-left: 2px solid $color-border;
     height: 100px;
 

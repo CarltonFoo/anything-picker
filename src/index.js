@@ -16,14 +16,15 @@ console.log('APP VERSION:', process.env.VERSION || 'primary')
 
 let storeUpdated = false
 
+// default page changed from /intro to /explore
 router.beforeEach((to, from, next) => {
   if (storeUpdated) {
     storeUpdated = false
     next()
   } else {
     store.dispatch('importOptions', to.query).then(() => {
-      if (to.path !== '/intro' && !store.state.schoolLevel.selected) {
-        next({path: '/intro'})
+      if (to.path !== '/explore' && !store.state.schoolLevel.selected) {
+        next({path: '/explore'})
       } else {
         next()
       }
