@@ -8,24 +8,12 @@ indexSchoolData()
 export function indexSchoolData () {
   const forwardIndex = generateForwardIndex(featureExtractor, [
     'name',
-    'website',
-    'email',
-    'levelOfEducation',
+    'phone',
+    'address',
     'coordinates',
     'svy21',
-    'planningArea',
-    'schoolType',
-    'motherTongue',
-    'specialMoeProgrammes',
-    'specialProgrammes',
-    'ccas',
-    'specialNeeds',
-    'studentCare',
-    'uniqueCcas'
+    'planningArea'
   ])
-  // include only those that are necessary
-  // needed for display and filtering
-  // write a feature extractor for each index
 
   const result = []
   Object.keys(forwardIndex).forEach(key => {
@@ -33,6 +21,6 @@ export function indexSchoolData () {
     result.push(forwardIndex[key])
   })
 
-  fs.writeFileSync('public/clinicList.json', JSON.stringify(result))
+  fs.writeFileSync('public/data/entityList.json', JSON.stringify(result))
   return result
 }

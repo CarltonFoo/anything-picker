@@ -1,64 +1,60 @@
 import fs from 'fs'
-// import isEmpty from 'lodash/isEmpty'
-// import omit from 'lodash/omit'
-// import {capitalize, acronym, standardFilter} from '../helpers/text'
 
 const files = fs.readdirSync('data/raw').filter(file => file.match(/\.json$/))
-
-// const ccas = require('../../data/ccas.json')
 const locations = require('../../data/locations.json')
-// const specialNeeds = require('../../data/specialNeeds.json')
-// const studentCare = require('../../data/studentCare.json')
-// const vacancies = require('../../data/vacancies.json')
 
-// let mrtStations = require('nearest-mrt/data/processed/mrt_stations.json').data
-// mrtStations = Object.keys(mrtStations).map(name => name.replace(/ MRT STATION$/, ''))
+const daysArr = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'Public Holiday']
 
 files.forEach(file => {
   try {
+    cleanOperatingHours
     const raw = require('../../data/raw/' + file)
-
     const processed = Object.assign({}, raw)
-
-    processed.id = processed.hciCode
+    processed.id = raw.hciCode
     delete processed.hciCode
 
-    const location = locations[processed.id]
+    if (!raw.licenseClass) {
+      const [licensePeriod, licenseClass] = raw.licensePeriod.split(/[\n\t]+/)
+      processed.licensePeriod = licensePeriod
+      processed.licenseClass = licenseClass
+    }
 
+    if (raw.operatingHours) {
+      processed.operatingHours = cleanOperatingHours(raw.operatingHours)
+    }
+
+    const location = locations[processed.id]
+    processed.location = location
     Object.assign(processed, location)
 
-    fs.writeFileSync(`public/data/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
+    fs.writeFileSync(`public/data/entities/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
   } catch (err) {
     console.log('Bad record', file)
-    console.error(err)
     throw err
   }
 })
 
-// function cleanGeneral (input) {
-//   function batchCapitalize (input, splitOnDash = false) {
-//     if (input instanceof Array) return input.map(i => capitalize(i, splitOnDash))
-//     else return capitalize(input, splitOnDash)
-//   }
-
-//   function batchAcronym (input, ...patterns) {
-//     if (input instanceof Array) return input.map(i => acronym(i, ...patterns))
-//     else return acronym(input, ...patterns)
-//   }
-
-//   const output = {...input}
-//   fields.forEach(f => {
-//     if (f.field in input) {
-//       output[f.field] = batchCapitalize(input[f.field], f.splitOnDash)
-//       if (f.acronym) output[f.field] = batchAcronym(output[f.field], f.acronym)
-//     }
-//   })
-//   return output
-// }
-
-// function cleanMRT (input) {
-//   input = input || ''
-//   return mrtStations
-//     .filter(name => input.toUpperCase().indexOf(name) > -1)
-//     .map(name => capitalize(name) + ' MRT')
-// }
+function cleanOperatingHours (input) {
+  const output = {}
+  Object.keys(input).forEach(key => {
+    const value = input[key]
+    let splitted = key.split(' and ')
+    if (splitted.length > 1) {
+      splitted.forEach(day => {
+        output[day] = value
+      })
+    } else {
+      splitted = splitted[0].split(' to ')
+      if (splitted.length > 1) {
+        const indexStart = daysArr.indexOf(splitted[0])
+        const indexEnd = daysArr.indexOf(splitted[1])
+        for (let i = indexStart; i <= indexEnd; i++) {
+          output[daysArr[i]] = value
+        }
+      } else {
+        output[key] = value
+      }
+    }
+  })
+  return output
+}
