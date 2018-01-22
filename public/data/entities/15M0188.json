@@ -28,8 +28,8 @@
 		]
 	},
 	"operatingHours": {
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "15M0188",
 	"coordinates": [

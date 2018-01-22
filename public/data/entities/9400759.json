@@ -26,8 +26,8 @@
 		]
 	},
 	"operatingHours": {
-		"Wednesday": "Closed",
-		"Saturday": "Closed"
+		"Wednesday": [],
+		"Saturday": []
 	},
 	"id": "9400759",
 	"coordinates": [

@@ -22,14 +22,76 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:00 pm",
-		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:00 pm",
-		"Wednesday": "09:30 pm to 12:30 pm",
-		"Sunday": "09:30 pm to 12:30 pm",
-		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:00 pm",
-		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:00 pm",
-		"Saturday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"21:30",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"21:30",
+				"14:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Saturday": [],
+		"Public Holiday": []
 	},
 	"id": "9401054",
 	"coordinates": [

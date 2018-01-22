@@ -24,7 +24,7 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed"
+		"Public Holiday": []
 	},
 	"id": "9401615",
 	"coordinates": [

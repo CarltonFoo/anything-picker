@@ -28,7 +28,12 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Sunday": "09:00 am to 12:00 pm"
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9401404",
 	"coordinates": [

@@ -26,11 +26,36 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:00 am to 07:00 pm",
-		"Tuesday": "08:00 am to 07:00 pm",
-		"Wednesday": "08:00 am to 07:00 pm",
-		"Thursday": "08:00 am to 07:00 pm",
-		"Friday": "08:00 am to 07:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"19:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"19:00"
+			]
+		]
 	},
 	"id": "1300000",
 	"coordinates": [

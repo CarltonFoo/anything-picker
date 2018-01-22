@@ -26,13 +26,64 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 02:30 pm, 06:30 pm to 10:30 pm",
-		"Wednesday": "08:30 am to 02:30 pm, 06:30 pm to 10:30 pm",
-		"Tuesday": "08:30 am to 02:30 pm",
-		"Thursday": "08:30 am to 02:30 pm",
-		"Friday": "08:30 am to 02:30 pm, 06:30 pm to 10:30 pm",
-		"Sunday": "08:30 am to 02:30 pm, 06:30 pm to 10:30 pm",
-		"Saturday": "08:30 am to 02:30 pm"
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:30",
+				"12:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:30",
+				"12:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:30",
+				"12:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:30",
+				"12:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
 	},
 	"id": "13M0343",
 	"coordinates": [

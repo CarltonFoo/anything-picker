@@ -30,8 +30,8 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9400283",
 	"coordinates": [

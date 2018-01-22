@@ -23,15 +23,70 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
-		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 08:00 pm",
-		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 08:00 pm",
-		"Wednesday": "08:30 pm to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Saturday": "08:30 am to 01:00 pm",
-		"Sunday": "09:00 am to 01:00 pm"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": [],
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"20:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "9403652",
 	"coordinates": [

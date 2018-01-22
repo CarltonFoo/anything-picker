@@ -23,14 +23,69 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "07:00 am to 03:00 pm, 02:30 pm to 11:00 pm",
-		"Tuesday": "07:00 am to 03:00 pm, 02:30 pm to 11:00 pm",
-		"Wednesday": "07:00 am to 03:00 pm, 02:30 pm to 11:00 pm",
-		"Thursday": "07:00 am to 03:00 pm, 02:30 pm to 11:00 pm",
-		"Friday": "07:00 am to 03:00 pm, 02:30 pm to 11:00 pm",
-		"Saturday": "07:00 am to 01:00 pm",
-		"Sunday": "07:00 am to 01:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"07:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"07:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "13M0337",
 	"coordinates": [

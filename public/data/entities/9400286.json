@@ -20,12 +20,50 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "06:30 pm to 08:30 pm",
-		"Tuesday": "06:30 pm to 08:30 pm",
-		"Wednesday": "09:00 am to 12:00 pm, 01:00 pm to 03:00 pm",
-		"Thursday": "06:30 pm to 08:30 pm",
-		"Friday": "09:00 am to 12:00 pm, 01:00 pm to 03:00 pm",
-		"Saturday": "09:00 am to 12:00 pm"
+		"Monday": [
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:00"
+			]
+		],
+		"Thursday": [
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9400286",
 	"coordinates": [

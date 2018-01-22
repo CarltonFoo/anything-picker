@@ -24,14 +24,44 @@
 		"Yellow Fever Vaccination": true
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:00 am to 05:30 am",
-		"Tuesday": "09:00 am to 05:30 am",
-		"Wednesday": "09:00 am to 05:30 am",
-		"Thursday": "09:00 am to 05:30 am",
-		"Friday": "09:00 am to 05:30 am",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"05:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"05:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"05:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"05:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"05:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9404635",
 	"coordinates": [

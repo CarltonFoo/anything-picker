@@ -27,8 +27,18 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "06:00 pm to 08:00 pm",
-		"Friday": "06:00 pm to 08:00 pm"
+		"Monday": [
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"18:00",
+				"20:00"
+			]
+		]
 	},
 	"id": "9403663",
 	"coordinates": [

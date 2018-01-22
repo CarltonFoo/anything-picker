@@ -27,8 +27,18 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "07:30 am to 11:00 pm",
-		"New Year (01/01/2018)": "07:30 am to 11:00 pm"
+		"Christmas Day (25/12/2017)": [
+			[
+				"07:30",
+				"13:00"
+			]
+		],
+		"New Year (01/01/2018)": [
+			[
+				"07:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "13C0034",
 	"coordinates": [

@@ -36,9 +36,24 @@
 		]
 	},
 	"operatingHours": {
-		"Tuesday": "08:30 am to 05:30 pm",
-		"Thursday": "08:30 am to 05:30 pm",
-		"Saturday": "08:30 am to 12:55 pm"
+		"Tuesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:55"
+			]
+		]
 	},
 	"id": "12C0115",
 	"coordinates": [
