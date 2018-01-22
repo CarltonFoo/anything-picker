@@ -1,0 +1,82 @@
+{
+	"name": "NOVU MEDICAL AESTHETIC CLINIC ARC",
+	"tel": "62711223",
+	"fax": "62350412",
+	"licensee": "AESTHETIC MEDICAL HOLDINGS PTE. LTD.",
+	"licensePeriod": "14/08/2017 to 26/09/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0208",
+	"address": "460 ALEXANDRA ROAD, PSA BUILDING, #02-26 Singapore 119963",
+	"doctorInCharge": [
+		{
+			"name": "JENNIFER LEE LIPING",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"20:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Sunday": [
+			[
+				"01:00",
+				"17:30"
+			]
+		]
+	},
+	"id": "12C0208",
+	"coordinates": [
+		103.8012641,
+		1.2739864
+	],
+	"svy21": [
+		24432.59,
+		28496.49
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

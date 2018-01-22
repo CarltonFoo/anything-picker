@@ -1,0 +1,104 @@
+{
+	"name": "RIVER OF LIFE FAMILY CLINIC",
+	"tel": "67600501",
+	"fax": "67600870",
+	"licensee": "Wong Liang Fu",
+	"licensePeriod": "12/07/2015 to 11/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405702",
+	"address": "BLK 26 TECK WHYE LANE, #01-190 Singapore 680026",
+	"doctorInCharge": [
+		{
+			"name": "Wong Liang Fu",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"18:00"
+			],
+			[
+				"19:00",
+				"21:30"
+			]
+		],
+		"Thursday": [],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"19:00",
+				"21:30"
+			]
+		]
+	},
+	"id": "9405702",
+	"coordinates": [
+		103.75574,
+		1.3776211
+	],
+	"svy21": [
+		19366.47,
+		39956
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

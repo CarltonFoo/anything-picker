@@ -1,0 +1,85 @@
+{
+	"name": "DR GHOWS & ASSOCIATES DENTAL SURGEONS",
+	"tel": "67333004",
+	"fax": "67352004",
+	"licensee": "NICHOLAS MANAF GHOWS",
+	"licensePeriod": "03/09/2014 to 02/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403250",
+	"address": "541 ORCHARD ROAD, LIAT TOWERS, #14-04 Singapore 238881",
+	"doctorInCharge": [
+		{
+			"name": "NICHOLAS MANAF GHOWS",
+			"qualifications": [
+				"BDS (University of London, United Kingdom) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"18:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9403250",
+	"coordinates": [
+		103.8307226,
+		1.3050872
+	],
+	"svy21": [
+		27711.09,
+		31935.43
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

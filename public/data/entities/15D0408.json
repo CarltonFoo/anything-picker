@@ -1,0 +1,78 @@
+{
+	"name": "DENTAL @ UNI",
+	"tel": "68370730",
+	"fax": "62259382",
+	"licensee": "FAMILY DENTAL CENTRE PTE. LTD.",
+	"licensePeriod": "30/11/2017 to 29/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0408",
+	"address": "70 STAMFORD ROAD, SINGAPORE MANAGEMENT UNIVERSITY, #B1-27 Singapore 178901",
+	"doctorInCharge": [
+		{
+			"name": "FAISAL BIN ABDUL AZIZ",
+			"qualifications": [
+				"BDS (University of London, United Kingdom) 2014"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Sunday": []
+	},
+	"id": "15D0408",
+	"coordinates": [
+		103.8501058,
+		1.2966568
+	],
+	"svy21": [
+		29868.27,
+		31003.24
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

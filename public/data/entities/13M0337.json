@@ -1,0 +1,108 @@
+{
+	"name": "GIRLS' HOME MEDICAL CLINIC",
+	"tel": "62277777",
+	"fax": "62253735",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "01/12/2017 to 30/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0337",
+	"address": "1 DEFU AVENUE 1, Singapore 539540",
+	"doctorInCharge": [
+		{
+			"name": "Chua Teck Meng Henry",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"07:00",
+				"15:00"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"07:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"07:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "13M0337",
+	"coordinates": [
+		103.8906871,
+		1.3473243
+	],
+	"svy21": [
+		34384.48,
+		36605.87
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

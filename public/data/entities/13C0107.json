@@ -1,0 +1,124 @@
+{
+	"name": "GATEWAY DENTAL CENTER",
+	"tel": "65693328",
+	"fax": "62621581",
+	"licensee": "GATEWAY DENTAL CENTER",
+	"licensePeriod": "03/05/2017 to 02/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0107",
+	"address": "BLK 25 GHIM MOH LINK, #01-04 Singapore 270025",
+	"doctorInCharge": [
+		{
+			"name": "JAMES HO SEW HUNG",
+			"qualifications": [
+				"DMD (Harvard University School of Dental Medicine, United States) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"20:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"20:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"20:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"20:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"20:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"20:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		]
+	},
+	"id": "13C0107",
+	"coordinates": [
+		103.7862591,
+		1.3081556
+	],
+	"svy21": [
+		22762.72,
+		32274.77
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

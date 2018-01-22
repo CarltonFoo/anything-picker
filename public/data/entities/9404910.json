@@ -1,0 +1,84 @@
+{
+	"name": "NEUROSPINE AND PAIN CENTER, SINGAPORE",
+	"tel": "68354325",
+	"fax": "68354326",
+	"licensee": "SINGAPORE BRAIN SPINE NERVES CENTER PTE. LTD.",
+	"licensePeriod": "14/07/2016 to 13/07/2021",
+	"licenseClass": "[ 5 Years ( 2D ) ]",
+	"hciCode": "9404910",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-03 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "PREMKUMAR KANDASAMY PILLAY",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1985",
+				"FRCS (Neurosurgery) (Royal College of Surgeons, Canada) 1994"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Neurosurgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "9404910",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

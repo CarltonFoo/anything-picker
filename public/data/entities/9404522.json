@@ -1,0 +1,103 @@
+{
+	"name": "SMILE DENTAL @ MARINE TERRACE PTE LTD",
+	"tel": "62428823",
+	"fax": "62428876",
+	"licensee": "TAN TIEN WANG",
+	"licensePeriod": "09/06/2015 to 08/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404522",
+	"address": "BLK 59 MARINE TERRACE, #01-91 Singapore 440059",
+	"doctorInCharge": [
+		{
+			"name": "Teo Lye Hock Alvin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993",
+				"MFGDP (UK) (Royal College of Surgeons of England, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9404522",
+	"coordinates": [
+		103.9147218,
+		1.3058597
+	],
+	"svy21": [
+		37059.43,
+		32020.99
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

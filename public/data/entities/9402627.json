@@ -1,0 +1,143 @@
+{
+	"name": "Q & M DENTAL CENTRE (JURONG EAST CENTRAL)",
+	"tel": "64250398",
+	"fax": "64251726",
+	"licensee": "Q & M DENTAL SURGERY (JURONG EAST CENTRAL) PTE. LTD.",
+	"licensePeriod": "14/07/2017 to 13/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9402627",
+	"address": "50 JURONG GATEWAY ROAD, JEM, #03-24 Singapore 608549",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng Raymond",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		]
+	},
+	"id": "9402627",
+	"coordinates": [
+		103.7432787,
+		1.3332933
+	],
+	"svy21": [
+		17979.5,
+		35054.5
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

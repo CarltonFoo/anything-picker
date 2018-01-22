@@ -1,0 +1,99 @@
+{
+	"name": "WINSOME MEDICAL & DENTAL CENTER",
+	"tel": "62544568",
+	"fax": "62544568",
+	"licensee": "Sim Tiong Peng",
+	"licensePeriod": "15/08/2015 to 14/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404533",
+	"address": "BLK 81 Whampoa Dr, #01-915 Singapore 320081",
+	"doctorInCharge": [
+		{
+			"name": "Sim Tiong Peng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"FRCS (A&E) (Royal College of Surgeons of Edinburgh, United Kingdom) 1992"
+			],
+			"specialties": [
+				"Emergency Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"15:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"15:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"20:30",
+				"14:30"
+			]
+		],
+		"Friday": [
+			[
+				"20:30",
+				"14:30"
+			]
+		],
+		"Saturday": [
+			[
+				"20:30",
+				"14:30"
+			]
+		]
+	},
+	"id": "9404533",
+	"coordinates": [
+		103.8563264,
+		1.3240043
+	],
+	"svy21": [
+		30560.54,
+		34027.19
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

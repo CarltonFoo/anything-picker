@@ -1,0 +1,99 @@
+{
+	"name": "PINNACLE DENTAL GROUP",
+	"tel": "67572202",
+	"fax": "67572202",
+	"licensee": "SITOH LING",
+	"licensePeriod": "05/12/2014 to 04/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402784",
+	"address": "BLK 927 YISHUN CENTRAL 1, #01-163 Singapore 760927",
+	"doctorInCharge": [
+		{
+			"name": "SITOH LING",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		]
+	},
+	"id": "9402784",
+	"coordinates": [
+		103.8377315,
+		1.4276746
+	],
+	"svy21": [
+		28491.09,
+		45490.53
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

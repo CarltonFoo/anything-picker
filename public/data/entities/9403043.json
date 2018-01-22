@@ -1,0 +1,73 @@
+{
+	"name": "EXXONMOBIL CHEMICAL MANUFACTURING SINGAPORE (A DIVISION OF EXXONMOBIL ASIA PACIFIC PTE. LTD.) (MEDICAL CLINIC)",
+	"tel": "65866696",
+	"fax": "65866075",
+	"licensee": "EXXONMOBIL CHEMICAL MANUFACTURING SINGAPORE",
+	"licensePeriod": "17/07/2015 to 16/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403043",
+	"address": "BLK 100 JURONG ISLAND HIGHWAY, Singapore 627867",
+	"doctorInCharge": [
+		{
+			"name": "NG CHYE KHEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"MSc (OM) (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Occupational Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"07:30",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"07:30",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"07:30",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"07:30",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"07:30",
+				"15:30"
+			]
+		],
+		"Saturday": [],
+		"Sunday": []
+	},
+	"id": "9403043",
+	"coordinates": [
+		103.6984599,
+		1.2690709
+	],
+	"svy21": [
+		12991.25,
+		27953.32
+	],
+	"planningArea": "WI",
+	"neighbours": [
+		"JE"
+	]
+}

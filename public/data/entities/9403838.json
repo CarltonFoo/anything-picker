@@ -1,0 +1,117 @@
+{
+	"name": "KENNETH LOO FAMILY CLINIC",
+	"tel": "62503660",
+	"fax": "63569265",
+	"licensee": "Kenneth Loo Wei Chye",
+	"licensePeriod": "30/12/2014 to 29/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403838",
+	"address": "BLK 152 Bishan St 11, #01-215 Singapore 570152",
+	"doctorInCharge": [
+		{
+			"name": "Kenneth Loo Wei Chye",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"17:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"17:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "9403838",
+	"coordinates": [
+		103.8546417,
+		1.3456628
+	],
+	"svy21": [
+		30373.03,
+		36422.09
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

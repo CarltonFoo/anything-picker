@@ -1,0 +1,92 @@
+{
+	"name": "A ST*R DENTAL SURGERY",
+	"tel": "62629595",
+	"fax": "62629595",
+	"licensee": "Chua Lu Ling Doreen",
+	"licensePeriod": "21/12/2016 to 20/12/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "12C0284",
+	"address": "BLK 25 GHIM MOH LINK, #01-09 Singapore 270025",
+	"doctorInCharge": [
+		{
+			"name": "Chua Lu Ling Doreen",
+			"qualifications": [
+				"BDS (University of Adelaide, Australia) 2004",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Sunday": [
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Public Holiday": [
+			[
+				"00:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "12C0284",
+	"coordinates": [
+		103.7862591,
+		1.3081556
+	],
+	"svy21": [
+		22762.72,
+		32274.77
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

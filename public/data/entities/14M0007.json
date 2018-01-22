@@ -1,0 +1,104 @@
+{
+	"name": "ARDEN ENDOCRINOLOGY SPECIALIST CLINIC PTE LTD",
+	"tel": "63342301",
+	"fax": "63343273",
+	"licensee": "ARDEN ENDOCRINOLOGY SPECIALIST CLINIC PTE. LTD.",
+	"licensePeriod": "13/01/2016 to 12/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0007",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #09-45/46 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Ng Jen Min",
+			"qualifications": [
+				"MB BCh (Queen's University of Belfast, United Kingdom) 2001",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Endocrinology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		]
+	},
+	"id": "14M0007",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

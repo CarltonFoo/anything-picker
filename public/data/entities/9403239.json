@@ -1,0 +1,146 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "67653363",
+	"fax": "67657877",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "01/08/2014 to 31/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403239",
+	"address": "21 CHOA CHU KANG AVE 4, LOT 1 SHOPPERS' MALL, #B1-07A Singapore 689812",
+	"doctorInCharge": [
+		{
+			"name": "Gan Ow Tin",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		]
+	},
+	"id": "9403239",
+	"coordinates": [
+		103.7450118,
+		1.3849746
+	],
+	"svy21": [
+		18172.58,
+		40769.15
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

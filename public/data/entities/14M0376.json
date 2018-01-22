@@ -1,0 +1,77 @@
+{
+	"name": "GUTCARE DIGESTIVE • LIVER • ENDOSCOPY ASSOCIATES",
+	"tel": "63480648",
+	"fax": "63480685",
+	"licensee": "GUTCARE MANAGEMENT",
+	"licensePeriod": "16/12/2016 to 15/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0376",
+	"address": "321 JOO CHIAT PLACE, PARKWAY EAST MEDICAL CENTRE, #04-04 Singapore 427990",
+	"doctorInCharge": [
+		{
+			"name": "Lee Piao Jarrod",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2004"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		]
+	},
+	"id": "14M0376",
+	"coordinates": [
+		103.9087569,
+		1.3150882
+	],
+	"svy21": [
+		36395.56,
+		33041.42
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

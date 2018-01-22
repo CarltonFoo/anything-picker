@@ -1,0 +1,135 @@
+{
+	"name": "Q & M MEDICAL & AESTHETIC CLINIC (FARRER PARK)",
+	"tel": "65099558",
+	"fax": "65099568",
+	"licensee": "Q & M MEDICAL & AESTHETIC CLINIC (FARRER PARK) PTE. LTD.",
+	"licensePeriod": "03/12/2017 to 02/12/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0341",
+	"address": "180 KITCHENER ROAD, CITY SQUARE MALL, #B1-13/14 Singapore 208539",
+	"doctorInCharge": [
+		{
+			"name": "DAELEN D",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		]
+	},
+	"id": "13M0341",
+	"coordinates": [
+		103.8566246,
+		1.3114211
+	],
+	"svy21": [
+		30593.74,
+		32635.82
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

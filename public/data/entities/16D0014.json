@@ -1,0 +1,133 @@
+{
+	"name": "TOOTHSMITH DENTAL SURGERY",
+	"tel": "62821568",
+	"fax": "62252042",
+	"licensee": "TOOTHSMITH DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "17/01/2016 to 16/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0014",
+	"address": "55 UPPER SERANGOON ROAD, POTONG PASIR Nel Station, #01-02 Singapore 347694",
+	"doctorInCharge": [
+		{
+			"name": "Ong Jien Woon Samuel",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			]
+		]
+	},
+	"id": "16D0014",
+	"coordinates": [
+		103.8690557,
+		1.3313795
+	],
+	"svy21": [
+		31977.17,
+		34842.73
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

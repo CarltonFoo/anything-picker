@@ -1,0 +1,97 @@
+{
+	"name": "SINGAPORE TELECOM CLINIC",
+	"tel": "68383881",
+	"fax": "67355572",
+	"licensee": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401516",
+	"address": "31 EXETER ROAD, B2 COMCENTRE, Singapore 239732",
+	"doctorInCharge": [
+		{
+			"name": "Joanne Koay Siew Li",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"02:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"02:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"02:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"02:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"02:30"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
+	},
+	"id": "9401516",
+	"coordinates": [
+		103.8388241,
+		1.2988373
+	],
+	"svy21": [
+		28612.72,
+		31244.35
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

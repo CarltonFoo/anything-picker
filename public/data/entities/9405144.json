@@ -1,0 +1,108 @@
+{
+	"name": "RAFFLESWOMEN'SCENTRE",
+	"tel": "67882288",
+	"fax": "67870663",
+	"licensee": "RAFFLES HOSPITAL PTE LTD",
+	"licensePeriod": "12/01/2016 to 11/01/2021",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405144",
+	"address": "10 TAMPINES CENTRAL 1, TAMPINES ONE, #04-33 Singapore 529536",
+	"doctorInCharge": [
+		{
+			"name": "Wu Zhihui Kenneth",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"21:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		]
+	},
+	"id": "9405144",
+	"coordinates": [
+		103.9450718,
+		1.3542564
+	],
+	"svy21": [
+		40436.86,
+		37372.59
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

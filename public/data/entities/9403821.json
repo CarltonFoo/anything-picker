@@ -1,0 +1,91 @@
+{
+	"name": "SAM KIANG HUAY KWAN CHARITY CLINIC",
+	"tel": "63379753",
+	"fax": "63361885",
+	"licensee": "Sam Kiang Huay Kwan, The",
+	"licensePeriod": "14/10/2017 to 13/10/2019",
+	"licenseClass": "[ 2 Years ( 1B ) ]",
+	"hciCode": "9403821",
+	"address": "NO. 41 WILKIE ROAD, Singapore 228055",
+	"doctorInCharge": [
+		{
+			"name": "Kee Leng Chee",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"00:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"00:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		]
+	},
+	"id": "9403821",
+	"coordinates": [
+		103.8484559,
+		1.3019744
+	],
+	"svy21": [
+		29684.65,
+		31591.24
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

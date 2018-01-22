@@ -1,0 +1,101 @@
+{
+	"name": "LIM CLINIC",
+	"tel": "67426335",
+	"fax": "67427574",
+	"licensee": "Lim Wee Ni",
+	"licensePeriod": "26/12/2017 to 25/12/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0355",
+	"address": "295 CHANGI ROAD, Singapore 419773",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wee Ni",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "13M0355",
+	"coordinates": [
+		103.9071172,
+		1.3181989
+	],
+	"svy21": [
+		36213.07,
+		33385.37
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

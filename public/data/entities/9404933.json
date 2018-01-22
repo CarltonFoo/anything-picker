@@ -1,0 +1,141 @@
+{
+	"name": "CROWN DENTAL SURGERY",
+	"tel": "62808772",
+	"fax": "62808772",
+	"licensee": "CROWN DENTAL@KOVAN PTE. LTD.",
+	"licensePeriod": "12/08/2016 to 11/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404933",
+	"address": "BLK 203 HOUGANG STREET 21, #01-63 Singapore 530203",
+	"doctorInCharge": [
+		{
+			"name": "TANG YICK FAN",
+			"qualifications": [
+				"BDS (University of Birmingham, United Kingdom) 1993",
+				"LDSRCS (Royal College of Surgeons of England, United Kingdom) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		]
+	},
+	"id": "9404933",
+	"coordinates": [
+		103.8844003,
+		1.3581629
+	],
+	"svy21": [
+		33684.8,
+		37804.33
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

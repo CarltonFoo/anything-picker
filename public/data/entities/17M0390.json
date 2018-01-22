@@ -1,0 +1,32 @@
+{
+	"name": "NKF QUEENSTOWN DIALYSIS CENTRE",
+	"tel": "65061778",
+	"fax": "65062138",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "11/12/2017 to 10/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0390",
+	"address": "BLK 55 STRATHMORE AVENUE, #01-145 Singapore 140055",
+	"doctorInCharge": [
+		{
+			"name": "Mooppil Nanda Kumar",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "17M0390"
+}

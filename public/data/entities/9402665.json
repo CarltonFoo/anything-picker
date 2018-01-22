@@ -1,0 +1,105 @@
+{
+	"name": "DR STEVEN ANG AESTHETIC & FAMILY CLINIC",
+	"tel": "64767333",
+	"fax": "64767333",
+	"licensee": "DR STEVEN ANG AESTHETIC & FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "27/06/2015 to 26/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402665",
+	"address": "BLK 75D Redhill Road, #01-112 Singapore 154075",
+	"doctorInCharge": [
+		{
+			"name": "Ang Boon Kiang Steven Gregory",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"M Sc (Derm) (University of London, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"15:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"15:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"15:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"15:30",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"15:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9402665",
+	"coordinates": [
+		103.8157116,
+		1.2884648
+	],
+	"svy21": [
+		26040.49,
+		30097.41
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

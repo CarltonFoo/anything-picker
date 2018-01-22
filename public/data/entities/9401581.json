@@ -1,0 +1,132 @@
+{
+	"name": "T L KOH CLINIC & SURGERY",
+	"tel": "62845075",
+	"fax": "62816358",
+	"licensee": "KOH TANN LONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401581",
+	"address": "BLK 327 HOUGANG AVE 5, #01-178 Singapore 530327",
+	"doctorInCharge": [
+		{
+			"name": "KOH TANN LONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Sunday": [
+			[
+				"18:30",
+				"20:30"
+			]
+		]
+	},
+	"id": "9401581",
+	"coordinates": [
+		103.8959876,
+		1.3683068
+	],
+	"svy21": [
+		34974.31,
+		38926.02
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"name": "ONE SURGICAL CLINIC & SURGERY (EAST)",
+	"tel": "62658561",
+	"fax": "67341439",
+	"licensee": "NKC SURGERY PTE. LTD.",
+	"licensePeriod": "13/12/2017 to 12/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0396",
+	"address": "319 JOO CHIAT PLACE, Parkway East Medical Centre, #02-06 Singapore 427989",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Shin Chuen",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1998",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2006"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "17M0396"
+}

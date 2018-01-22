@@ -1,0 +1,139 @@
+{
+	"name": "KI MEDICAL CLINIC",
+	"tel": "64554475",
+	"fax": "64554475",
+	"licensee": "KI MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0241",
+	"address": "BLK 416 ANG MO KIO AVENUE 10, #01-975 Singapore 560416",
+	"doctorInCharge": [
+		{
+			"name": "Ki Yonghao Alex",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		]
+	},
+	"id": "11C0241",
+	"coordinates": [
+		103.8551037,
+		1.3645417
+	],
+	"svy21": [
+		30424.42,
+		38509.62
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

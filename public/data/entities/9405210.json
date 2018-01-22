@@ -1,0 +1,90 @@
+{
+	"name": "DR MARCO FARIA CORREA PLASTIC SURGERY PTE LTD",
+	"tel": "64648075",
+	"fax": "64649157",
+	"licensee": "MARCO AURELIO MOURA DE FARIA CORREA",
+	"licensePeriod": "31/03/2016 to 30/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405210",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #10-26/27 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "MARCO AURELIO MOURA DE FARIA CORREA",
+			"qualifications": [
+				"Medico (Federal University of Rio Grande do Sul, Brazil) 1978",
+				"TMSBCP (Reconstructive Microsurgery) (Brazilian Society of Reconstructive Microsurgery, Brazil) 1985",
+				"Postgraduate Cert (Gen Surg) (Pontifical Catholic University, Brazil) 1993",
+				"Spec Cert (Plastic Surg) (Brazilian Med Assn & Brazilian Society of Plastic Surgery, Brazil) 1996",
+				"TMSBCP (Plastic Surg) (Brazilian Society of Plastic Surgery, Brazil) 2000"
+			],
+			"specialties": [
+				"Plastic Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Liposuction"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Plastic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
+	},
+	"id": "9405210",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

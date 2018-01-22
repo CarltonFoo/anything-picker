@@ -1,0 +1,76 @@
+{
+	"name": "HARBOUR POINT DENTAL CENTRE BY FDC",
+	"tel": "62718133",
+	"fax": "62718722",
+	"licensee": "HARBOUR DENTAL PTE. LTD.",
+	"licensePeriod": "27/06/2016 to 26/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0114",
+	"address": "1 HARBOURFRONT PLACE, HARBOURFRONT TOWER ONE, #01-02 Singapore 098633",
+	"doctorInCharge": [
+		{
+			"name": "FAISAL BIN ABDUL AZIZ",
+			"qualifications": [
+				"BDS (University of London, United Kingdom) 2014"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"15:00"
+			]
+		]
+	},
+	"id": "12C0114",
+	"coordinates": [
+		103.8191393,
+		1.2647781
+	],
+	"svy21": [
+		26421.95,
+		27478.26
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

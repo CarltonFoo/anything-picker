@@ -1,0 +1,114 @@
+{
+	"name": "PINNACLE DENTAL GROUP EAST CENTRAL DENTAL SURGERY",
+	"tel": "65665689",
+	"fax": "65665689",
+	"licensee": "LOOI KWOK MENG",
+	"licensePeriod": "01/03/2015 to 29/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403917",
+	"address": "BLK 135 Jurong Gateway Road, #02-325 Singapore 600135",
+	"doctorInCharge": [
+		{
+			"name": "LOOI KWOK MENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		]
+	},
+	"id": "9403917",
+	"coordinates": [
+		103.7396769,
+		1.3338254
+	],
+	"svy21": [
+		17578.66,
+		35113.35
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

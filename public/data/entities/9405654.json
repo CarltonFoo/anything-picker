@@ -1,0 +1,78 @@
+{
+	"name": "DR BC NG AESTHETICS",
+	"tel": "64454545",
+	"fax": "63526351",
+	"licensee": "BC MEDICAL PTE. LTD.",
+	"licensePeriod": "26/11/2017 to 25/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405654",
+	"address": "1 Goldhill Plaza, #01-39/41/43 Singapore 308899",
+	"doctorInCharge": [
+		{
+			"name": "Ng Boon Ching",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"01:00",
+				"15:00"
+			]
+		]
+	},
+	"id": "9405654",
+	"coordinates": [
+		103.8428894,
+		1.3178287
+	],
+	"svy21": [
+		29065.14,
+		33344.32
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

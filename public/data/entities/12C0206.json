@@ -1,0 +1,127 @@
+{
+	"name": "KING'S DENTAL SURGERY (KOVAN) PTE LTD",
+	"tel": "62884995",
+	"fax": "62884995",
+	"licensee": "KING'S DENTAL SURGERY (KOVAN) PTE. LTD.",
+	"licensePeriod": "27/09/2016 to 26/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0206",
+	"address": "BLK 204 HOUGANG STREET 21, #01-99 Singapore 530204",
+	"doctorInCharge": [
+		{
+			"name": "SOMU S/O RANGASWAMY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"MClinDent (Prosthodontics) (London) (University of London, United Kingdom) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		]
+	},
+	"id": "12C0206",
+	"coordinates": [
+		103.8849884,
+		1.3588191
+	],
+	"svy21": [
+		33750.26,
+		37876.89
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

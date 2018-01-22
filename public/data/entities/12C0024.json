@@ -1,0 +1,88 @@
+{
+	"name": "TDH THE DENTAL HUB",
+	"tel": "66342535",
+	"fax": "66342535",
+	"licensee": "NDC CONSULTING PTE. LTD.",
+	"licensePeriod": "21/02/2016 to 20/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0024",
+	"address": "21 CHOA CHU KANG NORTH 6, YEW TEE POINT, #B1-24 Singapore 689578",
+	"doctorInCharge": [
+		{
+			"name": "TOH TECK KIONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"21:00"
+			]
+		],
+		"Sunday": [
+			[
+				"00:00",
+				"21:00"
+			]
+		]
+	},
+	"id": "12C0024",
+	"coordinates": [
+		103.7466363,
+		1.397066
+	],
+	"svy21": [
+		18353.42,
+		42106.15
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

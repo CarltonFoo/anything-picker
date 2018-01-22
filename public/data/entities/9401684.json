@@ -1,0 +1,135 @@
+{
+	"name": "THE EDINBURGH CLINIC",
+	"tel": "67634500",
+	"fax": "67634501",
+	"licensee": "TAN TZE LEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401684",
+	"address": "BLK 306 CHOA CHU KANG AVE 4, #01-685 Singapore 680306",
+	"doctorInCharge": [
+		{
+			"name": "TAN TZE LEE",
+			"qualifications": [
+				"MB ChB (University of Edinburgh, United Kingdom) 1987",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1992",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2015",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2016",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2016",
+				"FAMS (Family Medicine) (Academy of Medicine, Singapore) 2017"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": []
+	},
+	"id": "9401684",
+	"coordinates": [
+		103.742878,
+		1.3849567
+	],
+	"svy21": [
+		17935.11,
+		40767.19
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

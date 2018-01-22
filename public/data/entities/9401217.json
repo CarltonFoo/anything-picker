@@ -1,0 +1,79 @@
+{
+	"name": "ONG DENTAL SURGERY  PTE LTD",
+	"tel": "67487730",
+	"fax": "67468646",
+	"licensee": "ONG SENG KOK",
+	"licensePeriod": "17/04/2015 to 16/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401217",
+	"address": "BLK 113 ALJUNIED AVE 2, #01-11 Singapore 380113",
+	"doctorInCharge": [
+		{
+			"name": "ONG SENG KOK",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"01:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"01:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [],
+		"Thursday": [],
+		"Friday": [
+			[
+				"09:00",
+				"01:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "9401217",
+	"coordinates": [
+		103.8861593,
+		1.320526
+	],
+	"svy21": [
+		33880.65,
+		33642.63
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

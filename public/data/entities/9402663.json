@@ -1,0 +1,138 @@
+{
+	"name": "CASHEW MEDICAL & SURGERY",
+	"tel": "67634255",
+	"fax": "67630802",
+	"licensee": "YAP SIONG YEW",
+	"licensePeriod": "29/06/2014 to 28/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402663",
+	"address": "BLK 445 FAJAR RD, FAJAR SHOPPING CENTRE, #02-522 Singapore 670445",
+	"doctorInCharge": [
+		{
+			"name": "YAP SIONG YEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		]
+	},
+	"id": "9402663",
+	"coordinates": [
+		103.7707683,
+		1.3835804
+	],
+	"svy21": [
+		21038.95,
+		40614.9
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

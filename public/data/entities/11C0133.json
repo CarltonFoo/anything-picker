@@ -1,0 +1,94 @@
+{
+	"name": "TAMPINES-HO DENTAL SURGERY",
+	"tel": "67861820",
+	"fax": "67861820",
+	"licensee": "TAMPINES-HO DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "26/08/2015 to 25/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0133",
+	"address": "BLK 801 TAMPINES AVENUE 4, #01-275 Singapore 520801",
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "11C0133",
+	"coordinates": [
+		103.938014,
+		1.3471923
+	],
+	"svy21": [
+		39651.45,
+		36591.45
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

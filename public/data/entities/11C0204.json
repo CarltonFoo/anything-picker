@@ -1,0 +1,69 @@
+{
+	"name": "SMILES R US DENTAL",
+	"tel": "63634556",
+	"fax": "63383791",
+	"licensee": "ALISON DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "16/11/2017 to 15/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0204",
+	"address": "BLK 768 WOODLANDS AVENUE 6, WOODLANDS MART, #02-06 Singapore 730768",
+	"doctorInCharge": [
+		{
+			"name": "Luo Wenyuan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		]
+	},
+	"id": "11C0204",
+	"coordinates": [
+		103.798141,
+		1.4456229
+	],
+	"svy21": [
+		24085.29,
+		47475.18
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

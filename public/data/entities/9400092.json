@@ -1,0 +1,119 @@
+{
+	"name": "BABY & CHILD MEDICAL GROUP PTE LTD",
+	"tel": "67831955",
+	"fax": "67834028",
+	"licensee": "LOKE HING LENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400092",
+	"address": "BLK 828 TAMPINES ST 81, #01-238 Singapore 520828",
+	"doctorInCharge": [
+		{
+			"name": "LOKE HING LENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"M Med (Paed) (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"02:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9400092",
+	"coordinates": [
+		103.9345881,
+		1.3489308
+	],
+	"svy21": [
+		39270.18,
+		36783.67
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

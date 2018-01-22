@@ -1,0 +1,101 @@
+{
+	"name": "YISHUN CENTRAL CLINIC",
+	"tel": "67536338",
+	"fax": "67536082",
+	"licensee": "TAN KEOK KUAN DAVID",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401951",
+	"address": "BLK 935 YISHUN CENTRAL 1, #01-47 Singapore 760935",
+	"doctorInCharge": [
+		{
+			"name": "TAN KEOK KUAN DAVID",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Sunday": []
+	},
+	"id": "9401951",
+	"coordinates": [
+		103.8365963,
+		1.4251801
+	],
+	"svy21": [
+		28364.76,
+		45214.69
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

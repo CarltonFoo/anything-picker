@@ -1,0 +1,125 @@
+{
+	"name": "Q & M DENTAL CENTRE (RAFFLES PLACE) PTE LTD",
+	"tel": "62253033",
+	"fax": "65365378",
+	"licensee": "Q & M Dental Centre (Raffles Place) Pte Ltd",
+	"licensePeriod": "04/04/2017 to 03/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0078",
+	"address": "20 MALACCA STREET, MALACCA CENTRE, #01-00 Singapore 048979",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		]
+	},
+	"id": "13C0078",
+	"coordinates": [
+		103.8507116,
+		1.2839423
+	],
+	"svy21": [
+		29935.7,
+		29597.34
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

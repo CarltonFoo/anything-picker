@@ -1,0 +1,99 @@
+{
+	"name": "ADVENT DENTAL SURGERY PTE. LTD.",
+	"tel": "66596778",
+	"fax": "66843297",
+	"licensee": "ADVENT DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "22/04/2017 to 21/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0111",
+	"address": "BLK 530A JURONG WEST AVENUE 1, ##01-907 Singapore 641530",
+	"doctorInCharge": [
+		{
+			"name": "Leng Lian Shin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [],
+		"Public Holiday": [],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "15D0111",
+	"coordinates": [
+		103.7156911,
+		1.3479362
+	],
+	"svy21": [
+		14909.36,
+		36673.77
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

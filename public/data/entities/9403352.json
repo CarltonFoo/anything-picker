@@ -1,0 +1,69 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68840735",
+	"fax": "68840735",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "21/05/2015 to 20/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403352",
+	"address": "BLK 31 WOODLANDS CRESCENT, Singapore 737916",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		]
+	},
+	"id": "9403352",
+	"coordinates": [
+		103.8023982,
+		1.4458907
+	],
+	"svy21": [
+		24559.05,
+		47504.79
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

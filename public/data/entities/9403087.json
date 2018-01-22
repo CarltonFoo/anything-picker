@@ -1,0 +1,103 @@
+{
+	"name": "H.S. CHAN SURGERY",
+	"tel": "67334111",
+	"fax": "67334222",
+	"licensee": "CHAN HSIANG SUI",
+	"licensePeriod": "13/11/2013 to 12/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403087",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #03-01 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "CHAN HSIANG SUI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1991",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "9403087",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

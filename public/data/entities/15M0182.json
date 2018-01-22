@@ -1,0 +1,126 @@
+{
+	"name": "SENNETT MEDICAL CLINIC",
+	"tel": "62800670",
+	"fax": "62803206",
+	"licensee": "PARKVILLE PTE. LTD.",
+	"licensePeriod": "11/06/2017 to 10/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0182",
+	"address": "55 SIGLAP ROAD, SIGLAP CENTRE, ##B1-10 Singapore 455871",
+	"doctorInCharge": [
+		{
+			"name": "Wilson EU Tieng Juoh",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1991",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"18:00",
+				"21:30"
+			]
+		],
+		"Sunday": [
+			[
+				"18:00",
+				"21:30"
+			]
+		]
+	},
+	"id": "15M0182",
+	"coordinates": [
+		103.9231856,
+		1.3126042
+	],
+	"svy21": [
+		38001.35,
+		32766.8
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

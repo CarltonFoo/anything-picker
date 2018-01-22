@@ -1,0 +1,125 @@
+{
+	"name": "CENTRAL [ CLINIC + SURGERY ] MARINE PARADE",
+	"tel": "63466277",
+	"fax": "63467885",
+	"licensee": "LifeCare Medical Services Pte. Ltd.",
+	"licensePeriod": "02/08/2017 to 01/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0195",
+	"address": "BLK 81 MARINE PARADE CENTRAL, #01-630 Singapore 440081",
+	"doctorInCharge": [
+		{
+			"name": "Ooi Kok-Wei",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		]
+	},
+	"id": "13C0195",
+	"coordinates": [
+		103.9070732,
+		1.3026413
+	],
+	"svy21": [
+		36208.23,
+		31665.09
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

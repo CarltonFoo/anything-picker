@@ -1,0 +1,77 @@
+{
+	"name": "LIFE DENTAL SURGERY",
+	"tel": "64552522",
+	"fax": "64561630",
+	"licensee": "CHIA LIANG CHIANG",
+	"licensePeriod": "29/09/2014 to 28/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402729",
+	"address": "BLK 713 ANG MO KIO AVE 6, #01-4052 Singapore 560713",
+	"doctorInCharge": [
+		{
+			"name": "CHIA LIANG CHIANG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		]
+	},
+	"id": "9402729",
+	"coordinates": [
+		103.8465163,
+		1.3714581
+	],
+	"svy21": [
+		29468.75,
+		39274.39
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

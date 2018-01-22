@@ -1,0 +1,97 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "63235212",
+	"fax": "63235230",
+	"licensee": "Raffles Medical Group Ltd",
+	"licensePeriod": "25/06/2017 to 24/06/2019",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9404478",
+	"address": "168 ROBINSON ROAD, CAPITAL TOWER, #02-02 Singapore 068912",
+	"doctorInCharge": [
+		{
+			"name": "Tay Kian Wei",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		]
+	},
+	"id": "9404478",
+	"coordinates": [
+		103.8475716,
+		1.2776288
+	],
+	"svy21": [
+		29586.24,
+		28899.22
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

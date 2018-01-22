@@ -1,0 +1,84 @@
+{
+	"name": "ADVANCED SPINE AND BACK PAIN CENTER",
+	"tel": "68354325",
+	"fax": "68354326",
+	"licensee": "SINGAPORE BRAIN SPINE NERVES CENTER PTE. LTD.",
+	"licensePeriod": "28/11/2016 to 27/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0258",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #07-35 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "PREMKUMAR KANDASAMY PILLAY",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1985",
+				"FRCS (Neurosurgery) (Royal College of Surgeons, Canada) 1994"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Neurosurgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "12C0258",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"name": "WEST COAST DENTAL CLINIC PTE LTD",
+	"tel": "67759868",
+	"fax": "67759862",
+	"licensee": "WEST COAST DENTAL CLINIC PTE. LTD.",
+	"licensePeriod": "08/07/2017 to 07/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405063",
+	"address": "154 WEST COAST ROAD, WEST COAST PLAZA, #02-14/15 Singapore 127371",
+	"doctorInCharge": [
+		{
+			"name": "Lim Hock Meng Arthur",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"19:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"19:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"19:30"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"19:30"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"19:30"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		]
+	},
+	"id": "9405063",
+	"coordinates": [
+		103.7661313,
+		1.3036975
+	],
+	"svy21": [
+		20522.67,
+		31781.87
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

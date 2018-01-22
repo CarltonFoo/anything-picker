@@ -1,0 +1,84 @@
+{
+	"name": "ORCHARD MEDICAL CENTRE",
+	"tel": "63165282",
+	"fax": "62351543",
+	"licensee": "ORCHARD MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "23/01/2017 to 22/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405794",
+	"address": "91 BUKIT BATOK WEST AVENUE 2, CLUB CSC @ BUKIT BATOK, #05-02 Singapore 659206",
+	"doctorInCharge": [
+		{
+			"name": "TJANG TJUNG FA",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"01:00",
+				"19:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"01:00",
+				"19:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"01:00",
+				"19:30"
+			]
+		],
+		"Thursday": [
+			[
+				"01:00",
+				"19:30"
+			]
+		],
+		"Friday": [
+			[
+				"01:00",
+				"19:30"
+			]
+		],
+		"Saturday": [
+			[
+				"01:00",
+				"17:00"
+			]
+		],
+		"Sunday": [
+			[
+				"01:00",
+				"17:00"
+			]
+		]
+	},
+	"id": "9405794",
+	"coordinates": [
+		103.7493759,
+		1.3526196
+	],
+	"svy21": [
+		18658.13,
+		37191.48
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

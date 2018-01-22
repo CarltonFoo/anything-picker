@@ -1,0 +1,134 @@
+{
+	"name": "CHEONG CHEST & MEDICAL CLINIC",
+	"tel": "67343808",
+	"fax": "67349118",
+	"licensee": "CHEONG TUCK HONG",
+	"licensePeriod": "19/11/2013 to 18/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403692",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #10-08 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "CHEONG TUCK HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1986",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1987",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Internal Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"08:30",
+				"13:00"
+			]
+		]
+	},
+	"id": "9403692",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

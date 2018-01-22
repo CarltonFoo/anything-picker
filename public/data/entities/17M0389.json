@@ -1,0 +1,25 @@
+{
+	"name": "UROHEALTH MEDICAL CLINIC",
+	"tel": "68733800",
+	"fax": "68733100",
+	"licensee": "UROHEALTH PTE. LTD.",
+	"licensePeriod": "07/12/2017 to 06/12/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0389",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #05-26 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Tan Yung Khan",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2000"
+			],
+			"specialties": [
+				"Urology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": true
+	},
+	"id": "17M0389"
+}

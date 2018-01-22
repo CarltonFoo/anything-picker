@@ -1,0 +1,85 @@
+{
+	"name": "THONG HOE DENTAL SURGERY PTE LTD",
+	"tel": "65653233",
+	"fax": "65653233",
+	"licensee": "THONG HOE DENTAL SURGERY PTE LTD",
+	"licensePeriod": "13/12/2017 to 12/12/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "13C0350",
+	"address": "BLK 153 BUKIT BATOK ST 11, #01-288 Singapore 650153",
+	"doctorInCharge": [
+		{
+			"name": "SNG TIAP CHING MATTHEW",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		]
+	},
+	"id": "13C0350",
+	"coordinates": [
+		103.7442765,
+		1.3474795
+	],
+	"svy21": [
+		18090.6,
+		36623.13
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

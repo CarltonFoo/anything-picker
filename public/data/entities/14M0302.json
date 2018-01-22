@@ -1,0 +1,84 @@
+{
+	"name": "VIVIEN LIM ENDOCRINOLOGY SPECIALIST CENTRE",
+	"tel": "64711928",
+	"fax": "64713926",
+	"licensee": "VIVIEN LIM ENDOCRINOLOGY SPECIALIST CENTRE PTE. LTD.",
+	"licensePeriod": "07/10/2016 to 06/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0302",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-17/18 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Vivien Lim",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2002",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Endocrinology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "14M0302",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

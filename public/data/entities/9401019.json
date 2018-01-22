@@ -1,0 +1,85 @@
+{
+	"name": "LUA CLINIC & SURGERY",
+	"tel": "67450722",
+	"fax": "67450722",
+	"licensee": "LUA CHEONG TIONG",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401019",
+	"address": "BLK 350 UBI AVE 1, #01-941 Singapore 400350",
+	"doctorInCharge": [
+		{
+			"name": "LUA CHEONG TIONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"Dip Acup (Singapore College of Traditional Chinese Medicine, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9401019",
+	"coordinates": [
+		103.9012924,
+		1.3258041
+	],
+	"svy21": [
+		35564.8,
+		34226.3
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

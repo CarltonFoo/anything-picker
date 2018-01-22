@@ -1,0 +1,97 @@
+{
+	"name": "ESTEE MEDICAL CENTRE PTE LTD",
+	"tel": "67881832",
+	"fax": "67885857",
+	"licensee": "LEE SEONG TUCK",
+	"licensePeriod": "01/01/2018 to 31/12/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400485",
+	"address": "BLK 474 TAMPINES ST 43, #01-120 Singapore 520474",
+	"doctorInCharge": [
+		{
+			"name": "LEE SEONG TUCK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"M Med (O&G) (National University of Singapore, Singapore) 1986",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:30",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:30",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:30",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": []
+	},
+	"id": "9400485",
+	"coordinates": [
+		103.9527876,
+		1.359873
+	],
+	"svy21": [
+		41295.52,
+		37993.69
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

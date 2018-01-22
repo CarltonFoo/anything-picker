@@ -1,0 +1,114 @@
+{
+	"name": "COVENANT DENTAL SURGERY",
+	"tel": "64732168",
+	"fax": "64744510",
+	"licensee": "THAM WAI MENG JAMES",
+	"licensePeriod": "04/01/2015 to 03/01/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9402403",
+	"address": "BLK 154 MEI LING ST, #01-46 Singapore 140154",
+	"doctorInCharge": [
+		{
+			"name": "THAM WAI MENG JAMES",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:30",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9402403",
+	"coordinates": [
+		103.8037425,
+		1.2936149
+	],
+	"svy21": [
+		24708.44,
+		30666.91
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"name": "FAR EAST MEDICAL PRACTITIONERS PTE LTD",
+	"tel": "67344696",
+	"fax": "67338765",
+	"licensee": "RAMESH SADASIVAN",
+	"licensePeriod": "14/05/2017 to 13/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400530",
+	"address": "545 ORCHARD ROAD, FAR EAST SHOPPING CENTRE, #06-07 Singapore 238882",
+	"doctorInCharge": [
+		{
+			"name": "RAMESH SADASIVAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1994",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
+	},
+	"id": "9400530",
+	"coordinates": [
+		103.8299848,
+		1.3055061
+	],
+	"svy21": [
+		27628.98,
+		31981.75
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

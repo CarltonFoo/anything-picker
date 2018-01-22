@@ -1,0 +1,103 @@
+{
+	"name": "UNITY DENTAL SURGERY",
+	"tel": "67463373",
+	"fax": "67463373",
+	"licensee": "LIM GEOK HWA",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401812",
+	"address": "BLK 410 EUNOS ROAD 5, #01-138 Singapore 400410",
+	"doctorInCharge": [
+		{
+			"name": "LIM GEOK HWA",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"19:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"21:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"21:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "9401812",
+	"coordinates": [
+		103.8998522,
+		1.3184404
+	],
+	"svy21": [
+		35404.54,
+		33412.06
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

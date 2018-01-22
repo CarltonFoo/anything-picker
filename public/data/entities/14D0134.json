@@ -1,0 +1,83 @@
+{
+	"name": "T32 DENTAL PEARL AT BEDOK PTE LTD",
+	"tel": "65132173",
+	"fax": "67338100",
+	"licensee": "T32 DENTAL PEARL AT BEDOK PTE. LTD.",
+	"licensePeriod": "23/05/2016 to 22/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0134",
+	"address": "BLK 208 NEW UPPER CHANGI ROAD, #01-661 Singapore 460208",
+	"doctorInCharge": [
+		{
+			"name": "Chin Shou King",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "14D0134",
+	"coordinates": [
+		103.9310746,
+		1.3256997
+	],
+	"svy21": [
+		38879.27,
+		34214.87
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}
