@@ -1,0 +1,107 @@
+{
+	"name": "ORTHOPAEDIC CLINIC",
+	"tel": "67342244",
+	"fax": "67331485",
+	"licensee": "Lee Yew Chung Peter",
+	"licensePeriod": "17/07/2017 to 16/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405333",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #05-07 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Lee Yew Chung Peter",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1986",
+				"MCh (Orth Surg) (University of Liverpool, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"17:00"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "9405333",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

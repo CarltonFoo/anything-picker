@@ -3,17 +3,15 @@
 	"tel": "62352629",
 	"fax": "62259382",
 	"licensee": "AA DENTAL SURGERY PTE. LTD.",
-	"licensePeriod": "23/12/2017 to 22/12/2019",
+	"licensePeriod": "23/12/2015 to 22/12/2017",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15D0434",
 	"address": "240 RIVER VALLEY ROAD, Singapore 238297",
 	"doctorInCharge": [
 		{
-			"name": "Chye Chuan Hee",
+			"name": "Nurul Aizat Bin Zainudin",
 			"qualifications": [
-				"BDS (National University of Singapore, Singapore) 2005",
-				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2009",
-				"MPH (Singapore) (National University of Singapore, Singapore) 2015"
+				"BDS (National University of Singapore, Singapore) 2010"
 			],
 			"specialties": []
 		}
@@ -22,42 +20,12 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"00:00",
-				"20:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"00:00",
-				"20:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"00:00",
-				"20:00"
-			]
-		],
-		"Thursday": [
-			[
-				"00:00",
-				"20:00"
-			]
-		],
-		"Friday": [
-			[
-				"00:00",
-				"20:00"
-			]
-		],
-		"Saturday": [
-			[
-				"00:00",
-				"15:00"
-			]
-		]
+		"Monday": "10:00 am to 08:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 03:00 pm"
 	},
 	"id": "15D0434",
 	"coordinates": [

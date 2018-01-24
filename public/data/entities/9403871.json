@@ -20,8 +20,8 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Sunday": [],
-		"Public Holiday": []
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9403871",
 	"coordinates": [

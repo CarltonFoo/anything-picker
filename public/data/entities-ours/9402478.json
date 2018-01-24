@@ -1,0 +1,139 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "62547667",
+	"fax": "62542932",
+	"licensee": "Raffles Medical Group Ltd",
+	"licensePeriod": "06/10/2014 to 05/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402478",
+	"address": "BLK 177 Toa Payoh Central, #01-170 Singapore 310177",
+	"doctorInCharge": [
+		{
+			"name": "Sonia Haridas",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1990",
+				"MRCGP (Royal College of General Practitioners, United Kingdom) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
+	},
+	"id": "9402478",
+	"coordinates": [
+		103.8488548,
+		1.3339003
+	],
+	"svy21": [
+		29729.02,
+		35121.44
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

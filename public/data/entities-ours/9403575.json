@@ -1,0 +1,100 @@
+{
+	"name": "KAI MEDICAL CLINIC",
+	"tel": "67891112",
+	"fax": "67895717",
+	"licensee": "Tan Kai Peng",
+	"licensePeriod": "20/04/2014 to 19/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403575",
+	"address": "5 Tampines Street 32, Tampines Mart, #02-05 Singapore 529284",
+	"doctorInCharge": [
+		{
+			"name": "Tan Kai Peng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Thursday": [
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Sunday": []
+	},
+	"id": "9403575",
+	"coordinates": [
+		103.9600422,
+		1.3543649
+	],
+	"svy21": [
+		42102.9,
+		37384.68
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

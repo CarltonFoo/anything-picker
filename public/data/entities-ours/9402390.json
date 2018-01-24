@@ -1,0 +1,114 @@
+{
+	"name": "PEACE FAMILY CLINIC",
+	"tel": "62690466",
+	"fax": "63656597",
+	"licensee": "OW DAVID",
+	"licensePeriod": "31/10/2014 to 30/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402390",
+	"address": "BLK 371 WOODLANDS AVE 1, #01-821 Singapore 730371",
+	"doctorInCharge": [
+		{
+			"name": "OW DAVID",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"06:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"06:30",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"01:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"18:30",
+				"21:00"
+			]
+		]
+	},
+	"id": "9402390",
+	"coordinates": [
+		103.7867144,
+		1.4322823
+	],
+	"svy21": [
+		22813.66,
+		46000.06
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,106 @@
+{
+	"name": "DR GARY'S FAMILY CLINIC",
+	"tel": "68039375",
+	"licensee": "Gary Keong Kean Seng",
+	"licensePeriod": "02/04/2016 to 01/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0086",
+	"address": "BLK 77 INDUS ROAD, INDUS GARDEN, #01-523 Singapore 160077",
+	"doctorInCharge": [
+		{
+			"name": "Gary Keong Kean Seng",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1994",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:30"
+			],
+			[
+				"16:00",
+				"19:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:30"
+			],
+			[
+				"16:00",
+				"19:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:30"
+			],
+			[
+				"16:00",
+				"19:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:30"
+			],
+			[
+				"16:00",
+				"19:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:30"
+			],
+			[
+				"16:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "16M0086",
+	"coordinates": [
+		103.8267645,
+		1.2911348
+	],
+	"svy21": [
+		27270.58,
+		30392.65
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

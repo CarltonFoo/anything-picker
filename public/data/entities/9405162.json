@@ -13,9 +13,7 @@
 			"qualifications": [
 				"MBBS (National University of Singapore, Singapore) 2005"
 			],
-			"specialties": [
-				"Family Physician"
-			]
+			"specialties": []
 		}
 	],
 	"detailedServices": {
@@ -27,60 +25,14 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"15:00"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"15:00"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"15:00"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"15:00"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"15:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"13:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 03:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9405162",
 	"coordinates": [

@@ -1,0 +1,104 @@
+{
+	"name": "NEUROLOGICAL SURGERY PTE LTD",
+	"tel": "67341380",
+	"fax": "67333558",
+	"licensee": "JAMES KHOO CHEE MIN @ JIMMY KHOO",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401170",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #10-10 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "JAMES KHOO CHEE MIN @ JIMMY KHOO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969",
+				"FRACS (Neurosurgery) (Royal Australasian College of Surgeons, Australia) 1974",
+				"FAMS (Neurosurgery) (Academy of Medicine, Singapore) 1976",
+				"MD (Neurosurgery) (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Neurosurgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"21:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "9401170",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

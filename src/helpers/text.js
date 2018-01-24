@@ -23,9 +23,6 @@ export function synonym (token, replacement, ...patterns) {
   return token
 }
 
-// synonym(str, '{replacement}', '{wrong}')
-// .map(str => )
-
 export function acronym (token, ...patterns) {
   for (let pattern of patterns) {
     token = token.replace(pattern, match => match.toUpperCase())

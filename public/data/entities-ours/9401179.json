@@ -1,0 +1,120 @@
+{
+	"name": "NEWLIFE FAMILY CLINIC & SURGERY",
+	"tel": "65663770",
+	"fax": "65663770",
+	"licensee": "NEWLIFE FAMILY CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "08/06/2014 to 07/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401179",
+	"address": "BLK 61 TEBAN GARDENS ROAD, #01-20 Singapore 600061",
+	"doctorInCharge": [
+		{
+			"name": "JULIAN LIM LEE KIANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1996",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:30",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:30",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:30",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "9401179",
+	"coordinates": [
+		103.7382928,
+		1.3221364
+	],
+	"svy21": [
+		17424.57,
+		33820.84
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

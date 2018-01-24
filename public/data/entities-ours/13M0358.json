@@ -1,0 +1,103 @@
+{
+	"name": "BOYS' HOME MEDICAL CLINIC II",
+	"tel": "62277777",
+	"fax": "62253735",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "27/12/2017 to 26/12/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0358",
+	"address": "32 JURONG WEST STREET 24, Singapore 649697",
+	"doctorInCharge": [
+		{
+			"name": "Si Hoe Sing Yin",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1963"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"07:00",
+				"15:30"
+			],
+			[
+				"14:30",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"07:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"07:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "13M0358",
+	"coordinates": [
+		103.7076347,
+		1.349798
+	],
+	"svy21": [
+		14012.78,
+		36879.68
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

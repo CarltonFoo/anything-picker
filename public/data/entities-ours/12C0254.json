@@ -1,0 +1,129 @@
+{
+	"name": "EVERCARE MEDICAL CLINIC (475) PTE LTD",
+	"tel": "67666465",
+	"fax": "67690767",
+	"licensee": "EVERCARE MEDICAL CLINIC (475) PTE. LTD.",
+	"licensePeriod": "24/01/2017 to 23/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0254",
+	"address": "BLK 475 CHOA CHU KANG AVE 3, SUNSHINE PLACE, #02-02 Singapore 680475",
+	"doctorInCharge": [
+		{
+			"name": "Chui Peng Lum",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"02:00"
+			]
+		]
+	},
+	"id": "12C0254",
+	"coordinates": [
+		103.7390155,
+		1.3778973
+	],
+	"svy21": [
+		17505.24,
+		39986.6
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

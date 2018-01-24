@@ -3,8 +3,8 @@
 	"tel": "67693766",
 	"fax": "67693766",
 	"licensee": "PHAN OI PENG",
-	"licensePeriod": "01/01/2018 to 31/12/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "9401728",
 	"address": "BLK 145 TECK WHYE AVE, #01-161 Singapore 680145",
 	"doctorInCharge": [
@@ -27,56 +27,11 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"09:30",
-				"02:30"
-			],
-			[
-				"14:30",
-				"16:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:30",
-				"02:30"
-			],
-			[
-				"14:30",
-				"16:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:30",
-				"02:30"
-			],
-			[
-				"14:30",
-				"16:30"
-			]
-		],
-		"Thursday": [
-			[
-				"09:30",
-				"02:30"
-			],
-			[
-				"14:30",
-				"16:30"
-			]
-		],
-		"Friday": [
-			[
-				"09:30",
-				"02:30"
-			],
-			[
-				"14:30",
-				"16:30"
-			]
-		]
+		"Monday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
+		"Tuesday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
+		"Wednesday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
+		"Thursday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
+		"Friday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm"
 	},
 	"id": "9401728",
 	"coordinates": [

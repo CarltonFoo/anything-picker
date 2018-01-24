@@ -27,8 +27,12 @@ module.exports = {
       }
     }, {
       test: /\.js$/,
+      exclude: /node_modules/,
       loader: 'babel-loader',
-      exclude: /node_modules/
+      options: {
+        babelrc: false,
+        extends: path.join(__dirname, 'src/components/.babelrc')
+      }
     }, {
       test: /\.styl$/,
       use: ExtractTextPlugin.extract({
@@ -44,8 +48,8 @@ module.exports = {
     new webpack.NamedModulesPlugin(),
     new webpack.DefinePlugin({
       'process.env': {
-        VERSION: JSON.stringify(process.env.VERSION),
-        NODE_ENV: JSON.stringify('development')
+        NODE_ENV: JSON.stringify('development'),
+        VERSION: JSON.stringify('clinic')
       }
     })
   ],

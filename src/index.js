@@ -12,23 +12,16 @@ Quasar.theme.set('mat')
 Platform.has.popstate = false
 Vue.use(Quasar)
 
-console.log('APP VERSION:', process.env.VERSION || 'primary')
+console.log('APP VERSION:', process.env.VERSION)
 
 let storeUpdated = false
 
-// default page changed from /intro to /explore
 router.beforeEach((to, from, next) => {
   if (storeUpdated) {
     storeUpdated = false
     next()
   } else {
-    store.dispatch('importOptions', to.query).then(() => {
-      if (to.path !== '/explore' && !store.state.schoolLevel.selected) {
-        next({path: '/explore'})
-      } else {
-        next()
-      }
-    })
+    store.dispatch('importOptions', to.query).then(() => next())
   }
 })
 
@@ -55,7 +48,7 @@ router.replace = function (...args) {
 }
 
 Loading.show()
-store.dispatch('fetchSchoolList').then(schoolList => {
+store.dispatch('fetchEntityList').then(entityList => {
   Loading.hide()
   window.vm = new Vue({
     el: '#app',

@@ -1,0 +1,105 @@
+{
+	"name": "FOCAL EYE CENTRE",
+	"tel": "63398936",
+	"fax": "66352225",
+	"licensee": "FOCAL EYE CENTRE PTE. LTD.",
+	"licensePeriod": "31/10/2016 to 30/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0327",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #10-21/39/40 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Zena Lim",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2004",
+				"M Med (Ophth) (National University of Singapore, Singapore) 2004",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 2008"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
+	},
+	"id": "14M0327",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

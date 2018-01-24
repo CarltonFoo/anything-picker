@@ -1,0 +1,117 @@
+{
+	"name": "MINDCHAMPS MEDICAL CLINIC",
+	"tel": "63845644",
+	"fax": "63845604",
+	"licensee": "MindChamps Medical @ One KM Pte. Limited",
+	"licensePeriod": "28/09/2017 to 27/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0327",
+	"address": "11 TANJONG KATONG ROAD, ONE KM, #02-03 Singapore 437157",
+	"doctorInCharge": [
+		{
+			"name": "Sung Jeng Huang John",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"19:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"19:00"
+			]
+		],
+		"Sunday": [
+			[
+				"00:00",
+				"14:00"
+			],
+			[
+				"15:00",
+				"19:00"
+			]
+		]
+	},
+	"id": "15M0327",
+	"coordinates": [
+		103.894738,
+		1.3146185
+	],
+	"svy21": [
+		34835.39,
+		32989.44
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

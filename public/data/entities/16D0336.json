@@ -9,59 +9,15 @@
 	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #02-105 Singapore 238863",
 	"doctorInCharge": [
 		{
-			"name": "Hong Pooi Mun",
+			"name": "Ang Kiam Hau Steven",
 			"qualifications": [
-				"BDS (National University of Singapore, Singapore) 2005",
-				"MDS (Oral & Maxillofacial Surgery) (Singapore) (National University of Singapore, Singapore) 2011",
-				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 2014"
+				"BDS (University of Birmingham, United Kingdom) 1996"
 			],
-			"specialties": [
-				"Oral & Maxillo-Facial Surgery"
-			]
+			"specialties": []
 		}
 	],
 	"detailedServices": {
 		"General Dental": true
-	},
-	"operatingHours": {
-		"Monday": [
-			[
-				"09:00",
-				"21:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:00",
-				"21:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:00",
-				"18:00"
-			]
-		],
-		"Thursday": [
-			[
-				"09:00",
-				"18:00"
-			]
-		],
-		"Friday": [
-			[
-				"09:00",
-				"18:00"
-			]
-		],
-		"Saturday": [
-			[
-				"09:00",
-				"16:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
 	},
 	"id": "16D0336",
 	"coordinates": [

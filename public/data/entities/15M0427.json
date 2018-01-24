@@ -3,17 +3,19 @@
 	"tel": "68603124",
 	"fax": "68603110",
 	"licensee": "INTEGRATED HEALTH PLANS PTE LTD",
-	"licensePeriod": "01/01/2018 to 31/12/2019",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15M0427",
 	"address": "459 JALAN AHMAD IBRAHIM, Singapore 639934",
 	"doctorInCharge": [
 		{
-			"name": "Mohamed Faizal Bin Abdul Wahid",
+			"name": "TAN AIK LIM CALVIN",
 			"qualifications": [
-				"MBBS (University of London, United Kingdom) 2002"
+				"MB ChB (University of Bristol, United Kingdom) 1991"
 			],
-			"specialties": []
+			"specialties": [
+				"Family Physician"
+			]
 		}
 	],
 	"detailedServices": {

@@ -1,0 +1,144 @@
+{
+	"name": "LILY AW PASIR RIS FAMILY CLINIC & SURGERY",
+	"tel": "65822122",
+	"fax": "65842378",
+	"licensee": "AW LEE FHOON @ LILY AW",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400965",
+	"address": "BLK 446 PASIR RIS DR 6, #01-116 Singapore 510446",
+	"doctorInCharge": [
+		{
+			"name": "AW LEE FHOON @ LILY AW",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2001",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2002",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2006",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Public Holiday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
+	},
+	"id": "9400965",
+	"coordinates": [
+		103.9577269,
+		1.3703062
+	],
+	"svy21": [
+		41845.14,
+		39147.37
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"name": "LOOI SURGERY PTE LTD",
+	"tel": "62980252",
+	"fax": "62962392",
+	"licensee": "Looi Cheng Sin Robert",
+	"licensePeriod": "17/09/2014 to 16/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401007",
+	"address": "BLK 102 TOWNER ROAD, #01-254 Singapore 322102",
+	"doctorInCharge": [
+		{
+			"name": "Lui Eng Oi @ Looi Eng Wooi",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1971",
+				"MRCP (Int Med) (Royal College of Physicians, Ireland) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "9401007",
+	"coordinates": [
+		103.862002,
+		1.3205861
+	],
+	"svy21": [
+		31192.18,
+		33649.24
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

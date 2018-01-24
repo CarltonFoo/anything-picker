@@ -3,8 +3,8 @@
 	"tel": "67458624",
 	"fax": "67450335",
 	"licensee": "MOHAMED TAHIR BIN AHMAD",
-	"licensePeriod": "01/01/2018 to 31/12/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9400329",
 	"address": "BLK 1A EUNOS CRESCENT, #01-2473 Singapore 401001",
 	"doctorInCharge": [
@@ -27,69 +27,14 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Saturday": [
-			[
-				"09:00",
-				"14:00"
-			]
-		],
-		"Sunday": [
-			[
-				"09:00",
-				"14:00"
-			]
-		]
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
 	},
 	"id": "9400329",
 	"coordinates": [

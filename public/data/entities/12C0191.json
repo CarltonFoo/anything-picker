@@ -25,12 +25,7 @@
 		]
 	},
 	"operatingHours": {
-		"Saturday": [
-			[
-				"09:00",
-				"13:00"
-			]
-		]
+		"Saturday": "09:00 am to 01:00 pm"
 	},
 	"id": "12C0191",
 	"coordinates": [

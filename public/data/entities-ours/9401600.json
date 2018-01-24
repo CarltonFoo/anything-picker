@@ -1,0 +1,122 @@
+{
+	"name": "TAN & KOH CLINIC SURGERY",
+	"tel": "65658282",
+	"fax": "65675225",
+	"licensee": "TAN EE PENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401600",
+	"address": "BLK 374 BT BATOK WEST AVE 5 ST 31, #01-206 Singapore 650374",
+	"doctorInCharge": [
+		{
+			"name": "TAN EE PENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"14:15"
+			],
+			[
+				"14:00",
+				"15:45"
+			],
+			[
+				"19:00",
+				"20:45"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:15"
+			],
+			[
+				"14:00",
+				"15:45"
+			],
+			[
+				"19:00",
+				"20:45"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:15"
+			],
+			[
+				"14:00",
+				"15:45"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:15"
+			],
+			[
+				"14:00",
+				"15:45"
+			],
+			[
+				"19:00",
+				"20:45"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:15"
+			],
+			[
+				"14:00",
+				"15:45"
+			],
+			[
+				"19:00",
+				"20:45"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:15"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:15"
+			]
+		]
+	},
+	"id": "9401600",
+	"coordinates": [
+		103.7507364,
+		1.3579829
+	],
+	"svy21": [
+		18809.56,
+		37784.52
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

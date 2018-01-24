@@ -3,8 +3,8 @@
 	"tel": "67332268",
 	"fax": "67372268",
 	"licensee": "ALOHA DENTAL PTE. LTD.",
-	"licensePeriod": "02/01/2018 to 01/01/2020",
-	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"licensePeriod": "02/01/2016 to 01/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "14D0002",
 	"address": "14 SCOTTS ROAD, FAR EAST PLAZA, #04-125/126 Singapore 228213",
 	"doctorInCharge": [
@@ -21,67 +21,15 @@
 			]
 		}
 	],
-	"mohApprovedSpecialServices": [
-		"Specialised Diagnostic Radiology"
-	],
 	"detailedServices": {
-		"General Dental": true,
-		"Specialist Dental": [
-			"Orthodontics",
-			"Periodontology"
-		]
+		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"09:00",
-				"18:00"
-			],
-			[
-				"09:00",
-				"13:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:00",
-				"18:00"
-			],
-			[
-				"09:00",
-				"13:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:00",
-				"18:00"
-			],
-			[
-				"09:00",
-				"13:00"
-			]
-		],
-		"Thursday": [
-			[
-				"09:00",
-				"18:00"
-			],
-			[
-				"09:00",
-				"13:00"
-			]
-		],
-		"Friday": [
-			[
-				"09:00",
-				"18:00"
-			],
-			[
-				"09:00",
-				"13:00"
-			]
-		]
+		"Monday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm"
 	},
 	"id": "14D0002",
 	"coordinates": [

@@ -1,0 +1,127 @@
+{
+	"name": "PACIFIC FAMILY CLINIC",
+	"tel": "64740343",
+	"fax": "64740343",
+	"licensee": "Pacific Family Clinic Pte Ltd",
+	"licensePeriod": "28/06/2015 to 27/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403968",
+	"address": "BLK 75D REDHILL ROAD, #01-116 Singapore 154075",
+	"doctorInCharge": [
+		{
+			"name": "Kao Wei Hung",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "9403968",
+	"coordinates": [
+		103.8157116,
+		1.2884648
+	],
+	"svy21": [
+		26040.49,
+		30097.41
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

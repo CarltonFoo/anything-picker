@@ -30,36 +30,11 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"04:00",
-				"16:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"04:00",
-				"16:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"04:00",
-				"16:00"
-			]
-		],
-		"Thursday": [
-			[
-				"04:00",
-				"16:00"
-			]
-		],
-		"Friday": [
-			[
-				"04:00",
-				"16:00"
-			]
-		]
+		"Monday": "04:00 am to 04:00 pm",
+		"Tuesday": "04:00 am to 04:00 pm",
+		"Wednesday": "04:00 am to 04:00 pm",
+		"Thursday": "04:00 am to 04:00 pm",
+		"Friday": "04:00 am to 04:00 pm"
 	},
 	"id": "15M0191",
 	"coordinates": [

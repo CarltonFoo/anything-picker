@@ -1,0 +1,127 @@
+{
+	"name": "ACCORD MEDICAL CLINIC",
+	"tel": "64511528",
+	"fax": "64573782",
+	"licensee": "ACCORD MEDICAL PTE. LTD.",
+	"licensePeriod": "11/10/2017 to 10/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0274",
+	"address": "BLK 157 ANG MO KIO AVENUE 4, MAYFLOWER SHOPPING & FOOD CENTRE, #01-578 Singapore 560157",
+	"doctorInCharge": [
+		{
+			"name": "Ong Chor Teck, Joseph",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
+	},
+	"id": "13M0274",
+	"coordinates": [
+		103.8393951,
+		1.3753056
+	],
+	"svy21": [
+		28676.24,
+		39699.82
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

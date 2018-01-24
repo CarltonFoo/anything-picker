@@ -1,0 +1,109 @@
+{
+	"name": "JURONG DENTAL GROUP",
+	"tel": "65675565",
+	"fax": "63431091",
+	"licensee": "Jacqueline Catherine John",
+	"licensePeriod": "28/05/2016 to 27/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400776",
+	"address": "BLK 351 JURONG EAST ST 31, #01-85 Singapore 600351",
+	"doctorInCharge": [
+		{
+			"name": "Jacqueline Catherine John",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "9400776",
+	"coordinates": [
+		103.7307783,
+		1.3448324
+	],
+	"svy21": [
+		16588.38,
+		36330.49
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

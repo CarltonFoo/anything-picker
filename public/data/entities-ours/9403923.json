@@ -1,0 +1,119 @@
+{
+	"name": "SHENTON FAMILY MEDICAL CLINIC (TAMPINES)",
+	"tel": "67845291",
+	"fax": "67850987",
+	"licensee": "Shenton Family Medical Clinic (Tampines)",
+	"licensePeriod": "04/03/2017 to 03/03/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403923",
+	"address": "BLK 201D Tampines Street 21, #01-1137 Singapore 524201",
+	"doctorInCharge": [
+		{
+			"name": "Lee See Chung",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9403923",
+	"coordinates": [
+		103.9535865,
+		1.3522623
+	],
+	"svy21": [
+		41384.47,
+		37152.14
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

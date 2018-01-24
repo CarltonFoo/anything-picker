@@ -1,0 +1,138 @@
+{
+	"name": "Q & M DENTAL SURGERY (REDHILL MRT) PTE LTD",
+	"tel": "62724858",
+	"fax": "62759450",
+	"licensee": "Q & M DENTAL SURGERY (REDHILL MRT) PTE. LTD.",
+	"licensePeriod": "30/06/2016 to 29/06/2021",
+	"licenseClass": "[ 5 Years ( 2D ) ]",
+	"hciCode": "9404896",
+	"address": "920 TIONG BAHRU ROAD, REDHILL MRT STATION, #01-10 Singapore 158792",
+	"doctorInCharge": [
+		{
+			"name": "Ng Jet Wei",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		]
+	},
+	"id": "9404896",
+	"coordinates": [
+		103.816741,
+		1.2896345
+	],
+	"svy21": [
+		26155.05,
+		30226.76
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

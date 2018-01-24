@@ -1,0 +1,85 @@
+{
+	"name": "GRACE (SL) MEDICAL CENTRE",
+	"tel": "63850400",
+	"fax": "63851461",
+	"licensee": "LIM SUN TAI SHELIS",
+	"licensePeriod": "01/01/2018 to 31/12/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400600",
+	"address": "BLK 811 HOUGANG CENTRAL, #01-208 Singapore 530811",
+	"doctorInCharge": [
+		{
+			"name": "LIM SUN TAI SHELIS",
+			"qualifications": [
+				"MB BCh (Royal College of Surgeons, Ireland) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Thursday": [
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "9400600",
+	"coordinates": [
+		103.8937902,
+		1.3718711
+	],
+	"svy21": [
+		34729.75,
+		39320.14
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

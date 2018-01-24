@@ -3,8 +3,8 @@
 	"tel": "64797928",
 	"fax": "64750568",
 	"licensee": "APEX CARDIOLOGY PTE. LTD.",
-	"licensePeriod": "23/12/2017 to 22/12/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "23/12/2015 to 22/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "13M0352",
 	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL ANNEXE BLOCK, #04-37 Singapore 258500",
 	"doctorInCharge": [
@@ -30,44 +30,14 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"13:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "13M0352",
 	"coordinates": [

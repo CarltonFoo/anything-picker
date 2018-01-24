@@ -3,7 +3,7 @@
 	"tel": "68449768",
 	"fax": "66341598",
 	"licensee": "Refresh Laser Clinic Bedok Pte. Ltd.",
-	"licensePeriod": "05/12/2017 to 04/12/2022",
+	"licensePeriod": "05/12/2015 to 04/12/2017",
 	"licenseClass": "[ 5 Years ]",
 	"hciCode": "13M0344",
 	"address": "311 NEW UPPER CHANGI ROAD, BEDOK MALL, #B1-18 Singapore 467360",
@@ -22,76 +22,13 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"01:30",
-				"16:30"
-			],
-			[
-				"17:30",
-				"21:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"01:30",
-				"16:30"
-			],
-			[
-				"17:30",
-				"21:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"01:30",
-				"16:30"
-			],
-			[
-				"17:30",
-				"21:00"
-			]
-		],
-		"Thursday": [
-			[
-				"01:30",
-				"16:30"
-			],
-			[
-				"17:30",
-				"21:00"
-			]
-		],
-		"Friday": [
-			[
-				"01:30",
-				"16:30"
-			],
-			[
-				"17:30",
-				"21:00"
-			]
-		],
-		"Saturday": [
-			[
-				"01:30",
-				"16:30"
-			],
-			[
-				"17:30",
-				"21:00"
-			]
-		],
-		"Sunday": [
-			[
-				"01:30",
-				"16:30"
-			],
-			[
-				"17:30",
-				"21:00"
-			]
-		]
+		"Monday": "11:30 am to 04:30 pm, 05:30 pm to 09:00 pm",
+		"Tuesday": "11:30 am to 04:30 pm, 05:30 pm to 09:00 pm",
+		"Wednesday": "11:30 am to 04:30 pm, 05:30 pm to 09:00 pm",
+		"Thursday": "11:30 am to 04:30 pm, 05:30 pm to 09:00 pm",
+		"Friday": "11:30 am to 04:30 pm, 05:30 pm to 09:00 pm",
+		"Saturday": "11:30 am to 04:30 pm, 05:30 pm to 09:00 pm",
+		"Sunday": "11:30 am to 04:30 pm, 05:30 pm to 09:00 pm"
 	},
 	"id": "13M0344",
 	"coordinates": [

@@ -1,0 +1,83 @@
+{
+	"name": "S. C. LOW BREAST CENTRE",
+	"tel": "64750010",
+	"fax": "64757077",
+	"licensee": "S.C. LOW BREAST CENTRE PTE LTD",
+	"licensePeriod": "03/07/2015 to 02/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403049",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #09-13 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "LOW SZE CHUAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1988",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1993"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "9403049",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

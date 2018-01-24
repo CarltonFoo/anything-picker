@@ -1,0 +1,103 @@
+{
+	"name": "ALOHA DENTAL PTE LTD",
+	"tel": "67332268",
+	"fax": "67372268",
+	"licensee": "ALOHA DENTAL PTE. LTD.",
+	"licensePeriod": "02/01/2018 to 01/01/2020",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14D0002",
+	"address": "14 SCOTTS ROAD, FAR EAST PLAZA, #04-125/126 Singapore 228213",
+	"doctorInCharge": [
+		{
+			"name": "Loh Kai Woh",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976",
+				"MDS (Orthodontics) (Pittsburgh) (University of Pittsburgh School of Dental Medicine, United States) 1982",
+				"Cert Orthodontics (Pittsburgh) (University of Pittsburgh School of Dental Medicine, United States) 1982",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		]
+	},
+	"id": "14D0002",
+	"coordinates": [
+		103.8337929,
+		1.307177
+	],
+	"svy21": [
+		28052.79,
+		32166.51
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

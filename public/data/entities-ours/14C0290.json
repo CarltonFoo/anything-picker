@@ -1,0 +1,106 @@
+{
+	"name": "HISEMAINN MEDICAL CLINIC (SIMS PLACE)",
+	"tel": "67424413",
+	"fax": "67483813",
+	"licensee": "SIMPLAC MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "23/09/2016 to 22/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0290",
+	"address": "BLK 48 Sims Place, #01-167 Singapore 380048",
+	"doctorInCharge": [
+		{
+			"name": "Pang Hau Yun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"15:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
+	},
+	"id": "14C0290",
+	"coordinates": [
+		103.8794395,
+		1.3177556
+	],
+	"svy21": [
+		33132.81,
+		33336.28
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

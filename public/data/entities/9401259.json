@@ -3,8 +3,8 @@
 	"tel": "62857009",
 	"fax": "62827785",
 	"licensee": "KOH SIM NOI",
-	"licensePeriod": "01/01/2018 to 31/12/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "9401259",
 	"address": "BLK 356 HOUGANG AVE 7, #01-797 Singapore 530356",
 	"doctorInCharge": [
@@ -20,76 +20,14 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:30",
-				"16:30"
-			],
-			[
-				"19:00",
-				"21:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:30",
-				"16:30"
-			],
-			[
-				"19:00",
-				"21:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"13:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"13:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:30",
-				"16:30"
-			],
-			[
-				"19:00",
-				"21:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:30",
-				"16:30"
-			],
-			[
-				"19:00",
-				"21:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "08:30 am to 01:00 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9401259",
 	"coordinates": [

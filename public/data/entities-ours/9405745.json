@@ -1,0 +1,114 @@
+{
+	"name": "BABES N TOTS CLINIC",
+	"tel": "62737303",
+	"fax": "62731033",
+	"licensee": "BABES N TOTS CLINIC PTE. LTD.",
+	"licensePeriod": "10/11/2014 to 09/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405745",
+	"address": "BLK 46 JALAN BUKIT HO SWEE, #01-878 Singapore 160046",
+	"doctorInCharge": [
+		{
+			"name": "Koh Teck Kin Edmund",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"M Med (Paed) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Neonatology",
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"01:00"
+			]
+		]
+	},
+	"id": "9405745",
+	"coordinates": [
+		103.8261447,
+		1.2882958
+	],
+	"svy21": [
+		27201.61,
+		30078.72
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

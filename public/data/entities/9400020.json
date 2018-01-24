@@ -3,8 +3,8 @@
 	"tel": "64548535",
 	"fax": "63002594",
 	"licensee": "Woo Kin Fatt",
-	"licensePeriod": "12/12/2017 to 11/12/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "12/12/2015 to 11/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9400020",
 	"address": "BLK 222 Bishan St. 23, #B1-169 Singapore 570222",
 	"doctorInCharge": [
@@ -26,56 +26,11 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"00:30",
-				"02:30"
-			],
-			[
-				"14:00",
-				"16:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"00:30",
-				"02:30"
-			],
-			[
-				"14:00",
-				"16:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"00:30",
-				"02:30"
-			],
-			[
-				"14:00",
-				"16:00"
-			]
-		],
-		"Thursday": [
-			[
-				"00:30",
-				"02:30"
-			],
-			[
-				"14:00",
-				"16:00"
-			]
-		],
-		"Friday": [
-			[
-				"00:30",
-				"02:30"
-			],
-			[
-				"14:00",
-				"16:00"
-			]
-		]
+		"Monday": "10:30 am to 12:30 am, 02:00 pm to 04:00 pm",
+		"Tuesday": "10:30 am to 12:30 am, 02:00 pm to 04:00 pm",
+		"Wednesday": "10:30 am to 12:30 am, 02:00 pm to 04:00 pm",
+		"Thursday": "10:30 am to 12:30 am, 02:00 pm to 04:00 pm",
+		"Friday": "10:30 am to 12:30 am, 02:00 pm to 04:00 pm"
 	},
 	"id": "9400020",
 	"coordinates": [

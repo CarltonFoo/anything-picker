@@ -30,12 +30,7 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Sunday": [
-			[
-				"09:00",
-				"14:00"
-			]
-		]
+		"Sunday": "09:00 am to 12:00 pm"
 	},
 	"id": "9405008",
 	"coordinates": [

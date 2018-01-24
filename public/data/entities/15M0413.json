@@ -3,7 +3,7 @@
 	"tel": "62571134",
 	"fax": "62571134",
 	"licensee": "PLATINUM MEDICAL CENTRE PTE. LTD.",
-	"licensePeriod": "03/12/2017 to 02/12/2019",
+	"licensePeriod": "03/12/2015 to 02/12/2017",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15M0413",
 	"address": "BLK 504 YISHUN STREET 51, MULTI STOREY CAR PARK, #01-02 Singapore 760504",
@@ -25,97 +25,14 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"08:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"12:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"12:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"12:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"12:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"12:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"12:00"
-			]
-		],
-		"Sunday": [
-			[
-				"18:00",
-				"21:00"
-			]
-		]
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "06:00 pm to 09:00 pm"
 	},
 	"id": "15M0413",
 	"coordinates": [

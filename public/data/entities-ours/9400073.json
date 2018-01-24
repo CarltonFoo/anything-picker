@@ -1,0 +1,79 @@
+{
+	"name": "ATLANTIC DENTAL SURGERY",
+	"tel": "63387157",
+	"fax": "63368604",
+	"licensee": "NARINDER KAUR",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400073",
+	"address": "189 SELEGIE RD, SELEGIE CENTRE, #01-05 Singapore 188332",
+	"doctorInCharge": [
+		{
+			"name": "NARINDER KAUR",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:30",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9400073",
+	"coordinates": [
+		103.850019,
+		1.3040808
+	],
+	"svy21": [
+		29858.6,
+		31824.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

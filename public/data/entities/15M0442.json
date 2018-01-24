@@ -1,9 +1,9 @@
 {
 	"name": "HAND SURGERY ASSOCIATES (ALVERNIA)",
 	"tel": "62545447",
-	"fax": "62545477",
+	"fax": "66905699",
 	"licensee": "HAND SURGERY ASSOCIATES (ALVERNIA) PTE. LTD.",
-	"licensePeriod": "30/12/2017 to 29/12/2019",
+	"licensePeriod": "30/12/2015 to 29/12/2017",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15M0442",
 	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #07-59 Singapore 574623",
@@ -22,6 +22,7 @@
 	],
 	"detailedServices": {
 		"Specialist Medical": [
+			"Anaesthesiology",
 			"Hand Surgery"
 		]
 	},

@@ -3,13 +3,13 @@
 	"tel": "64527971",
 	"fax": "64538120",
 	"licensee": "TAN YANG KHAI",
-	"licensePeriod": "01/01/2018 to 31/12/2019",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
 	"licenseClass": "[ 2 Years ( 1C ) ]",
 	"hciCode": "9404412",
 	"address": "BLK 451 ANG MO KIO AVE 10, #01-1765 Singapore 560451",
 	"doctorInCharge": [
 		{
-			"name": "TAN YANG KHAI",
+			"name": "Tan Yang Khai",
 			"qualifications": [
 				"MBBS (University of Singapore, Singapore) 1974"
 			],
@@ -24,74 +24,14 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Public Holiday": [
-			[
-				"08:30",
-				"14:00"
-			]
-		],
-		"Monday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"20:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"20:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"20:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"20:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"20:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"14:00"
-			]
-		],
-		"Sunday": [
-			[
-				"08:30",
-				"14:00"
-			]
-		]
+		"Public Holiday": "08:30 am to 12:00 pm",
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 08:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 08:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 08:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 08:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 08:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
 	},
 	"id": "9404412",
 	"coordinates": [

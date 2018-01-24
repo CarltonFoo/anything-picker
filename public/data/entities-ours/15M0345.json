@@ -1,0 +1,119 @@
+{
+	"name": "ACCESS MEDICAL (EAST COAST)",
+	"tel": "62418812",
+	"fax": "62418840",
+	"licensee": "ACCESS MEDICAL EAST COAST PTE. LTD.",
+	"licensePeriod": "02/10/2017 to 01/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0345",
+	"address": "BLK 18 BEDOK SOUTH ROAD, #01-69 Singapore 460018",
+	"doctorInCharge": [
+		{
+			"name": "Lim Yong Chin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCS (Royal College of Surgeons, Ireland) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"07:00",
+				"13:00"
+			],
+			[
+				"18:00",
+				"02:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"07:00",
+				"13:00"
+			],
+			[
+				"18:00",
+				"02:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"07:00",
+				"13:00"
+			],
+			[
+				"18:00",
+				"02:00"
+			]
+		],
+		"Thursday": [
+			[
+				"07:00",
+				"13:00"
+			],
+			[
+				"18:00",
+				"02:00"
+			]
+		],
+		"Friday": [
+			[
+				"07:00",
+				"13:00"
+			],
+			[
+				"18:00",
+				"02:00"
+			]
+		],
+		"Saturday": [
+			[
+				"07:00",
+				"13:00"
+			],
+			[
+				"18:00",
+				"02:00"
+			]
+		],
+		"Sunday": [
+			[
+				"07:00",
+				"13:00"
+			],
+			[
+				"18:00",
+				"02:00"
+			]
+		]
+	},
+	"id": "15M0345",
+	"coordinates": [
+		103.9347342,
+		1.320625
+	],
+	"svy21": [
+		39286.57,
+		33653.76
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

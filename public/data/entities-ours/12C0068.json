@@ -1,0 +1,90 @@
+{
+	"name": "THE DENTAL CLINIC AND SURGERY",
+	"tel": "64456038",
+	"fax": "64456038",
+	"licensee": "Ong Siew Lan",
+	"licensePeriod": "23/05/2016 to 22/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0068",
+	"address": "BLK 158 BEDOK SOUTH AVENUE 3, #01-589 Singapore 460158",
+	"doctorInCharge": [
+		{
+			"name": "Ong Siew Lan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Thursday": [],
+		"Sunday": [],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Public Holiday": []
+	},
+	"id": "12C0068",
+	"coordinates": [
+		103.9450867,
+		1.3187358
+	],
+	"svy21": [
+		40438.71,
+		33444.9
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

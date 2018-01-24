@@ -27,36 +27,11 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"16:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"16:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"16:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"16:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"16:00"
-			]
-		]
+		"Monday": "08:30 am to 04:00 pm",
+		"Tuesday": "08:30 am to 04:00 pm",
+		"Wednesday": "08:30 am to 04:00 pm",
+		"Thursday": "08:30 am to 04:00 pm",
+		"Friday": "08:30 am to 04:00 pm"
 	},
 	"id": "9403790",
 	"coordinates": [

@@ -1,0 +1,108 @@
+{
+	"name": "HAN DENTAL SURGERY",
+	"tel": "62872887",
+	"fax": "62872887",
+	"licensee": "WONG LAI PING",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400638",
+	"address": "BLK 120 POTONG PASIR AVE 1, #01-818 Singapore 350120",
+	"doctorInCharge": [
+		{
+			"name": "WONG LAI PING",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"15:30"
+			],
+			[
+				"19:15",
+				"20:15"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"15:30"
+			],
+			[
+				"19:15",
+				"20:15"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"15:30"
+			],
+			[
+				"19:15",
+				"20:15"
+			]
+		],
+		"Thursday": [],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"15:30"
+			],
+			[
+				"19:15",
+				"20:15"
+			]
+		],
+		"Saturday": [],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "9400638",
+	"coordinates": [
+		103.863388,
+		1.3354535
+	],
+	"svy21": [
+		31346.41,
+		35293.2
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

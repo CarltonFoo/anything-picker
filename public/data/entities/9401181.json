@@ -25,68 +25,14 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"18:30",
-				"20:30"
-			],
-			[
-				"18:30",
-				"20:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Thursday": [
-			[
-				"18:30",
-				"20:30"
-			],
-			[
-				"18:30",
-				"20:30"
-			]
-		],
-		"Friday": [
-			[
-				"09:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Saturday": [
-			[
-				"09:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "06:30 pm to 08:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "06:30 pm to 08:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9401181",
 	"coordinates": [

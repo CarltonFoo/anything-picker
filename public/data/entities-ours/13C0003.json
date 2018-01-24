@@ -1,0 +1,131 @@
+{
+	"name": "QUEK & ME DENTAL SURGERY",
+	"tel": "68929968",
+	"fax": "68929976",
+	"licensee": "QUEK AND ME DENTAL SURGERY PRIVATE LIMITED",
+	"licensePeriod": "31/12/2016 to 30/12/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0003",
+	"address": "BLK 225 CHOA CHU KANG CENTRAL, #01-199 Singapore 680225",
+	"doctorInCharge": [
+		{
+			"name": "Quek Yeow Hsien",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Wednesday": [],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		]
+	},
+	"id": "13C0003",
+	"coordinates": [
+		103.7448896,
+		1.3810907
+	],
+	"svy21": [
+		18158.97,
+		40339.69
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

@@ -7,9 +7,9 @@
 	"address": "21 HOUGANG STREET 51, HOUGANG GREEN SHOPPING MALL, #01-43 Singapore 538719",
 	"doctorInCharge": [
 		{
-			"name": "Poh Pei Ghim",
+			"name": "Ho Tze Woon",
 			"qualifications": [
-				"MB ChB (University of Glasgow, United Kingdom) 2012"
+				"MD (National University of Malaysia, Malaysia) 2009"
 			],
 			"specialties": []
 		}
@@ -17,9 +17,6 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"programmes": [
-		"Community Health Assistance Scheme (CHAS)"
-	],
 	"id": "17M0244",
 	"coordinates": [
 		103.887832,

@@ -3,8 +3,8 @@
 	"tel": "65351753",
 	"fax": "65351753",
 	"licensee": "TAM WING FOON ESTHER",
-	"licensePeriod": "01/01/2018 to 31/12/2019",
-	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 1B ) ]",
 	"hciCode": "9400893",
 	"address": "1 PARK ROAD, PEOPLE'S PARK COMPLEX, #01-13 Singapore 059108",
 	"doctorInCharge": [
@@ -20,66 +20,12 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"09:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Thursday": [
-			[
-				"09:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Friday": [
-			[
-				"09:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Saturday": [
-			[
-				"09:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		]
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
 	},
 	"id": "9400893",
 	"coordinates": [

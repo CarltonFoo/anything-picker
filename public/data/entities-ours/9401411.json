@@ -1,0 +1,119 @@
+{
+	"name": "ROY'S FAMILY CLINIC & SURGERY",
+	"tel": "67544073",
+	"fax": "67544083",
+	"licensee": "ANG SING JIM ROY",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401411",
+	"address": "BLK 846 YISHUN RING ROAD, #01-3605 Singapore 760846",
+	"doctorInCharge": [
+		{
+			"name": "ANG SING JIM ROY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:00",
+				"14:15"
+			],
+			[
+				"14:00",
+				"16:15"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"14:15"
+			],
+			[
+				"14:00",
+				"16:15"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"14:15"
+			],
+			[
+				"14:00",
+				"16:15"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"14:15"
+			],
+			[
+				"14:00",
+				"16:15"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"14:15"
+			],
+			[
+				"14:00",
+				"16:15"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"14:15"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9401411",
+	"coordinates": [
+		103.8346416,
+		1.4167863
+	],
+	"svy21": [
+		28147.23,
+		44286.55
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

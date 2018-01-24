@@ -1,0 +1,111 @@
+{
+	"name": "ICON MEDICAL CLINIC",
+	"tel": "65600521",
+	"fax": "65691075",
+	"licensee": "ICON MEDICAL PTE. LTD.",
+	"licensePeriod": "29/03/2016 to 28/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404476",
+	"address": "BLK 517 JURONG WEST ST 52, #01-101 Singapore 640517",
+	"doctorInCharge": [
+		{
+			"name": "Ng Chin Hwee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2006",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:45"
+			],
+			[
+				"18:00",
+				"20:45"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:45"
+			],
+			[
+				"18:00",
+				"20:45"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:45"
+			],
+			[
+				"18:00",
+				"20:45"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:45"
+			],
+			[
+				"18:00",
+				"20:45"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:45"
+			],
+			[
+				"18:00",
+				"20:45"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
+	},
+	"id": "9404476",
+	"coordinates": [
+		103.7197243,
+		1.3458496
+	],
+	"svy21": [
+		15358.2,
+		36443.02
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"name": "PASIR RIS BABY AND CHILD CLINIC",
-	"tel": "84447360",
+	"tel": "65810032",
 	"fax": "65822219",
 	"licensee": "PASIR RIS BABY AND CHILD CLINIC PTE. LTD.",
 	"licensePeriod": "16/06/2016 to 15/06/2021",
@@ -25,60 +25,14 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:45",
-				"01:30"
-			],
-			[
-				"18:45",
-				"20:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:45",
-				"01:30"
-			],
-			[
-				"18:45",
-				"20:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:45",
-				"01:30"
-			]
-		],
-		"Saturday": [
-			[
-				"08:45",
-				"01:30"
-			]
-		],
-		"Thursday": [
-			[
-				"08:45",
-				"01:30"
-			],
-			[
-				"18:45",
-				"20:30"
-			]
-		],
-		"Friday": [
-			[
-				"08:45",
-				"01:30"
-			],
-			[
-				"18:45",
-				"20:30"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "08:45 am to 11:30 am, 06:45 pm to 08:30 pm",
+		"Tuesday": "08:45 am to 11:30 am, 06:45 pm to 08:30 pm",
+		"Wednesday": "08:45 am to 11:30 am",
+		"Saturday": "08:45 am to 11:30 am",
+		"Thursday": "08:45 am to 11:30 am, 06:45 pm to 08:30 pm",
+		"Friday": "08:45 am to 11:30 am, 06:45 pm to 08:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9402287",
 	"coordinates": [

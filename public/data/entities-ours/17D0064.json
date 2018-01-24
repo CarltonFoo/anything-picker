@@ -1,0 +1,80 @@
+{
+	"name": "TEETH. Q DENTAL SURGEONS @ MATILDA PORTICO",
+	"tel": "65382260",
+	"fax": "63855749",
+	"licensee": "TEETH. Q DENTAL SURGEONS PTE. LTD.",
+	"licensePeriod": "15/03/2017 to 14/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0064",
+	"address": "BLK 218 SUMANG WALK, #01-02 Singapore 820218",
+	"doctorInCharge": [
+		{
+			"name": "Goh Zhi Wei, Desmond",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Sunday": []
+	},
+	"id": "17D0064",
+	"coordinates": [
+		103.895387,
+		1.4032271
+	],
+	"svy21": [
+		34907.37,
+		42787.33
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

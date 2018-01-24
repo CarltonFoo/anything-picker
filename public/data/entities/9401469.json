@@ -3,8 +3,8 @@
 	"tel": "62805222",
 	"fax": "63826410",
 	"licensee": "AJITH DAMODARAN",
-	"licensePeriod": "01/01/2018 to 31/12/2019",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "01/01/2017 to 31/12/2017",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
 	"hciCode": "9401469",
 	"address": "BLK 263 SERANGOON CENTRAL DRIVE, #01-51 Singapore 550263",
 	"doctorInCharge": [
@@ -25,60 +25,14 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"09:30",
-				"14:30"
-			],
-			[
-				"16:00",
-				"19:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:30",
-				"14:30"
-			],
-			[
-				"16:00",
-				"19:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:30",
-				"14:30"
-			],
-			[
-				"16:00",
-				"19:30"
-			]
-		],
-		"Thursday": [
-			[
-				"09:30",
-				"14:30"
-			],
-			[
-				"16:00",
-				"19:30"
-			]
-		],
-		"Friday": [
-			[
-				"09:30",
-				"14:30"
-			]
-		],
-		"Saturday": [
-			[
-				"09:30",
-				"14:30"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "09:30 am to 12:30 pm, 04:00 pm to 07:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 04:00 pm to 07:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 04:00 pm to 07:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 04:00 pm to 07:30 pm",
+		"Friday": "09:30 am to 12:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9401469",
 	"coordinates": [

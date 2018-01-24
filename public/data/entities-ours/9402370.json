@@ -1,0 +1,107 @@
+{
+	"name": "SUNSHINE CLINIC FAMILY PRACTICE & SURGERY",
+	"tel": "67833122",
+	"licensee": "Ng Teck Keng Dominique",
+	"licensePeriod": "28/09/2014 to 27/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402370",
+	"address": "BLK 445 TAMPINES STREET 42, #01-02 Singapore 520445",
+	"doctorInCharge": [
+		{
+			"name": "Ng Teck Keng Dominique",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		]
+	},
+	"id": "9402370",
+	"coordinates": [
+		103.9506584,
+		1.3583024
+	],
+	"svy21": [
+		41058.57,
+		37820.01
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

@@ -26,84 +26,14 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"13:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"13:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"13:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"13:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Friday": [
-			[
-				"09:00",
-				"13:00"
-			],
-			[
-				"18:00",
-				"21:00"
-			]
-		],
-		"Saturday": [
-			[
-				"09:00",
-				"13:00"
-			],
-			[
-				"18:00",
-				"21:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9405127",
 	"coordinates": [

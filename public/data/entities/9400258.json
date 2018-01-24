@@ -3,8 +3,8 @@
 	"tel": "63383297",
 	"fax": "63383297",
 	"licensee": "CHONG CHIN KAH",
-	"licensePeriod": "01/01/2018 to 31/12/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9400258",
 	"address": "190 CLEMENCEAU AVE, SINGAPORE SHOPPING CENTRE, #01-29/30 Singapore 239924",
 	"doctorInCharge": [
@@ -25,66 +25,12 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"09:10",
-				"14:30"
-			],
-			[
-				"14:00",
-				"17:10"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:10",
-				"14:30"
-			],
-			[
-				"14:00",
-				"17:10"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:10",
-				"14:30"
-			],
-			[
-				"14:00",
-				"17:10"
-			]
-		],
-		"Thursday": [
-			[
-				"09:10",
-				"14:30"
-			],
-			[
-				"14:00",
-				"17:10"
-			]
-		],
-		"Friday": [
-			[
-				"09:10",
-				"14:30"
-			],
-			[
-				"14:00",
-				"17:10"
-			]
-		],
-		"Saturday": [
-			[
-				"09:10",
-				"14:30"
-			],
-			[
-				"14:00",
-				"17:10"
-			]
-		]
+		"Monday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Tuesday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Wednesday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Thursday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Friday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Saturday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm"
 	},
 	"id": "9400258",
 	"coordinates": [

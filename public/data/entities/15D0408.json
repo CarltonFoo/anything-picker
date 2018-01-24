@@ -3,15 +3,15 @@
 	"tel": "68370730",
 	"fax": "62259382",
 	"licensee": "FAMILY DENTAL CENTRE PTE. LTD.",
-	"licensePeriod": "30/11/2017 to 29/11/2019",
+	"licensePeriod": "30/11/2015 to 29/11/2017",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15D0408",
 	"address": "70 STAMFORD ROAD, SINGAPORE MANAGEMENT UNIVERSITY, #B1-27 Singapore 178901",
 	"doctorInCharge": [
 		{
-			"name": "FAISAL BIN ABDUL AZIZ",
+			"name": "Nurul Aizat Bin Zainudin",
 			"qualifications": [
-				"BDS (University of London, United Kingdom) 2014"
+				"BDS (National University of Singapore, Singapore) 2010"
 			],
 			"specialties": []
 		}
@@ -20,43 +20,15 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"00:00",
-				"19:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"00:00",
-				"19:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"00:00",
-				"19:00"
-			]
-		],
-		"Thursday": [
-			[
-				"00:00",
-				"19:00"
-			]
-		],
-		"Friday": [
-			[
-				"00:00",
-				"19:00"
-			]
-		],
-		"Saturday": [
-			[
-				"09:00",
-				"17:00"
-			]
-		],
-		"Sunday": []
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 07:00 pm",
+		"Thursday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
 	},
 	"id": "15D0408",
 	"coordinates": [

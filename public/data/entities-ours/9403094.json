@@ -1,0 +1,106 @@
+{
+	"name": "K H HO NEUROLOGY & MEDICAL CLINIC",
+	"tel": "64621051",
+	"fax": "64710319",
+	"licensee": "Ho King Hee",
+	"licensePeriod": "28/09/2015 to 27/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403094",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #09-04 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Ho King Hee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1992",
+				"FAMS (Neurology) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Neurology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Neurology"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:55"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:55"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:55"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:55"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:55"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:55"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9403094",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

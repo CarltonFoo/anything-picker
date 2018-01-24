@@ -26,84 +26,14 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"16:00"
-			],
-			[
-				"18:30",
-				"20:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"16:00"
-			],
-			[
-				"18:30",
-				"20:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"16:00"
-			],
-			[
-				"18:30",
-				"20:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"16:00"
-			],
-			[
-				"18:30",
-				"20:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"16:00"
-			],
-			[
-				"18:30",
-				"20:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"14:00"
-			]
-		],
-		"Sunday": []
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
 	},
 	"id": "9401010",
 	"coordinates": [

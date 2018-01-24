@@ -1,0 +1,105 @@
+{
+	"name": "HEALTHPLUS CLINIC & SURGERY",
+	"tel": "64460529",
+	"fax": "64460529",
+	"licensee": "MDAY PTE. LTD.",
+	"licensePeriod": "23/01/2015 to 22/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400653",
+	"address": "BLK 631 BEDOK RESERVOIR ROAD, #01-898 Singapore 470631",
+	"doctorInCharge": [
+		{
+			"name": "QUEK DINA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
+	},
+	"id": "9400653",
+	"coordinates": [
+		103.9149418,
+		1.3329592
+	],
+	"svy21": [
+		37083.82,
+		35017.53
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

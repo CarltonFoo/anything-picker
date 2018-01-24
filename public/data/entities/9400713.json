@@ -27,14 +27,9 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": [],
-		"Saturday": [
-			[
-				"09:00",
-				"13:00"
-			]
-		],
-		"Sunday": []
+		"Public Holiday": "Closed",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
 	},
 	"id": "9400713",
 	"coordinates": [

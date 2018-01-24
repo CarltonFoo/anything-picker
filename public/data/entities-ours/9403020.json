@@ -1,0 +1,77 @@
+{
+	"name": "SCHOOL DENTAL CENTRE",
+	"tel": "64353782",
+	"fax": "64382248",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403020",
+	"address": "3 SECOND HOSPITAL AVENUE, HEALTH PROMOTION BOARD, #04-00 Singapore 168937",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"14:30"
+			]
+		]
+	},
+	"id": "9403020",
+	"coordinates": [
+		103.8383462,
+		1.2796022
+	],
+	"svy21": [
+		28559.54,
+		29117.43
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

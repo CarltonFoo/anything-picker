@@ -22,49 +22,14 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"00:30",
-				"20:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"00:30",
-				"20:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"00:30",
-				"20:30"
-			]
-		],
-		"Thursday": [
-			[
-				"00:30",
-				"20:30"
-			]
-		],
-		"Friday": [
-			[
-				"00:30",
-				"20:30"
-			]
-		],
-		"Saturday": [
-			[
-				"00:30",
-				"20:30"
-			]
-		],
-		"Sunday": [
-			[
-				"00:30",
-				"20:30"
-			]
-		]
+		"Public Holiday": "Closed",
+		"Monday": "10:30 am to 08:30 pm",
+		"Tuesday": "10:30 am to 08:30 pm",
+		"Wednesday": "10:30 am to 08:30 pm",
+		"Thursday": "10:30 am to 08:30 pm",
+		"Friday": "10:30 am to 08:30 pm",
+		"Saturday": "10:30 am to 08:30 pm",
+		"Sunday": "10:30 am to 08:30 pm"
 	},
 	"id": "9405542",
 	"coordinates": [

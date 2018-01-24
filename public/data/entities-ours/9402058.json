@@ -1,0 +1,118 @@
+{
+	"name": "HOPE FAMILY CLINIC AND SURGERY",
+	"tel": "63691328",
+	"fax": "63691328",
+	"licensee": "NG CHEE MING, EUGENE",
+	"licensePeriod": "28/01/2015 to 27/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402058",
+	"address": "883 WOODLANDS ST 82, WOODLANDS NORTH PLAZA, #01-470 Singapore 730883",
+	"doctorInCharge": [
+		{
+			"name": "NG CHEE MING, EUGENE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"15:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"15:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"02:00"
+			]
+		]
+	},
+	"id": "9402058",
+	"coordinates": [
+		103.790548,
+		1.4427533
+	],
+	"svy21": [
+		23240.3,
+		47157.9
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

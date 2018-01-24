@@ -20,72 +20,14 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"09:00",
-				"14:00"
-			],
-			[
-				"13:00",
-				"17:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:00",
-				"14:00"
-			],
-			[
-				"13:00",
-				"17:00"
-			],
-			[
-				"18:00",
-				"20:00"
-			]
-		],
-		"Wednesday": [],
-		"Thursday": [
-			[
-				"09:00",
-				"14:00"
-			],
-			[
-				"13:00",
-				"17:00"
-			]
-		],
-		"Friday": [
-			[
-				"09:00",
-				"14:00"
-			],
-			[
-				"13:00",
-				"17:00"
-			]
-		],
-		"Saturday": [
-			[
-				"00:00",
-				"14:00"
-			],
-			[
-				"13:00",
-				"15:00"
-			]
-		],
-		"Sunday": [
-			[
-				"00:00",
-				"14:00"
-			],
-			[
-				"13:00",
-				"15:00"
-			]
-		]
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Wednesday": "Closed",
+		"Thursday": "09:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
+		"Saturday": "10:00 am to 12:00 pm, 01:00 pm to 03:00 pm",
+		"Sunday": "10:00 am to 12:00 pm, 01:00 pm to 03:00 pm"
 	},
 	"id": "12C0246",
 	"coordinates": [

@@ -1,0 +1,140 @@
+{
+	"name": "AR-RAUDHAH MEDICAL CLINIC AND SURGERY PTE LTD",
+	"tel": "65677458",
+	"fax": "65668454",
+	"licensee": "AR-RAUDHAH MEDICAL CLINIC AND SURGERY PTE. LTD.",
+	"licensePeriod": "02/09/2015 to 01/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405288",
+	"address": "BLK 372 BUKIT BATOK STREET 31, #01-386 Singapore 650372",
+	"doctorInCharge": [
+		{
+			"name": "Amir Adhha Bin Abdullah",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Public Holiday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
+	},
+	"id": "9405288",
+	"coordinates": [
+		103.7512137,
+		1.3586692
+	],
+	"svy21": [
+		18862.68,
+		37860.4
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

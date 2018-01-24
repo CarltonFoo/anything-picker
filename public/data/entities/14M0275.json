@@ -27,64 +27,14 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"21:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"21:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"21:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Thursday": [
-			[
-				"21:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Friday": [
-			[
-				"21:00",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Saturday": [
-			[
-				"09:00",
-				"13:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "14M0275",
 	"coordinates": [

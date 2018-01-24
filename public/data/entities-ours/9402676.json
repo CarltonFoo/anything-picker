@@ -1,0 +1,78 @@
+{
+	"name": "AMICAL DENTAL SURGERY",
+	"tel": "67866286",
+	"fax": "67855311",
+	"licensee": "Amical Dental Surgery Pte. Ltd.",
+	"licensePeriod": "21/03/2014 to 20/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402676",
+	"address": "BLK 827 Tampines Street 81, #01-132 Singapore 520827",
+	"doctorInCharge": [
+		{
+			"name": "Tan Wee Cheng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"20:30"
+			]
+		],
+		"Saturday": [],
+		"Public Holiday": [],
+		"Sunday": [
+			[
+				"09:30",
+				"13:00"
+			]
+		]
+	},
+	"id": "9402676",
+	"coordinates": [
+		103.9337192,
+		1.3497215
+	],
+	"svy21": [
+		39173.48,
+		36871.09
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

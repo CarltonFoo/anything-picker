@@ -29,19 +29,14 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [],
-		"Tuesday": [],
-		"Wednesday": [
-			[
-				"19:00",
-				"12:00"
-			]
-		],
-		"Thursday": [],
-		"Friday": [],
-		"Saturday": [],
-		"Sunday": []
+		"Public Holiday": "Closed",
+		"Monday": "Closed",
+		"Tuesday": "Closed",
+		"Wednesday": "07:00 pm to 10:00 pm",
+		"Thursday": "Closed",
+		"Friday": "Closed",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
 	},
 	"id": "9403429",
 	"coordinates": [

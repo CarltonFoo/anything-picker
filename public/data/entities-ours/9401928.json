@@ -1,0 +1,126 @@
+{
+	"name": "YAP FAMILY CLINIC AND SURGERY PTE. LTD.",
+	"tel": "64577618",
+	"fax": "64577618",
+	"licensee": "YAP THIAM KOON",
+	"licensePeriod": "26/08/2017 to 17/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401928",
+	"address": "BLK 232 ANG MO KIO AVE 3, #01-1208 Singapore 560232",
+	"doctorInCharge": [
+		{
+			"name": "YAP THIAM KOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		]
+	},
+	"id": "9401928",
+	"coordinates": [
+		103.837196,
+		1.3683461
+	],
+	"svy21": [
+		28431.52,
+		38930.27
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

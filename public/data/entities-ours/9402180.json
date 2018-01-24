@@ -1,0 +1,139 @@
+{
+	"name": "FIRST MEDICAL CENTRE PTE LTD",
+	"tel": "64768588",
+	"fax": "64768533",
+	"licensee": "LOW PENG KIT",
+	"licensePeriod": "13/12/2015 to 12/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402180",
+	"address": "BLK 169 STIRLING ROAD, #01-1165 Singapore 140169",
+	"doctorInCharge": [
+		{
+			"name": "WANG JOON LEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:00",
+				"12:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
+	},
+	"id": "9402180",
+	"coordinates": [
+		103.8031059,
+		1.2904349
+	],
+	"svy21": [
+		24637.59,
+		30315.27
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

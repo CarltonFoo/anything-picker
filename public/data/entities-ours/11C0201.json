@@ -1,0 +1,96 @@
+{
+	"name": "ACCORD MEDICAL CLINIC",
+	"tel": "68441528",
+	"fax": "68443782",
+	"licensee": "ACCORD MEDICAL PTE. LTD.",
+	"licensePeriod": "09/11/2017 to 08/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0201",
+	"address": "BLK 325 UBI AVENUE 1, #01-701 Singapore 400325",
+	"doctorInCharge": [
+		{
+			"name": "ONG CHOR TECK, JOSEPH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		]
+	},
+	"id": "11C0201",
+	"coordinates": [
+		103.9038261,
+		1.3277047
+	],
+	"svy21": [
+		35846.77,
+		34436.47
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

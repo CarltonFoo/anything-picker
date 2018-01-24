@@ -3,8 +3,8 @@
 	"tel": "62277255",
 	"fax": "62277291",
 	"licensee": "SINGAPORE NATIONAL EYE CENTRE PTE LTD",
-	"licensePeriod": "09/12/2017 to 08/12/2019",
-	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"licensePeriod": "09/12/2016 to 08/12/2017",
+	"licenseClass": "[ 1 Year ( 2D ) ]",
 	"hciCode": "1500000",
 	"address": "11 THIRD HOSPITAL AVE, Singapore 168751",
 	"doctorInCharge": [
@@ -30,39 +30,14 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"17:30"
-			]
-		],
-		"Saturday": [],
-		"Sunday": []
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
 	},
 	"id": "1500000",
 	"coordinates": [

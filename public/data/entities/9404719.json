@@ -23,44 +23,14 @@
 		"Liposuction"
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"00:15",
-				"18:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"00:15",
-				"18:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"00:15",
-				"18:30"
-			]
-		],
-		"Thursday": [
-			[
-				"00:15",
-				"18:30"
-			]
-		],
-		"Friday": [
-			[
-				"00:15",
-				"18:30"
-			]
-		],
-		"Saturday": [
-			[
-				"00:15",
-				"14:30"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "10:15 am to 06:30 pm",
+		"Tuesday": "10:15 am to 06:30 pm",
+		"Wednesday": "10:15 am to 06:30 pm",
+		"Thursday": "10:15 am to 06:30 pm",
+		"Friday": "10:15 am to 06:30 pm",
+		"Saturday": "10:15 am to 02:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9404719",
 	"coordinates": [

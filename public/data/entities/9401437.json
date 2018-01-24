@@ -3,8 +3,8 @@
 	"tel": "64440159",
 	"fax": "64440159",
 	"licensee": "Sebastian Victor @ Wardson Victor",
-	"licensePeriod": "08/12/2017 to 07/12/2019",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "08/12/2016 to 07/12/2017",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
 	"hciCode": "9401437",
 	"address": "BLK 531 BEDOK NORTH ST. 3, #01-694 Singapore 460531",
 	"doctorInCharge": [
@@ -26,76 +26,13 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			],
-			[
-				"19:00",
-				"21:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			],
-			[
-				"19:00",
-				"21:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"19:00",
-				"21:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"14:00"
-			]
-		],
-		"Sunday": [
-			[
-				"09:30",
-				"14:00"
-			]
-		]
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "09:30 am to 12:00 pm"
 	},
 	"id": "9401437",
 	"coordinates": [

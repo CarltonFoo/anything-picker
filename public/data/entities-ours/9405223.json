@@ -1,0 +1,80 @@
+{
+	"name": "LQ DENTAL PTE LTD",
+	"tel": "62654694",
+	"fax": "63972816",
+	"licensee": "LQ DENTAL PTE. LTD.",
+	"licensePeriod": "29/06/2017 to 28/06/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405223",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTRE (SQUARE 2), #11-10/11 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Johnny Lee Moh Hiong",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1973"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9405223",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

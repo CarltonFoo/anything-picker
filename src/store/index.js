@@ -3,40 +3,26 @@ import Vuex from 'vuex'
 import pull from 'lodash/pull'
 import uniq from 'lodash/uniq'
 
-import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 import {collectValues, optionsSelected} from 'helpers/util'
 
-import * as modulesForPrimary from './modulesForPrimary'
-import * as modulesForPreschool from './modulesForPreschool'
+import * as modules from './modules'
+
+const ROUTING_SERVER = process.env.NODE_ENV === 'production'
+  ? process.env.ROUTING_SERVER_URL : 'http://localhost:5000'
 
 import {
-  getFilteredForPreschool,
-  getSuggestedForPreschool,
-  importOptionsForPreschool,
-  exportOptionsForPreschool
-} from './controllerForPreschool'
-
-import {
-  getFilteredForPrimary,
-  getSuggestedForPrimary,
-  importOptionsForPrimary,
-  exportOptionsForPrimary
-} from './controllerForPrimary'
+  getFiltered as filtered,
+  getSuggested as suggested,
+  importOptions,
+  exportOptions
+} from './controller'
 
 Vue.use(Vuex)
 
-const isForPreschool = process.env.VERSION === 'preschool'
-
-const modules = isForPreschool ? modulesForPreschool : modulesForPrimary
-const filtered = isForPreschool ? getFilteredForPreschool : getFilteredForPrimary
-const suggested = isForPreschool ? getSuggestedForPreschool : getSuggestedForPrimary
-const importOptions = isForPreschool ? importOptionsForPreschool : importOptionsForPrimary
-const exportOptions = isForPreschool ? exportOptionsForPreschool : exportOptionsForPrimary
-
 const store = new Vuex.Store({
   state: {
-    schoolList: null,
-    schoolDetail: {},
+    entityList: null,
+    entityDetail: {},
     travelTime: null,
     bookmarked: [],
     postalCode: null,
@@ -52,11 +38,11 @@ const store = new Vuex.Store({
     }
   },
   mutations: {
-    setSchoolList (state, arr) {
-      state.schoolList = arr
+    setEntityList (state, arr) {
+      state.entityList = arr
     },
-    addSchoolDetail (state, obj) {
-      Vue.set(state.schoolDetail, obj.id, obj)
+    addEntityDetail (state, obj) {
+      Vue.set(state.entityDetail, obj.id, obj)
     },
     setTravelTime (state, obj) {
       state.travelTime = obj
@@ -75,26 +61,26 @@ const store = new Vuex.Store({
     }
   },
   actions: {
-    fetchSchoolList (context) {
-      return window.fetch(window.location.origin + '/schoolList.json')
+    fetchEntityList (context) {
+      return window.fetch(window.location.origin + '/data/entityList.json')
         .then(res => res.json())
         .then(json => {
-          context.commit('setSchoolList', json)
+          context.commit('setEntityList', json)
           return json
         })
     },
-    fetchSchoolDetail (context, id) {
-      return window.fetch(window.location.origin + '/data/schools/' + id + '.json')
+    fetchEntityDetail (context, id) {
+      return window.fetch(window.location.origin + '/data/entities/' + id + '.json')
         .then(res => res.json())
         .then(json => {
-          context.commit('addSchoolDetail', json)
+          context.commit('addEntityDetail', json)
           return json
         })
     },
     fetchTravelTime (context, lnglat) {
       context.commit('setTravelTime', null)
       if (!lnglat) return
-      const url = window.location.origin + '/travel-time?location=' + toSVY21(lnglat).join(',')
+      const url = `${ROUTING_SERVER}/${process.env.VERSION}?coordinates=${lnglat.join(',')}`
       return window.fetch(url)
         .then(res => res.json())
         .then(json => {
@@ -123,7 +109,7 @@ const store = new Vuex.Store({
     locateAddress (context, postalCode) {
       context.commit('setPostalCode', postalCode)
       context.commit('setLocation', null)
-      const url = 'https://developers.onemap.sg/commonapi/search?searchVal=' + postalCode + '&returnGeom=Y&getAddrDetails=N'
+      const url = 'https://developers.onemap.sg/commonapi/search?searchVal=' + postalCode + '&returnGeom=Y&getAddrDetails=Y'
       return window.fetch(url)
         .then(res => res.json())
         .then(json => {
@@ -131,7 +117,8 @@ const store = new Vuex.Store({
             const match = json.results[0]
             const lnglat = [+match.LONGITUDE, +match.LATITUDE]
             context.commit('setLocation', lnglat)
-            return context.dispatch('fetchTravelTime', lnglat)
+            context.dispatch('fetchTravelTime', lnglat)
+            return match
           }
         }).catch(err => {
           console.error(err)

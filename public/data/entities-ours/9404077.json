@@ -1,0 +1,69 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63627924",
+	"fax": "63627924",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "13/01/2014 to 12/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404077",
+	"address": "BLK 23 WOODLANDS AVENUE 1, Singapore 739063",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		]
+	},
+	"id": "9404077",
+	"coordinates": [
+		103.7781929,
+		1.4304799
+	],
+	"svy21": [
+		21865.34,
+		45800.79
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

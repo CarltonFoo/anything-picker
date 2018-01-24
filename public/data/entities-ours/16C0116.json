@@ -1,0 +1,87 @@
+{
+	"name": "LEE WOMEN'S CLINIC & SURGERY",
+	"tel": "62356545",
+	"fax": "67343416",
+	"licensee": "LEETON INTERNATIONAL PTE LTD",
+	"licensePeriod": "27/04/2017 to 26/04/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "16C0116",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #06-33 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "Lee Sook Ling Michele",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1996",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2003",
+				"FRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2016"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"15:00"
+			]
+		]
+	},
+	"id": "16C0116",
+	"coordinates": [
+		103.8339619,
+		1.3045061
+	],
+	"svy21": [
+		28071.6,
+		31871.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

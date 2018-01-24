@@ -1,0 +1,83 @@
+{
+	"name": "AESTHÉA MEDICAL AESTHETIC CLINIC",
+	"tel": "63869639",
+	"fax": "63582629",
+	"licensee": "AESTHEA CLINIC PTE. LTD.",
+	"licensePeriod": "17/10/2016 to 16/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0318",
+	"address": "26 BEACH ROAD, #B1-24 Singapore 189768",
+	"doctorInCharge": [
+		{
+			"name": "Christopher Looi Vi Han",
+			"qualifications": [
+				"MB BCh BAO, LRCP & SI (National University of Ireland, Ireland) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"01:00",
+				"20:00"
+			]
+		],
+		"Sunday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		]
+	},
+	"id": "16M0318",
+	"coordinates": [
+		103.8560818,
+		1.2945036
+	],
+	"svy21": [
+		30533.35,
+		30765.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

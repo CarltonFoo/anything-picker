@@ -23,9 +23,9 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Thursday": [],
-		"Public Holiday": [],
-		"Sunday": []
+		"Thursday": "Closed",
+		"Public Holiday": "Closed",
+		"Sunday": "Closed"
 	},
 	"id": "11C0163",
 	"coordinates": [

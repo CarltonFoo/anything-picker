@@ -26,56 +26,11 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"09:00",
-				"14:30"
-			],
-			[
-				"19:30",
-				"21:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:00",
-				"14:30"
-			],
-			[
-				"19:30",
-				"21:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:00",
-				"14:30"
-			],
-			[
-				"19:30",
-				"21:30"
-			]
-		],
-		"Thursday": [
-			[
-				"09:00",
-				"14:30"
-			],
-			[
-				"19:30",
-				"21:30"
-			]
-		],
-		"Friday": [
-			[
-				"09:00",
-				"14:30"
-			],
-			[
-				"19:30",
-				"21:30"
-			]
-		]
+		"Monday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm"
 	},
 	"id": "9400285",
 	"coordinates": [

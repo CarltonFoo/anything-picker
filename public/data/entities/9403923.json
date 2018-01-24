@@ -22,83 +22,18 @@
 		"General Medical": true
 	},
 	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"19:00",
-				"12:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"19:00",
-				"12:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"19:00",
-				"12:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			],
-			[
-				"19:00",
-				"12:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"14:30"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9403923",
 	"coordinates": [

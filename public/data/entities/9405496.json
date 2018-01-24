@@ -22,8 +22,8 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Saturday": [],
-		"Sunday": []
+		"Saturday": "Closed",
+		"Sunday": "Closed"
 	},
 	"id": "9405496",
 	"coordinates": [

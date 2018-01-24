@@ -1,0 +1,106 @@
+{
+	"name": "SPRING MEDICAL CLINIC (OLD AIRPORT ROAD)",
+	"tel": "62477077",
+	"fax": "62479385",
+	"licensee": "SPRING MEDICAL CLINIC (OLD AIRPORT ROAD) PTE. LTD.",
+	"licensePeriod": "26/05/2014 to 25/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404163",
+	"address": "BLK 39 Jalan Tiga, #01-03 Singapore 390039",
+	"doctorInCharge": [
+		{
+			"name": "Lee Kok Weng Michael",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"15:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"18:30",
+				"21:30"
+			]
+		]
+	},
+	"id": "9404163",
+	"coordinates": [
+		103.8850923,
+		1.3078206
+	],
+	"svy21": [
+		33761.93,
+		32237.73
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

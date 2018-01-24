@@ -23,36 +23,11 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"01:00",
-				"19:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"01:00",
-				"19:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"01:00",
-				"19:00"
-			]
-		],
-		"Thursday": [
-			[
-				"01:00",
-				"19:00"
-			]
-		],
-		"Friday": [
-			[
-				"01:00",
-				"19:00"
-			]
-		]
+		"Monday": "11:00 am to 07:00 pm",
+		"Tuesday": "11:00 am to 07:00 pm",
+		"Wednesday": "11:00 am to 07:00 pm",
+		"Thursday": "11:00 am to 07:00 pm",
+		"Friday": "11:00 am to 07:00 pm"
 	},
 	"id": "9403904",
 	"coordinates": [

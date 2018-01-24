@@ -29,18 +29,13 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": [],
-		"Tuesday": [
-			[
-				"19:00",
-				"13:00"
-			]
-		],
-		"Wednesday": [],
-		"Thursday": [],
-		"Friday": [],
-		"Saturday": [],
-		"Sunday": []
+		"Monday": "Closed",
+		"Tuesday": "07:00 pm to 11:00 pm",
+		"Wednesday": "Closed",
+		"Thursday": "Closed",
+		"Friday": "Closed",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
 	},
 	"id": "9403428",
 	"coordinates": [

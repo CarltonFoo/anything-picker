@@ -1,0 +1,108 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "68729043",
+	"fax": "68729051",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "13/06/2017 to 12/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405624",
+	"address": "BLK 446 CLEMENTI AVENUE 3, #01-189 Singapore 120446",
+	"doctorInCharge": [
+		{
+			"name": "Chin Min Kwong",
+			"qualifications": [
+				""
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Monday": [
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
+	},
+	"id": "9405624",
+	"coordinates": [
+		103.7649278,
+		1.3125131
+	],
+	"svy21": [
+		20388.75,
+		32756.65
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

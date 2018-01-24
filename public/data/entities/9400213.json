@@ -20,10 +20,10 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Tuesday": [],
-		"Thursday": [],
-		"Sunday": [],
-		"Public Holiday": []
+		"Tuesday": "Closed",
+		"Thursday": "Closed",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9400213",
 	"coordinates": [

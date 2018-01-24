@@ -23,18 +23,6 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
-		"Public Holiday": [
-			[
-				"09:00",
-				"14:00"
-			],
-			[
-				"15:00",
-				"21:00"
-			]
-		]
-	},
 	"id": "16M0033",
 	"coordinates": [
 		103.7939856,

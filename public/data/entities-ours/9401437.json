@@ -1,0 +1,117 @@
+{
+	"name": "S. T. MEDICAL CLINIC",
+	"tel": "64440159",
+	"fax": "64440159",
+	"licensee": "Sebastian Victor @ Wardson Victor",
+	"licensePeriod": "08/12/2017 to 07/12/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401437",
+	"address": "BLK 531 BEDOK NORTH ST. 3, #01-694 Singapore 460531",
+	"doctorInCharge": [
+		{
+			"name": "Sebastian Victor @ Wardson Victor",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:30",
+				"14:00"
+			]
+		]
+	},
+	"id": "9401437",
+	"coordinates": [
+		103.9261531,
+		1.3331299
+	],
+	"svy21": [
+		38331.52,
+		35036.44
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

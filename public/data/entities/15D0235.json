@@ -29,8 +29,8 @@
 		]
 	},
 	"operatingHours": {
-		"Sunday": [],
-		"Public Holiday": []
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "15D0235",
 	"coordinates": [

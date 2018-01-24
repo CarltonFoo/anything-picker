@@ -26,16 +26,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Public Holiday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		]
+		"Public Holiday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm"
 	},
 	"id": "9405298",
 	"coordinates": [

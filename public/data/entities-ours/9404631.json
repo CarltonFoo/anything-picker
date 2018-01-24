@@ -1,0 +1,126 @@
+{
+	"name": "I.DENTAL @ UBI",
+	"tel": "68414080",
+	"fax": "68428443",
+	"licensee": "Ubi Dental Clinic Pte. Ltd.",
+	"licensePeriod": "20/11/2016 to 19/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404631",
+	"address": "BLK 302 UBI AVENUE 1, #01-47 Singapore 400302",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Eng Wah",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		]
+	},
+	"id": "9404631",
+	"coordinates": [
+		103.9009954,
+		1.3300259
+	],
+	"svy21": [
+		35531.74,
+		34693.12
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

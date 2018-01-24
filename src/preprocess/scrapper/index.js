@@ -8,8 +8,8 @@ import {clinic as clinicList} from '../../../data/clinicList.json'
 const queue = new ThrottledQueue(100)
 const debug = []
 const clinicSubset = clinicList.slice(4000, 5000)
-const jobs = clinicList
-  .map((id, i) => queue.push(fetchClinicInfo, id, clinicList.length - i))
+const jobs = clinicSubset
+  .map((id, i) => queue.push(fetchClinicInfo, id, clinicSubset.length - i))
 
 Promise.all(jobs).then(() => {
   if (debug.length > 0) console.log('Unsuccessfull:', debug)

@@ -23,57 +23,13 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"programmes": [
-		"Community Health Assistance Scheme (CHAS)"
-	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"13:30"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"13:30"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"13:30"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"13:30"
-			],
-			[
-				"18:00",
-				"21:30"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"13:30"
-			]
-		],
-		"Sunday": []
+		"Monday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:30 pm",
+		"Sunday": "Closed"
 	},
 	"id": "17C0318",
 	"coordinates": [

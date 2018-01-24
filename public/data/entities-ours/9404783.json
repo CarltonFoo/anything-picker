@@ -1,0 +1,89 @@
+{
+	"name": "FRONTIER PEOPLE'S CLINIC",
+	"tel": "64430261",
+	"fax": "64453185",
+	"licensee": "FRONTIER PEOPLE'S CLINIC PTE. LTD.",
+	"licensePeriod": "19/03/2014 to 18/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404783",
+	"address": "BLK 123 BEDOK NORTH STREET 2, #01-152 Singapore 460123",
+	"doctorInCharge": [
+		{
+			"name": "Teo Su Lin Pearlie",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
+	},
+	"id": "9404783",
+	"coordinates": [
+		103.9373433,
+		1.3291987
+	],
+	"svy21": [
+		39576.9,
+		34601.8
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"name": "HEALTH OUTREACH CLINIC",
+	"tel": "67466033",
+	"fax": "67779910",
+	"licensee": "HEALTH OUTREACH CLINIC PTE. LTD.",
+	"licensePeriod": "23/12/2015 to 22/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405416",
+	"address": "545 ORCHARD ROAD, FAR EAST SHOPPING CENTRE, #B1-01/02 Singapore 238882",
+	"doctorInCharge": [
+		{
+			"name": "Erwin Kay Aih Boon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2007",
+				"Dip(Child Health)(IPPC) (University of Sydney, Australia) 2013",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
+	},
+	"id": "9405416",
+	"coordinates": [
+		103.8299848,
+		1.3055061
+	],
+	"svy21": [
+		27628.98,
+		31981.75
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

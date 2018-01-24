@@ -28,81 +28,14 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:00",
-				"16:00"
-			],
-			[
-				"19:00",
-				"20:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:00",
-				"16:00"
-			],
-			[
-				"19:00",
-				"20:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"14:30"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"14:30"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:00",
-				"16:00"
-			],
-			[
-				"19:00",
-				"20:30"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:00",
-				"16:00"
-			],
-			[
-				"19:00",
-				"20:30"
-			]
-		],
-		"Sunday": [
-			[
-				"00:00",
-				"14:30"
-			]
-		]
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Sunday": "10:00 am to 12:30 pm"
 	},
 	"id": "9405550",
 	"coordinates": [

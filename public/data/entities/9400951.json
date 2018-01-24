@@ -3,8 +3,8 @@
 	"tel": "64431794",
 	"fax": "64431794",
 	"licensee": "LIEW BEE LENG",
-	"licensePeriod": "01/01/2018 to 31/12/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9400951",
 	"address": "BLK 5000G MARINE PARADE ROAD, LAGUNA PARK, #01-31 Singapore 449290",
 	"doctorInCharge": [
@@ -20,59 +20,13 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:30",
-				"16:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:30",
-				"16:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"14:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"14:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:30",
-				"16:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:30",
-				"16:00"
-			]
-		]
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:30 pm to 04:00 pm"
 	},
 	"id": "9400951",
 	"coordinates": [

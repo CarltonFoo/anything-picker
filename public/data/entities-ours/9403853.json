@@ -1,0 +1,73 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62757392",
+	"fax": "62757392",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "25/01/2015 to 24/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403853",
+	"address": "BLK 51 JALAN MEMBINA, Singapore 169485",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		]
+	},
+	"id": "9403853",
+	"coordinates": [
+		103.8259519,
+		1.2842115
+	],
+	"svy21": [
+		27180.15,
+		29627.11
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

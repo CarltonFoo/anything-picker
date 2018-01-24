@@ -1,0 +1,119 @@
+{
+	"name": "K W CHAN MEDICAL CLINIC & SURGERY",
+	"tel": "62440060",
+	"fax": "62440090",
+	"licensee": "CHAN KOK WENG",
+	"licensePeriod": "29/10/2016 to 28/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403266",
+	"address": "77 UPPER EAST COAST ROAD, LODGE 77, #01-04 Singapore 455218",
+	"doctorInCharge": [
+		{
+			"name": "CHAN KOK WENG",
+			"qualifications": [
+				"MB ChB (University of Dundee, United Kingdom) 1994",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "9403266",
+	"coordinates": [
+		103.9273918,
+		1.3133625
+	],
+	"svy21": [
+		38469.45,
+		32850.66
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

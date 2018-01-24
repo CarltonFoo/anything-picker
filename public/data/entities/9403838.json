@@ -26,77 +26,14 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"17:00"
-			],
-			[
-				"19:00",
-				"21:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"17:00"
-			],
-			[
-				"19:00",
-				"21:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"16:30"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"16:30"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"14:30"
-			],
-			[
-				"14:30",
-				"17:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"14:30"
-			]
-		],
-		"Sunday": [
-			[
-				"09:00",
-				"14:00"
-			]
-		]
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
 	},
 	"id": "9403838",
 	"coordinates": [

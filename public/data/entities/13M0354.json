@@ -3,8 +3,8 @@
 	"tel": "90188415",
 	"fax": "65326933",
 	"licensee": "DERMASOLUTIONS PTE. LTD.",
-	"licensePeriod": "23/12/2017 to 22/12/2019",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "23/12/2015 to 22/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "13M0354",
 	"address": "1 MARITIME SQUARE, HARBOURFRONT CENTRE, #03-55 Singapore 099253",
 	"doctorInCharge": [
@@ -22,44 +22,14 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Public Holiday": [],
-		"Monday": [
-			[
-				"01:00",
-				"20:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"01:00",
-				"20:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"01:00",
-				"20:00"
-			]
-		],
-		"Thursday": [
-			[
-				"01:00",
-				"20:00"
-			]
-		],
-		"Friday": [
-			[
-				"09:30",
-				"18:30"
-			]
-		],
-		"Saturday": [
-			[
-				"09:30",
-				"16:00"
-			]
-		],
-		"Sunday": []
+		"Public Holiday": "Closed",
+		"Monday": "11:00 am to 08:00 pm",
+		"Tuesday": "11:00 am to 08:00 pm",
+		"Wednesday": "11:00 am to 08:00 pm",
+		"Thursday": "11:00 am to 08:00 pm",
+		"Friday": "09:30 am to 06:30 pm",
+		"Saturday": "09:30 am to 04:00 pm",
+		"Sunday": "Closed"
 	},
 	"id": "13M0354",
 	"coordinates": [

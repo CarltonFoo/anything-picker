@@ -3,8 +3,8 @@
 	"tel": "62702233",
 	"fax": "62702708",
 	"licensee": "HONG CHEE BOO ALLAN",
-	"licensePeriod": "01/01/2018 to 31/12/2019",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "01/01/2017 to 31/12/2017",
+	"licenseClass": "[ 1 Year ( 1C ) ]",
 	"hciCode": "9400691",
 	"address": "BLK 111 JLN BUKIT MERAH, #01-1682 Singapore 160111",
 	"doctorInCharge": [
@@ -25,64 +25,14 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"14:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"14:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9400691",
 	"coordinates": [

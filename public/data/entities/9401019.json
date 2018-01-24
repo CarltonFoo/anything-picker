@@ -3,8 +3,8 @@
 	"tel": "67450722",
 	"fax": "67450722",
 	"licensee": "LUA CHEONG TIONG",
-	"licensePeriod": "01/01/2018 to 31/12/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9401019",
 	"address": "BLK 350 UBI AVE 1, #01-941 Singapore 400350",
 	"doctorInCharge": [
@@ -26,44 +26,14 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"16:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"16:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"16:30"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"16:30"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"16:30"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"14:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "08:30 am to 04:30 pm",
+		"Tuesday": "08:30 am to 04:30 pm",
+		"Wednesday": "08:30 am to 04:30 pm",
+		"Thursday": "08:30 am to 04:30 pm",
+		"Friday": "08:30 am to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9401019",
 	"coordinates": [

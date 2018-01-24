@@ -45,7 +45,7 @@ files.forEach(file => {
 function cleanOperatingHours (input) {
   const output = {}
   Object.keys(input).forEach(key => {
-    const value = cleanOperatingTime(input[key])
+    const value = input[key]
     let splitted = key.split(' and ')
     if (splitted.length > 1) {
       splitted.forEach(day => {
@@ -65,51 +65,4 @@ function cleanOperatingHours (input) {
     }
   })
   return output
-}
-
-function cleanOperatingTime (input) {
-  const output = []
-  let splitPeriods = input.split(', ')
-  if (splitPeriods.length > 1) {
-    splitPeriods.forEach(time => {
-      const frame = []
-      let splitted = time.split(' to ')
-      if (splitted.length > 1) {
-        splitted.forEach(time => {
-          frame.push(transformTime(time))
-        })
-      }
-      output.push(frame)
-    })
-  } else {
-    if (splitPeriods[0] === 'Closed') {
-      // do nothing
-    } else {
-      const frame = []
-      let splitted = splitPeriods[0].split(' to ')
-      if (splitted.length > 1) {
-        splitted.forEach(time => {
-          frame.push(transformTime(time))
-        })
-      }
-      output.push(frame)
-    }
-  }
-  return output
-}
-
-function transformTime (input) {
-  console.log(input)
-  const inputArr = input.slice(1, 6).split(':')
-  const hour = parseInt(inputArr[0])
-  const min = parseInt(inputArr[1])
-  if (input.indexOf('am') > 1) {
-    console.log(('0' + hour).slice(-2) + ':' + ('0' + min).slice(-2))
-    return (('0' + hour).slice(-2) + ':' + ('0' + min).slice(-2))
-  } else if (input.indexOf('pm') > 1) {
-    console.log(('0' + (hour + 12)).slice(-2) + ':' + ('0' + min).slice(-2))
-    return (('0' + (hour + 12)).slice(-2) + ':' + ('0' + min).slice(-2))
-  } else {
-    console.log('Err: No valid time to transform')
-  }
 }

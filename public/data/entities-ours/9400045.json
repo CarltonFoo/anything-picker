@@ -1,0 +1,141 @@
+{
+	"name": "ANG MO KIO DENTAL SURGERY",
+	"tel": "64522884",
+	"fax": "64522884",
+	"licensee": "CHEONG YUEN HING",
+	"licensePeriod": "16/11/2013 to 15/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400045",
+	"address": "BLK 157 ANG MO KIO AVE 4, #01-560 Singapore 560157",
+	"doctorInCharge": [
+		{
+			"name": "CHEONG YUEN HING",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1966",
+				"DDPH (London) (University of London, United Kingdom) 1977",
+				"FAMS (Dental Public Health) (Academy of Medicine, Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"21:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"21:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"21:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"21:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"21:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"21:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"00:00",
+				"21:00"
+			],
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		]
+	},
+	"id": "9400045",
+	"coordinates": [
+		103.8393951,
+		1.3753056
+	],
+	"svy21": [
+		28676.24,
+		39699.82
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

@@ -3,8 +3,8 @@
 	"tel": "67332555",
 	"fax": "67382631",
 	"licensee": "TAN HONG KIAT",
-	"licensePeriod": "01/01/2018 to 31/12/2019",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
 	"hciCode": "9400631",
 	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-02 Singapore 228510",
 	"doctorInCharge": [
@@ -23,47 +23,16 @@
 	],
 	"detailedServices": {
 		"Specialist Medical": [
-			"Anaesthesiology",
 			"General Surgery"
 		]
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"09:00",
-				"17:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:00",
-				"17:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:00",
-				"17:00"
-			]
-		],
-		"Thursday": [
-			[
-				"09:00",
-				"17:00"
-			]
-		],
-		"Friday": [
-			[
-				"09:00",
-				"17:00"
-			]
-		],
-		"Saturday": [
-			[
-				"09:00",
-				"13:00"
-			]
-		]
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
 	},
 	"id": "9400631",
 	"coordinates": [

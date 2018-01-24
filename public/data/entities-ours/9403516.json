@@ -1,0 +1,99 @@
+{
+	"name": "ASSOCIATE DISPENSARIES",
+	"tel": "62562308",
+	"fax": "62562308",
+	"licensee": "LEONG CHOON YIN",
+	"licensePeriod": "10/06/2015 to 09/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403516",
+	"address": "BLK 94 TOA PAYOH LOR 4, #01-20 Singapore 310094",
+	"doctorInCharge": [
+		{
+			"name": "LEONG CHOON YIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1961"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"01:30",
+				"14:30"
+			],
+			[
+				"15:30",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"01:30",
+				"14:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"01:30",
+				"14:30"
+			],
+			[
+				"15:30",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"01:30",
+				"14:30"
+			]
+		],
+		"Friday": [
+			[
+				"01:30",
+				"14:30"
+			],
+			[
+				"15:30",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"01:30",
+				"14:30"
+			],
+			[
+				"15:30",
+				"17:00"
+			]
+		]
+	},
+	"id": "9403516",
+	"coordinates": [
+		103.8495383,
+		1.3388944
+	],
+	"svy21": [
+		29805.08,
+		35673.67
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"name": "HEART MATTERS MEDICAL CENTRE PTE. LTD.",
-	"tel": "68361880",
+	"tel": "63391991",
 	"fax": "68361883",
 	"licensee": "HEART MATTERS MEDICAL CENTRE PTE. LTD.",
 	"licensePeriod": "28/02/2016 to 27/02/2018",
@@ -34,63 +34,13 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Thursday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Friday": [
-			[
-				"08:30",
-				"13:00"
-			],
-			[
-				"14:00",
-				"17:00"
-			]
-		],
-		"Saturday": [
-			[
-				"08:30",
-				"13:00"
-			]
-		],
-		"Sunday": []
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
 	},
 	"id": "14M0041",
 	"coordinates": [

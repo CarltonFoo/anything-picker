@@ -3,8 +3,8 @@
 	"tel": "62826306",
 	"fax": "62826306",
 	"licensee": "CHUA CHONG LI",
-	"licensePeriod": "01/01/2018 to 31/12/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "9400705",
 	"address": "BLK 631 HOUGANG AVE 8, #01-16 Singapore 530631",
 	"doctorInCharge": [
@@ -25,60 +25,14 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": [
-			[
-				"09:00",
-				"14:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:00",
-				"14:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:00",
-				"14:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Thursday": [],
-		"Public Holiday": [],
-		"Friday": [
-			[
-				"09:00",
-				"14:00"
-			],
-			[
-				"14:00",
-				"16:30"
-			]
-		],
-		"Saturday": [
-			[
-				"09:00",
-				"14:00"
-			]
-		],
-		"Sunday": [
-			[
-				"09:00",
-				"14:00"
-			]
-		]
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "Closed",
+		"Public Holiday": "Closed",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
 	},
 	"id": "9400705",
 	"coordinates": [

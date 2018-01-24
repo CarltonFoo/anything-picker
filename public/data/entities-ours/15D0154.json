@@ -1,0 +1,136 @@
+{
+	"name": "MYSMILE DENTAL CLINIC",
+	"tel": "62808140",
+	"fax": "62808127",
+	"licensee": "U&I DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "22/05/2017 to 21/05/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0154",
+	"address": "BLK 108 HOUGANG AVENUE 1, #01-1307 Singapore 530108",
+	"doctorInCharge": [
+		{
+			"name": "Ng Kay Eng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"13:30",
+				"17:00"
+			]
+		]
+	},
+	"id": "15D0154",
+	"coordinates": [
+		103.8900932,
+		1.3527739
+	],
+	"svy21": [
+		34318.37,
+		37208.46
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

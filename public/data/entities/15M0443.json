@@ -3,7 +3,7 @@
 	"tel": "62621226",
 	"fax": "67378069",
 	"licensee": "COLORECTAL PRACTICE PTE. LTD.",
-	"licensePeriod": "30/12/2017 to 29/12/2019",
+	"licensePeriod": "30/12/2015 to 29/12/2017",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15M0443",
 	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #13-05 Singapore 228510",
@@ -28,44 +28,14 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"21:00",
-				"18:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"21:00",
-				"18:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"21:00",
-				"18:00"
-			]
-		],
-		"Thursday": [
-			[
-				"21:00",
-				"18:00"
-			]
-		],
-		"Friday": [
-			[
-				"21:00",
-				"18:00"
-			]
-		],
-		"Saturday": [
-			[
-				"09:00",
-				"13:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "09:00 pm to 06:00 pm",
+		"Tuesday": "09:00 pm to 06:00 pm",
+		"Wednesday": "09:00 pm to 06:00 pm",
+		"Thursday": "09:00 pm to 06:00 pm",
+		"Friday": "09:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "15M0443",
 	"coordinates": [

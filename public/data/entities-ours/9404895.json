@@ -1,0 +1,144 @@
+{
+	"name": "Q & M DENTAL SURGERY (HOUGANG MALL) PTE LTD",
+	"tel": "62825500",
+	"fax": "63850768",
+	"licensee": "Q & M DENTAL SURGERY (HOUGANG MALL) PTE. LTD.",
+	"licensePeriod": "30/06/2016 to 29/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404895",
+	"address": "90 HOUGANG AVENUE 10, HOUGANG MALL, #04-07 Singapore 538766",
+	"doctorInCharge": [
+		{
+			"name": "Mohanarajah s/o S. Senathirajah",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2012",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2012"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		]
+	},
+	"id": "9404895",
+	"coordinates": [
+		103.8937756,
+		1.3724949
+	],
+	"svy21": [
+		34728.12,
+		39389.12
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

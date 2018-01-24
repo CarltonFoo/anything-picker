@@ -1,0 +1,104 @@
+{
+	"name": "JERRY TAN EYE SURGERY",
+	"tel": "67388122",
+	"fax": "67383822",
+	"licensee": "TAN TIANG HIN JERRY",
+	"licensePeriod": "15/05/2017 to 14/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403722",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #10-04/05/06/07/08 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "TAN TIANG HIN JERRY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1986",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 1991"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": []
+	},
+	"id": "9403722",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

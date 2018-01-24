@@ -1,0 +1,99 @@
+{
+	"name": "PRIMEHEALTH MEDICAL GROUP",
+	"tel": "67344666",
+	"fax": "67345663",
+	"licensee": "PRIMEHEALTH MEDICAL GROUP PTE LTD",
+	"licensePeriod": "24/11/2013 to 23/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402192",
+	"address": "81 CLEMENCEAU AVE, UE SQUARE, #03-22 Singapore 239917",
+	"doctorInCharge": [
+		{
+			"name": "Neoh Chi Lim",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		]
+	},
+	"id": "9402192",
+	"coordinates": [
+		103.8427029,
+		1.2921619
+	],
+	"svy21": [
+		29044.4,
+		30506.22
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

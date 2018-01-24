@@ -1,0 +1,79 @@
+{
+	"name": "COSMOPOLITAN CLINIC",
+	"tel": "63273773",
+	"fax": "63278582",
+	"licensee": "COSMOPOLITAN CLINIC PTE. LTD.",
+	"licensePeriod": "23/09/2017 to 22/09/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405316",
+	"address": "25 LORONG TELOK, #01-01 Singapore 049037",
+	"doctorInCharge": [
+		{
+			"name": "Alan Ho Chi Siang",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1997",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": [
+			[
+				"00:00",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:30",
+				"13:00"
+			]
+		],
+		"Sunday": []
+	},
+	"id": "9405316",
+	"coordinates": [
+		103.8487239,
+		1.286604
+	],
+	"svy21": [
+		29714.48,
+		29891.66
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

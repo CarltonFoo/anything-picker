@@ -1,0 +1,135 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "66363730",
+	"fax": "66363728",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "16/11/2017 to 15/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0205",
+	"address": "112 EAST COAST ROAD, I12 KATONG, #03-17 Singapore 428802",
+	"doctorInCharge": [
+		{
+			"name": "Wong Wen Yao Michael",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Public Holiday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
+	},
+	"id": "11C0205",
+	"coordinates": [
+		103.9050448,
+		1.3052065
+	],
+	"svy21": [
+		35982.47,
+		31948.74
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

@@ -3,8 +3,8 @@
 	"tel": "62521234",
 	"fax": "99999999",
 	"licensee": "NG LAY CHOO",
-	"licensePeriod": "01/01/2018 to 31/12/2019",
-	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"licensePeriod": "01/01/2017 to 31/12/2017",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
 	"hciCode": "9400472",
 	"address": "BLK 73 TOA PAYOH LOR 4, #01-599 Singapore 310073",
 	"doctorInCharge": [
@@ -21,38 +21,13 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": [
-			[
-				"09:00",
-				"18:00"
-			]
-		],
-		"Tuesday": [
-			[
-				"09:00",
-				"21:00"
-			]
-		],
-		"Thursday": [
-			[
-				"09:00",
-				"21:00"
-			]
-		],
-		"Wednesday": [
-			[
-				"09:00",
-				"18:00"
-			]
-		],
-		"Friday": [
-			[
-				"09:00",
-				"18:00"
-			]
-		],
-		"Sunday": [],
-		"Public Holiday": []
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
 	},
 	"id": "9400472",
 	"coordinates": [
