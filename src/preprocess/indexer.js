@@ -12,7 +12,8 @@ export function indexSchoolData () {
     'address',
     'coordinates',
     'svy21',
-    'planningArea'
+    'planningArea',
+    'openingHrs'
   ])
 
   const result = []

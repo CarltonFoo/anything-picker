@@ -59,6 +59,10 @@ export default {
     return count
   },
 
+  openingHrs (json) {
+    return json.operatingHours || {}
+  },
+
   licenseClass (json) {
     return json.licenseClass
   },
