@@ -28,6 +28,12 @@
 		]
 	},
 	"id": "17M0282",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical",
+		"Internal Medicine"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376

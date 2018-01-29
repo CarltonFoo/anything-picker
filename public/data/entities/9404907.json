@@ -66,6 +66,11 @@
 		"Public Holiday": []
 	},
 	"id": "9404907",
+	"combinedSpecialities": [
+		"Medical Oncology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723

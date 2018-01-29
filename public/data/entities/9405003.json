@@ -78,6 +78,11 @@
 		]
 	},
 	"id": "9405003",
+	"combinedSpecialities": [
+		"Psychiatry",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8339619,
 		1.3045061

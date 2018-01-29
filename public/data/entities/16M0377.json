@@ -25,6 +25,10 @@
 		"General Medical": true
 	},
 	"id": "16M0377",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8491763,
 		1.3010705

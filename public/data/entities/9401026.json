@@ -68,6 +68,11 @@
 		"Sunday": []
 	},
 	"id": "9401026",
+	"combinedSpecialities": [
+		"Cardiothoracic Surgery",
+		"Specialist Medical",
+		"Ophthalmology"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

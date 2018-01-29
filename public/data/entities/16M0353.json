@@ -29,6 +29,12 @@
 		]
 	},
 	"id": "16M0353",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Intensive Care Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173

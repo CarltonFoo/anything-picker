@@ -66,6 +66,11 @@
 		"Public Holiday": []
 	},
 	"id": "9401741",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9646322,
 		1.3670736

@@ -67,6 +67,10 @@
 		"Public Holiday": []
 	},
 	"id": "13C0213",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8187276,
 		1.4495449

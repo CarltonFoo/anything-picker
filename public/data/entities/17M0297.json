@@ -22,6 +22,10 @@
 		"General Medical": true
 	},
 	"id": "17M0297",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7601679,
 		1.3803368

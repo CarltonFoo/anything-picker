@@ -64,6 +64,11 @@
 		"Public Holiday": []
 	},
 	"id": "9404157",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8490238,
 		1.2824075

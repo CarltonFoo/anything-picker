@@ -28,5 +28,11 @@
 			"Renal Medicine"
 		]
 	},
-	"id": "17M0390"
+	"id": "17M0390",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"General Medical",
+		"Specialist Medical"
+	]
 }

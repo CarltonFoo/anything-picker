@@ -67,6 +67,12 @@
 		]
 	},
 	"id": "13C0227",
+	"combinedSpecialities": [
+		"Anaesthesiology",
+		"Intensive Care Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

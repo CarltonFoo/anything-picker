@@ -41,6 +41,23 @@
 		]
 	},
 	"id": "17M0006",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Day Surgery",
+		"Endoscopy",
+		"Specialist Medical",
+		"Anaesthesiology",
+		"Diagnostic Radiology",
+		"Endocrinology",
+		"Gastroenterology",
+		"General Surgery",
+		"Hand Surgery",
+		"Internal Medicine",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Pathology",
+		"Renal Medicine"
+	],
 	"coordinates": [
 		103.8007207,
 		1.4397495

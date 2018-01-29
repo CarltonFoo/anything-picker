@@ -29,6 +29,13 @@
 		]
 	},
 	"id": "14M0260",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"General Medical",
+		"Specialist Medical",
+		"General Surgery",
+		"Internal Medicine"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

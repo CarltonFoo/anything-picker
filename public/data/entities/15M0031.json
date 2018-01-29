@@ -66,6 +66,11 @@
 		]
 	},
 	"id": "15M0031",
+	"combinedSpecialities": [
+		"Infectious Diseases",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732

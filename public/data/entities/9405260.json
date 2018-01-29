@@ -67,6 +67,10 @@
 		"Sunday": []
 	},
 	"id": "9405260",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8348274,
 		1.3039454

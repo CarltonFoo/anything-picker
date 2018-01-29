@@ -96,6 +96,12 @@
 		]
 	},
 	"id": "15D0178",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8319706,
 		1.3061133

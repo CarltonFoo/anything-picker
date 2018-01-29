@@ -67,6 +67,11 @@
 		"Sunday": []
 	},
 	"id": "9403139",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.774823,
 		1.3771562

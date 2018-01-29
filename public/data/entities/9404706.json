@@ -91,6 +91,11 @@
 		"Public Holiday": []
 	},
 	"id": "9404706",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

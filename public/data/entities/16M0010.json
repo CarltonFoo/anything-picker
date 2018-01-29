@@ -30,6 +30,11 @@
 		]
 	},
 	"id": "16M0010",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Day Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7999739,
 		1.288598

@@ -82,6 +82,11 @@
 		"Sunday": []
 	},
 	"id": "12C0169",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8511842,
 		1.291185

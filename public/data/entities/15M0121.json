@@ -63,6 +63,10 @@
 		"Sunday": []
 	},
 	"id": "15M0121",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8366851,
 		1.2814683

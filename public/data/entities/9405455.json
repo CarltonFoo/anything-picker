@@ -67,6 +67,10 @@
 		"Public Holiday": []
 	},
 	"id": "9405455",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279

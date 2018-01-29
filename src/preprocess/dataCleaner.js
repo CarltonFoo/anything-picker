@@ -32,6 +32,18 @@ files.forEach(file => {
       processed.operatingHours = cleanOperatingHours(raw.operatingHours)
     }
 
+    if (raw.doctorInCharge) {
+      const doctorSpecialties = raw.doctorInCharge[0].specialties
+      if (doctorSpecialties || raw.mohApprovedSpecialServices || raw.detailedServices) {
+        processed.combinedSpecialities = combineSpecialties(doctorSpecialties, raw.mohApprovedSpecialServices, raw.detailedServices)
+      }
+    } else {
+      if (raw.mohApprovedSpecialServices || raw.detailedServices) {
+        const doctorSpecialties = undefined
+        processed.combinedSpecialities = combineSpecialties(doctorSpecialties, raw.mohApprovedSpecialServices, raw.detailedServices)
+      }
+    }
+
     const location = locations[processed.id]
     Object.assign(processed, location)
 
@@ -99,17 +111,44 @@ function cleanOperatingTime (input) {
 }
 
 function transformTime (input) {
-  console.log(input)
   const inputArr = input.slice(1, 6).split(':')
   const hour = parseInt(inputArr[0])
   const min = parseInt(inputArr[1])
   if (input.indexOf('am') > 1) {
-    console.log(('0' + hour).slice(-2) + ':' + ('0' + min).slice(-2))
     return (('0' + hour).slice(-2) + ':' + ('0' + min).slice(-2))
   } else if (input.indexOf('pm') > 1) {
-    console.log(('0' + (hour + 12)).slice(-2) + ':' + ('0' + min).slice(-2))
     return (('0' + (hour + 12)).slice(-2) + ':' + ('0' + min).slice(-2))
   } else {
     console.log('Err: No valid time to transform')
   }
+}
+
+function combineSpecialties (doctorSpecialties, specialServices, detailedServices) {
+  const result = []
+  if (doctorSpecialties) {
+    doctorSpecialties.forEach(value => {
+      result.push(value)
+    })
+  }
+  if (specialServices) {
+    specialServices.forEach(value => {
+      result.push(value)
+    })
+  }
+  if (detailedServices) {
+    Object.keys(detailedServices).forEach(value => {
+      result.push(value)
+    })
+    Object.values(detailedServices).forEach(value => {
+      if (Array.isArray(value)) {
+        value.forEach(value => {
+          result.push(value)
+        })
+      }
+    })
+  }
+  var unique = result.filter(function (elem, index, self) {
+    return index === self.indexOf(elem)
+  })
+  return unique
 }

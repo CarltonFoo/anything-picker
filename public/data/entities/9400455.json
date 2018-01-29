@@ -117,6 +117,12 @@
 		]
 	},
 	"id": "9400455",
+	"combinedSpecialities": [
+		"Occupational Medicine",
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7356222,
 		1.3448561

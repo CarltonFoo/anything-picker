@@ -68,6 +68,11 @@
 		"Sunday": []
 	},
 	"id": "9404274",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

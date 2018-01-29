@@ -67,6 +67,12 @@
 		"Sunday": []
 	},
 	"id": "15M0370",
+	"combinedSpecialities": [
+		"Medical Oncology",
+		"Palliative Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228

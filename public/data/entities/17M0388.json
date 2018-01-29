@@ -24,5 +24,9 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"id": "17M0388"
+	"id": "17M0388",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	]
 }

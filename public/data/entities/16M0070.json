@@ -22,6 +22,10 @@
 		"Specialist Medical": true
 	},
 	"id": "16M0070",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

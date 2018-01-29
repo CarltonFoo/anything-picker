@@ -24,6 +24,10 @@
 		"General Dental": true
 	},
 	"id": "14D0065",
+	"combinedSpecialities": [
+		"Prosthodontics",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8566128,
 		1.3378805

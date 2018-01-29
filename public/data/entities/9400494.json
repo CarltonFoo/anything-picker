@@ -114,6 +114,12 @@
 		]
 	},
 	"id": "9400494",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Paediatric Medicine"
+	],
 	"coordinates": [
 		103.8386805,
 		1.2769243

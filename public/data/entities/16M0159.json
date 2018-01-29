@@ -39,6 +39,13 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "16M0159",
+	"combinedSpecialities": [
+		"Intensive Care Medicine",
+		"Internal Medicine",
+		"Respiratory Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

@@ -82,6 +82,11 @@
 		"Sunday": []
 	},
 	"id": "11C0229",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9056844,
 		1.3062328

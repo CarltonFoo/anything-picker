@@ -80,6 +80,12 @@
 		"Sunday": []
 	},
 	"id": "13D0324",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.9060381,
 		1.3063917

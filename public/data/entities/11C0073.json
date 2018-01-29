@@ -85,5 +85,9 @@
 		],
 		"Sunday": []
 	},
-	"id": "11C0073"
+	"id": "11C0073",
+	"combinedSpecialities": [
+		"Neurosurgery",
+		"Specialist Medical"
+	]
 }

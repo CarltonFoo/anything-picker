@@ -81,6 +81,12 @@
 		]
 	},
 	"id": "9400129",
+	"combinedSpecialities": [
+		"Occupational Medicine",
+		"General Medical",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.7124293,
 		1.3463482

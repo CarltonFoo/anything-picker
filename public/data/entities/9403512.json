@@ -31,6 +31,13 @@
 		]
 	},
 	"id": "9403512",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"General Dental",
+		"Specialist Medical",
+		"Hand Surgery",
+		"Paediatric Medicine"
+	],
 	"coordinates": [
 		103.9394931,
 		1.3752589

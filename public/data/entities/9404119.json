@@ -86,6 +86,10 @@
 		"Public Holiday": []
 	},
 	"id": "9404119",
+	"combinedSpecialities": [
+		"Plastic Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228

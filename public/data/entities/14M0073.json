@@ -65,6 +65,10 @@
 		"Public Holiday": []
 	},
 	"id": "14M0073",
+	"combinedSpecialities": [
+		"Psychiatry",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049

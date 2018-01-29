@@ -27,6 +27,10 @@
 		"Public Holiday": []
 	},
 	"id": "16C0042",
+	"combinedSpecialities": [
+		"Endoscopy",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8161119,
 		1.3307299

@@ -25,6 +25,13 @@
 		]
 	},
 	"id": "17C0165",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Orthodontics",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7488268,
 		1.3780262

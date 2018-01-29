@@ -86,6 +86,13 @@
 		]
 	},
 	"id": "9403908",
+	"combinedSpecialities": [
+		"Sports Medicine",
+		"General Medical",
+		"Specialist Medical",
+		"Aviation Medicine",
+		"Occupational Medicine"
+	],
 	"coordinates": [
 		103.8373592,
 		1.3013988

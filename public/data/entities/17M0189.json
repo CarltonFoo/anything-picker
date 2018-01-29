@@ -30,6 +30,15 @@
 		]
 	},
 	"id": "17M0189",
+	"combinedSpecialities": [
+		"Haematology",
+		"Specialist Medical",
+		"Diagnostic Radiology",
+		"General Surgery",
+		"Medical Oncology",
+		"Palliative Medicine",
+		"Radiation Oncology"
+	],
 	"coordinates": [
 		103.8361194,
 		1.2785806

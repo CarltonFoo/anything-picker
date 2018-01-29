@@ -29,5 +29,12 @@
 			"Plastic Surgery"
 		]
 	},
-	"id": "17M0404"
+	"id": "17M0404",
+	"combinedSpecialities": [
+		"Plastic Surgery",
+		"Day Surgery",
+		"Liposuction",
+		"General Medical",
+		"Specialist Medical"
+	]
 }

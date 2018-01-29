@@ -74,6 +74,15 @@
 		"Public Holiday": []
 	},
 	"id": "9404843",
+	"combinedSpecialities": [
+		"Prosthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

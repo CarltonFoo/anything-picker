@@ -24,6 +24,12 @@
 		]
 	},
 	"id": "9405790",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.858982,
 		1.2842307

@@ -62,6 +62,11 @@
 		]
 	},
 	"id": "13C0032",
+	"combinedSpecialities": [
+		"Medical Oncology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

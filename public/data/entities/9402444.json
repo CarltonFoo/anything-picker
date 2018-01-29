@@ -60,6 +60,13 @@
 		]
 	},
 	"id": "9402444",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8472196,
 		1.2757309

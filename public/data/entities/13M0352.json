@@ -70,6 +70,10 @@
 		"Public Holiday": []
 	},
 	"id": "13M0352",
+	"combinedSpecialities": [
+		"Cardiology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279

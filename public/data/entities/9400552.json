@@ -102,6 +102,11 @@
 		"Sunday": []
 	},
 	"id": "9400552",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8160061,
 		1.2839123

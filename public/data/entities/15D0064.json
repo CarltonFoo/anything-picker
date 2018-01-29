@@ -66,6 +66,12 @@
 		"Sunday": []
 	},
 	"id": "15D0064",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8533493,
 		1.2802277

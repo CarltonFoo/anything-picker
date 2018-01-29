@@ -65,6 +65,14 @@
 		]
 	},
 	"id": "9400074",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry"
+	],
 	"coordinates": [
 		103.8346761,
 		1.3024242

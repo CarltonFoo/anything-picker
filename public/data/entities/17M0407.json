@@ -26,5 +26,9 @@
 			"Gastroenterology"
 		]
 	},
-	"id": "17M0407"
+	"id": "17M0407",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"Specialist Medical"
+	]
 }

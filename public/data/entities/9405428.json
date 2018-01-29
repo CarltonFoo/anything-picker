@@ -29,6 +29,10 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405428",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

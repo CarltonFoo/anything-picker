@@ -83,6 +83,10 @@
 		"Public Holiday": []
 	},
 	"id": "9403071",
+	"combinedSpecialities": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

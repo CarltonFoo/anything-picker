@@ -63,6 +63,11 @@
 		"Public Holiday": []
 	},
 	"id": "9404394",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"Specialist Medical",
+		"Hand Surgery"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

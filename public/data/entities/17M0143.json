@@ -30,6 +30,12 @@
 		]
 	},
 	"id": "17M0143",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Endoscopy",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.788546,
 		1.310103

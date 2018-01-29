@@ -68,5 +68,10 @@
 		"Sunday": [],
 		"Public Holiday": []
 	},
-	"id": "17M0410"
+	"id": "17M0410",
+	"combinedSpecialities": [
+		"Plastic Surgery",
+		"Liposuction",
+		"Specialist Medical"
+	]
 }

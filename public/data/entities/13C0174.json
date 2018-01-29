@@ -69,6 +69,12 @@
 		"Public Holiday": []
 	},
 	"id": "13C0174",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.8321282,
 		1.306547

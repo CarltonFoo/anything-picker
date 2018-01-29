@@ -22,6 +22,10 @@
 		"Specialist Medical": true
 	},
 	"id": "16M0376",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8335678,
 		1.4318876

@@ -20,6 +20,9 @@
 		"General Dental": true
 	},
 	"id": "14D0139",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.7427664,
 		1.3341575

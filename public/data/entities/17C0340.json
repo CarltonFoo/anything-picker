@@ -31,5 +31,14 @@
 			"Prosthodontics"
 		]
 	},
-	"id": "17C0340"
+	"id": "17C0340",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Orthodontics",
+		"Periodontology",
+		"Prosthodontics"
+	]
 }

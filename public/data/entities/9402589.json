@@ -23,6 +23,10 @@
 		"General Dental": true
 	},
 	"id": "9402589",
+	"combinedSpecialities": [
+		"Paediatric Dentistry",
+		"General Dental"
+	],
 	"coordinates": [
 		103.809118,
 		1.2972916

@@ -23,6 +23,10 @@
 		"General Medical": true
 	},
 	"id": "9405643",
+	"combinedSpecialities": [
+		"Liposuction",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8581175,
 		1.3025842

@@ -87,6 +87,14 @@
 		]
 	},
 	"id": "11C0106",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

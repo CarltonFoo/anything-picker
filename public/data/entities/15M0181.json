@@ -81,6 +81,25 @@
 		]
 	},
 	"id": "15M0181",
+	"combinedSpecialities": [
+		"Cardiology",
+		"Specialist Medical",
+		"Dermatology",
+		"Endocrinology",
+		"Gastroenterology",
+		"General Surgery",
+		"Internal Medicine",
+		"Neurology",
+		"Neurosurgery",
+		"Obstetrics & Gynaecology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Plastic Surgery",
+		"Psychiatry",
+		"Respiratory Medicine",
+		"Rheumatology",
+		"Urology"
+	],
 	"coordinates": [
 		103.8319706,
 		1.3061133

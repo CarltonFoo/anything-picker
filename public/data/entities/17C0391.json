@@ -21,5 +21,9 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"id": "17C0391"
+	"id": "17C0391",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	]
 }

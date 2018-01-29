@@ -77,5 +77,10 @@ export default {
 
   planningArea (json) {
     return json.planning_area
+  },
+
+  combinedSpecialities (json) {
+    console.log(json.combinedSpecialities || [])
+    return json.combinedSpecialities || []
   }
 }

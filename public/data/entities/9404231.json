@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "9404231",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228

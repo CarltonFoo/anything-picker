@@ -30,6 +30,11 @@
 		"Public Holiday": []
 	},
 	"id": "15M0401",
+	"combinedSpecialities": [
+		"Rheumatology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

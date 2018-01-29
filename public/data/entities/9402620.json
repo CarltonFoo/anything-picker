@@ -59,6 +59,11 @@
 		"Public Holiday": []
 	},
 	"id": "9402620",
+	"combinedSpecialities": [
+		"Periodontology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.804019,
 		1.2868513

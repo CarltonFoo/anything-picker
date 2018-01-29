@@ -26,6 +26,10 @@
 		"Specialist Medical": true
 	},
 	"id": "15M0055",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376

@@ -66,6 +66,11 @@
 		"Sunday": []
 	},
 	"id": "9405410",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.846558,
 		1.2888386

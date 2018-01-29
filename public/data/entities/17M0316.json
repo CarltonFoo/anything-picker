@@ -26,6 +26,11 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "17M0316",
+	"combinedSpecialities": [
+		"Aviation Medicine",
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7117037,
 		1.3496777

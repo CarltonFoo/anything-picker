@@ -33,6 +33,15 @@
 		]
 	},
 	"id": "16M0312",
+	"combinedSpecialities": [
+		"Otorhinolaryngology",
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction",
+		"General Medical",
+		"Specialist Medical",
+		"Plastic Surgery"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723

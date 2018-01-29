@@ -64,6 +64,10 @@
 		]
 	},
 	"id": "12C0234",
+	"combinedSpecialities": [
+		"Hand Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

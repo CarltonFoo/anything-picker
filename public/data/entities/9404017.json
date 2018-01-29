@@ -33,6 +33,15 @@
 		]
 	},
 	"id": "9404017",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Paediatric Dentistry",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8346761,
 		1.3024242

@@ -23,6 +23,10 @@
 		"General Dental": true
 	},
 	"id": "14D0272",
+	"combinedSpecialities": [
+		"Dental Public Health",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8153995,
 		1.289651

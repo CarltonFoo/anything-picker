@@ -89,6 +89,13 @@
 		"Sunday": []
 	},
 	"id": "9402697",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723

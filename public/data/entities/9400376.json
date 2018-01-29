@@ -21,6 +21,10 @@
 		"Yellow Fever Vaccination": true
 	},
 	"id": "9400376",
+	"combinedSpecialities": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.7765394,
 		1.3424126

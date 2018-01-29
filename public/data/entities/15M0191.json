@@ -62,6 +62,11 @@
 		]
 	},
 	"id": "15M0191",
+	"combinedSpecialities": [
+		"Aviation Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732

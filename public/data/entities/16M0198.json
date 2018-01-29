@@ -21,6 +21,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "16M0198",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8373592,
 		1.3013988

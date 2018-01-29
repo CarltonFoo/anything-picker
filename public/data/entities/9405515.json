@@ -84,6 +84,12 @@
 		"Public Holiday": []
 	},
 	"id": "9405515",
+	"combinedSpecialities": [
+		"Neonatology",
+		"Paediatric Intensive Care",
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228

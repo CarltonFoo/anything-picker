@@ -29,5 +29,13 @@
 			"Prosthodontics"
 		]
 	},
-	"id": "17D0386"
+	"id": "17D0386",
+	"combinedSpecialities": [
+		"Endodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Oral & Maxillo-Facial Surgery",
+		"Prosthodontics"
+	]
 }

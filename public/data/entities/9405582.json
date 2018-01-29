@@ -31,6 +31,11 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405582",
+	"combinedSpecialities": [
+		"Hand Surgery",
+		"Specialist Medical",
+		"General Surgery"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173

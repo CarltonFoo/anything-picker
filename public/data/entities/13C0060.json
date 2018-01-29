@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "13C0060",
+	"combinedSpecialities": [
+		"General Medical",
+		"Specialist Medical",
+		"Sports Medicine"
+	],
 	"coordinates": [
 		103.8438472,
 		1.2769367

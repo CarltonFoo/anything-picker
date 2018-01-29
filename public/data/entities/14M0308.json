@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "14M0308",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Specialist Medical",
+		"Neurosurgery"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228

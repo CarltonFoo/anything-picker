@@ -66,6 +66,11 @@
 		]
 	},
 	"id": "12C0033",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

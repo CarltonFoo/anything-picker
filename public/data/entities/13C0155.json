@@ -60,6 +60,11 @@
 		]
 	},
 	"id": "13C0155",
+	"combinedSpecialities": [
+		"Neurosurgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

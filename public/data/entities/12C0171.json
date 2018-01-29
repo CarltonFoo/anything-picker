@@ -66,6 +66,11 @@
 		"Sunday": []
 	},
 	"id": "12C0171",
+	"combinedSpecialities": [
+		"Dermatology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

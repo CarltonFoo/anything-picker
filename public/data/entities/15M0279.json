@@ -60,6 +60,12 @@
 		]
 	},
 	"id": "15M0279",
+	"combinedSpecialities": [
+		"Infectious Diseases",
+		"General Medical",
+		"Specialist Medical",
+		"Internal Medicine"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732

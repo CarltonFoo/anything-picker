@@ -28,6 +28,11 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9405293",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.775277,
 		1.3423572

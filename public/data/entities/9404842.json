@@ -78,6 +78,17 @@
 		"Public Holiday": []
 	},
 	"id": "9404842",
+	"combinedSpecialities": [
+		"Plastic Surgery",
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction",
+		"General Medical",
+		"Specialist Medical",
+		"Diagnostic Radiology",
+		"Gastroenterology",
+		"Haematology"
+	],
 	"coordinates": [
 		103.8339619,
 		1.3045061

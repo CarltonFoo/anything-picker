@@ -90,6 +90,12 @@
 		"Public Holiday": []
 	},
 	"id": "14M0035",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical",
+		"General Surgery",
+		"Intensive Care Medicine"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

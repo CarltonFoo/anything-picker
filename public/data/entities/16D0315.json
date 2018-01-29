@@ -24,6 +24,11 @@
 		"Specialist Dental": true
 	},
 	"id": "16D0315",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049

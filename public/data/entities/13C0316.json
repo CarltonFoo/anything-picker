@@ -26,6 +26,11 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "13C0316",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.9865622,
 		1.3566261

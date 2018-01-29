@@ -68,6 +68,12 @@
 		]
 	},
 	"id": "12C0253",
+	"combinedSpecialities": [
+		"Intensive Care Medicine",
+		"Respiratory Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

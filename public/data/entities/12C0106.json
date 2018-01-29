@@ -80,6 +80,13 @@
 		"Sunday": []
 	},
 	"id": "12C0106",
+	"combinedSpecialities": [
+		"General Medical",
+		"Yellow Fever Vaccination",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology",
+		"Ophthalmology"
+	],
 	"coordinates": [
 		103.8510725,
 		1.2843495

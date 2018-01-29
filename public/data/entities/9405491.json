@@ -64,6 +64,10 @@
 		"Public Holiday": []
 	},
 	"id": "9405491",
+	"combinedSpecialities": [
+		"Sports Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376

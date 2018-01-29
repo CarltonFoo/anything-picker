@@ -108,6 +108,10 @@
 		"Public Holiday": []
 	},
 	"id": "17M0063",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.895387,
 		1.4032271

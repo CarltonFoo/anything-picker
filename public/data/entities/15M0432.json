@@ -84,6 +84,11 @@
 		]
 	},
 	"id": "15M0432",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8429302,
 		1.4266249

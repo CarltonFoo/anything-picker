@@ -90,6 +90,11 @@
 		]
 	},
 	"id": "13C0005",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8339619,
 		1.3045061

@@ -70,6 +70,12 @@
 		"Sunday": []
 	},
 	"id": "13C0029",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.9011605,
 		1.3107159

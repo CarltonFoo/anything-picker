@@ -93,6 +93,14 @@
 		"Public Holiday": []
 	},
 	"id": "15C0228",
+	"combinedSpecialities": [
+		"Aviation Medicine",
+		"Occupational Medicine",
+		"General Dental",
+		"General Medical",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9002809,
 		1.3436361

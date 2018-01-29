@@ -80,6 +80,9 @@
 		"Public Holiday": []
 	},
 	"id": "13C0077",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8373592,
 		1.3013988

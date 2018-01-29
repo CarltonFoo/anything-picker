@@ -66,6 +66,12 @@
 		]
 	},
 	"id": "12C0130",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Specialist Medical",
+		"Gastroenterology",
+		"Urology"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

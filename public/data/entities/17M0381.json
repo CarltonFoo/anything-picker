@@ -24,5 +24,10 @@
 		"General Medical": true,
 		"Specialist Medical": true
 	},
-	"id": "17M0381"
+	"id": "17M0381",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical"
+	]
 }

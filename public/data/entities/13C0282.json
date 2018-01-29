@@ -66,6 +66,13 @@
 		]
 	},
 	"id": "13C0282",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Specialist Medical",
+		"Gastroenterology",
+		"Intensive Care Medicine",
+		"Respiratory Medicine"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279

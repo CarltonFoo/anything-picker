@@ -88,6 +88,11 @@
 		"Public Holiday": []
 	},
 	"id": "9401473",
+	"combinedSpecialities": [
+		"Occupational Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.804019,
 		1.2868513

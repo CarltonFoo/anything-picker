@@ -26,5 +26,10 @@
 			"General Surgery"
 		]
 	},
-	"id": "18M0008"
+	"id": "18M0008",
+	"combinedSpecialities": [
+		"General Surgery",
+		"General Medical",
+		"Specialist Medical"
+	]
 }

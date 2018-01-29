@@ -66,6 +66,12 @@
 		]
 	},
 	"id": "12C0140",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical",
+		"Medical Oncology"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279

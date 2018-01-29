@@ -66,6 +66,12 @@
 		]
 	},
 	"id": "11C0116",
+	"combinedSpecialities": [
+		"Medical Oncology",
+		"Palliative Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

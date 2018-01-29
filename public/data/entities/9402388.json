@@ -24,6 +24,10 @@
 		"General Medical": true
 	},
 	"id": "9402388",
+	"combinedSpecialities": [
+		"Occupational Medicine",
+		"General Medical"
+	],
 	"coordinates": [
 		103.6688766,
 		1.2927591

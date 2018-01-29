@@ -25,6 +25,12 @@
 		]
 	},
 	"id": "17M0184",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Paediatric Medicine"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173

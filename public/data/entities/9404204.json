@@ -28,6 +28,11 @@
 		]
 	},
 	"id": "9404204",
+	"combinedSpecialities": [
+		"Cardiothoracic Surgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

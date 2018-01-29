@@ -61,6 +61,10 @@
 		"Public Holiday": []
 	},
 	"id": "12C0214",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049

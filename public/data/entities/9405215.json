@@ -67,6 +67,11 @@
 		"Public Holiday": []
 	},
 	"id": "9405215",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Specialist Medical",
+		"Urology"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

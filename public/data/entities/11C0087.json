@@ -71,6 +71,13 @@
 		]
 	},
 	"id": "11C0087",
+	"combinedSpecialities": [
+		"Cardiology",
+		"Specialist Medical",
+		"Cardiothoracic Surgery",
+		"Medical Oncology",
+		"Neurosurgery"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723

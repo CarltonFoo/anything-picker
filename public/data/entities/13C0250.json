@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "13C0250",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7396769,
 		1.3338254

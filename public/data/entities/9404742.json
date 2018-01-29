@@ -47,6 +47,27 @@
 		]
 	},
 	"id": "9404742",
+	"combinedSpecialities": [
+		"Hand Surgery",
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction",
+		"General Dental",
+		"General Medical",
+		"Specialist Medical",
+		"Specialist Dental",
+		"Anaesthesiology",
+		"Cardiology",
+		"General Surgery",
+		"Obstetrics & Gynaecology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Paediatric Surgery",
+		"Plastic Surgery",
+		"Urology",
+		"Oral & Maxillo-Facial Surgery",
+		"Paediatric Dentistry"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049

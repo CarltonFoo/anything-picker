@@ -58,6 +58,11 @@
 		]
 	},
 	"id": "11C0147",
+	"combinedSpecialities": [
+		"General Surgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

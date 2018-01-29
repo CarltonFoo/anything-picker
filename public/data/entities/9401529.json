@@ -96,6 +96,9 @@
 		"Public Holiday": []
 	},
 	"id": "9401529",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8464282,
 		1.4250107

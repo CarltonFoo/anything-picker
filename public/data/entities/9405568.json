@@ -63,6 +63,13 @@
 		]
 	},
 	"id": "9405568",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Endoscopy",
+		"General Medical",
+		"Specialist Medical",
+		"Otorhinolaryngology"
+	],
 	"coordinates": [
 		103.7517903,
 		1.3486668

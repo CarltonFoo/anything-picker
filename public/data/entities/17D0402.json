@@ -22,5 +22,9 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"id": "17D0402"
+	"id": "17D0402",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	]
 }

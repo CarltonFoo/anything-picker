@@ -21,5 +21,9 @@
 	"detailedServices": {
 		"Specialist Medical": true
 	},
-	"id": "17M0389"
+	"id": "17M0389",
+	"combinedSpecialities": [
+		"Urology",
+		"Specialist Medical"
+	]
 }

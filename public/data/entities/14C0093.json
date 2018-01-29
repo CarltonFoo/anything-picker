@@ -67,6 +67,12 @@
 		"Public Holiday": []
 	},
 	"id": "14C0093",
+	"combinedSpecialities": [
+		"Family Physician",
+		"Endoscopy",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

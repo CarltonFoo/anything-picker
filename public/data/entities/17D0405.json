@@ -19,5 +19,8 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"id": "17D0405"
+	"id": "17D0405",
+	"combinedSpecialities": [
+		"General Dental"
+	]
 }

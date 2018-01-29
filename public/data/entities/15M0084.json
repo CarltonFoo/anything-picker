@@ -85,6 +85,10 @@
 		"Public Holiday": []
 	},
 	"id": "15M0084",
+	"combinedSpecialities": [
+		"Otorhinolaryngology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

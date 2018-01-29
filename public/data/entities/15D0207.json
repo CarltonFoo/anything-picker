@@ -92,6 +92,10 @@
 		"Public Holiday": []
 	},
 	"id": "15D0207",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8948949,
 		1.3189967

@@ -74,6 +74,12 @@
 		]
 	},
 	"id": "15M0365",
+	"combinedSpecialities": [
+		"Internal Medicine",
+		"Renal Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

@@ -25,5 +25,9 @@
 			"Ophthalmology"
 		]
 	},
-	"id": "17M0379"
+	"id": "17M0379",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Specialist Medical"
+	]
 }

@@ -16,6 +16,10 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9404662",
+	"combinedSpecialities": [
+		"General Dental",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7981743,
 		1.3018647

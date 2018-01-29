@@ -34,6 +34,11 @@
 		"Public Holiday": []
 	},
 	"id": "9405091",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Endoscopy",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

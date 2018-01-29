@@ -49,6 +49,11 @@
 		"Public Holiday": []
 	},
 	"id": "14C0094",
+	"combinedSpecialities": [
+		"Family Physician",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

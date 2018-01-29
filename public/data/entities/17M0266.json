@@ -28,6 +28,12 @@
 		]
 	},
 	"id": "17M0266",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical",
+		"Gastroenterology"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652

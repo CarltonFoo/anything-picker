@@ -25,5 +25,9 @@
 			"General Surgery"
 		]
 	},
-	"id": "17M0387"
+	"id": "17M0387",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Specialist Medical"
+	]
 }

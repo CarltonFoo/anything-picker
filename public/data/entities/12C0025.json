@@ -27,6 +27,11 @@
 		]
 	},
 	"id": "12C0025",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8538394,
 		1.3081644

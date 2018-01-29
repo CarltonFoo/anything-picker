@@ -28,6 +28,11 @@
 		]
 	},
 	"id": "15C0029",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279

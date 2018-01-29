@@ -85,6 +85,10 @@
 		"Sunday": []
 	},
 	"id": "12C0229",
+	"combinedSpecialities": [
+		"Psychiatry",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616

@@ -84,6 +84,13 @@
 		]
 	},
 	"id": "14D0002",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8337929,
 		1.307177

@@ -80,6 +80,17 @@
 		]
 	},
 	"id": "12C0039",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7401871,
 		1.3333231

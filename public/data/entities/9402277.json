@@ -70,6 +70,12 @@
 		"Public Holiday": []
 	},
 	"id": "9402277",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"General Medical",
+		"Specialist Medical",
+		"Endocrinology"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732

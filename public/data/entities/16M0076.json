@@ -42,6 +42,24 @@
 		]
 	},
 	"id": "16M0076",
+	"combinedSpecialities": [
+		"Hand Surgery",
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction",
+		"General Medical",
+		"Specialist Medical",
+		"Anaesthesiology",
+		"Gastroenterology",
+		"General Surgery",
+		"Obstetrics & Gynaecology",
+		"Ophthalmology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Paediatric Surgery",
+		"Plastic Surgery",
+		"Urology"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723

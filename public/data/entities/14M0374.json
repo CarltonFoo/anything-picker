@@ -68,6 +68,11 @@
 		"Public Holiday": []
 	},
 	"id": "14M0374",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Assisted Reproduction (IVF)",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8321282,
 		1.306547

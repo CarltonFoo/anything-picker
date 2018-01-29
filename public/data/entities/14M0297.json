@@ -69,6 +69,13 @@
 		"Public Holiday": []
 	},
 	"id": "14M0297",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"General Medical",
+		"Specialist Medical",
+		"General Surgery",
+		"Internal Medicine"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732

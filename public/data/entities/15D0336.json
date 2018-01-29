@@ -28,6 +28,14 @@
 		]
 	},
 	"id": "15D0336",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8321282,
 		1.306547

@@ -125,6 +125,13 @@
 		]
 	},
 	"id": "9405715",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8397589,
 		1.301978

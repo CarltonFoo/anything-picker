@@ -86,6 +86,12 @@
 		]
 	},
 	"id": "9405142",
+	"combinedSpecialities": [
+		"Family Physician",
+		"Specialist Medical",
+		"Paediatric Medicine",
+		"Paediatric Surgery"
+	],
 	"coordinates": [
 		103.9450718,
 		1.3542564

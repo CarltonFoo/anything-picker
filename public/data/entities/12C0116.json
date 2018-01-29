@@ -27,6 +27,12 @@
 		]
 	},
 	"id": "12C0116",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"General Medical",
+		"Specialist Medical",
+		"Dermatology"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466

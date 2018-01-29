@@ -30,6 +30,12 @@
 		]
 	},
 	"id": "13C0130",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7754005,
 		1.4336333

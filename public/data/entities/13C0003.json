@@ -112,6 +112,15 @@
 		]
 	},
 	"id": "13C0003",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7448896,
 		1.3810907

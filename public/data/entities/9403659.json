@@ -68,6 +68,11 @@
 		"Sunday": []
 	},
 	"id": "9403659",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
