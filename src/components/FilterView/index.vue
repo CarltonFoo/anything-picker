@@ -1,11 +1,11 @@
 <template>
   <div class="picker-filter toolbar tertiary no-padding">
     <div class="row auto">
-      <LocationTab class="width-1of5" @expand="openModal" />
-      <OperatingHoursTab class="width-1of5" />
-      <PriceTab class="width-1of5" />
-  	  <InsuranceTab class="width-1of5" @expand="openModal" />
-      <TypeTab class="width-1of5" @expand="openModal" />
+      <LocationTab class="width-1of4" @expand="openModal" />
+      <OperatingHoursTab class="width-1of4" />
+      <!-- <PriceTab class="width-1of5" /> -->
+  	  <InsuranceTab class="width-1of4" @expand="openModal" />
+      <TypeTab class="width-1of4" @expand="openModal" />
   	</div>
 
     <LocationModal ref="location" />
@@ -17,7 +17,7 @@
 <script>
 import LocationTab from './Tab/Location'
 import OperatingHoursTab from './Tab/OperatingHours'
-import PriceTab from './Tab/Price'
+// import PriceTab from './Tab/Price'
 import InsuranceTab from './Tab/Insurance'
 import TypeTab from './Tab/Type'
 
@@ -44,7 +44,7 @@ export default {
     LocationTab,
     LocationModal,
     OperatingHoursTab,
-    PriceTab,
+    // PriceTab,
     InsuranceTab,
     InsuranceModal,
     TypeTab,
@@ -66,8 +66,8 @@ export default {
     letter-spacing: 0.75px;
   }
 
-  .width-1of5 {
-    min-width: 168px;
+  .width-1of4 {
+    min-width: 210px;
     border-left: 2px solid $color-border;
     height: 100px;
 

@@ -62,7 +62,7 @@ const store = new Vuex.Store({
   },
   actions: {
     fetchEntityList (context) {
-      return window.fetch(window.location.origin + '/data/entityList.json')
+      return window.fetch(window.location.origin + '/data/entityListSample.json')
         .then(res => res.json())
         .then(json => {
           context.commit('setEntityList', json)

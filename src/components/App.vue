@@ -15,9 +15,11 @@
       <router-view name="aside"
         :selectedTab="selectedTab"
         :hovered="hovered"
+        :narrowed="narrowed"
         @hover="onHover"
         @bookmark="onBookmark"
         @focus="onFocus"
+        @narrow="onNarrow"
         @toggleDrawer="toggleDrawer" />
     <!-- </transition> -->
     <FilterViewMobile ref="drawer" class="mobile-only" />
@@ -32,6 +34,7 @@ export default {
   data () {
     return {
       hovered: null,
+      narrowed: null,
       selectedTab: '/explore'
     }
   },
@@ -59,6 +62,9 @@ export default {
           query: this.$route.query
         })
       }
+    },
+    onNarrow (list) {
+      this.narrowed = list
     },
     onChangeTab (tab) {
       this.selectedTab = tab

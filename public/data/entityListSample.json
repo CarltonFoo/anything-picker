@@ -1,0 +1,998 @@
+[
+	{
+		"name": "NATIONAL SKIN CENTRE",
+		"phone": "62534455",
+		"address": "1 MANDALAY ROAD, Singapore 308205",
+		"coordinates": [
+			103.8490431,
+			1.3194581
+		],
+		"svy21": [
+			29749.98,
+			335.49
+		],
+		"planningArea": "NV",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"bba",
+		  "chas",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "hospital",
+		"id": "1300000"
+	},
+	{
+		"name": "SINGAPORE NATIONAL EYE CENTRE",
+		"phone": "62277255",
+		"address": "11 THIRD HOSPITAL AVE, Singapore 168751",
+		"coordinates": [
+			103.8357365,
+			1.2810803
+		],
+		"svy21": [
+			28269.1,
+			29280.87
+		],
+		"planningArea": "BM",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+		  "chas",
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "hospital",
+		"id": "1500000"
+	},
+	{
+		"name": "NATIONAL NEUROSCIENCE INSTITUTE",
+		"phone": "62564755",
+		"address": "11 Jalan Tan Tock Seng, Singapore 308433",
+		"coordinates": [
+			103.8513476,
+			1.3205028
+		],
+		"svy21": [
+			30006.45,
+			33640.01
+		],
+		"planningArea": "NV",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+		  "chas",
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "hospital",
+		"id": "2000000"
+	},
+	{
+		"name": "115 EASTPOINT CLINIC & SURGERY",
+		"phone": "64410180",
+		"address": "BLK 115 BEDOK NORTH RD, #01-301 Singapore 460115",
+		"coordinates": [
+			103.9371915,
+			1.3316567
+		],
+		"svy21": [
+			39559.98,
+			34873.59
+		],
+		"planningArea": "BD",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"bba",
+		  "chas",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "private",
+		"id": "9400001"
+	},
+	{
+		"name": "18 CLINIC",
+		"phone": "62999750",
+		"address": "BLK 101 TOWNER ROAD, #01-228 Singapore 322101",
+		"coordinates": [
+			103.8610875,
+			1.3194254
+		],
+		"svy21": [
+			31090.4,
+			33520.89
+		],
+		"planningArea": "KL",
+		"operatingHours": [
+		  "12-6"
+		],
+		"price": "$",
+		"insurance": [
+  		"aia",
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "private",
+		"id": "9400002"
+	},
+	{
+		"name": "6-10 CLINIC & SURGERY",
+		"phone": "62837998",
+		"address": "BLK 253 SERANGOON CENTRAL DR, #01-187 Singapore 550253",
+		"coordinates": [
+			103.8708515,
+			1.3540394
+		],
+		"svy21": [
+			32176.99,
+			37348.35
+		],
+		"planningArea": "SG",
+		"operatingHours": [
+		  "6-12"
+		],
+		"price": "$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"axamed",
+			"axacli",
+			"bba",
+		  "chas",
+			"prudential"
+		],
+		"clinicType": "private",
+		"id": "9400004"
+	},
+	{
+		"name": "81 FAMILY CLINIC",
+		"phone": "63466768",
+		"address": "BLK 86 MARINE PARADE CENTRAL, #01-670 Singapore 440086",
+		"coordinates": [
+			103.9067545,
+			1.3017372
+		],
+		"svy21": [
+			36172.76,
+			31565.12
+		],
+		"planningArea": "MP",
+		"operatingHours": [
+		  "12-6",
+		  "6-12"
+		],
+		"price": "$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"axamed"
+		],
+		"clinicType": "private",
+		"id": "9400006"
+	},
+	{
+		"name": "AMPM FAMILY CLINIC & SURGERY PTE. LTD.",
+		"phone": "62530917",
+		"address": "BLK 123 TOA PAYOH LOR 1, #01-521 Singapore 310123",
+		"coordinates": [
+			103.8457038,
+			1.338649
+		],
+		"svy21": [
+			29378.35,
+			35646.53
+		],
+		"planningArea": "TP",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"axamed"
+		],
+		"clinicType": "private",
+		"id": "9400011"
+	},
+	{
+		"name": "ABRAHAM'S EAR, NOSE & THROAT SURGERY PTE LTD",
+		"phone": "67344927",
+		"address": "290 Orchard Road, Paragon, #11-10 Singapore 238859",
+		"coordinates": [
+			103.8358575,
+			1.3038723
+		],
+		"svy21": [
+			28282.56,
+			31801.09
+		],
+		"planningArea": "CA",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"axamed",
+		  "ge",
+		  "ntuc"
+		],
+		"clinicType": "hospital",
+		"id": "9400013"
+	},
+	{
+		"name": "ACCENT DENTAL SURGERY PTE LTD",
+		"phone": "64535339",
+		"address": "BLK 446 ANG MO KIO AVE 10, #01-1669 Singapore 560446",
+		"coordinates": [
+			103.8553571,
+			1.367761
+		],
+		"svy21": [
+			30452.63,
+			38865.58
+		],
+		"planningArea": "AM",
+		"operatingHours": [
+		  "12-6",
+		  "6-12"
+		],
+		"price": "$$$",
+		"insurance": [
+			"bba",
+		  "chas",
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400015"
+	},
+	{
+		"name": "ACCORD DENTAL CLINIC",
+		"phone": "65821368",
+		"address": "BLK 442 PASIR RIS DR 6, #01-26 Singapore 510442",
+		"coordinates": [
+			103.9579517,
+			1.3689329
+		],
+		"svy21": [
+			41870.18,
+			38995.52
+		],
+		"planningArea": "PR",
+		"operatingHours": [
+		  "12-6"
+		],
+		"price": "$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"axamed",
+			"axacli",
+			"bba",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400016"
+	},
+	{
+		"name": "ACE DENTAL CENTRE",
+		"phone": "64579032",
+		"address": "BLK 338 ANG MO KIO AVE 1, #01-1669 Singapore 560338",
+		"coordinates": [
+			103.848987,
+			1.3638957
+		],
+		"svy21": [
+			29743.71,
+			38438.18
+		],
+		"planningArea": "AM",
+		"operatingHours": [
+		  "12-6",
+		  "6-12"
+		],
+		"price": "$$$",
+		"insurance": [
+			"bba",
+		  "chas",
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400017"
+	},
+	{
+		"name": "ADIDAH FAMILY CLINIC & SURGERY",
+		"phone": "67845435",
+		"address": "BLK 821 TAMPINES ST 81, #01-210 Singapore 520821",
+		"coordinates": [
+			103.9346491,
+			1.3484198
+		],
+		"svy21": [
+			39276.97,
+			36727.16
+		],
+		"planningArea": "TM",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$",
+		"insurance": [
+			"bba",
+		  "chas",
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "private",
+		"id": "9400018"
+	},
+	{
+		"name": "AGAPE CLINIC",
+		"phone": "64548535",
+		"address": "BLK 222 Bishan St. 23, #B1-169 Singapore 570222",
+		"coordinates": [
+			103.8482085,
+			1.3580352
+		],
+		"svy21": [
+			29657.07,
+			37790.16
+		],
+		"planningArea": "BS",
+		"operatingHours": [
+		  "12-6",
+		  "6-12"
+		],
+		"price": "$$",
+		"insurance": [
+  		"aia",
+		  "chas",
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "private",
+		"id": "9400020"
+	},
+	{
+		"name": "ALJUNIED DENTAL SURGERY PTE LTD",
+		"phone": "67485838",
+		"address": "BLK 119 ALJUNIED AVE 2, #01-70 Singapore 380119",
+		"coordinates": [
+			103.8860581,
+			1.3201289
+		],
+		"svy21": [
+			33869.39,
+			33598.72
+		],
+		"planningArea": "GL",
+		"operatingHours": [
+		  "12-6",
+		  "6-12"
+		],
+		"price": "$$$",
+		"insurance": [
+  		"aia",
+			"alliance"
+		],
+		"clinicType": "dentist",
+		"id": "9400023"
+	},
+	{
+		"name": "ALJUNIED MEDICAL CLINIC",
+		"phone": "67482884",
+		"address": "BLK 119 GEYLANG EAST CENTRAL, #01-72 Singapore 380119",
+		"coordinates": [
+			103.8860581,
+			1.3201289
+		],
+		"svy21": [
+			33869.39,
+			33598.72
+		],
+		"planningArea": "GL",
+		"operatingHours": [
+		  "12-6"
+		],
+		"price": "$$",
+		"insurance": [
+		  "chas"
+		],
+		"clinicType": "polyclinic",
+		"id": "9400024"
+	},
+	{
+		"name": "AMITY MEDICAL CLINIC & DENTAL SURGERY",
+		"phone": "65609292",
+		"address": "BLK 371 BT BATOK ST 31, #01-314 Singapore 650371",
+		"coordinates": [
+			103.7506946,
+			1.3592594
+		],
+		"svy21": [
+			18804.91,
+			37925.67
+		],
+		"planningArea": "BK",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$",
+		"insurance": [
+			"csmbs",
+		  "ge"
+		],
+		"clinicType": "dentist",
+		"id": "9400036"
+	},
+	{
+		"name": "AMK CENTRAL DENTAL SURGERY",
+		"phone": "64557930",
+		"address": "BLK 726 ANG MO KIO AVE 6, #01-4162 Singapore 560726",
+		"coordinates": [
+			103.8464483,
+			1.3727836
+		],
+		"svy21": [
+			29461.18,
+			39420.95
+		],
+		"planningArea": "AM",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+		  "chas",
+			"csmbs",
+		  "ge"
+		],
+		"clinicType": "dentist",
+		"id": "9400037"
+	},
+	{
+		"name": "ANDERSON MEDICAL CENTRE",
+		"phone": "64599195",
+		"address": "BLK 283 BISHAN ST 22, #01-173 Singapore 570283",
+		"coordinates": [
+			103.8447486,
+			1.3589191
+		],
+		"svy21": [
+			29272.03,
+			37887.89
+		],
+		"planningArea": "BS",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "private",
+		"id": "9400038"
+	},
+	{
+		"name": "ANG DENTAL SURGERY",
+		"phone": "62359976",
+		"address": "304 ORCHARD ROAD, LUCKY PLAZA, #06-34/35 Singapore 238863",
+		"coordinates": [
+			103.8339619,
+			1.3045061
+		],
+		"svy21": [
+			28071.6,
+			31871.17
+		],
+		"planningArea": "CA",
+		"operatingHours": [
+		  "12-6"
+		],
+		"price": "$$$",
+		"insurance": [
+  		"aia",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400042"
+	},
+	{
+		"name": "ANG MO KIO DENTAL SURGERY",
+		"phone": "64522884",
+		"address": "BLK 157 ANG MO KIO AVE 4, #01-560 Singapore 560157",
+		"coordinates": [
+			103.8393951,
+			1.3753056
+		],
+		"svy21": [
+			28676.24,
+			39699.82
+		],
+		"planningArea": "AM",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$",
+		"insurance": [
+  		"aia",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400045"
+	},
+	{
+		"name": "ANG MO KIO MEDICAL CENTRE",
+		"phone": "64570273",
+		"address": "BLK 157 ANG MO KIO AVE 4, #01-558 Singapore 560157",
+		"coordinates": [
+			103.8393951,
+			1.3753056
+		],
+		"svy21": [
+			28676.24,
+			39699.82
+		],
+		"planningArea": "AM",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"bba",
+		  "chas",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400046"
+	},
+	{
+		"name": "ANGELIN'S BABY & CHILD CLINIC",
+		"phone": "63661011",
+		"address": "BLK 303 WOODLANDS ST 31, #01-177 Singapore 730303",
+		"coordinates": [
+			103.7740111,
+			1.4307996
+		],
+		"svy21": [
+			21399.96,
+			45836.15
+		],
+		"planningArea": "WD",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$",
+		"insurance": [
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "private",
+		"id": "9400048"
+	},
+	{
+		"name": "ANNE'S BABY AND CHILD CLINIC",
+		"phone": "65667216",
+		"address": "BLK 214 JURONG EAST STREET 21, #01-433 Singapore 600214",
+		"coordinates": [
+			103.7389852,
+			1.3392863
+		],
+		"svy21": [
+			17501.7,
+			35717.19
+		],
+		"planningArea": "JE",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$",
+		"insurance": [
+  		"aia",
+		  "chas",
+			"prudential"
+		],
+		"clinicType": "private",
+		"id": "9400049"
+	},
+	{
+		"name": "ANTHONY HENG SURGERY",
+		"phone": "67346333",
+		"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #05-02 Singapore 258499",
+		"coordinates": [
+			103.8201245,
+			1.3070616
+		],
+		"svy21": [
+			26531.62,
+			32153.75
+		],
+		"planningArea": "TN",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+		  "chas",
+			"csmbs",
+		  "ge"
+		],
+		"clinicType": "hospital",
+		"id": "9400052"
+	},
+	{
+		"name": "APEX CLINIC & SURGERY",
+		"phone": "63677710",
+		"address": "BLK 306 WOODLANDS ST 31, #01-39 Singapore 730306",
+		"coordinates": [
+			103.7746366,
+			1.4299299
+		],
+		"svy21": [
+			21469.57,
+			45739.99
+		],
+		"planningArea": "WD",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$",
+		"insurance": [
+			"axamed",
+		  "chas",
+			"csmbs"
+		],
+		"clinicType": "private",
+		"id": "9400053"
+	},
+	{
+		"name": "APEX CLINIC & SURGERY",
+		"phone": "67535621",
+		"address": "BLK 844 YISHUN ST 81, #01-162 Singapore 760844",
+		"coordinates": [
+			103.8354465,
+			1.4156252
+		],
+		"svy21": [
+			28236.81,
+			44158.16
+		],
+		"planningArea": "YS",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+  		"aia",
+			"bba",
+		  "chas",
+			"csmbs",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "private",
+		"id": "9400054"
+	},
+	{
+		"name": "APEX MEDICAL CENTRE (JURONG) PTE LTD",
+		"phone": "67912292",
+		"address": "BLK 960 JURONG WEST ST 92, #01-172 Singapore 640960",
+		"coordinates": [
+			103.6914596,
+			1.3413853
+		],
+		"svy21": [
+			12212.62,
+			35949.55
+		],
+		"planningArea": "JW",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"bba",
+		  "chas",
+			"prudential"
+		],
+		"clinicType": "polyclinic",
+		"id": "9400055"
+	},
+	{
+		"name": "APEX DENTAL SURGERY",
+		"phone": "64548091",
+		"address": "BLK 632 ANG MO KIO AVE 4, #01-956 Singapore 560632",
+		"coordinates": [
+			103.8414324,
+			1.3799268
+		],
+		"svy21": [
+			28902.96,
+			40210.81
+		],
+		"planningArea": "AM",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"axamed",
+			"axacli",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400056"
+	},
+	{
+		"name": "APOLLONIA DENTAL SURGERY",
+		"phone": "62256323",
+		"address": "BLK 1 TANJONG PAGAR PLAZA, #02-35 Singapore 082001",
+		"coordinates": [
+			103.8423932,
+			1.2755962
+		],
+		"svy21": [
+			29009.93,
+			28674.47
+		],
+		"planningArea": "CA",
+		"operatingHours": [
+		  "12-6"
+		],
+		"price": "$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+		  "chas",
+			"csmbs",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400057"
+	},
+	{
+		"name": "APPLE DENTAL CLINIC",
+		"phone": "64416880",
+		"address": "BLK 217 BEDOK NORTH ST 1, #01-67 Singapore 460217",
+		"coordinates": [
+			103.9339207,
+			1.3268372
+		],
+		"svy21": [
+			39196,
+			34340.66
+		],
+		"planningArea": "BD",
+		"operatingHours": [
+		  "7-12",
+		  "12-6",
+		  "6-12",
+		  "12-7",
+		  "24"
+		],
+		"price": "$$",
+		"insurance": [
+		  "chas",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400058"
+	},
+	{
+		"name": "AR-RAUDHAH MEDICAL CLINIC",
+		"phone": "65677458",
+		"address": "BLK 372 BT BATOK ST 31, #01-386 Singapore 650372",
+		"coordinates": [
+			103.7512137,
+			1.3586692
+		],
+		"svy21": [
+			18862.68,
+			37860.4
+		],
+		"planningArea": "BK",
+		"operatingHours": [
+		  "12-6",
+		  "6-12"
+		],
+		"price": "$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"bba",
+		  "chas"
+		],
+		"clinicType": "private",
+		"id": "9400060"
+	},
+	{
+		"name": "ARTHUR TAN HEART CLINIC",
+		"phone": "64755438",
+		"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #04-07 Singapore 258499",
+		"coordinates": [
+			103.8201245,
+			1.3070616
+		],
+		"svy21": [
+			26531.62,
+			32153.75
+		],
+		"planningArea": "TN",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$$",
+		"insurance": [
+  		"aia",
+			"alliance",
+			"bba",
+		  "chas"
+		],
+		"clinicType": "hospital",
+		"id": "9400062"
+	},
+	{
+		"name": "ASSOCIATED DENTAL SURGERY",
+		"phone": "64683481",
+		"address": "2 PANDAN VALLEY, #01-204 Singapore 597626",
+		"coordinates": [
+			103.7789725,
+			1.3204417
+		],
+		"svy21": [
+			21951.81,
+			33633.32
+		],
+		"planningArea": "BT",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+			"axamed",
+			"axacli",
+			"bba",
+		  "chas"
+		],
+		"clinicType": "dentist",
+		"id": "9400071"
+	},
+	{
+		"name": "ATLANTIC DENTAL SURGERY",
+		"phone": "63387157",
+		"address": "189 SELEGIE RD, SELEGIE CENTRE, #01-05 Singapore 188332",
+		"coordinates": [
+			103.850019,
+			1.3040808
+		],
+		"svy21": [
+			29858.6,
+			31824.15
+		],
+		"planningArea": "CA",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+			"axamed",
+			"axacli",
+		  "chas"
+		],
+		"clinicType": "dentist",
+		"id": "9400073"
+	},
+	{
+		"name": "ATRIA-CITY DENTAL GROUP PTE LTD",
+		"phone": "67372777",
+		"address": "391-B Orchard Road, Ngee Ann City Tower B, #08-08 Singapore 238874",
+		"coordinates": [
+			103.8346761,
+			1.3024242
+		],
+		"svy21": [
+			28151.08,
+			31640.97
+		],
+		"planningArea": "CA",
+		"operatingHours": [
+		  "7-12",
+		  "12-6"
+		],
+		"price": "$$$$",
+		"insurance": [
+			"axamed",
+			"axacli",
+		  "chas",
+		  "ge",
+		  "ntuc",
+			"prudential"
+		],
+		"clinicType": "dentist",
+		"id": "9400074"
+	}
+]

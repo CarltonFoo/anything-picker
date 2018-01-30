@@ -89,18 +89,18 @@ export const operatingHours = {
   }
 }
 
-export const price = {
-  state: {
-    options: [
-      {label: '$', value: '$'},
-      {label: '$$', value: '$$'},
-      {label: '$$$', value: '$$$'},
-      {label: '$$$$', value: '$$$$'},
-      {label: '$$$$$', value: '$$$$$'}
-    ],
-    selected: null
-  }
-}
+// export const price = {
+//   state: {
+//     options: [
+//       {label: '$', value: '$'},
+//       {label: '$$', value: '$$'},
+//       {label: '$$$', value: '$$$'},
+//       {label: '$$$$', value: '$$$$'},
+//       {label: '$$$$$', value: '$$$$$'}
+//     ],
+//     selected: null
+//   }
+// }
 
 export const insurance = {
   namespaced: true,
@@ -109,15 +109,15 @@ export const insurance = {
        label: 'INSURANCE',
        schemes: [
         {label: 'AIA', value: 'aia'},
-         {label: 'Aillance Healthcare', value: 'alliance'},
-         {label: 'AXA MediSmart', value: 'axamed'},
-         {label: 'AXA Cliniccare', value: 'axacli'},
-         {label: 'Baby Bonus Accredited', value: 'bba'},
-         {label: 'CHAS', value: 'chas'},
-         {label: 'Civil Servant Medical Billing System', value: 'csmbs'},
-         {label: 'Great Eastern', value: 'ge'},
-         {label: 'NTUC', value: 'ntuc'},
-         {label: 'Prudential', value: 'prudential'}
+        {label: 'Aillance Healthcare', value: 'alliance'},
+        {label: 'AXA MediSmart', value: 'axamed'},
+        {label: 'AXA Cliniccare', value: 'axacli'},
+        {label: 'Baby Bonus Accredited', value: 'bba'},
+        {label: 'CHAS', value: 'chas'},
+        {label: 'Civil Servant Medical Billing System', value: 'csmbs'},
+        {label: 'Great Eastern', value: 'ge'},
+        {label: 'NTUC', value: 'ntuc'},
+        {label: 'Prudential', value: 'prudential'}
        ]
      }],
     selected: []
@@ -125,11 +125,11 @@ export const insurance = {
   getters: {
     selectedDisplayText (state) {
       const label = []
-      state.options.forEach(insurancename => {
-        if (optionsSelected(insurancename, state.selected)) {
-          label.push(capitalize(insurancename.label))
+      state.options.forEach(insurance => {
+        if (optionsSelected(insurance, state.selected)) {
+          label.push(capitalize(insurance.label))
         } else {
-          insurancename.schemes.forEach(scheme => {
+          insurance.schemes.forEach(scheme => {
             if (optionsSelected(scheme, state.selected)) {
               label.push(scheme.label)
             }
@@ -150,11 +150,11 @@ export const clinicType = {
     options: [{
       label: 'TYPE OF CLINIC',
       types: [
-        {label: 'Dentists', value: ''},
-        {label: 'Hospitals', value: ''},
-        {label: 'Polyclinics', value: ''},
-        {label: 'Private Clinics', value: ''},
-        {label: '24 Hour Clinics', value: ''}
+        {label: 'Dentists', value: 'dentist'},
+        {label: 'Hospitals', value: 'hospital'},
+        {label: 'Polyclinics', value: 'polyclinic'},
+        {label: 'Private Clinics', value: 'private'},
+        {label: '24 Hour Clinics', value: '24h'}
       ]
     }],
     selected: []
