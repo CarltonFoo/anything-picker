@@ -32,6 +32,18 @@ files.forEach(file => {
       processed.operatingHours = cleanOperatingHours(raw.operatingHours)
     }
 
+    if (raw.doctorInCharge) {
+      const doctorSpecialties = raw.doctorInCharge[0].specialties
+      if (doctorSpecialties || raw.mohApprovedSpecialServices || raw.detailedServices) {
+        processed.combinedSpecialities = combineSpecialties(doctorSpecialties, raw.mohApprovedSpecialServices, raw.detailedServices)
+      }
+    } else {
+      if (raw.mohApprovedSpecialServices || raw.detailedServices) {
+        const doctorSpecialties = undefined
+        processed.combinedSpecialities = combineSpecialties(doctorSpecialties, raw.mohApprovedSpecialServices, raw.detailedServices)
+      }
+    }
+
     const location = locations[processed.id]
     Object.assign(processed, location)
 
@@ -109,4 +121,34 @@ function transformTime (input) {
   } else {
     console.log('Err: No valid time to transform')
   }
+}
+
+function combineSpecialties (doctorSpecialties, specialServices, detailedServices) {
+  const result = []
+  if (doctorSpecialties) {
+    doctorSpecialties.forEach(value => {
+      result.push(value)
+    })
+  }
+  if (specialServices) {
+    specialServices.forEach(value => {
+      result.push(value)
+    })
+  }
+  if (detailedServices) {
+    Object.keys(detailedServices).forEach(value => {
+      result.push(value)
+    })
+    Object.values(detailedServices).forEach(value => {
+      if (Array.isArray(value)) {
+        value.forEach(value => {
+          result.push(value)
+        })
+      }
+    })
+  }
+  var unique = result.filter(function (elem, index, self) {
+    return index === self.indexOf(elem)
+  })
+  return unique
 }
