@@ -59,6 +59,10 @@ export default {
     return count
   },
 
+  openingHrs (json) {
+    return json.operatingHours || {}
+  },
+
   licenseClass (json) {
     return json.licenseClass
   },
@@ -73,5 +77,15 @@ export default {
 
   planningArea (json) {
     return json.planning_area
+  },
+
+  combinedSpecialities (json) {
+    console.log(json.combinedSpecialities || [])
+    return json.combinedSpecialities || []
+  },
+
+  insurance (json) {
+    console.log(json.insurance || [])
+    return json.insurance || []
   }
 }

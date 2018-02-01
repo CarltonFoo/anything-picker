@@ -17,9 +17,7 @@ const locations = require('../../data/locations.json')
 files.forEach(file => {
   try {
     const raw = require('../../data/raw/' + file)
-
     const processed = Object.assign({}, raw)
-
     processed.id = raw.hciCode
 
     if (!raw.licenseClass) {
@@ -55,6 +53,7 @@ files.forEach(file => {
 })
 
 function cleanOperatingHours (input) {
+  console.log(input)
   const output = {}
   Object.keys(input).forEach(key => {
     const value = cleanOperatingTime(input[key])
