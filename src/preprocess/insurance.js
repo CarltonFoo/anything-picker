@@ -62,7 +62,7 @@ files.forEach(file => {
       }
     }
     console.log(processed.insurance)
-    fs.writeFileSync(`public/data/newentities/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
+    fs.writeFileSync(`public/data/entities/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
   } catch (err) {
     console.log('Bad record', file)
     throw err
