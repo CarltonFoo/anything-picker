@@ -80,12 +80,10 @@ export default {
   },
 
   combinedSpecialities (json) {
-    console.log(json.combinedSpecialities || [])
     return json.combinedSpecialities || []
   },
 
   insurance (json) {
-    console.log(json.insurance || [])
     return json.insurance || []
   }
 }
