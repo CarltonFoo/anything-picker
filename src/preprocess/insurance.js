@@ -23,45 +23,45 @@ files.forEach(file => {
     processed.insurance = rawArr
 
     for (var i = 0; i < totalAia; i++) {
-      if (processed.insurance) {
-        if (raw.id === rawaia[i].hci) {
+      if (processed.insurance && raw.id === rawaia[i].hci) {
+        if (!(rawArr.indexOf('AIA') > -1)) {
           processed.insurance.push('AIA')
         }
       }
     }
 
     for (var o = 0; o < totalAxacc; o++) {
-      if (processed.insurance) {
-        if (Number(raw.tel) === axacc[o].TEL) {
+      if (processed.insurance && Number(raw.tel) === axacc[o].TEL) {
+        if (!(rawArr.indexOf('AXA Clinicare') > -1)) {
           processed.insurance.push('AXA Clinicare')
         }
       }
     }
 
     for (var p = 0; p < totalAxams; p++) {
-      if (processed.insurance) {
-        if (raw.fax === axams[p].FAX) {
+      if (processed.insurance && raw.fax === axams[p].FAX) {
+        if (!(rawArr.indexOf('AXA Medismart') > -1)) {
           processed.insurance.push('AXA Medismart')
         }
       }
     }
 
     for (var a = 0; a < totalChas; a++) {
-      if (processed.insurance) {
-        if (raw.tel === (chas[a].PHONE).replace(/\s/g, '')) {
+      if (processed.insurance && raw.tel === (chas[a].PHONE).replace(/\s/g, '')) {
+        if (!(rawArr.indexOf('CHAS') > -1)) {
           processed.insurance.push('CHAS')
         }
       }
     }
 
     for (var s = 0; s < totalGreateastern; s++) {
-      if (processed.insurance) {
-        if (Number(raw.fax) === greateastern[s].FAX) {
+      if (processed.insurance && Number(raw.fax) === greateastern[s].FAX) {
+        if (!(rawArr.indexOf('Great Eastern') > -1)) {
           processed.insurance.push('Great Eastern')
         }
       }
     }
-
+    console.log(processed.insurance)
     fs.writeFileSync(`public/data/newentities/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
   } catch (err) {
     console.log('Bad record', file)
