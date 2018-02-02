@@ -87,6 +87,10 @@
 		"Sunday": []
 	},
 	"id": "9401639",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -102,5 +106,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -119,6 +119,10 @@
 		]
 	},
 	"id": "9402663",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7707683,
 		1.3835804
@@ -134,5 +138,11 @@
 		"CC",
 		"SK",
 		"CK"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

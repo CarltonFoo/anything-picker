@@ -102,6 +102,10 @@
 		"Sunday": []
 	},
 	"id": "9405431",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8849884,
 		1.3588191
@@ -118,5 +122,9 @@
 		"SE",
 		"SG",
 		"TP"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

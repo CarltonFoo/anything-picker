@@ -92,6 +92,10 @@
 		"Public Holiday": []
 	},
 	"id": "9404566",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8952184,
 		1.3083175
@@ -106,5 +110,8 @@
 		"GL",
 		"KL",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

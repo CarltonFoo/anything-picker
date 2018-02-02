@@ -24,6 +24,9 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9401094",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8865957,
 		1.338175
@@ -41,5 +44,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

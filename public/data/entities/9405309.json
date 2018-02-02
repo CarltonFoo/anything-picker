@@ -123,6 +123,11 @@
 		]
 	},
 	"id": "9405309",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.9237697,
 		1.3070607
@@ -138,5 +143,8 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -63,6 +63,10 @@
 		"Public Holiday": []
 	},
 	"id": "15D0099",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8321282,
 		1.306547
@@ -78,5 +82,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

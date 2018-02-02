@@ -65,6 +65,11 @@
 		"Sunday": []
 	},
 	"id": "1500000",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Day Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8357365,
 		1.2810803
@@ -79,5 +84,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -95,6 +95,10 @@
 		"Public Holiday": []
 	},
 	"id": "9402130",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7904534,
 		1.333029
@@ -112,5 +116,8 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"AXA Clinicare"
 	]
 }

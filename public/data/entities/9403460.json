@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "9403460",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"Specialist Dental",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8373672,
 		1.3026517
@@ -79,5 +84,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

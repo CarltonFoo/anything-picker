@@ -81,6 +81,13 @@
 		]
 	},
 	"id": "9404664",
+	"combinedSpecialities": [
+		"Occupational Medicine",
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Sports Medicine"
+	],
 	"coordinates": [
 		103.8750877,
 		1.3030932
@@ -96,5 +103,6 @@
 		"MP",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

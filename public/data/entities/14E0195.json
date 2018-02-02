@@ -15,6 +15,7 @@
 		}
 	],
 	"id": "14E0195",
+	"combinedSpecialities": [],
 	"coordinates": [
 		103.8262762,
 		1.2855704
@@ -29,5 +30,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

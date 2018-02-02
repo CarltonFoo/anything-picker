@@ -84,6 +84,9 @@
 		]
 	},
 	"id": "9402193",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7443936,
 		1.3773661
@@ -99,5 +102,8 @@
 		"SK",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"Great Eastern"
 	]
 }

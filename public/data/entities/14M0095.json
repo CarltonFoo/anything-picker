@@ -88,6 +88,12 @@
 		"Public Holiday": []
 	},
 	"id": "14M0095",
+	"combinedSpecialities": [
+		"Rheumatology",
+		"General Medical",
+		"Specialist Medical",
+		"Internal Medicine"
+	],
 	"coordinates": [
 		103.8339619,
 		1.3045061
@@ -103,5 +109,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

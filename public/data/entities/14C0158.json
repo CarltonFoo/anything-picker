@@ -68,6 +68,12 @@
 		"Sunday": []
 	},
 	"id": "14C0158",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7296093,
 		1.3490218
@@ -84,5 +90,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

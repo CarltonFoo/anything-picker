@@ -83,6 +83,9 @@
 		]
 	},
 	"id": "11C0173",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.9373433,
 		1.3291987
@@ -98,5 +101,10 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

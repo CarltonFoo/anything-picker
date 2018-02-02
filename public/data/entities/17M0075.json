@@ -25,6 +25,10 @@
 		]
 	},
 	"id": "17M0075",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7628428,
 		1.378431
@@ -40,5 +44,6 @@
 		"CC",
 		"SK",
 		"CK"
-	]
+	],
+	"insurance": []
 }

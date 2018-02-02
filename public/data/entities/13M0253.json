@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "13M0253",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.711677,
 		1.2738325
@@ -31,5 +34,6 @@
 	"planningArea": "WI",
 	"neighbours": [
 		"JE"
-	]
+	],
+	"insurance": []
 }

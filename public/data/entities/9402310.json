@@ -87,6 +87,10 @@
 		]
 	},
 	"id": "9402310",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8944461,
 		1.2976927
@@ -101,5 +105,8 @@
 		"GL",
 		"KL",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

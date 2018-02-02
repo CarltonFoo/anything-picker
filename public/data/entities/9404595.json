@@ -81,6 +81,10 @@
 		"Sunday": []
 	},
 	"id": "9404595",
+	"combinedSpecialities": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8186869,
 		1.2644861
@@ -95,5 +99,10 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

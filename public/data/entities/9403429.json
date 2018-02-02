@@ -44,6 +44,10 @@
 		"Sunday": []
 	},
 	"id": "9403429",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9419782,
 		1.3786024
@@ -59,5 +63,9 @@
 		"SE",
 		"CH",
 		"TM"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

@@ -71,6 +71,12 @@
 		"Public Holiday": []
 	},
 	"id": "9405107",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical",
+		"General Surgery",
+		"Medical Oncology"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -87,5 +93,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

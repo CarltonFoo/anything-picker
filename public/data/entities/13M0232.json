@@ -102,6 +102,10 @@
 		"Sunday": []
 	},
 	"id": "13M0232",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8866361,
 		1.3586968
@@ -118,5 +122,10 @@
 		"SE",
 		"SG",
 		"TP"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

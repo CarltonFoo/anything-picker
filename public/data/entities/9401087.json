@@ -26,6 +26,10 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9401087",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8510492,
 		1.3471867
@@ -40,5 +44,8 @@
 		"SG",
 		"CC",
 		"TP"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

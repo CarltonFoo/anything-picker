@@ -69,6 +69,12 @@
 		"Public Holiday": []
 	},
 	"id": "16M0153",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Intensive Care Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -85,5 +91,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

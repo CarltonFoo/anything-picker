@@ -124,6 +124,12 @@
 		]
 	},
 	"id": "13D0257",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Paediatric Dentistry"
+	],
 	"coordinates": [
 		103.8438506,
 		1.3199675
@@ -140,5 +146,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

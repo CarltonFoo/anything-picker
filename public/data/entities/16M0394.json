@@ -80,6 +80,9 @@
 		"Public Holiday": []
 	},
 	"id": "16M0394",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8478546,
 		1.2781279
@@ -95,5 +98,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

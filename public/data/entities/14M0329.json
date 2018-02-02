@@ -77,6 +77,12 @@
 		]
 	},
 	"id": "14M0329",
+	"combinedSpecialities": [
+		"Occupational Medicine",
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8855146,
 		1.3245205
@@ -92,5 +98,6 @@
 		"HG",
 		"MP",
 		"TP"
-	]
+	],
+	"insurance": []
 }

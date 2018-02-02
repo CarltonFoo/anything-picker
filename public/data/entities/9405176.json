@@ -67,6 +67,11 @@
 		"Sunday": []
 	},
 	"id": "9405176",
+	"combinedSpecialities": [
+		"Medical Oncology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -83,5 +88,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

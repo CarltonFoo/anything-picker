@@ -104,6 +104,12 @@
 		]
 	},
 	"id": "9401616",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.8610875,
 		1.3194254
@@ -119,5 +125,11 @@
 		"MP",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

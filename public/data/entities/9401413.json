@@ -103,6 +103,10 @@
 		]
 	},
 	"id": "9401413",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7820594,
 		1.4379438
@@ -116,5 +120,10 @@
 		"MD",
 		"SB",
 		"SK"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS"
 	]
 }

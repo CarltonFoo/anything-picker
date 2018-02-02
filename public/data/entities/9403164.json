@@ -55,6 +55,10 @@
 		]
 	},
 	"id": "9403164",
+	"combinedSpecialities": [
+		"Paediatric Dentistry",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8444308,
 		1.3256019
@@ -71,5 +75,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

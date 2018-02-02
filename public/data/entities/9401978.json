@@ -83,6 +83,9 @@
 		]
 	},
 	"id": "9401978",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.6938004,
 		1.3287321
@@ -98,5 +101,9 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS"
 	]
 }

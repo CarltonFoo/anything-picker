@@ -70,6 +70,11 @@
 		]
 	},
 	"id": "9401872",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8478995,
 		1.3723498
@@ -85,5 +90,6 @@
 		"SG",
 		"CC",
 		"YS"
-	]
+	],
+	"insurance": []
 }

@@ -66,6 +66,11 @@
 		"Public Holiday": []
 	},
 	"id": "11C0130",
+	"combinedSpecialities": [
+		"Endodontics",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -82,5 +87,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

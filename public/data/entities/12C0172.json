@@ -64,6 +64,9 @@
 		]
 	},
 	"id": "12C0172",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9056393,
 		1.3024532
@@ -78,5 +81,6 @@
 		"GL",
 		"KL",
 		"CA"
-	]
+	],
+	"insurance": []
 }

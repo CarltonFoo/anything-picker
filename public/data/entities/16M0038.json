@@ -96,6 +96,10 @@
 		]
 	},
 	"id": "16M0038",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8196196,
 		1.4538116
@@ -110,5 +114,10 @@
 		"WD",
 		"SM",
 		"YS"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

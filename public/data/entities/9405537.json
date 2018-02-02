@@ -67,6 +67,11 @@
 		]
 	},
 	"id": "9405537",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.8332058,
 		1.3037048
@@ -82,5 +87,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

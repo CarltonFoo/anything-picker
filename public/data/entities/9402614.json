@@ -63,6 +63,13 @@
 		]
 	},
 	"id": "9402614",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.8447824,
 		1.3200301
@@ -79,5 +86,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

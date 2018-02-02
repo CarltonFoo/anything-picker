@@ -64,6 +64,10 @@
 		"Public Holiday": []
 	},
 	"id": "9403182",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8493164,
 		1.2801374
@@ -79,5 +83,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

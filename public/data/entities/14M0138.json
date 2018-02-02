@@ -81,6 +81,10 @@
 		"Sunday": []
 	},
 	"id": "14M0138",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8498225,
 		1.2809347
@@ -96,5 +100,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

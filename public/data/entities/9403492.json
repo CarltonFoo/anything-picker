@@ -66,6 +66,10 @@
 		"Sunday": []
 	},
 	"id": "9403492",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -82,5 +86,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

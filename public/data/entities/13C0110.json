@@ -24,6 +24,9 @@
 		"New Year (01/01/2018)": []
 	},
 	"id": "13C0110",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.7707683,
 		1.3835804
@@ -39,5 +42,8 @@
 		"CC",
 		"SK",
 		"CK"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

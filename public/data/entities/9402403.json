@@ -96,6 +96,9 @@
 		"Public Holiday": []
 	},
 	"id": "9402403",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8037425,
 		1.2936149
@@ -110,5 +113,8 @@
 		"BT",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

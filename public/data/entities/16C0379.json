@@ -26,6 +26,11 @@
 		]
 	},
 	"id": "16C0379",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7367858,
 		1.3431884
@@ -42,5 +47,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

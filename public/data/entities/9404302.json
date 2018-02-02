@@ -87,6 +87,12 @@
 		]
 	},
 	"id": "9404302",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8339619,
 		1.3045061
@@ -102,5 +108,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

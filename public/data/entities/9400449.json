@@ -59,6 +59,10 @@
 		]
 	},
 	"id": "9400449",
+	"combinedSpecialities": [
+		"Otorhinolaryngology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8031379,
 		1.2938145
@@ -73,5 +77,6 @@
 		"BT",
 		"TN",
 		"CL"
-	]
+	],
+	"insurance": []
 }

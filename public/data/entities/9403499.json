@@ -69,6 +69,12 @@
 		]
 	},
 	"id": "9403499",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Endoscopy",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -84,5 +90,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

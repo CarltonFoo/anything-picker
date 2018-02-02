@@ -88,6 +88,11 @@
 		]
 	},
 	"id": "14M0173",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -105,5 +110,8 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

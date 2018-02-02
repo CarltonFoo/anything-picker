@@ -59,6 +59,10 @@
 		]
 	},
 	"id": "9403020",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8383462,
 		1.2796022
@@ -73,5 +77,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

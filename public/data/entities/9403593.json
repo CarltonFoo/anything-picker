@@ -36,6 +36,11 @@
 		"Saturday": []
 	},
 	"id": "9403593",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7675155,
 		1.3235529
@@ -50,5 +55,6 @@
 		"BT",
 		"JE",
 		"QT"
-	]
+	],
+	"insurance": []
 }

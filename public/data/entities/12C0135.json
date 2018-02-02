@@ -60,6 +60,9 @@
 		"Sunday": []
 	},
 	"id": "12C0135",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.833671,
 		1.4298998
@@ -77,5 +80,8 @@
 		"SE",
 		"CC",
 		"SM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -91,6 +91,11 @@
 		"Sunday": []
 	},
 	"id": "9403594",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376
@@ -106,5 +111,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

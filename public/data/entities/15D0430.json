@@ -64,6 +64,9 @@
 		]
 	},
 	"id": "15D0430",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8202433,
 		1.2639699
@@ -78,5 +81,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

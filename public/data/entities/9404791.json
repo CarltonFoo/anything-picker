@@ -29,6 +29,12 @@
 		]
 	},
 	"id": "9404791",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"General Medical",
+		"Specialist Medical",
+		"Internal Medicine"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -44,5 +50,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

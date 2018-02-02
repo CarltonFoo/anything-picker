@@ -106,6 +106,12 @@
 		]
 	},
 	"id": "14D0364",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.9530245,
 		1.3427062
@@ -120,5 +126,8 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

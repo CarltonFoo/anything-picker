@@ -106,6 +106,10 @@
 		"Sunday": []
 	},
 	"id": "15D0037",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8620059,
 		1.308327
@@ -121,5 +125,6 @@
 		"MP",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

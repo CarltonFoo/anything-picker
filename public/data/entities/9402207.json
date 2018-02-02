@@ -64,6 +64,10 @@
 		]
 	},
 	"id": "9402207",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -81,5 +85,8 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

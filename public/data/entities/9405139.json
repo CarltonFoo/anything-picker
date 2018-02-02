@@ -90,6 +90,15 @@
 		]
 	},
 	"id": "9405139",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Orthodontics",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -105,5 +114,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Medismart"
 	]
 }

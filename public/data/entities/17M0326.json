@@ -28,6 +28,12 @@
 		]
 	},
 	"id": "17M0326",
+	"combinedSpecialities": [
+		"Medical Oncology",
+		"Palliative Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -43,5 +49,8 @@
 		"NV",
 		"QT",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

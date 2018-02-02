@@ -84,6 +84,9 @@
 		"Public Holiday": []
 	},
 	"id": "9405709",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9420278,
 		1.3534413
@@ -98,5 +101,11 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

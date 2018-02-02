@@ -30,6 +30,12 @@
 		]
 	},
 	"id": "17M0144",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Endoscopy",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7695439,
 		1.3440434
@@ -47,5 +53,8 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

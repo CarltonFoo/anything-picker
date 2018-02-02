@@ -111,6 +111,9 @@
 		]
 	},
 	"id": "16M0210",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8549886,
 		1.3236391
@@ -127,5 +130,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AXA Clinicare"
 	]
 }

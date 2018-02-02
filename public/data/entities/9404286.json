@@ -69,6 +69,12 @@
 		"Sunday": []
 	},
 	"id": "9404286",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.830642,
 		1.3046763
@@ -84,5 +90,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

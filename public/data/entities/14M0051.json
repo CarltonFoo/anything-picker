@@ -23,6 +23,10 @@
 		"General Medical": true
 	},
 	"id": "14M0051",
+	"combinedSpecialities": [
+		"Occupational Medicine",
+		"General Medical"
+	],
 	"coordinates": [
 		103.6984599,
 		1.2690709
@@ -34,5 +38,6 @@
 	"planningArea": "WI",
 	"neighbours": [
 		"JE"
-	]
+	],
+	"insurance": []
 }

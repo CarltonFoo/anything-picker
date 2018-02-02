@@ -84,6 +84,9 @@
 		"Sunday": []
 	},
 	"id": "17D0145",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.9040511,
 		1.304326
@@ -98,5 +101,8 @@
 		"GL",
 		"KL",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

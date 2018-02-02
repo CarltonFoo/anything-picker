@@ -91,6 +91,14 @@
 		"Public Holiday": []
 	},
 	"id": "15M0177",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination",
+		"Specialist Medical",
+		"Cardiology",
+		"General Surgery"
+	],
 	"coordinates": [
 		103.8590144,
 		1.2959319
@@ -106,5 +114,9 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

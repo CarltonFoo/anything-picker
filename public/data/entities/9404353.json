@@ -64,6 +64,9 @@
 		]
 	},
 	"id": "9404353",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.9533717,
 		1.3432029
@@ -78,5 +81,8 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -28,6 +28,10 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "15M0282",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -44,5 +48,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

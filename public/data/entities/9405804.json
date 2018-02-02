@@ -25,6 +25,10 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405804",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8187276,
 		1.4495449
@@ -39,5 +43,6 @@
 		"WD",
 		"SM",
 		"YS"
-	]
+	],
+	"insurance": []
 }

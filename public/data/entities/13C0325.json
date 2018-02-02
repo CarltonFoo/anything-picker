@@ -87,6 +87,11 @@
 		"Sunday": []
 	},
 	"id": "13C0325",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.9060381,
 		1.3063917
@@ -101,5 +106,6 @@
 		"GL",
 		"KL",
 		"CA"
-	]
+	],
+	"insurance": []
 }

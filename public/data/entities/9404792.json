@@ -64,6 +64,13 @@
 		]
 	},
 	"id": "9404792",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.9459374,
 		1.3559524
@@ -78,5 +85,8 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

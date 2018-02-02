@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "15M0048",
+	"combinedSpecialities": [
+		"General Surgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -80,5 +85,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

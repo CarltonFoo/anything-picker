@@ -67,6 +67,12 @@
 		]
 	},
 	"id": "13C0120",
+	"combinedSpecialities": [
+		"Infectious Diseases",
+		"General Medical",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -83,5 +89,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

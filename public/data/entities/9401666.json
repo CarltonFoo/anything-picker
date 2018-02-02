@@ -80,6 +80,10 @@
 		]
 	},
 	"id": "9401666",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8442648,
 		1.2758813
@@ -95,5 +99,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Clinicare"
 	]
 }

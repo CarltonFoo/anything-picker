@@ -52,6 +52,9 @@
 		]
 	},
 	"id": "9402903",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8047256,
 		1.4398996
@@ -65,5 +68,6 @@
 		"MD",
 		"SB",
 		"SK"
-	]
+	],
+	"insurance": []
 }

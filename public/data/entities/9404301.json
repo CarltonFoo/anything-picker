@@ -87,6 +87,10 @@
 		"Public Holiday": []
 	},
 	"id": "9404301",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8339619,
 		1.3045061
@@ -102,5 +106,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

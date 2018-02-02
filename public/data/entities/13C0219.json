@@ -68,6 +68,12 @@
 		]
 	},
 	"id": "13C0219",
+	"combinedSpecialities": [
+		"Plastic Surgery",
+		"Liposuction",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -84,5 +90,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

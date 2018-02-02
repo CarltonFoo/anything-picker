@@ -68,6 +68,12 @@
 		"Public Holiday": []
 	},
 	"id": "15D0358",
+	"combinedSpecialities": [
+		"Endodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8270506,
 		1.3064027
@@ -83,5 +89,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

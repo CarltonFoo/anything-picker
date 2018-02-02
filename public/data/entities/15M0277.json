@@ -84,6 +84,10 @@
 		"Public Holiday": []
 	},
 	"id": "15M0277",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8708515,
 		1.3540394
@@ -99,5 +103,6 @@
 		"HG",
 		"SE",
 		"TP"
-	]
+	],
+	"insurance": []
 }

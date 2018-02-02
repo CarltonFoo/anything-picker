@@ -60,6 +60,9 @@
 		"Sunday": []
 	},
 	"id": "14M0022",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8447824,
 		1.3200301
@@ -76,5 +79,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

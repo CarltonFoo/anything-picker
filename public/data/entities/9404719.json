@@ -63,6 +63,9 @@
 		"Public Holiday": []
 	},
 	"id": "9404719",
+	"combinedSpecialities": [
+		"Liposuction"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376
@@ -78,5 +81,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

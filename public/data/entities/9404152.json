@@ -54,6 +54,9 @@
 		]
 	},
 	"id": "9404152",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9257485,
 		1.3366306
@@ -69,5 +72,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

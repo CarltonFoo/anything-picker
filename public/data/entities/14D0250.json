@@ -94,6 +94,12 @@
 		"Public Holiday": []
 	},
 	"id": "14D0250",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8511842,
 		1.291185
@@ -109,5 +115,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

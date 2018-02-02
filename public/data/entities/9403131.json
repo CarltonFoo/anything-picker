@@ -87,6 +87,12 @@
 		"Public Holiday": []
 	},
 	"id": "9403131",
+	"combinedSpecialities": [
+		"Public Health",
+		"General Medical",
+		"Specialist Medical",
+		"Paediatric Medicine"
+	],
 	"coordinates": [
 		103.8383462,
 		1.2796022
@@ -101,5 +107,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

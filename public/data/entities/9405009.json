@@ -26,6 +26,10 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9405009",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9329544,
 		1.3250059
@@ -41,5 +45,9 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

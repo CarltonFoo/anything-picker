@@ -90,6 +90,11 @@
 		"Public Holiday": []
 	},
 	"id": "9405101",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8590144,
 		1.2959319
@@ -105,5 +110,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Clinicare"
 	]
 }

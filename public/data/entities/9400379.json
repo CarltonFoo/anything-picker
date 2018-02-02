@@ -26,6 +26,10 @@
 		]
 	},
 	"id": "9400379",
+	"combinedSpecialities": [
+		"Psychiatry",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8270506,
 		1.3064027
@@ -41,5 +45,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

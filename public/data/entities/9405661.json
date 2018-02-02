@@ -67,6 +67,12 @@
 		]
 	},
 	"id": "9405661",
+	"combinedSpecialities": [
+		"Urology",
+		"Endoscopy",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -82,5 +88,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

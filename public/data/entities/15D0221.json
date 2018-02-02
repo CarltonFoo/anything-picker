@@ -20,6 +20,9 @@
 		"General Dental": true
 	},
 	"id": "15D0221",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8481497,
 		1.2782661
@@ -35,5 +38,9 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

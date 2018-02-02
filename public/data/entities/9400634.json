@@ -30,6 +30,12 @@
 		]
 	},
 	"id": "9400634",
+	"combinedSpecialities": [
+		"Haematology",
+		"General Medical",
+		"Specialist Medical",
+		"Medical Oncology"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -45,5 +51,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

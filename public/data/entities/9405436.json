@@ -32,6 +32,11 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405436",
+	"combinedSpecialities": [
+		"Paediatric Cardiology",
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -49,5 +54,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

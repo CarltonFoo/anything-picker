@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "9405456",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"Specialist Medical",
+		"Neurosurgery"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -79,5 +84,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

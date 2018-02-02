@@ -58,6 +58,9 @@
 		]
 	},
 	"id": "12C0114",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8191393,
 		1.2647781
@@ -72,5 +75,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

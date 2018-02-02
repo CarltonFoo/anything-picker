@@ -27,6 +27,11 @@
 		]
 	},
 	"id": "17M0312",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Specialist Medical",
+		"Diagnostic Radiology"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732
@@ -42,5 +47,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

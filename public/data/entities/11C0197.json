@@ -84,6 +84,10 @@
 		"Public Holiday": []
 	},
 	"id": "11C0197",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7469606,
 		1.3296905
@@ -100,5 +104,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

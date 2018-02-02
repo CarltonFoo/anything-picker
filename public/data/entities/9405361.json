@@ -70,6 +70,11 @@
 		]
 	},
 	"id": "9405361",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"Endoscopy",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -85,5 +90,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

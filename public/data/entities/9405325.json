@@ -78,6 +78,9 @@
 		"Sunday": []
 	},
 	"id": "9405325",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8616308,
 		1.3039384
@@ -93,5 +96,11 @@
 		"MP",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

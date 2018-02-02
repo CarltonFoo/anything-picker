@@ -64,6 +64,15 @@
 		]
 	},
 	"id": "13C0040",
+	"combinedSpecialities": [
+		"Prosthodontics",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8526586,
 		1.2807694
@@ -79,5 +88,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

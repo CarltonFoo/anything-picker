@@ -29,6 +29,12 @@
 		]
 	},
 	"id": "11C0074",
+	"combinedSpecialities": [
+		"Occupational Medicine",
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8453045,
 		1.284504
@@ -44,5 +50,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

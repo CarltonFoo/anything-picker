@@ -71,6 +71,12 @@
 		"Public Holiday": []
 	},
 	"id": "9403966",
+	"combinedSpecialities": [
+		"Intensive Care Medicine",
+		"Respiratory Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -86,5 +92,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

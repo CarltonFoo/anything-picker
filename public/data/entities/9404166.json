@@ -85,6 +85,27 @@
 		"Public Holiday": []
 	},
 	"id": "9404166",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Day Surgery",
+		"Endoscopy",
+		"General Dental",
+		"General Medical",
+		"Specialist Medical",
+		"Specialist Dental",
+		"Anaesthesiology",
+		"Dermatology",
+		"Hand Surgery",
+		"Ophthalmology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Renal Medicine",
+		"Sports Medicine",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7045269,
 		1.3405613
@@ -100,5 +121,6 @@
 		"PN",
 		"TH",
 		"WC"
-	]
+	],
+	"insurance": []
 }

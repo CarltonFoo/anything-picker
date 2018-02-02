@@ -33,6 +33,12 @@
 		]
 	},
 	"id": "15M0347",
+	"combinedSpecialities": [
+		"Internal Medicine",
+		"Renal Medicine",
+		"Renal Dialysis",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8315983,
 		1.4258529
@@ -50,5 +56,6 @@
 		"SE",
 		"CC",
 		"SM"
-	]
+	],
+	"insurance": []
 }

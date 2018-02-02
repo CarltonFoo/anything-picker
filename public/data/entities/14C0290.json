@@ -87,6 +87,11 @@
 		]
 	},
 	"id": "14C0290",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8794395,
 		1.3177556
@@ -102,5 +107,11 @@
 		"HG",
 		"MP",
 		"TP"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

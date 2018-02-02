@@ -76,6 +76,10 @@
 		"Sunday": []
 	},
 	"id": "9403724",
+	"combinedSpecialities": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.82847,
 		1.3071789
@@ -91,5 +95,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

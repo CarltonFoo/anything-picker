@@ -85,6 +85,17 @@
 		]
 	},
 	"id": "9405432",
+	"combinedSpecialities": [
+		"Periodontology",
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7817874,
 		1.2969357
@@ -99,5 +110,6 @@
 		"BT",
 		"TN",
 		"CL"
-	]
+	],
+	"insurance": []
 }

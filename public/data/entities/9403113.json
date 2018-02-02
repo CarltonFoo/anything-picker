@@ -60,6 +60,10 @@
 		"Sunday": []
 	},
 	"id": "9403113",
+	"combinedSpecialities": [
+		"Psychiatry",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.887166,
 		1.3194937
@@ -75,5 +79,6 @@
 		"HG",
 		"MP",
 		"TP"
-	]
+	],
+	"insurance": []
 }

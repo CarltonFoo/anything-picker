@@ -71,6 +71,13 @@
 		]
 	},
 	"id": "9404009",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.8438472,
 		1.2769367
@@ -86,5 +93,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

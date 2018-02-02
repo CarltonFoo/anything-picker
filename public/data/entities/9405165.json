@@ -65,6 +65,11 @@
 		]
 	},
 	"id": "9405165",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8950701,
 		1.3920528
@@ -83,5 +88,6 @@
 		"SL",
 		"SG",
 		"YS"
-	]
+	],
+	"insurance": []
 }

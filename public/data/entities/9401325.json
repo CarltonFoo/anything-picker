@@ -78,6 +78,10 @@
 		]
 	},
 	"id": "9401325",
+	"combinedSpecialities": [
+		"Plastic Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8339619,
 		1.3045061
@@ -93,5 +97,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

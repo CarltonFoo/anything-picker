@@ -68,6 +68,14 @@
 		]
 	},
 	"id": "9405079",
+	"combinedSpecialities": [
+		"Internal Medicine",
+		"General Medical",
+		"Specialist Medical",
+		"General Surgery",
+		"Obstetrics & Gynaecology",
+		"Urology"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -84,5 +92,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

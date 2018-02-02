@@ -99,6 +99,10 @@
 		"Sunday": []
 	},
 	"id": "9401646",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8543345,
 		1.3406429
@@ -116,5 +120,8 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

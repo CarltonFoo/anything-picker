@@ -68,6 +68,11 @@
 		"Sunday": []
 	},
 	"id": "15D0421",
+	"combinedSpecialities": [
+		"Endodontics",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8346761,
 		1.3024242
@@ -83,5 +88,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

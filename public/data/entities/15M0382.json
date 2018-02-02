@@ -71,6 +71,12 @@
 		"Sunday": []
 	},
 	"id": "15M0382",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8160061,
 		1.2839123
@@ -85,5 +91,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

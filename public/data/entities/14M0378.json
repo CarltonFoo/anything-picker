@@ -84,6 +84,11 @@
 		]
 	},
 	"id": "14M0378",
+	"combinedSpecialities": [
+		"Internal Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8533673,
 		1.3224907
@@ -100,5 +105,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

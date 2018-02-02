@@ -98,6 +98,10 @@
 		"Public Holiday": []
 	},
 	"id": "9404889",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8225877,
 		1.4453586
@@ -112,5 +116,10 @@
 		"WD",
 		"SM",
 		"YS"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

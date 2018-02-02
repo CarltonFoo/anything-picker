@@ -110,6 +110,10 @@
 		]
 	},
 	"id": "9402002",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7669104,
 		1.3210519
@@ -124,5 +128,6 @@
 		"BT",
 		"JE",
 		"QT"
-	]
+	],
+	"insurance": []
 }

@@ -58,6 +58,9 @@
 		]
 	},
 	"id": "9405064",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -73,5 +76,10 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

@@ -26,6 +26,11 @@
 		]
 	},
 	"id": "9400702",
+	"combinedSpecialities": [
+		"Palliative Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8492176,
 		1.3205772
@@ -42,5 +47,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

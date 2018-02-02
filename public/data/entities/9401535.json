@@ -32,6 +32,11 @@
 		]
 	},
 	"id": "9401535",
+	"combinedSpecialities": [
+		"Internal Medicine",
+		"Family Physician",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7733294,
 		1.3405487
@@ -49,5 +54,8 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

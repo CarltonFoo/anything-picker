@@ -60,6 +60,9 @@
 		]
 	},
 	"id": "9405788",
+	"combinedSpecialities": [
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7869309,
 		1.4350183
@@ -73,5 +76,6 @@
 		"MD",
 		"SB",
 		"SK"
-	]
+	],
+	"insurance": []
 }

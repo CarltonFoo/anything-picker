@@ -70,6 +70,11 @@
 		]
 	},
 	"id": "9405044",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Assisted Reproduction (IVF)",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -85,5 +90,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

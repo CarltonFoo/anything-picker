@@ -26,6 +26,11 @@
 		]
 	},
 	"id": "9404322",
+	"combinedSpecialities": [
+		"Cardiology",
+		"Intensive Care Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173
@@ -41,5 +46,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

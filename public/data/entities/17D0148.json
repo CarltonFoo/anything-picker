@@ -23,6 +23,11 @@
 		]
 	},
 	"id": "17D0148",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.9020726,
 		1.4045467
@@ -36,5 +41,8 @@
 		"PR",
 		"SL",
 		"SE"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

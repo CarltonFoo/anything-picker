@@ -26,6 +26,12 @@
 		]
 	},
 	"id": "14D0284",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.9462012,
 		1.3317758
@@ -41,5 +47,8 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -79,6 +79,9 @@
 		"Sunday": []
 	},
 	"id": "9404351",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8518998,
 		1.2811834
@@ -94,5 +97,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

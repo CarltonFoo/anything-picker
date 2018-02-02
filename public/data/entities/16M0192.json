@@ -32,6 +32,10 @@
 		]
 	},
 	"id": "16M0192",
+	"combinedSpecialities": [
+		"Cardiology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -47,5 +51,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

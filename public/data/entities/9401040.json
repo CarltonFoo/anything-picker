@@ -64,6 +64,9 @@
 		]
 	},
 	"id": "9401040",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.7739039,
 		1.340567
@@ -81,5 +84,9 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

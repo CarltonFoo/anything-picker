@@ -66,6 +66,13 @@
 		"Sunday": []
 	},
 	"id": "9403100",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Paediatric Dentistry"
+	],
 	"coordinates": [
 		103.8238528,
 		1.3048434
@@ -81,5 +88,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

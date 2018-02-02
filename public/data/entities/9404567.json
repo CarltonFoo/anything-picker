@@ -81,6 +81,10 @@
 		"Sunday": []
 	},
 	"id": "9404567",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7920656,
 		1.4413106
@@ -94,5 +98,6 @@
 		"MD",
 		"SB",
 		"SK"
-	]
+	],
+	"insurance": []
 }

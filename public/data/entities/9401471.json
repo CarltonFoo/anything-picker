@@ -99,6 +99,10 @@
 		]
 	},
 	"id": "9401471",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7982276,
 		1.299962
@@ -113,5 +117,10 @@
 		"BT",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

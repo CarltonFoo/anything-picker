@@ -26,6 +26,13 @@
 		]
 	},
 	"id": "16M0167",
+	"combinedSpecialities": [
+		"Family Physician",
+		"Specialist Medical",
+		"Dermatology",
+		"Obstetrics & Gynaecology",
+		"Paediatric Medicine"
+	],
 	"coordinates": [
 		103.7961072,
 		1.3105635
@@ -43,5 +50,8 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -23,6 +23,11 @@
 		]
 	},
 	"id": "11C0076",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.7867144,
 		1.4322823
@@ -36,5 +41,8 @@
 		"MD",
 		"SB",
 		"SK"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

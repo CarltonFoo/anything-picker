@@ -63,6 +63,12 @@
 		]
 	},
 	"id": "9400596",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Specialist Medical",
+		"Orthopaedic Surgery",
+		"Urology"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -78,5 +84,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

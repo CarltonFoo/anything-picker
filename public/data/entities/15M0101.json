@@ -88,6 +88,11 @@
 		"Public Holiday": []
 	},
 	"id": "15M0101",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"Internal Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -103,5 +108,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

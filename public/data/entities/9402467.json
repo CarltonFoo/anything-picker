@@ -30,6 +30,10 @@
 		"Christmas Day (25/12/2017)": []
 	},
 	"id": "9402467",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7758841,
 		1.4335937
@@ -43,5 +47,8 @@
 		"MD",
 		"SB",
 		"SK"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -28,6 +28,9 @@
 		"New Year (01/01/2018)": []
 	},
 	"id": "15M0113",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8079254,
 		1.4443863
@@ -41,5 +44,11 @@
 		"MD",
 		"SB",
 		"SK"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

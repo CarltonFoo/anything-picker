@@ -108,6 +108,10 @@
 		]
 	},
 	"id": "14C0389",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.788546,
 		1.310103
@@ -122,5 +126,8 @@
 		"BT",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -65,6 +65,10 @@
 		"Sunday": []
 	},
 	"id": "12C0120",
+	"combinedSpecialities": [
+		"Urology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -81,5 +85,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -123,6 +123,10 @@
 		]
 	},
 	"id": "9402627",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	],
 	"coordinates": [
 		103.7432787,
 		1.3332933
@@ -139,5 +143,8 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

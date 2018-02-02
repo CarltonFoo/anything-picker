@@ -22,6 +22,10 @@
 		"Specialist Medical": true
 	},
 	"id": "16M0132",
+	"combinedSpecialities": [
+		"Family Physician",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -38,5 +42,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

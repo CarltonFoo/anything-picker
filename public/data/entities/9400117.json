@@ -68,6 +68,12 @@
 		]
 	},
 	"id": "9400117",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical",
+		"Internal Medicine"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -83,5 +89,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

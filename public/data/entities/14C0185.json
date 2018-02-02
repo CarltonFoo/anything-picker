@@ -66,6 +66,13 @@
 		"Public Holiday": []
 	},
 	"id": "14C0185",
+	"combinedSpecialities": [
+		"Family Physician",
+		"Abortion",
+		"General Medical",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.8414579,
 		1.3253606
@@ -82,5 +89,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

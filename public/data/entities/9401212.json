@@ -79,6 +79,9 @@
 		]
 	},
 	"id": "9401212",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8453045,
 		1.284504
@@ -94,5 +97,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

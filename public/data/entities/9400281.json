@@ -112,6 +112,9 @@
 		]
 	},
 	"id": "9400281",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8861593,
 		1.320526
@@ -127,5 +130,8 @@
 		"HG",
 		"MP",
 		"TP"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

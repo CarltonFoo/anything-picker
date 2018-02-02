@@ -67,6 +67,11 @@
 		"Sunday": []
 	},
 	"id": "11C0108",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8722961,
 		1.3507694
@@ -82,5 +87,6 @@
 		"HG",
 		"SE",
 		"TP"
-	]
+	],
+	"insurance": []
 }

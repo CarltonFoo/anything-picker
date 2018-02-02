@@ -74,6 +74,10 @@
 		"Public Holiday": []
 	},
 	"id": "9404535",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.74216,
 		1.339976
@@ -90,5 +94,9 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS"
 	]
 }

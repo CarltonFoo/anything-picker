@@ -84,6 +84,9 @@
 		"Public Holiday": []
 	},
 	"id": "9405587",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8403501,
 		1.2766179
@@ -98,5 +101,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

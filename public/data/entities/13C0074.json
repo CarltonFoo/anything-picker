@@ -70,6 +70,12 @@
 		]
 	},
 	"id": "13C0074",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.843547,
 		1.370832
@@ -85,5 +91,6 @@
 		"SG",
 		"CC",
 		"YS"
-	]
+	],
+	"insurance": []
 }

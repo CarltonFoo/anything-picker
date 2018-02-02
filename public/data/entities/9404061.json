@@ -85,6 +85,11 @@
 		"Public Holiday": []
 	},
 	"id": "9404061",
+	"combinedSpecialities": [
+		"Urology",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8421548,
 		1.319518
@@ -101,5 +106,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

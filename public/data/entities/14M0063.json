@@ -64,6 +64,10 @@
 		]
 	},
 	"id": "14M0063",
+	"combinedSpecialities": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8533562,
 		1.3016622
@@ -79,5 +83,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

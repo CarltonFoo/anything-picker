@@ -20,6 +20,9 @@
 		"General Dental": true
 	},
 	"id": "16D0322",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8531997,
 		1.3221334
@@ -36,5 +39,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

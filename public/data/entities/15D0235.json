@@ -33,6 +33,17 @@
 		"Public Holiday": []
 	},
 	"id": "15D0235",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7525799,
 		1.3804116
@@ -48,5 +59,8 @@
 		"SK",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

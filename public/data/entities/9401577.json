@@ -90,6 +90,11 @@
 		]
 	},
 	"id": "9401577",
+	"combinedSpecialities": [
+		"Intensive Care Medicine",
+		"Respiratory Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -105,5 +110,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

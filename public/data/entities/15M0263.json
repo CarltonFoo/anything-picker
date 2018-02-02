@@ -88,6 +88,10 @@
 		]
 	},
 	"id": "15M0263",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.6971748,
 		1.3416924
@@ -103,5 +107,8 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

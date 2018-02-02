@@ -24,6 +24,10 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "15M0272",
+	"combinedSpecialities": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.7896077,
 		1.2992547
@@ -38,5 +42,8 @@
 		"BT",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"AXA Clinicare"
 	]
 }

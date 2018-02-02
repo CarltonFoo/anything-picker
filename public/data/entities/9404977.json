@@ -87,6 +87,12 @@
 		]
 	},
 	"id": "9404977",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Orthopaedic Surgery"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -103,5 +109,9 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

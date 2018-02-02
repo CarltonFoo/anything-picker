@@ -59,6 +59,11 @@
 		]
 	},
 	"id": "9404271",
+	"combinedSpecialities": [
+		"Paediatric Dentistry",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376
@@ -74,5 +79,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

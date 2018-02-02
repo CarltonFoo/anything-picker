@@ -28,6 +28,12 @@
 		]
 	},
 	"id": "9404853",
+	"combinedSpecialities": [
+		"Intensive Care Medicine",
+		"Respiratory Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -45,5 +51,8 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

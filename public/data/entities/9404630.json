@@ -81,6 +81,16 @@
 		]
 	},
 	"id": "9404630",
+	"combinedSpecialities": [
+		"Family Physician",
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction",
+		"General Medical",
+		"Specialist Medical",
+		"General Surgery",
+		"Plastic Surgery"
+	],
 	"coordinates": [
 		103.8610875,
 		1.3194254
@@ -96,5 +106,9 @@
 		"MP",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

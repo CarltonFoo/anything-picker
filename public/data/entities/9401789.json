@@ -83,6 +83,9 @@
 		"Sunday": []
 	},
 	"id": "9401789",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.9242365,
 		1.331773
@@ -98,5 +101,8 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

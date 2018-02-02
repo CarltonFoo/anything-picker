@@ -100,6 +100,10 @@
 		]
 	},
 	"id": "16M0026",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7474051,
 		1.397535
@@ -115,5 +119,8 @@
 		"SK",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Medismart"
 	]
 }

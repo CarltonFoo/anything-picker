@@ -30,6 +30,14 @@
 		]
 	},
 	"id": "16M0045",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical",
+		"Haematology",
+		"Internal Medicine",
+		"Medical Oncology"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -45,5 +53,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

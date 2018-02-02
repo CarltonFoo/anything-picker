@@ -80,6 +80,10 @@
 		"Public Holiday": []
 	},
 	"id": "15M0239",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8334881,
 		1.4282255
@@ -97,5 +101,11 @@
 		"SE",
 		"CC",
 		"SM"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

@@ -79,6 +79,11 @@
 		]
 	},
 	"id": "9404533",
+	"combinedSpecialities": [
+		"Emergency Medicine",
+		"General Dental",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8563264,
 		1.3240043
@@ -95,5 +100,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

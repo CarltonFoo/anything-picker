@@ -85,6 +85,11 @@
 		"Sunday": []
 	},
 	"id": "14M0388",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -102,5 +107,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

@@ -58,6 +58,9 @@
 		]
 	},
 	"id": "15M0231",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8507106,
 		1.2941621
@@ -73,5 +76,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

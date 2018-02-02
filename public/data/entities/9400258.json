@@ -87,6 +87,9 @@
 		]
 	},
 	"id": "9400258",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8441113,
 		1.2981527
@@ -102,5 +105,9 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

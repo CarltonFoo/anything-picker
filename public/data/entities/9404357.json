@@ -69,6 +69,12 @@
 		"Public Holiday": []
 	},
 	"id": "9404357",
+	"combinedSpecialities": [
+		"Medical Oncology",
+		"General Medical",
+		"Specialist Medical",
+		"Haematology"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -84,5 +90,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

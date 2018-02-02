@@ -69,6 +69,11 @@
 		"Sunday": []
 	},
 	"id": "15M0195",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -85,5 +90,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

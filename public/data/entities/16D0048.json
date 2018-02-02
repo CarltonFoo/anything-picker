@@ -107,6 +107,12 @@
 		]
 	},
 	"id": "16D0048",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.8731497,
 		1.3030752
@@ -122,5 +128,6 @@
 		"MP",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -76,6 +76,10 @@
 		"Public Holiday": []
 	},
 	"id": "15M0265",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7396769,
 		1.3338254
@@ -92,5 +96,8 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

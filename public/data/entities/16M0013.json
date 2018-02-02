@@ -130,6 +130,10 @@
 		]
 	},
 	"id": "16M0013",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9021057,
 		1.4064846
@@ -143,5 +147,8 @@
 		"PR",
 		"SL",
 		"SE"
+	],
+	"insurance": [
+		"AXA Clinicare"
 	]
 }

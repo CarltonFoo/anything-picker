@@ -123,6 +123,11 @@
 		]
 	},
 	"id": "9405718",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.767089,
 		1.3139916
@@ -137,5 +142,8 @@
 		"BT",
 		"JE",
 		"QT"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

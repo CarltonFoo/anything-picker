@@ -68,6 +68,11 @@
 		"Sunday": []
 	},
 	"id": "14C0164",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -83,5 +88,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

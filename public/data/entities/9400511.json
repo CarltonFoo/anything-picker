@@ -103,6 +103,9 @@
 		"Sunday": []
 	},
 	"id": "9400511",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9578842,
 		1.3607582
@@ -117,5 +120,10 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

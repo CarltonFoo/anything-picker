@@ -66,6 +66,12 @@
 		"Sunday": []
 	},
 	"id": "9401330",
+	"combinedSpecialities": [
+		"Prosthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8447824,
 		1.3200301
@@ -82,5 +88,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

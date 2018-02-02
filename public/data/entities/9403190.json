@@ -112,6 +112,10 @@
 		]
 	},
 	"id": "9403190",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8904664,
 		1.3913972
@@ -130,5 +134,11 @@
 		"SL",
 		"SG",
 		"YS"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

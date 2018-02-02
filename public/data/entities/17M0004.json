@@ -130,6 +130,12 @@
 		]
 	},
 	"id": "17M0004",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.7574513,
 		1.3164132
@@ -144,5 +150,8 @@
 		"BT",
 		"JE",
 		"QT"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

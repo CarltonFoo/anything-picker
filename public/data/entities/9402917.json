@@ -52,6 +52,9 @@
 		]
 	},
 	"id": "9402917",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.9172581,
 		1.31879
@@ -67,5 +70,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

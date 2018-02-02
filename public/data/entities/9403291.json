@@ -52,6 +52,10 @@
 		"Public Holiday": []
 	},
 	"id": "9403291",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7570446,
 		1.3477015
@@ -68,5 +72,6 @@
 		"TH",
 		"CK",
 		"CL"
-	]
+	],
+	"insurance": []
 }

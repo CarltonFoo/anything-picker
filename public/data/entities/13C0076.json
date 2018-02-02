@@ -65,6 +65,10 @@
 		"Public Holiday": []
 	},
 	"id": "13C0076",
+	"combinedSpecialities": [
+		"Urology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8447824,
 		1.3200301
@@ -81,5 +85,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

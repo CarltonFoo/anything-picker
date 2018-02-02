@@ -109,6 +109,10 @@
 		]
 	},
 	"id": "9400304",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7524838,
 		1.3800475
@@ -124,5 +128,8 @@
 		"SK",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Clinicare"
 	]
 }

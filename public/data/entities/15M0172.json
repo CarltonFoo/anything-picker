@@ -65,6 +65,9 @@
 		]
 	},
 	"id": "15M0172",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.705351,
 		1.339315
@@ -80,5 +83,6 @@
 		"PN",
 		"TH",
 		"WC"
-	]
+	],
+	"insurance": []
 }

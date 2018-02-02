@@ -64,6 +64,10 @@
 		]
 	},
 	"id": "9404417",
+	"combinedSpecialities": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -79,5 +83,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

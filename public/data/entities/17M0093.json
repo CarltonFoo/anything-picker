@@ -26,6 +26,10 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "17M0093",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9646322,
 		1.3670736
@@ -41,5 +45,11 @@
 		"SE",
 		"CH",
 		"TM"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

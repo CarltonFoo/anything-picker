@@ -84,6 +84,10 @@
 		]
 	},
 	"id": "14M0018",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -100,5 +104,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

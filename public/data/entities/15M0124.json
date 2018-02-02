@@ -27,6 +27,10 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "15M0124",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8574655,
 		1.3011815
@@ -42,5 +46,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

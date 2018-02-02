@@ -63,6 +63,12 @@
 		"Sunday": []
 	},
 	"id": "17D0064",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.895387,
 		1.4032271
@@ -76,5 +82,8 @@
 		"PR",
 		"SL",
 		"SE"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -85,6 +85,10 @@
 		]
 	},
 	"id": "9405697",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -101,5 +105,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

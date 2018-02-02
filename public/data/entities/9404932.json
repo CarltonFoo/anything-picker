@@ -68,6 +68,10 @@
 		"Public Holiday": []
 	},
 	"id": "9404932",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8309198,
 		1.354669
@@ -82,5 +86,8 @@
 		"SG",
 		"CC",
 		"TP"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

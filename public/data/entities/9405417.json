@@ -74,6 +74,11 @@
 		]
 	},
 	"id": "9405417",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8414579,
 		1.3253606
@@ -90,5 +95,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

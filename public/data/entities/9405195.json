@@ -63,6 +63,11 @@
 		"Public Holiday": []
 	},
 	"id": "9405195",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.8267854,
 		1.2856974
@@ -77,5 +82,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

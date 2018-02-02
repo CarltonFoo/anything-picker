@@ -79,6 +79,11 @@
 		]
 	},
 	"id": "9405749",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8191393,
 		1.2647781
@@ -93,5 +98,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

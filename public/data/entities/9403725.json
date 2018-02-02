@@ -86,6 +86,10 @@
 		"Public Holiday": []
 	},
 	"id": "9403725",
+	"combinedSpecialities": [
+		"Urology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -101,5 +105,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

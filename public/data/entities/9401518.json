@@ -40,6 +40,9 @@
 		]
 	},
 	"id": "9401518",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7592102,
 		1.4220345
@@ -57,5 +60,6 @@
 		"WD",
 		"CK",
 		"WC"
-	]
+	],
+	"insurance": []
 }

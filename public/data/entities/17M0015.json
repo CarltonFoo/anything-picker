@@ -31,6 +31,14 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "17M0015",
+	"combinedSpecialities": [
+		"General Medical",
+		"Specialist Medical",
+		"Cardiology",
+		"Diagnostic Radiology",
+		"Geriatric Medicine",
+		"Occupational Medicine"
+	],
 	"coordinates": [
 		103.9420278,
 		1.3534413
@@ -45,5 +53,8 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

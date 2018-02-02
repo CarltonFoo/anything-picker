@@ -26,6 +26,12 @@
 		]
 	},
 	"id": "13C0046",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.76481,
 		1.3136157
@@ -40,5 +46,8 @@
 		"BT",
 		"JE",
 		"QT"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

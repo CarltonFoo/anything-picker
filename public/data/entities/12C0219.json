@@ -66,6 +66,10 @@
 		"Public Holiday": []
 	},
 	"id": "12C0219",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8346416,
 		1.4167863
@@ -83,5 +87,8 @@
 		"SE",
 		"CC",
 		"SM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

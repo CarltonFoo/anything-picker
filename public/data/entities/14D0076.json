@@ -77,6 +77,11 @@
 		]
 	},
 	"id": "14D0076",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.857027,
 		1.291574
@@ -92,5 +97,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

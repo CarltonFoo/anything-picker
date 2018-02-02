@@ -82,6 +82,10 @@
 		"Sunday": []
 	},
 	"id": "12C0231",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9631219,
 		1.3358711
@@ -96,5 +100,11 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

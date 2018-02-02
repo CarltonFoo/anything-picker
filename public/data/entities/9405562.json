@@ -67,6 +67,17 @@
 		]
 	},
 	"id": "9405562",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Day Surgery",
+		"Endoscopy",
+		"Specialised Diagnostic Radiology",
+		"Specialist Medical",
+		"Diagnostic Radiology",
+		"Medical Oncology",
+		"Palliative Medicine",
+		"Radiation Oncology"
+	],
 	"coordinates": [
 		103.8365355,
 		1.2793105
@@ -81,5 +92,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

@@ -35,6 +35,11 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "11C0134",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -50,5 +55,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

@@ -83,6 +83,11 @@
 		"Sunday": []
 	},
 	"id": "12C0170",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8511842,
 		1.291185
@@ -98,5 +103,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

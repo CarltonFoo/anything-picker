@@ -83,6 +83,10 @@
 		"Public Holiday": []
 	},
 	"id": "11C0169",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -98,5 +102,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

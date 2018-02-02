@@ -63,6 +63,11 @@
 		]
 	},
 	"id": "9402393",
+	"combinedSpecialities": [
+		"Rehabilitation Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9487995,
 		1.3416865
@@ -77,5 +82,8 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

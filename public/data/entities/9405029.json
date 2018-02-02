@@ -23,6 +23,11 @@
 		"Yellow Fever Vaccination": true
 	},
 	"id": "9405029",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8320158,
 		1.2934405
@@ -38,5 +43,10 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

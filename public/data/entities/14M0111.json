@@ -88,6 +88,12 @@
 		]
 	},
 	"id": "14M0111",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Hand Surgery"
+	],
 	"coordinates": [
 		103.6972379,
 		1.3337831
@@ -103,5 +109,9 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

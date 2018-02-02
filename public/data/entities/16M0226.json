@@ -27,6 +27,11 @@
 		]
 	},
 	"id": "16M0226",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8606473,
 		1.2996202
@@ -42,5 +47,6 @@
 		"MP",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

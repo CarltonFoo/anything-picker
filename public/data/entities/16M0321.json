@@ -24,6 +24,11 @@
 		]
 	},
 	"id": "16M0321",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8508034,
 		1.2923176
@@ -39,5 +44,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

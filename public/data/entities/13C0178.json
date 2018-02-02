@@ -93,6 +93,12 @@
 		"Sunday": []
 	},
 	"id": "13C0178",
+	"combinedSpecialities": [
+		"Emergency Medicine",
+		"Intensive Care Medicine",
+		"Respiratory Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -109,5 +115,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

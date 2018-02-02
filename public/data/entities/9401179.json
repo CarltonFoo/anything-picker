@@ -100,6 +100,10 @@
 		]
 	},
 	"id": "9401179",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7382928,
 		1.3221364
@@ -116,5 +120,9 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"CHAS",
+		"Great Eastern"
 	]
 }

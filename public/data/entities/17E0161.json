@@ -15,6 +15,7 @@
 		}
 	],
 	"id": "17E0161",
+	"combinedSpecialities": [],
 	"coordinates": [
 		103.7449494,
 		1.3840959
@@ -30,5 +31,6 @@
 		"SK",
 		"TH",
 		"WC"
-	]
+	],
+	"insurance": []
 }

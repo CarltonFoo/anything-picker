@@ -55,6 +55,7 @@
 		]
 	},
 	"id": "12C0184",
+	"combinedSpecialities": [],
 	"coordinates": [
 		103.8461152,
 		1.2987013
@@ -70,5 +71,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

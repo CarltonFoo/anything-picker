@@ -61,6 +61,9 @@
 		"Sunday": []
 	},
 	"id": "9401405",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8527007,
 		1.3022443
@@ -76,5 +79,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

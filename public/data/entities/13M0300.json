@@ -60,6 +60,10 @@
 		"Sunday": []
 	},
 	"id": "13M0300",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7919357,
 		1.302918
@@ -74,5 +78,6 @@
 		"BT",
 		"TN",
 		"CL"
-	]
+	],
+	"insurance": []
 }

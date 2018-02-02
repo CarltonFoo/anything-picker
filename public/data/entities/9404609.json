@@ -60,6 +60,10 @@
 		"Sunday": []
 	},
 	"id": "9404609",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7859815,
 		1.4360701
@@ -73,5 +77,6 @@
 		"MD",
 		"SB",
 		"SK"
-	]
+	],
+	"insurance": []
 }

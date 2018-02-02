@@ -66,6 +66,10 @@
 		"Sunday": []
 	},
 	"id": "13C0252",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173
@@ -81,5 +85,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

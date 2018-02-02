@@ -88,6 +88,12 @@
 		]
 	},
 	"id": "9400056",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.8414324,
 		1.3799268
@@ -103,5 +109,8 @@
 		"SG",
 		"CC",
 		"YS"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

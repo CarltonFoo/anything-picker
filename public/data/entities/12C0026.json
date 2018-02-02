@@ -56,6 +56,11 @@
 		]
 	},
 	"id": "12C0026",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics"
+	],
 	"coordinates": [
 		103.8012641,
 		1.2739864
@@ -70,5 +75,8 @@
 		"BT",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

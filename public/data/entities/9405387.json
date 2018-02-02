@@ -66,6 +66,10 @@
 		]
 	},
 	"id": "9405387",
+	"combinedSpecialities": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8441113,
 		1.2981527
@@ -81,5 +85,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

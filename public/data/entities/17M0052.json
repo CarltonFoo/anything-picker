@@ -88,6 +88,10 @@
 		]
 	},
 	"id": "17M0052",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7645186,
 		1.3141225
@@ -102,5 +106,8 @@
 		"BT",
 		"JE",
 		"QT"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

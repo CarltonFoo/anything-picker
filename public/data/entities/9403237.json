@@ -66,6 +66,14 @@
 		"Public Holiday": []
 	},
 	"id": "9403237",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry"
+	],
 	"coordinates": [
 		103.8533336,
 		1.2939767
@@ -81,5 +89,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

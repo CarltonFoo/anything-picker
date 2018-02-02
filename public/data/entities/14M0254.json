@@ -68,6 +68,12 @@
 		]
 	},
 	"id": "14M0254",
+	"combinedSpecialities": [
+		"General Surgery",
+		"Endoscopy",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8868985,
 		1.3739584
@@ -84,5 +90,8 @@
 		"SE",
 		"SG",
 		"TP"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

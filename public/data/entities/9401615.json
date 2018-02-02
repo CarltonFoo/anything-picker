@@ -27,6 +27,9 @@
 		"Public Holiday": []
 	},
 	"id": "9401615",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8546417,
 		1.3456628
@@ -41,5 +44,10 @@
 		"SG",
 		"CC",
 		"TP"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

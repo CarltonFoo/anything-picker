@@ -69,6 +69,11 @@
 		]
 	},
 	"id": "9403361",
+	"combinedSpecialities": [
+		"Urology",
+		"Endoscopy",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -85,5 +90,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

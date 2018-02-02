@@ -74,6 +74,15 @@
 		"Public Holiday": []
 	},
 	"id": "13C0160",
+	"combinedSpecialities": [
+		"Prosthodontics",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Oral & Maxillo-Facial Surgery",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -89,5 +98,8 @@
 		"NV",
 		"QT",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -28,6 +28,11 @@
 		]
 	},
 	"id": "11C0154",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -44,5 +49,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -94,6 +94,9 @@
 		]
 	},
 	"id": "9404091",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8270759,
 		1.2930723
@@ -109,5 +112,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

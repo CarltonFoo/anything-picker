@@ -123,6 +123,11 @@
 		]
 	},
 	"id": "15D0137",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.9292677,
 		1.3247721
@@ -138,5 +143,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

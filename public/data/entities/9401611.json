@@ -67,6 +67,12 @@
 		]
 	},
 	"id": "9401611",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Dermatology"
+	],
 	"coordinates": [
 		103.9577269,
 		1.3703062
@@ -82,5 +88,8 @@
 		"SE",
 		"CH",
 		"TM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

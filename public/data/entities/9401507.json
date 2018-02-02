@@ -85,6 +85,10 @@
 		]
 	},
 	"id": "9401507",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8487608,
 		1.350482
@@ -99,5 +103,6 @@
 		"SG",
 		"CC",
 		"TP"
-	]
+	],
+	"insurance": []
 }

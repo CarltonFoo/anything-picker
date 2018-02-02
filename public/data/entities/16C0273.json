@@ -27,6 +27,12 @@
 		]
 	},
 	"id": "16C0273",
+	"combinedSpecialities": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.8310033,
 		1.3060752
@@ -42,5 +48,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

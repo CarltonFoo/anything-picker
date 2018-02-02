@@ -24,6 +24,10 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "16M0327",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8451554,
 		1.2767249
@@ -39,5 +43,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

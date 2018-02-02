@@ -28,6 +28,12 @@
 		]
 	},
 	"id": "9405599",
+	"combinedSpecialities": [
+		"Infectious Diseases",
+		"General Medical",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -43,5 +49,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

@@ -114,6 +114,11 @@
 		]
 	},
 	"id": "9403347",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8424634,
 		1.2807483
@@ -129,5 +134,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

@@ -106,6 +106,49 @@
 		]
 	},
 	"id": "14M0069",
+	"combinedSpecialities": [
+		"Neurosurgery",
+		"General Medical",
+		"Specialist Medical",
+		"Anaesthesiology",
+		"Cardiology",
+		"Cardiothoracic Surgery",
+		"Dermatology",
+		"Diagnostic Radiology",
+		"Emergency Medicine",
+		"Endocrinology",
+		"Gastroenterology",
+		"General Surgery",
+		"Geriatric Medicine",
+		"Haematology",
+		"Hand Surgery",
+		"Infectious Diseases",
+		"Intensive Care Medicine",
+		"Internal Medicine",
+		"Medical Oncology",
+		"Neonatology",
+		"Neurology",
+		"Nuclear Medicine",
+		"Obstetrics & Gynaecology",
+		"Occupational Medicine",
+		"Ophthalmology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Paediatric Medicine",
+		"Paediatric Surgery",
+		"Palliative Medicine",
+		"Pathology",
+		"Plastic Surgery",
+		"Psychiatry",
+		"Public Health",
+		"Radiation Oncology",
+		"Rehabilitation Medicine",
+		"Renal Medicine",
+		"Respiratory Medicine",
+		"Rheumatology",
+		"Sports Medicine",
+		"Urology"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -121,5 +164,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

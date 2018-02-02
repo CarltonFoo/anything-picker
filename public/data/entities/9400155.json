@@ -68,6 +68,12 @@
 		"Public Holiday": []
 	},
 	"id": "9400155",
+	"combinedSpecialities": [
+		"General Surgery",
+		"General Medical",
+		"Specialist Medical",
+		"Paediatric Medicine"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -85,5 +91,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

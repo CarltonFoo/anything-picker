@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "17C0291",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8850325,
 		1.3401084
@@ -37,5 +40,9 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

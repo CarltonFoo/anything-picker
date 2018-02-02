@@ -58,6 +58,11 @@
 		"Sunday": []
 	},
 	"id": "9403043",
+	"combinedSpecialities": [
+		"General Medical",
+		"Specialist Medical",
+		"Occupational Medicine"
+	],
 	"coordinates": [
 		103.6984599,
 		1.2690709
@@ -69,5 +74,6 @@
 	"planningArea": "WI",
 	"neighbours": [
 		"JE"
-	]
+	],
+	"insurance": []
 }

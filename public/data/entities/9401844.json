@@ -20,6 +20,9 @@
 		"Specialist Medical": true
 	},
 	"id": "9401844",
+	"combinedSpecialities": [
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8414579,
 		1.3253606
@@ -36,5 +39,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

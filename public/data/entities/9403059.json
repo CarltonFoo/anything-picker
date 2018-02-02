@@ -95,6 +95,9 @@
 		]
 	},
 	"id": "9403059",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8289934,
 		1.4337606
@@ -112,5 +115,9 @@
 		"SE",
 		"CC",
 		"SM"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS"
 	]
 }

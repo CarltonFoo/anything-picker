@@ -52,6 +52,9 @@
 		]
 	},
 	"id": "12C0150",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.888352,
 		1.3109967
@@ -67,5 +70,6 @@
 		"HG",
 		"MP",
 		"TP"
-	]
+	],
+	"insurance": []
 }

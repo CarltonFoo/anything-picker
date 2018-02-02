@@ -79,6 +79,10 @@
 		"Sunday": []
 	},
 	"id": "9401211",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8183976,
 		1.3094519
@@ -94,5 +98,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

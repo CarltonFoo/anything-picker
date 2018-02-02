@@ -105,6 +105,9 @@
 		]
 	},
 	"id": "9402671",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.938014,
 		1.3471923
@@ -119,5 +122,10 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

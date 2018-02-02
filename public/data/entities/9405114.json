@@ -68,6 +68,11 @@
 		"Public Holiday": []
 	},
 	"id": "9405114",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -83,5 +88,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

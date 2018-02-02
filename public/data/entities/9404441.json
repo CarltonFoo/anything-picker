@@ -60,6 +60,9 @@
 		"Public Holiday": []
 	},
 	"id": "9404441",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8411501,
 		1.3012573
@@ -75,5 +78,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

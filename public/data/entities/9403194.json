@@ -29,6 +29,14 @@
 		]
 	},
 	"id": "9403194",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"General Medical",
+		"Specialist Medical",
+		"General Surgery",
+		"Obstetrics & Gynaecology",
+		"Plastic Surgery"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -44,5 +52,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

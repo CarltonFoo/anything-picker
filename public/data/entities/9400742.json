@@ -110,6 +110,9 @@
 		]
 	},
 	"id": "9400742",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9365309,
 		1.3521058
@@ -124,5 +127,9 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

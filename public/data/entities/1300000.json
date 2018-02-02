@@ -58,6 +58,10 @@
 		]
 	},
 	"id": "1300000",
+	"combinedSpecialities": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8490431,
 		1.3194581
@@ -74,5 +78,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

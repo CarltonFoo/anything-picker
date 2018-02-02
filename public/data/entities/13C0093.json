@@ -78,6 +78,9 @@
 		"Public Holiday": []
 	},
 	"id": "13C0093",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7733101,
 		1.3770429
@@ -93,5 +96,6 @@
 		"CC",
 		"SK",
 		"CK"
-	]
+	],
+	"insurance": []
 }

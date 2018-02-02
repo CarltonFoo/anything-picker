@@ -26,6 +26,10 @@
 		"Sunday": []
 	},
 	"id": "13M0307",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8007403,
 		1.277725
@@ -40,5 +44,10 @@
 		"BT",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

@@ -64,6 +64,9 @@
 		]
 	},
 	"id": "9404344",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.901841,
 		1.3853374
@@ -82,5 +85,8 @@
 		"SL",
 		"SG",
 		"YS"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

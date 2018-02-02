@@ -90,6 +90,9 @@
 		]
 	},
 	"id": "15M0259",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9479224,
 		1.3696863
@@ -105,5 +108,8 @@
 		"SE",
 		"CH",
 		"TM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

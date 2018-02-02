@@ -99,6 +99,9 @@
 		]
 	},
 	"id": "9403881",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7859815,
 		1.4360701
@@ -112,5 +115,8 @@
 		"MD",
 		"SB",
 		"SK"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

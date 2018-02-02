@@ -79,6 +79,10 @@
 		]
 	},
 	"id": "9401410",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8564952,
 		1.3077805
@@ -94,5 +98,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

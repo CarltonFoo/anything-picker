@@ -93,6 +93,13 @@
 		]
 	},
 	"id": "11C0025",
+	"combinedSpecialities": [
+		"General Surgery",
+		"General Medical",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology",
+		"Ophthalmology"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -109,5 +116,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

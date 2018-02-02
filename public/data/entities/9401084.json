@@ -25,6 +25,10 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9401084",
+	"combinedSpecialities": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.7392597,
 		1.3425624
@@ -41,5 +45,8 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

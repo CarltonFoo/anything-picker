@@ -78,6 +78,20 @@
 		"Public Holiday": []
 	},
 	"id": "9405067",
+	"combinedSpecialities": [
+		"Endoscopy",
+		"General Medical",
+		"Specialist Medical",
+		"Diagnostic Radiology",
+		"Gastroenterology",
+		"General Surgery",
+		"Internal Medicine",
+		"Obstetrics & Gynaecology",
+		"Ophthalmology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Urology"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -93,5 +107,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

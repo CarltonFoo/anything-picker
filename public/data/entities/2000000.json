@@ -63,6 +63,13 @@
 		]
 	},
 	"id": "2000000",
+	"combinedSpecialities": [
+		"Neurosurgery",
+		"Specialised Diagnostic Radiology",
+		"Specialist Medical",
+		"Diagnostic Radiology",
+		"Neurology"
+	],
 	"coordinates": [
 		103.8513476,
 		1.3205028
@@ -79,5 +86,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

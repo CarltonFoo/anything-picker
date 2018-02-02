@@ -67,6 +67,13 @@
 		]
 	},
 	"id": "9404875",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.8346761,
 		1.3024242
@@ -82,5 +89,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

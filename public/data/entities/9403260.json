@@ -26,6 +26,10 @@
 		]
 	},
 	"id": "9403260",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376
@@ -41,5 +45,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

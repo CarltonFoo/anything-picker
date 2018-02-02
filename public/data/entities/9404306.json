@@ -26,6 +26,11 @@
 		]
 	},
 	"id": "9404306",
+	"combinedSpecialities": [
+		"Endocrinology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -43,5 +48,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

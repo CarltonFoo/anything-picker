@@ -88,6 +88,9 @@
 		]
 	},
 	"id": "9403927",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8088174,
 		1.2739415
@@ -102,5 +105,11 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

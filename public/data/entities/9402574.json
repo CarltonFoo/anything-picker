@@ -29,6 +29,10 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "9402574",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9535865,
 		1.3522623
@@ -43,5 +47,8 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

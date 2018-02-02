@@ -32,6 +32,12 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405157",
+	"combinedSpecialities": [
+		"Intensive Care Medicine",
+		"Internal Medicine",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173
@@ -47,5 +53,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

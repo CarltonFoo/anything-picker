@@ -36,6 +36,13 @@
 		]
 	},
 	"id": "15M0104",
+	"combinedSpecialities": [
+		"Intensive Care Medicine",
+		"Internal Medicine",
+		"Respiratory Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173
@@ -51,5 +58,8 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

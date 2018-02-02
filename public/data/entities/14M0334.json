@@ -68,6 +68,13 @@
 		"Sunday": []
 	},
 	"id": "14M0334",
+	"combinedSpecialities": [
+		"Anaesthesiology",
+		"Day Surgery",
+		"Liposuction",
+		"Specialist Medical",
+		"Plastic Surgery"
+	],
 	"coordinates": [
 		103.8319706,
 		1.3061133
@@ -83,5 +90,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

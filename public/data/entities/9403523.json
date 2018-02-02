@@ -88,6 +88,9 @@
 		]
 	},
 	"id": "9403523",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7367858,
 		1.3431884
@@ -104,5 +107,8 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

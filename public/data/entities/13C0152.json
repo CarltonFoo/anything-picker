@@ -28,6 +28,11 @@
 		]
 	},
 	"id": "13C0152",
+	"combinedSpecialities": [
+		"Orthopaedic Surgery",
+		"Specialist Medical",
+		"Diagnostic Radiology"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -43,5 +48,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

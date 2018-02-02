@@ -67,6 +67,12 @@
 		]
 	},
 	"id": "9400547",
+	"combinedSpecialities": [
+		"Endodontics",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -82,5 +88,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

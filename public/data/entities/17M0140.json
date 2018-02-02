@@ -31,6 +31,11 @@
 		]
 	},
 	"id": "17M0140",
+	"combinedSpecialities": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8478546,
 		1.2781279
@@ -46,5 +51,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"Great Eastern"
 	]
 }

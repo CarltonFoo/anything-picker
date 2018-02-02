@@ -79,6 +79,10 @@
 		"Public Holiday": []
 	},
 	"id": "15M0163",
+	"combinedSpecialities": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7388192,
 		1.3339941
@@ -95,5 +99,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

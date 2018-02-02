@@ -33,6 +33,12 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9405321",
+	"combinedSpecialities": [
+		"Internal Medicine",
+		"Rheumatology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.862002,
 		1.3205861
@@ -48,5 +54,8 @@
 		"MP",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -68,6 +68,12 @@
 		"Public Holiday": []
 	},
 	"id": "9405113",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -83,5 +89,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

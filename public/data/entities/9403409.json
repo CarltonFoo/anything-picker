@@ -85,6 +85,12 @@
 		"Public Holiday": []
 	},
 	"id": "9403409",
+	"combinedSpecialities": [
+		"Paediatric Haematology & Oncology",
+		"Paediatric Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9052795,
 		1.3010698
@@ -99,5 +105,6 @@
 		"GL",
 		"KL",
 		"CA"
-	]
+	],
+	"insurance": []
 }

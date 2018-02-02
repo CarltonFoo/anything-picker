@@ -55,6 +55,9 @@
 		]
 	},
 	"id": "15M0131",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8346416,
 		1.4167863
@@ -72,5 +75,6 @@
 		"SE",
 		"CC",
 		"SM"
-	]
+	],
+	"insurance": []
 }

@@ -28,6 +28,11 @@
 		]
 	},
 	"id": "16M0154",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7427664,
 		1.3341575
@@ -44,5 +49,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

@@ -68,6 +68,10 @@
 		"Sunday": []
 	},
 	"id": "15M0339",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -83,5 +87,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

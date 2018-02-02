@@ -87,6 +87,11 @@
 		]
 	},
 	"id": "9404454",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8414579,
 		1.3253606
@@ -103,5 +108,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

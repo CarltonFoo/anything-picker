@@ -89,6 +89,10 @@
 		]
 	},
 	"id": "13C0201",
+	"combinedSpecialities": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.7588644,
 		1.3112957
@@ -103,5 +107,11 @@
 		"BT",
 		"JE",
 		"QT"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

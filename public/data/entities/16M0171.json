@@ -28,6 +28,12 @@
 		]
 	},
 	"id": "16M0171",
+	"combinedSpecialities": [
+		"Neonatology",
+		"Paediatric Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8309198,
 		1.354669
@@ -42,5 +48,6 @@
 		"SG",
 		"CC",
 		"TP"
-	]
+	],
+	"insurance": []
 }

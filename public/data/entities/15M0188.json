@@ -32,6 +32,12 @@
 		"Public Holiday": []
 	},
 	"id": "15M0188",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical",
+		"General Surgery",
+		"Orthopaedic Surgery"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -47,5 +53,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

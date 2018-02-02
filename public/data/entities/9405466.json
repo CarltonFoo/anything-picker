@@ -28,6 +28,11 @@
 		]
 	},
 	"id": "9405466",
+	"combinedSpecialities": [
+		"General Surgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -44,5 +49,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

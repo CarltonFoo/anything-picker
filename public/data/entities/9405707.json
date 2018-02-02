@@ -62,6 +62,10 @@
 		"Public Holiday": []
 	},
 	"id": "9405707",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8521303,
 		1.2838559
@@ -77,5 +81,10 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

@@ -32,6 +32,17 @@
 		]
 	},
 	"id": "14D0016",
+	"combinedSpecialities": [
+		"Prosthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8510725,
 		1.2843495
@@ -47,5 +58,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

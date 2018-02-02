@@ -85,6 +85,11 @@
 		"Public Holiday": []
 	},
 	"id": "9403119",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Dental",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8890015,
 		1.3699068
@@ -101,5 +106,6 @@
 		"SE",
 		"SG",
 		"TP"
-	]
+	],
+	"insurance": []
 }

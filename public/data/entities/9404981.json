@@ -70,6 +70,16 @@
 		]
 	},
 	"id": "9404981",
+	"combinedSpecialities": [
+		"Anaesthesiology",
+		"Intensive Care Medicine",
+		"Day Surgery",
+		"Endoscopy",
+		"Specialist Medical",
+		"Gastroenterology",
+		"General Surgery",
+		"Ophthalmology"
+	],
 	"coordinates": [
 		103.8459495,
 		1.3719373
@@ -85,5 +95,6 @@
 		"SG",
 		"CC",
 		"YS"
-	]
+	],
+	"insurance": []
 }

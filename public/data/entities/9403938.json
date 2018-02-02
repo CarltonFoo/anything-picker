@@ -68,6 +68,11 @@
 		"Sunday": []
 	},
 	"id": "9403938",
+	"combinedSpecialities": [
+		"Medical Oncology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -83,5 +88,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

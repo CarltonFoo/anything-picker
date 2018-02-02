@@ -68,6 +68,12 @@
 		"Sunday": []
 	},
 	"id": "12C0177",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"General Medical",
+		"Specialist Medical",
+		"Rheumatology"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -84,5 +90,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

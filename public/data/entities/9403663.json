@@ -41,6 +41,10 @@
 		]
 	},
 	"id": "9403663",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7310836,
 		1.3458834
@@ -57,5 +61,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

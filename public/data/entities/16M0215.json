@@ -30,6 +30,11 @@
 		]
 	},
 	"id": "16M0215",
+	"combinedSpecialities": [
+		"Plastic Surgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -45,5 +50,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -126,6 +126,14 @@
 		]
 	},
 	"id": "9405404",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8566246,
 		1.3114211
@@ -141,5 +149,8 @@
 		"MP",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -29,6 +29,12 @@
 		]
 	},
 	"id": "17D0060",
+	"combinedSpecialities": [
+		"Orthodontics",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8525474,
 		1.2841879
@@ -44,5 +50,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

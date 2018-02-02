@@ -65,6 +65,10 @@
 		"Public Holiday": []
 	},
 	"id": "9403925",
+	"combinedSpecialities": [
+		"Endodontics",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.830642,
 		1.3046763
@@ -80,5 +84,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

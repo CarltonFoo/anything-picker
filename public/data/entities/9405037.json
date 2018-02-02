@@ -67,6 +67,17 @@
 		]
 	},
 	"id": "9405037",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"Day Surgery",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8383462,
 		1.2796022
@@ -81,5 +92,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

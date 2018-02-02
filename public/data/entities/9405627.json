@@ -27,6 +27,11 @@
 		]
 	},
 	"id": "9405627",
+	"combinedSpecialities": [
+		"Neurology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -42,5 +47,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

@@ -67,6 +67,10 @@
 		"Public Holiday": []
 	},
 	"id": "9401279",
+	"combinedSpecialities": [
+		"Oral & Maxillo-Facial Surgery",
+		"General Dental"
+	],
 	"coordinates": [
 		103.7482586,
 		1.3207654
@@ -83,5 +87,8 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

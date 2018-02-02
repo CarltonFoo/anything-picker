@@ -84,6 +84,13 @@
 		]
 	},
 	"id": "9405133",
+	"combinedSpecialities": [
+		"Family Physician",
+		"Liposuction",
+		"General Medical",
+		"Specialist Medical",
+		"Plastic Surgery"
+	],
 	"coordinates": [
 		103.8531997,
 		1.3221334
@@ -100,5 +107,10 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

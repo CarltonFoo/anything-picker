@@ -68,6 +68,12 @@
 		"Sunday": []
 	},
 	"id": "13C0276",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Day Surgery",
+		"Renal Dialysis",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7547648,
 		1.3783779
@@ -83,5 +89,6 @@
 		"SK",
 		"TH",
 		"WC"
-	]
+	],
+	"insurance": []
 }

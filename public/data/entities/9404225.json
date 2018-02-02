@@ -90,6 +90,11 @@
 		]
 	},
 	"id": "9404225",
+	"combinedSpecialities": [
+		"General Medical",
+		"Specialist Medical",
+		"Endocrinology"
+	],
 	"coordinates": [
 		103.8525261,
 		1.3212956
@@ -106,5 +111,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

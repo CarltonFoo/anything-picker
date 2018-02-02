@@ -80,6 +80,11 @@
 		]
 	},
 	"id": "9403126",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Dental",
+		"General Medical"
+	],
 	"coordinates": [
 		103.887166,
 		1.3194937
@@ -95,5 +100,6 @@
 		"HG",
 		"MP",
 		"TP"
-	]
+	],
+	"insurance": []
 }

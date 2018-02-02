@@ -84,6 +84,9 @@
 		"Public Holiday": []
 	},
 	"id": "9400136",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.7493822,
 		1.3462487
@@ -100,5 +103,9 @@
 		"TH",
 		"CK",
 		"CL"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

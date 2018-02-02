@@ -29,6 +29,12 @@
 		]
 	},
 	"id": "15M0258",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8233271,
 		1.2826468
@@ -43,5 +49,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

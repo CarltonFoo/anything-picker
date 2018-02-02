@@ -80,6 +80,9 @@
 		"Public Holiday": []
 	},
 	"id": "14C0231",
+	"combinedSpecialities": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.849692,
 		1.3488884
@@ -94,5 +97,6 @@
 		"SG",
 		"CC",
 		"TP"
-	]
+	],
+	"insurance": []
 }

@@ -98,6 +98,10 @@
 		]
 	},
 	"id": "16M0352",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9070732,
 		1.3026413
@@ -112,5 +116,11 @@
 		"GL",
 		"KL",
 		"CA"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

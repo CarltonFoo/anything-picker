@@ -23,6 +23,11 @@
 		]
 	},
 	"id": "9404118",
+	"combinedSpecialities": [
+		"General Medical",
+		"Specialist Medical",
+		"Plastic Surgery"
+	],
 	"coordinates": [
 		103.9126428,
 		1.3203726
@@ -38,5 +43,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

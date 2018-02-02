@@ -28,6 +28,11 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "9401355",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.9903488,
 		1.3617358
@@ -41,5 +46,8 @@
 		"PR",
 		"TM",
 		"CB"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

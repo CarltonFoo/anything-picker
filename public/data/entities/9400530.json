@@ -83,6 +83,10 @@
 		]
 	},
 	"id": "9400530",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8299848,
 		1.3055061
@@ -98,5 +102,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

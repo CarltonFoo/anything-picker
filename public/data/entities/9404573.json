@@ -70,6 +70,14 @@
 		]
 	},
 	"id": "9404573",
+	"combinedSpecialities": [
+		"Prosthodontics",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376
@@ -85,5 +93,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

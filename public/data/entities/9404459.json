@@ -85,6 +85,10 @@
 		]
 	},
 	"id": "9404459",
+	"combinedSpecialities": [
+		"Ophthalmology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8320158,
 		1.2934405
@@ -100,5 +104,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

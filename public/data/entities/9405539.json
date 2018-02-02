@@ -65,6 +65,11 @@
 		]
 	},
 	"id": "9405539",
+	"combinedSpecialities": [
+		"Otorhinolaryngology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -80,5 +85,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

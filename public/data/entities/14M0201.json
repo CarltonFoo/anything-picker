@@ -74,6 +74,9 @@
 		"Sunday": []
 	},
 	"id": "14M0201",
+	"combinedSpecialities": [
+		"Renal Medicine"
+	],
 	"coordinates": [
 		103.8544417,
 		1.3264806
@@ -90,5 +93,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

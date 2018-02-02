@@ -76,6 +76,10 @@
 		"Sunday": []
 	},
 	"id": "16M0011",
+	"combinedSpecialities": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9040511,
 		1.304326
@@ -90,5 +94,6 @@
 		"GL",
 		"KL",
 		"CA"
-	]
+	],
+	"insurance": []
 }

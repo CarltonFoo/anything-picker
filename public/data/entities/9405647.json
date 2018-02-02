@@ -86,6 +86,12 @@
 		]
 	},
 	"id": "9405647",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.8301549,
 		1.2953535
@@ -101,5 +107,8 @@
 		"NV",
 		"QT",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

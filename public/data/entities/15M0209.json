@@ -30,6 +30,11 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "15M0209",
+	"combinedSpecialities": [
+		"Geriatric Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -47,5 +52,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

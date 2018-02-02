@@ -69,6 +69,11 @@
 		]
 	},
 	"id": "11C0208",
+	"combinedSpecialities": [
+		"Gastroenterology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -84,5 +89,8 @@
 		"NV",
 		"QT",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

@@ -79,6 +79,11 @@
 		]
 	},
 	"id": "13C0105",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.82847,
 		1.3071789
@@ -94,5 +99,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

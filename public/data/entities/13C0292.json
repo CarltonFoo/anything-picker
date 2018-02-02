@@ -70,6 +70,12 @@
 		]
 	},
 	"id": "13C0292",
+	"combinedSpecialities": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.939614,
 		1.3463917
@@ -84,5 +90,6 @@
 		"PR",
 		"PL",
 		"CH"
-	]
+	],
+	"insurance": []
 }

@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "13C0096",
+	"combinedSpecialities": [
+		"Obstetrics & Gynaecology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -79,5 +84,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

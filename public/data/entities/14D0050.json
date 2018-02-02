@@ -123,6 +123,11 @@
 		]
 	},
 	"id": "14D0050",
+	"combinedSpecialities": [
+		"General Dental",
+		"Specialist Dental",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8453061,
 		1.3412371
@@ -140,5 +145,8 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

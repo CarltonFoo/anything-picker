@@ -76,6 +76,9 @@
 		"Sunday": []
 	},
 	"id": "15M0433",
+	"combinedSpecialities": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9135785,
 		1.4021277
@@ -89,5 +92,6 @@
 		"PR",
 		"SL",
 		"SE"
-	]
+	],
+	"insurance": []
 }
