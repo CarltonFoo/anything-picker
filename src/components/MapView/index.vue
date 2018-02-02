@@ -2,6 +2,7 @@
   <div class="picker-map column">
     <div class="map-container auto" ref="map" />
     <PostalCodeControl class="absolute-top-left" />
+    <ShowClinicList class="absolute-bottom-right"/>
   </div>
 </template>
 
@@ -12,17 +13,17 @@ import getExtent from 'geojson-extent'
 // import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
 import PostalCodeControl from './PostalCodeControl'
+import ShowClinicList from './ShowClinicList'
 
 export default {
   name: 'MapView',
   props: {
-    schoolId: String,
-    hovered: Array,
+    clinicId: String,
+    hovered: [String, Array],
     selectedTab: String
   },
   computed: {
     ...mapState(['entityList', 'bookmarked', 'location']),
-    ...mapState({schoolLevel: state => state.schoolLevel.selected}),
     ...mapGetters(['filtered', 'suggested']),
 
     geojson () {
@@ -169,12 +170,12 @@ export default {
         })
         map.on('mouseenter', style, e => {
           map.getCanvas().style.cursor = 'pointer'
-          if (this.schoolId || Platform.is.mobile) return
+          if (this.clinicId || Platform.is.mobile) return
           this.$emit('hover', e.features.map(f => f.properties.id))
         })
         map.on('mouseleave', style, e => {
           map.getCanvas().style.cursor = ''
-          if (this.schoolId || Platform.is.mobile) return
+          if (this.clinicId || Platform.is.mobile) return
           this.$emit('hover', null)
         })
       })
@@ -198,7 +199,7 @@ export default {
 
       this.$watch('entityId', function (id) {
         if (id) {
-          const center = this.entityList.filter(school => school.id === id)[0].coordinates
+          const center = this.entityList.filter(clinic => clinic.id === id)[0].coordinates
           map.flyTo(center, 15)
           this.$emit('hover', id)
         } else {
@@ -239,7 +240,7 @@ export default {
       }
     })
   },
-  components: {PostalCodeControl}
+  components: {PostalCodeControl, ShowClinicList}
 }
 
 </script>

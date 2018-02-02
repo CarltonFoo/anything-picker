@@ -12,7 +12,7 @@ Vue.use(VueRouter)
 
 const routes = [
   {path: '/intro', component: QuestionView},
-  {path: '/explore', components: {default: MapView, header: FilterView}},
+  {path: '/explore', components: {default: MapView, header: FilterView, aside: ListView}},
   {path: '/bookmark', components: {default: MapView, aside: ListView}},
   {path: '/detail/:entityId', components: {default: MapView, aside: DetailView}, props: {default: true, aside: true}},
   // {path: '/compare', component: CompareView},

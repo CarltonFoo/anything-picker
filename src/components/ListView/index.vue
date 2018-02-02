@@ -7,7 +7,7 @@
         <q-select class="full-width list-select"
           v-model="sortBy.value"
           :options="sortBy.options"
-          :disable="!location || !travelTime" />
+          />
       </div>
     </div>
     <div class="span-group">
@@ -26,7 +26,7 @@
     </div>
     <!-- <transition-group tag="div" class="picker-list-cards" name="list"> -->
     <div class="picker-list-cards" ref="cards">
-      <!-- <ListCard class="picker-list-card"
+      <ListCard class="picker-list-card"
         v-for="card in renderedCards" :key="card.id"
         :class="{hovered: isHovered(card.id)}"
         :info="card"
@@ -34,7 +34,7 @@
         @mouseover.native="onHover(card.id)"
         @mouseleave.native="onHover(null)"
         @bookmark="$emit('bookmark', card.id)"
-        @focus="$emit('focus', card.id)" /> -->
+        @focus="$emit('focus', card.id)" />
     </div>
     <!-- </transition-group> -->
   </div>
@@ -47,12 +47,11 @@ import _sortBy from 'lodash/sortBy'
 import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
 import ListCard from './ListCard'
-import SearchBox from '../FilterView/SearchBox'
 
 export default {
   name: 'ListView',
   props: {
-    hovered: Array
+    hovered: [String, Array]
   },
   data () {
     return {
@@ -60,15 +59,14 @@ export default {
       sortBy: {
         options: [
           {label: 'A to Z', value: 'alphabet'},
-          {label: 'Distance', value: 'distance'},
-          {label: 'Travel time', value: 'travelTime'}
+          {label: 'Distance', value: 'distance'}
         ],
         value: 'alphabet'
       }
     }
   },
   computed: {
-    ...mapState(['entityList', 'travelTime', 'bookmarked', 'location']),
+    ...mapState(['entityList', 'bookmarked', 'location']),
     ...mapGetters(['filtered', 'suggested']),
     renderedCards () {
       const {filtered, suggested, bookmarked, sortBy} = this
@@ -78,19 +76,14 @@ export default {
 
       if (this.location) {
         const location = toSVY21(this.location)
-        cards = cards.map(school => {
-          if (school.svy21 == null) return false
+        cards = cards.map(clinic => {
+          if (clinic.svy21 == null) return false
           const distance = Math.sqrt(
-            Math.pow(location[0] - school.svy21[0], 2) +
-            Math.pow(location[1] - school.svy21[1], 2)
+            Math.pow(location[0] - clinic.svy21[0], 2) +
+            Math.pow(location[1] - clinic.svy21[1], 2)
           )
-          return Object.assign({distance}, school)
+          return Object.assign({distance}, clinic)
         })
-      }
-
-      if (this.travelTime) {
-        cards = cards.map(school =>
-          Object.assign({travelTime: this.travelTime[school.id]}, school))
       }
 
       return _sortBy(cards, sortBy.value === 'alphabet' ? 'name' : sortBy.value)
@@ -98,17 +91,17 @@ export default {
     matchCount () {
       if (this.$route.path === '/explore') {
         if (this.renderedCards.length > 1) {
-          return this.renderedCards.length + ' schools match your criteria'
+          return this.renderedCards.length + ' clinics match your criteria'
         } else if (this.renderedCards.length > 0) {
-          return '1 school match your criteria'
+          return '1 clinic match your criteria'
         } else {
           return 'No match'
         }
       } else if (this.$route.path === '/bookmark') {
         if (this.renderedCards.length > 1) {
-          return this.renderedCards.length + ' schools bookmarked'
+          return this.renderedCards.length + ' clinics bookmarked'
         } else if (this.renderedCards.length > 0) {
-          return '1 school bookmarked'
+          return '1 clinic bookmarked'
         } else {
           return 'Nothing bookmarked'
         }
@@ -130,7 +123,7 @@ export default {
     },
     toggleDrawer () {
       this.$emit('toggleDrawer')
-    }
+    },
   },
   mounted () {
     if (this.location) this.sortBy.value = 'distance'
@@ -153,7 +146,7 @@ export default {
       }
     }
   },
-  components: {ListCard, SearchBox}
+  components: {ListCard}
 }
 </script>
 
@@ -177,10 +170,12 @@ export default {
     white-space: nowrap;
 
     .match-count {
-      font-size: 0.9em;
-      font-weight: bold;
+      font-size: 0.85em;
+      // font-weight: bold;
       display: inline-block;
       white-space: initial;
+      padding-top: 0.5em;
+      color: white !important;
 
       .mobile & {
         width: calc(100% - 190px)
@@ -221,6 +216,7 @@ export default {
       margin-left: 0;
       margin-right: 0;
       position: relative;
+      color: white;
 
       span {
         font-size: 12.8px;
@@ -228,11 +224,12 @@ export default {
         display: block;
         padding-bottom: 10px;
         font-weight: 700;
+        color: white;
       }
 
       .q-picker-textfield {
         position: relative;
-        border: 2px solid $color-primary!important;
+        border: 2px solid #FFFFFF !important;
         border-radius: 5px;
         z-index: 20;
         padding: 10px;
@@ -247,10 +244,10 @@ export default {
           top: 0;
           text-align: center;
           transform: none!important;
-          border: 1px solid $color-primary;
-          background-color: $color-primary;
+          border: 1px solid white;
+          background-color: white;;
           padding: 8px 14px 0;
-          content: url('/assets/Dropdown_White.svg');
+          content: url('/assets/Dropdown.svg');
         }
       }
     }
@@ -260,7 +257,7 @@ export default {
   .picker-list-cards {
     padding-top: 0;
     padding-bottom: 15px;
-    padding-right: 6px;
+    padding-right: 15px;
     margin-right: -6px;
     margin-top: 15px;
     overflow-x: hidden;

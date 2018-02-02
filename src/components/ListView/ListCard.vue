@@ -1,20 +1,36 @@
 <template>
   <div class="card no-shadow">
     <div class="card-title cursor-pointer" @click="$emit('focus')">
-      <div class="text-primary text-bold">{{info.name}}</div>
+      <div class="text-primary text-bold header">{{info.name}}</div>
       <small class="text-primary">
-        {{schoolType[0]}} &nbsp;&middot;&nbsp; {{schoolType[1]}}
+        {{info.clinicType}}
       </small>
     </div>
     <div class="card-details" @click="$emit('focus')">
-      <div class="unique-title text-negative text-italic" v-if="uniqueCcas.length > 0">
+      <!-- <div class="unique-title text-negative text-italic" v-if="uniqueCcas.length > 0">
         Unique CCAs:
       </div>
       <div class="unique-content" v-if="uniqueCcas.length > 0">
         <span v-for="cca in uniqueCcas">
           <small class="cca-name">{{cca.name}}</small><small class="dot">&middot;</small>
         </span>
-      </div>
+      </div> -->
+      <small class="text-primary text-bold header">
+      Address:
+      </small>
+      <br />
+      <small class="address"> {{info.address}} </small>
+
+      <br />
+
+      <small class="text-primary text-bold header">
+      Operating Hours:
+      </small>
+      <br />
+      <small class="operatingHours"> {{info.operatingHours}} </small>
+
+      <br />
+
     </div>
 
     <div class="card-actions">
@@ -28,9 +44,9 @@
         <small><img :src="bookmarked ? '/assets/Star_Green.svg' : '/assets/Star_Blue.svg'" />Bookmark
         <!-- {{bookmarked ? 'Bookmarked' : 'Bookmark'}} --></small>
       </span>
-      <span v-if="travelTime" class="action-traveltime">
+      <!-- <span v-if="travelTime" class="action-traveltime">
         <small class="text-primary"><img src='/assets/Car.svg'/>{{travelTime}}</small>
-      </span>
+      </span> -->
       <span class="auto" />
     </div>
   </div>
@@ -45,58 +61,13 @@ export default {
     bookmarked: Boolean
   },
   computed: {
-    schoolType () {
-      return Object.keys(this.info.schoolType).slice(0, 2).map(type => {
-        type = type.split(' ').filter(term => term !== 'SCHOOL').join(' ')
+    clinicType () {
+      return Object.keys(this.info.clinicType).slice(0, 2).map(type => {
+        type = type.split(' ').filter(term => term !== 'CLINIC').join(' ')
         return capitalize(type)
       })
     },
-    travelTime () {
-      if ('travelTime' in this.info) {
-        if (this.info.travelTime > 3600) return '> 1 HR'
-        else return Math.ceil(this.info.travelTime / 60) + ' min'
-      }
-    },
-    specialProgrammes () {
-      const result = []
-      const data = this.info['specialProgrammes']
-
-      for (let key in data) {
-        result.push({
-          programmeGroup: key,
-          programmeName: data[key],
-          imgUrl: assets[key]
-        })
-      }
-
-      return result
-    },
-    uniqueCcas () {
-      return this.info['uniqueCcas']
-    }
   }
-}
-
-const assets = {
-  'Aesthetics': '/assets/Programmes/Aesthetics_VisualArt.svg',
-  'Business & Entrepreneurship': '/assets/Programmes/Business_Innovation.svg',
-  'Community & Youth Leadership': '/assets/Programmes/Leadership.svg',
-  'Community Service & Student Leadership': '/assets/Programmes/Leadership.svg',
-  'Humanities': '/assets/Programmes/Humanities_Languages.svg',
-  'ICT': '/assets/Programmes/ICT.svg',
-  'Innovation & Enterprise': '/assets/Programmes/Business_Innovation.svg',
-  'Interdisciplinary': '/assets/Programmes/Interdisciplinary.svg',
-  'Languages': '/assets/Programmes/Humanities_Languages.svg',
-  'Languages & Humanities': '/assets/Programmes/Humanities_Languages.svg',
-  'Mathematics': '/assets/Programmes/Mathematics.svg',
-  'Mathematics & Innovation & Enterprise': '/assets/Programmes/Mathematics.svg',
-  'Music & Performing Arts': '/assets/Programmes/PerformingArts.svg',
-  'Music & Performing Arts / Visual Arts & Design': '/assets/Programmes/PerformingArts.svg',
-  'STEM': '/assets/Programmes/Stem_Science.svg',
-  'Science': '/assets/Programmes/Stem_Science.svg',
-  'Science, ICT & Mathematics': '/assets/Programmes/Stem_Science.svg',
-  'Sports & Outdoor Education': '/assets/Programmes/Sports.svg',
-  'Visual Arts & Design': '/assets/Programmes/Aesthetics_VisualArt.svg'
 }
 
 </script>
@@ -112,10 +83,22 @@ const assets = {
       font-size: 90%;
       font-weight: 400;
     }
+    
+    .header {
+      color: #369ad5 !important;
+    }
   }
 
   .card-details {
-    padding: 0 16px;
+    padding: 10px 16px;
+
+    .header {
+      color: #369ad5 !important;
+    }
+
+    .address, .operatingHours {
+      font-size: 0.6em;
+    }
 
     .unique-title {
       font-size: 0.6em;

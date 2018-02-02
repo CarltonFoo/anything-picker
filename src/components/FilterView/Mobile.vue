@@ -6,16 +6,17 @@
       </big>
       <big class="filter-title text-primary text-bold">FILTERS</big>
       <div class="tab-list">
-        <SchoolLevelTab @expand="openModal" />
-        <component :is="DynamicTab" @expand="openModal" />
-        <CcaTab @expand="openModal" />
-        <MoreOptionsTab @expand="openModal" />
+        <LocationTab class="width-1of4" @expand="openModal" />
+        <OperatingHoursTab class="width-1of4" />
+        <!-- <PriceTab class="width-1of5" /> -->
+    	  <InsuranceTab class="width-1of4" @expand="openModal" />
+        <TypeTab class="width-1of4" @expand="openModal" />
       </div>
     </div>
 
     <LocationModal ref="location" />
-    <CcaModal ref="cca" />
-    <MoreOptionsModal ref="more" />
+    <InsuranceModal ref="insurance" />
+    <TypeModal ref="type" />
     <div class="button-group" @click="$children[0].close()">
       <button class="bg-primary text-white text-bold">DONE</button>
     </div>
@@ -23,41 +24,40 @@
 </template>
 
 <script>
-import SchoolLevelTab from './Tab/SchoolLevel'
 import LocationTab from './Tab/Location'
-import PsleTab from './Tab/PSLE'
-import L1R5Tab from './Tab/L1R5'
-import CcaTab from './Tab/Cca'
-import MoreOptionsTab from './Tab/MoreOptions'
+import OperatingHoursTab from './Tab/OperatingHours'
+// import PriceTab from './Tab/Price'
+import InsuranceTab from './Tab/Insurance'
+import TypeTab from './Tab/Type'
 
 import LocationModal from './Modal/Location'
-import CcaModal from './Modal/Cca'
-import MoreOptionsModal from './Modal/MoreOptions'
+import InsuranceModal from './Modal/Insurance'
+import TypeModal from './Modal/Type'
 
 export default {
-  computed: {
-    DynamicTab () {
-      const schoolLevel = this.$store.state.schoolLevel.selected
-      if (schoolLevel === 'S' || schoolLevel === 'T') return 'PsleTab'
-      if (schoolLevel === 'J') return 'L1R5Tab'
-      return 'LocationTab'
-    }
-  },
+  name: 'FilterView',
+  // computed: {
+  //   DynamicTab () {
+  //     const schoolLevel = this.$store.state.schoolLevel.selected
+  //     if (schoolLevel === 'S' || schoolLevel === 'T') return 'PsleTab'
+  //     if (schoolLevel === 'J') return 'L1R5Tab'
+  //     return 'LocationTab'
+  //   }
+  // },
   methods: {
     openModal (id) {
       this.$refs[id].$children[0].open()
     }
   },
   components: {
-    SchoolLevelTab,
     LocationTab,
     LocationModal,
-    PsleTab,
-    L1R5Tab,
-    CcaTab,
-    CcaModal,
-    MoreOptionsTab,
-    MoreOptionsModal
+    OperatingHoursTab,
+    // PriceTab,
+    InsuranceTab,
+    InsuranceModal,
+    TypeTab,
+    TypeModal,
   }
 }
 </script>
@@ -68,6 +68,10 @@ export default {
 .picker-filter.mobile {
   height: 100%;
 
+  .width-1of4 {
+    border: none;
+  }
+  
   .modal-content {
     background: $color-tertiary;
     height: 100%;

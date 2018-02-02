@@ -11,7 +11,7 @@
       :hovered="hovered"
       @hover="onHover"
       @focus="onFocus" />
-    <!-- <transition name="expand" mode="out-in" :duration="{leave: 0}"> -->
+    <transition name="expand" mode="out-in" :duration="{leave: 0}">
       <router-view name="aside"
         :selectedTab="selectedTab"
         :hovered="hovered"
@@ -21,7 +21,7 @@
         @focus="onFocus"
         @narrow="onNarrow"
         @toggleDrawer="toggleDrawer" />
-    <!-- </transition> -->
+    </transition>
     <FilterViewMobile ref="drawer" class="mobile-only" />
   </q-layout>
 </template>
@@ -56,7 +56,7 @@ export default {
       this.$store.dispatch('exportOptions').then(query => this.$router.replace({query}))
     },
     onFocus (id) {
-      if (this.$route.params.schoolId !== id) {
+      if (this.$route.params.clinicId !== id) {
         this.$router.push({
           path: '/detail/' + id,
           query: this.$route.query
@@ -69,11 +69,11 @@ export default {
     onChangeTab (tab) {
       this.selectedTab = tab
     },
-    // onListResize () {
-    //   if ('map' in this.$refs.defaultView) {
-    //     this.$refs.defaultView.map.invalidateSize(true)
-    //   }
-    // },
+    onListResize () {
+      if ('map' in this.$refs.defaultView) {
+        this.$refs.defaultView.map.invalidateSize(true)
+      }
+    },
     toggleDrawer () {
       this.$refs.drawer.$children[0].toggle()
     },
@@ -104,15 +104,7 @@ html, body, #app {
   }
 
   .picker-list {
-    flex: 0 0 450px;
-
-    // &.expand-enter {
-    //   flex-basis: 320px;
-    // }
-    //
-    // &.expand-enter-active {
-    //   transition: flex 300ms;
-    // }
+    flex: 0 0 481px;
 
     .mobile & {
       flex: 1 1 auto;

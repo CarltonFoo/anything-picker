@@ -4,7 +4,7 @@
       v-if="detail"
       :info="detail"
       :bookmarked="isBookmarked"
-      @bookmark="$emit('bookmark', schoolId)"
+      @bookmark="$emit('bookmark', clinicId)"
       @close="close" />
     <div class="picker-loading" v-else>
       <spinner :size="60" color="grey" />
@@ -21,40 +21,36 @@ import DetailCard from './DetailCard'
 export default {
   name: 'DetailView',
   props: {
-    schoolId: String,
+    clinicId: String,
     selectedTab: String
   },
   computed: {
-    ...mapState(['entityDetail', 'travelTime', 'bookmarked', 'location']),
-    ...mapState({
-      homeSchoolDistance: state => state.homeSchoolDistance}
-    ),
+    ...mapState(['entityDetail', 'bookmarked', 'location']),
     detail () {
-      if (this.schoolId in this.entityDetail) {
-        let school = this.entityDetail[this.schoolId]
+      if (this.clinicId in this.entityDetail) {
+        let clinic = this.entityDetail[this.clinicId]
 
         if (this.location) {
-          // const {oneKm, twoKm} = this.homeSchoolDistance
           const location = toSVY21(this.location)
 
           const distance = Math.sqrt(
-            Math.pow(location[0] - school.svy21[0], 2) +
-            Math.pow(location[1] - school.svy21[1], 2)
+            Math.pow(location[0] - clinic.svy21[0], 2) +
+            Math.pow(location[1] - clinic.svy21[1], 2)
           )
-          school = Object.assign({distance}, school)
+          clinic = Object.assign({distance}, clinic)
         }
 
         if (this.travelTime) {
-          school = Object.assign({travelTime: this.travelTime[school.id]}, school)
+          clinic = Object.assign({travelTime: this.travelTime[clinic.id]}, clinic)
         }
 
-        return school
+        return clinic
       } else {
-        this.fetchEntityDetail(this.schoolId)
+        this.fetchEntityDetail(this.clinicId)
       }
     },
     isBookmarked () {
-      return this.bookmarked.indexOf(this.schoolId) > -1
+      return this.bookmarked.indexOf(this.clinicId) > -1
     }
   },
   methods: {

@@ -26,29 +26,30 @@ export default {
   },
   computed: {
     ...mapState({
-      schoolList: state => state.schoolList,
-      schoolLevel: state => state.schoolLevel.selected
+      entityList: state => state.entityList,
+      // clinicLevel: state => state.clinicLevel.selected
     })
   },
   methods: {
     search (value, done) {
-      const filtered = this.schoolList.filter(school => {
-        return !this.schoolLevel || school.levelOfEducation.indexOf(this.schoolLevel) > -1
-      }).filter(school => {
-        const terms = school.name.split(' ').map((v, i, arr) => {
+      const filtered = this.entityList.filter(clinic => {
+      //   return !this.schoolLevel || school.levelOfEducation.indexOf(this.schoolLevel) > -1
+      // }).filter(school => {
+        const terms = clinic.name.split(' ').map((v, i, arr) => {
           return arr.slice(i).join(' ')
         })
         const pattern = new RegExp('^' + value, 'i')
 
         return terms.some(term => {
-          if (term.match(/^(SCHOOL|PRIMARY|SECONDARY|HIGH)$/)) return false
+          if (term.match(/^(CLINIC|HOSPITAL)$/)) return false
           return terms.some(term => term.match(pattern))
         })
-      }).map(school => ({
-        label: school.name,
-        value: school.name,
-        icon: 'school',
-        id: school.id
+      })
+      .map(clinic => ({
+        label: clinic.name,
+        value: clinic.name,
+        icon: 'clinic',
+        id: clinic.id
       }))
       done(filtered)
     },
@@ -67,12 +68,14 @@ export default {
 </script>
 
 <style lang="scss">
-$color-secondary-darker: #2a8dc8;
-$color-searchbox: #369ad5;
-$toolbar-bg: #273246;
+$color-secondary-darker: #0e5f7f;
+$color-searchbox: #005b7f;
+$toolbar-bg: #008fd6;
+// $text-color: #273246;
 
 .picker-searchbox {
   // background-color: $color-secondary-darker!important;
+  display: inline-block;
   background-color: $toolbar-bg !important;
 
   .item-content {

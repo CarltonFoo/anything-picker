@@ -8,9 +8,7 @@
 
       <!-- <a class="info-button" href="https://blog.data.gov.sg/find-the-right-school-using-our-new-school-picker-tool-3a7250b63390">i</a> -->
 
-      <SearchBox />
-
-      <!-- <div class="bookmark-button desktop-only"
+      <div class="bookmark-button desktop-only"
         :class="{'bg-positive': bookmarkActive, 'text-white': bookmarkActive}"
         @click="route">
         <img src="/assets/Star_White.svg" />BOOKMARK
@@ -21,7 +19,9 @@
         @click="route">
         <img :src="bookmarkActive ? '/assets/Star_Green_Solid.svg' : '/assets/Star_White.svg'" />
         <span class="bookmark-indicator bg-positive" v-show="hasBookmark & !bookmarkActive" />
-      </div> -->
+      </div>
+
+      <SearchBox />
 
     </div>
   </div>

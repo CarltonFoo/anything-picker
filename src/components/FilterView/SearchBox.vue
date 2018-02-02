@@ -9,7 +9,7 @@
         :min-characters="2"
         :delay="0"
         delimiter>
-        <q-search @click.native="toggleDrawer" v-model="searchVal" placeholder="Find a school" />
+        <q-search @click.native="toggleDrawer" v-model="searchVal" placeholder="Find a clinic" />
       </q-autocomplete>
     </div>
   </div>
@@ -27,28 +27,29 @@ export default {
   computed: {
     ...mapState({
       entityList: state => state.entityList,
-      schoolLevel: state => state.schoolLevel.selected
+      // clinicLevel: state => state.clinicLevel.selected
     })
   },
   methods: {
     search (value, done) {
-      const filtered = this.entityList.filter(school => {
-        return !this.schoolLevel || school.levelOfEducation.indexOf(this.schoolLevel) > -1
-      }).filter(school => {
-        const terms = school.name.split(' ').map((v, i, arr) => {
+      const filtered = this.entityList.filter(clinic => {
+      //   return !this.schoolLevel || school.levelOfEducation.indexOf(this.schoolLevel) > -1
+      // }).filter(school => {
+        const terms = clinic.name.split(' ').map((v, i, arr) => {
           return arr.slice(i).join(' ')
         })
         const pattern = new RegExp('^' + value, 'i')
 
         return terms.some(term => {
-          if (term.match(/^(SCHOOL|PRIMARY|SECONDARY|HIGH)$/)) return false
+          if (term.match(/^(CLINIC|HOSPITAL)$/)) return false
           return terms.some(term => term.match(pattern))
         })
-      }).map(school => ({
-        label: school.name,
-        value: school.name,
-        icon: 'school',
-        id: school.id
+      })
+      .map(clinic => ({
+        label: clinic.name,
+        value: clinic.name,
+        icon: 'clinic',
+        id: clinic.id
       }))
       done(filtered)
     },
