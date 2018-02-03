@@ -29,6 +29,12 @@
 		]
 	},
 	"id": "17M0128",
+	"combinedSpecialties": [
+		"Plastic Surgery",
+		"Day Surgery",
+		"Liposuction",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8402866,
 		1.2996221
@@ -44,5 +50,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

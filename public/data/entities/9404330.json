@@ -21,14 +21,47 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "02:30 pm to 07:00 pm",
-		"Wednesday": "02:30 pm to 07:00 pm",
-		"Thursday": "02:30 pm to 07:00 pm",
-		"Friday": "02:30 pm to 07:00 pm",
-		"Saturday": "04:00 pm to 07:00 pm",
-		"Sunday": "12:30 pm to 06:30 pm"
+		"Monday": [
+			[
+				"14:30",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"14:30",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"14:30",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"14:30",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"16:00",
+				"19:00"
+			]
+		],
+		"Sunday": [
+			[
+				"14:30",
+				"18:30"
+			]
+		]
 	},
 	"id": "9404330",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8498204,
 		1.2920159
@@ -44,5 +77,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

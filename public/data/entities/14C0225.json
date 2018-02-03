@@ -19,15 +19,43 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 06:00 pm",
-		"Tuesday": "09:00 am to 06:00 pm",
-		"Wednesday": "Closed",
-		"Thursday": "09:00 am to 06:00 pm",
-		"Friday": "09:00 am to 06:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [],
+		"Thursday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "14C0225",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8169395,
 		1.2838812
@@ -42,5 +70,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

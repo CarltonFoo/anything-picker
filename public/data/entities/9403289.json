@@ -27,14 +27,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 05:00 pm",
-		"Tuesday": "09:00 am to 05:00 pm",
-		"Wednesday": "09:00 am to 05:00 pm",
-		"Thursday": "09:00 am to 01:00 pm",
-		"Friday": "09:00 am to 05:00 pm",
-		"Saturday": "09:00 am to 01:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "9403289",
+	"combinedSpecialties": [
+		"Neonatology",
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8436114,
 		1.3171945
@@ -51,5 +86,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

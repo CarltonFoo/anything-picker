@@ -20,6 +20,9 @@
 		"General Dental": true
 	},
 	"id": "14D0054",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.7442765,
 		1.3474795
@@ -36,5 +39,11 @@
 		"TH",
 		"CK",
 		"CL"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

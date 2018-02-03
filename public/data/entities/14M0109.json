@@ -27,16 +27,82 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 08:30 pm",
-		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 08:30 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 08:30 pm",
-		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "14M0109",
+	"combinedSpecialties": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8414579,
 		1.3253606
@@ -53,5 +119,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

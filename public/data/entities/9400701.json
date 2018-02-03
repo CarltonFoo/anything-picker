@@ -30,15 +30,66 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9400701",
+	"combinedSpecialties": [
+		"Occupational Medicine",
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8855146,
 		1.3245205
@@ -54,5 +105,6 @@
 		"HG",
 		"MP",
 		"TP"
-	]
+	],
+	"insurance": []
 }

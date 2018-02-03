@@ -31,14 +31,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 04:00 pm",
-		"Tuesday": "09:00 am to 04:00 pm",
-		"Wednesday": "09:00 am to 04:00 pm",
-		"Thursday": "09:00 am to 04:00 pm",
-		"Friday": "09:00 am to 04:00 pm",
-		"Saturday": "09:00 am to 11:00 am"
+		"Monday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"01:00"
+			]
+		]
 	},
 	"id": "9403361",
+	"combinedSpecialties": [
+		"Urology",
+		"Endoscopy",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -55,5 +90,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

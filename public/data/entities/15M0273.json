@@ -31,16 +31,53 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 05:00 pm",
-		"Tuesday": "09:00 am to 05:00 pm",
-		"Wednesday": "09:00 am to 05:00 pm",
-		"Thursday": "09:00 am to 05:00 pm",
-		"Friday": "09:00 am to 05:00 pm",
-		"Saturday": "09:00 am to 12:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "15M0273",
+	"combinedSpecialties": [
+		"Medical Oncology",
+		"General Medical",
+		"Specialist Medical",
+		"Paediatric Surgery",
+		"Palliative Medicine"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -56,5 +93,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

@@ -29,16 +29,56 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:00 am to 01:00 pm",
-		"Tuesday": "09:00 am to 01:00 pm",
-		"Wednesday": "09:00 am to 01:00 pm",
-		"Thursday": "09:00 am to 01:00 pm",
-		"Friday": "09:00 am to 01:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "09:00 am to 12:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9405417",
+	"combinedSpecialties": [
+		"Paediatric Medicine",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8414579,
 		1.3253606
@@ -55,5 +95,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

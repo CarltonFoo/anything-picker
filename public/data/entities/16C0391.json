@@ -23,6 +23,9 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "16C0391",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8798985,
 		1.3337287
@@ -40,5 +43,11 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

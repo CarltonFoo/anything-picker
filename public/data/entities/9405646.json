@@ -23,6 +23,11 @@
 		]
 	},
 	"id": "9405646",
+	"combinedSpecialties": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.8438506,
 		1.3199675
@@ -39,5 +44,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

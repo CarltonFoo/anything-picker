@@ -29,6 +29,12 @@
 		]
 	},
 	"id": "17M0265",
+	"combinedSpecialties": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7968617,
 		1.4465757
@@ -42,5 +48,6 @@
 		"MD",
 		"SB",
 		"SK"
-	]
+	],
+	"insurance": []
 }

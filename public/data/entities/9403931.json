@@ -20,6 +20,9 @@
 		"General Dental": true
 	},
 	"id": "9403931",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.7393213,
 		1.3347249
@@ -36,5 +39,10 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

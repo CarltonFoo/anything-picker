@@ -27,16 +27,72 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:10 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:10 pm to 09:00 pm",
-		"Friday": "09:10 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:10 pm to 09:00 pm",
-		"Tuesday": "09:10 am to 12:30 pm",
-		"Thursday": "09:10 am to 12:30 pm",
-		"Wednesday": "09:10 am to 12:30 pm, 02:00 pm to 04:00 pm",
-		"Saturday": "09:10 am to 12:30 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:10",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"19:10",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:10",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"19:10",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:10",
+				"14:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:10",
+				"14:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:10",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:10",
+				"14:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "11C0035",
+	"combinedSpecialties": [
+		"Paediatric Cardiology",
+		"Paediatric Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7307783,
 		1.3448324
@@ -53,5 +109,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

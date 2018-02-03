@@ -22,16 +22,95 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Public Holiday": "09:00 am to 11:45 am",
-		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
-		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
-		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
-		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
-		"Friday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
-		"Saturday": "08:30 am to 12:00 pm",
-		"Sunday": "Closed"
+		"Public Holiday": [
+			[
+				"09:00",
+				"01:45"
+			]
+		],
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9400846",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7455369,
 		1.3618554
@@ -48,5 +127,8 @@
 		"TH",
 		"CK",
 		"CL"
+	],
+	"insurance": [
+		"AXA Clinicare"
 	]
 }

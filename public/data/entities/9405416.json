@@ -25,16 +25,50 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 04:30 pm",
-		"Tuesday": "09:00 am to 04:30 pm",
-		"Wednesday": "09:00 am to 04:30 pm",
-		"Thursday": "09:00 am to 04:30 pm",
-		"Friday": "09:00 am to 04:30 pm",
-		"Saturday": "08:00 am to 12:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9405416",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8299848,
 		1.3055061
@@ -50,5 +84,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

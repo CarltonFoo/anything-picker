@@ -26,9 +26,18 @@
 		]
 	},
 	"operatingHours": {
-		"Saturday": "08:30 am to 01:00 pm"
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "9401660",
+	"combinedSpecialties": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -44,5 +53,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

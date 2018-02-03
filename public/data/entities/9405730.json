@@ -28,14 +28,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 04:30 pm",
-		"Tuesday": "09:00 am to 04:30 pm",
-		"Wednesday": "09:00 am to 12:30 pm",
-		"Saturday": "09:00 am to 12:30 pm",
-		"Thursday": "09:00 am to 04:30 pm",
-		"Friday": "09:00 am to 04:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"16:30"
+			]
+		]
 	},
 	"id": "9405730",
+	"combinedSpecialties": [
+		"Endocrinology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -51,5 +86,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

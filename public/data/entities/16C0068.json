@@ -27,6 +27,11 @@
 		]
 	},
 	"id": "16C0068",
+	"combinedSpecialties": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -44,5 +49,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

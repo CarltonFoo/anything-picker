@@ -19,5 +19,9 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"id": "9401349"
+	"id": "9401349",
+	"combinedSpecialties": [
+		"General Medical"
+	],
+	"insurance": []
 }

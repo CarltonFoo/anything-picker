@@ -26,16 +26,86 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
-		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
-		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
-		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
-		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
-		"Friday": "08:30 am to 12:30 pm, 07:00 pm to 10:00 pm",
-		"Saturday": "08:30 am to 12:30 pm"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
 	},
 	"id": "9402545",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9086889,
 		1.3314132
@@ -51,5 +121,11 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

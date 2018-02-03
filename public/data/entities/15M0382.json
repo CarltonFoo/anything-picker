@@ -32,15 +32,51 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "07:00 am to 10:00 pm",
-		"Tuesday": "07:00 am to 10:00 pm",
-		"Wednesday": "07:00 am to 10:00 pm",
-		"Thursday": "07:00 am to 10:00 pm",
-		"Friday": "07:00 am to 10:00 pm",
-		"Saturday": "07:00 am to 10:00 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "15M0382",
+	"combinedSpecialties": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8160061,
 		1.2839123
@@ -55,5 +91,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

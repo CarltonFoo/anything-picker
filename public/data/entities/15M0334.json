@@ -29,16 +29,50 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
-		"Monday": "10:00 am to 06:00 pm",
-		"Tuesday": "10:00 am to 06:00 pm",
-		"Wednesday": "10:00 am to 06:00 pm",
-		"Thursday": "10:00 am to 06:00 pm",
-		"Friday": "10:00 am to 06:00 pm",
-		"Saturday": "10:00 am to 02:00 pm"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": [],
+		"Monday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "15M0334",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8321282,
 		1.306547
@@ -54,5 +88,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

@@ -28,6 +28,11 @@
 		]
 	},
 	"id": "15M0361",
+	"combinedSpecialties": [
+		"Orthopaedic Surgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8552727,
 		1.3137207
@@ -43,5 +48,6 @@
 		"MP",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

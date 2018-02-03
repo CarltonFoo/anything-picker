@@ -25,6 +25,10 @@
 		]
 	},
 	"id": "9405743",
+	"combinedSpecialties": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7786001,
 		1.3387593
@@ -42,5 +46,6 @@
 		"CC",
 		"TN",
 		"CL"
-	]
+	],
+	"insurance": []
 }

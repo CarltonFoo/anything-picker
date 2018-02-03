@@ -28,6 +28,10 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "16M0081",
+	"combinedSpecialties": [
+		"Rehabilitation Medicine",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8648158,
 		1.3043462
@@ -43,5 +47,8 @@
 		"MP",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

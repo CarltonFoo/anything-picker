@@ -26,16 +26,65 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Saturday": "Closed",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Saturday": [],
+		"Sunday": []
 	},
 	"id": "14M0108",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8654576,
 		1.3770383
@@ -51,5 +100,11 @@
 		"HG",
 		"SE",
 		"TP"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

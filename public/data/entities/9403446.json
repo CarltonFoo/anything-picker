@@ -26,16 +26,70 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
-		"Tuesday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
-		"Wednesday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
-		"Thursday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
-		"Friday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
-		"Saturday": "08:30 am to 01:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9403446",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7430996,
 		1.3920739
@@ -51,5 +105,6 @@
 		"SK",
 		"TH",
 		"WC"
-	]
+	],
+	"insurance": []
 }

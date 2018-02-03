@@ -27,13 +27,62 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
-		"Tuesday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
-		"Wednesday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
-		"Thursday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
-		"Friday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm"
+		"Monday": [
+			[
+				"09:30",
+				"02:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"02:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"02:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"02:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"02:30"
+			],
+			[
+				"14:30",
+				"16:30"
+			]
+		]
 	},
 	"id": "9401728",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7524688,
 		1.3813746
@@ -49,5 +98,8 @@
 		"SK",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

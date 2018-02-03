@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "17M0341",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8453791,
 		1.4319578
@@ -37,5 +40,8 @@
 		"SE",
 		"CC",
 		"SM"
+	],
+	"insurance": [
+		"AXA Medismart"
 	]
 }

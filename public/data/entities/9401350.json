@@ -28,10 +28,32 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "11:00 am to 01:00 pm, 01:30 pm to 03:00 pm",
-		"Saturday": "11:00 am to 01:00 pm, 01:30 pm to 03:00 pm"
+		"Monday": [
+			[
+				"01:00",
+				"13:00"
+			],
+			[
+				"13:30",
+				"15:00"
+			]
+		],
+		"Saturday": [
+			[
+				"01:00",
+				"13:00"
+			],
+			[
+				"13:30",
+				"15:00"
+			]
+		]
 	},
 	"id": "9401350",
+	"combinedSpecialties": [
+		"Renal Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -47,5 +69,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

@@ -21,6 +21,10 @@
 		"General Dental": true
 	},
 	"id": "16D0242",
+	"combinedSpecialties": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	],
 	"coordinates": [
 		103.7741024,
 		1.4303615
@@ -34,5 +38,6 @@
 		"MD",
 		"SB",
 		"SK"
-	]
+	],
+	"insurance": []
 }

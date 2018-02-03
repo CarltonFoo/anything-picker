@@ -27,6 +27,10 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "11C0127",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7232411,
 		1.350577
@@ -42,5 +46,9 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

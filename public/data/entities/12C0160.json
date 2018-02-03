@@ -27,16 +27,52 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 05:00 pm",
-		"Tuesday": "09:00 am to 05:00 pm",
-		"Wednesday": "09:00 am to 05:00 pm",
-		"Thursday": "09:00 am to 05:00 pm",
-		"Friday": "09:00 am to 05:00 pm",
-		"Saturday": "09:00 am to 12:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "12C0160",
+	"combinedSpecialties": [
+		"Medical Oncology",
+		"General Medical",
+		"Specialist Medical",
+		"Haematology"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -53,5 +89,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

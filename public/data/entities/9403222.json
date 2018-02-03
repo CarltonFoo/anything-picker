@@ -24,15 +24,50 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:00 am to 09:00 pm",
-		"Tuesday": "09:00 am to 09:00 pm",
-		"Wednesday": "09:00 am to 09:00 pm",
-		"Thursday": "09:00 am to 09:00 pm",
-		"Friday": "09:00 am to 09:00 pm",
-		"Saturday": "09:00 am to 05:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "9403222",
+	"combinedSpecialties": [
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.6924912,
 		1.3413418
@@ -48,5 +83,8 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

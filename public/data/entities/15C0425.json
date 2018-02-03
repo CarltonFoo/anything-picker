@@ -25,6 +25,10 @@
 		]
 	},
 	"id": "15C0425",
+	"combinedSpecialties": [
+		"Psychiatry",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8562008,
 		1.3688975
@@ -40,5 +44,6 @@
 		"SG",
 		"CC",
 		"YS"
-	]
+	],
+	"insurance": []
 }

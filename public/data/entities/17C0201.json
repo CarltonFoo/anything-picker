@@ -21,6 +21,9 @@
 		"General Medical": true
 	},
 	"id": "17C0201",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7445746,
 		1.3301517
@@ -37,5 +40,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

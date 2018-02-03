@@ -24,14 +24,47 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 12:00 pm",
-		"Wednesday": "08:30 am to 12:00 pm",
-		"Tuesday": "08:30 am to 12:00 pm",
-		"Thursday": "08:30 am to 12:00 pm",
-		"Friday": "08:30 am to 12:00 pm",
-		"Saturday": "08:30 am to 12:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		]
 	},
 	"id": "11C0114",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8728032,
 		1.395987
@@ -50,5 +83,9 @@
 		"SL",
 		"SG",
 		"YS"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

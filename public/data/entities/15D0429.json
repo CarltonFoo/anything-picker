@@ -20,12 +20,35 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Tuesday": "09:00 am to 05:00 pm",
-		"Thursday": "09:00 am to 05:00 pm",
-		"Friday": "09:00 am to 05:00 pm",
-		"Saturday": "09:00 am to 12:00 pm"
+		"Tuesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "15D0429",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8531997,
 		1.3221334
@@ -42,5 +65,10 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

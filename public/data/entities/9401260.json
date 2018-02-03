@@ -32,6 +32,11 @@
 		]
 	},
 	"id": "9401260",
+	"combinedSpecialties": [
+		"Respiratory Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -47,5 +52,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

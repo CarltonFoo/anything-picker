@@ -23,15 +23,86 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 02:30 pm, 06:30 pm to 10:00 pm",
-		"Tuesday": "08:30 am to 02:30 pm, 06:30 pm to 10:00 pm",
-		"Wednesday": "08:30 am to 02:30 pm, 06:30 pm to 10:00 pm",
-		"Thursday": "08:30 am to 12:00 pm, 02:30 pm to 04:30 pm, 06:30 pm to 10:00 pm",
-		"Friday": "08:30 am to 12:00 pm, 02:30 pm to 04:30 pm, 06:30 pm to 10:00 pm",
-		"Saturday": "08:30 am to 12:00 pm",
-		"Sunday": "08:30 am to 12:00 pm, 07:00 pm to 10:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:30",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:30",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"18:30",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:30",
+				"16:30"
+			],
+			[
+				"18:30",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		]
 	},
 	"id": "13C0283",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.6971563,
 		1.3371188
@@ -47,5 +118,10 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

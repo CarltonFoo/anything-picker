@@ -31,6 +31,13 @@
 		]
 	},
 	"id": "9405737",
+	"combinedSpecialties": [
+		"Oral & Maxillo-Facial Surgery",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"General Medical",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -46,5 +53,8 @@
 		"NV",
 		"QT",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

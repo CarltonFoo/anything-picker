@@ -24,14 +24,60 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 06:30 pm to 08:30 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 06:30 pm to 08:30 pm",
-		"Tuesday": "09:00 am to 01:00 pm",
-		"Thursday": "09:00 am to 01:00 pm",
-		"Friday": "09:00 am to 01:00 pm, 06:30 pm to 08:30 pm",
-		"Saturday": "09:00 am to 12:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9401438",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8861957,
 		1.3217033
@@ -47,5 +93,10 @@
 		"HG",
 		"MP",
 		"TP"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

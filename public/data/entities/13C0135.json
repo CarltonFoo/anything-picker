@@ -21,6 +21,10 @@
 		"Yellow Fever Vaccination": true
 	},
 	"id": "13C0135",
+	"combinedSpecialties": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8025752,
 		1.2847375
@@ -35,5 +39,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

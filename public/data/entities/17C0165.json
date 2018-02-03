@@ -25,6 +25,13 @@
 		]
 	},
 	"id": "17C0165",
+	"combinedSpecialties": [
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Orthodontics",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7488268,
 		1.3780262
@@ -40,5 +47,8 @@
 		"SK",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

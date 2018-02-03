@@ -25,15 +25,86 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
-		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
-		"Wednesday": "08:30 am to 12:30 pm, 02:00 am to 04:30 pm",
-		"Friday": "08:30 am to 12:30 pm, 02:00 am to 04:30 pm",
-		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
-		"Saturday": "08:30 am to 12:00 pm",
-		"Sunday": "09:00 am to 12:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"02:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"02:00",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9405046",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7601573,
 		1.3074768
@@ -48,5 +119,6 @@
 		"BT",
 		"JE",
 		"QT"
-	]
+	],
+	"insurance": []
 }

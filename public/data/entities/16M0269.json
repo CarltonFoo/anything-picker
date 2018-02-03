@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "16M0269",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7944598,
 		1.4484639
@@ -33,5 +36,8 @@
 		"MD",
 		"SB",
 		"SK"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

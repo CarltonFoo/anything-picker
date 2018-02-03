@@ -23,9 +23,18 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Tuesday": "06:00 pm to 09:00 pm"
+		"Tuesday": [
+			[
+				"18:00",
+				"21:00"
+			]
+		]
 	},
 	"id": "9403319",
+	"combinedSpecialties": [
+		"Emergency Medicine",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8867379,
 		1.3226812
@@ -41,5 +50,6 @@
 		"HG",
 		"MP",
 		"TP"
-	]
+	],
+	"insurance": []
 }

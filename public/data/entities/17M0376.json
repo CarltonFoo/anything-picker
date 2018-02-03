@@ -23,6 +23,11 @@
 		]
 	},
 	"id": "17M0376",
+	"combinedSpecialties": [
+		"General Medical",
+		"Specialist Medical",
+		"Plastic Surgery"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -38,5 +43,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

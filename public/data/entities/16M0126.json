@@ -30,6 +30,11 @@
 		]
 	},
 	"id": "16M0126",
+	"combinedSpecialties": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.911591,
 		1.308642
@@ -45,5 +50,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

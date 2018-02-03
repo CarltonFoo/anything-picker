@@ -26,15 +26,77 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:00 pm",
-		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:00 pm",
-		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Saturday": "09:00 pm to 12:00 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"21:00",
+				"14:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9403519",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8386805,
 		1.2769243
@@ -49,5 +111,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

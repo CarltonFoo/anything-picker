@@ -34,14 +34,73 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
-		"Tuesday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
-		"Wednesday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
-		"Thursday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
-		"Friday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
-		"Saturday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"08:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "11C0214",
+	"combinedSpecialties": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -57,5 +116,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

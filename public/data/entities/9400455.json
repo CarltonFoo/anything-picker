@@ -32,16 +32,97 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
-		"Tuesday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
-		"Wednesday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
-		"Thursday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
-		"Friday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
-		"Saturday": "08:30 am to 12:30 pm",
-		"Sunday": "09:00 am to 12:00 am"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"20:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"20:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"20:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"20:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"20:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"02:00"
+			]
+		]
 	},
 	"id": "9400455",
+	"combinedSpecialties": [
+		"Occupational Medicine",
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7356222,
 		1.3448561
@@ -58,5 +139,8 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

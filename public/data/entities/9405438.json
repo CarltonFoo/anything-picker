@@ -20,13 +20,41 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 05:00 pm",
-		"Tuesday": "08:30 am to 05:00 pm",
-		"Wednesday": "08:30 am to 05:00 pm",
-		"Thursday": "08:30 am to 05:00 pm",
-		"Friday": "08:30 am to 05:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		]
 	},
 	"id": "9405438",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7492534,
 		1.3271141
@@ -43,5 +71,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

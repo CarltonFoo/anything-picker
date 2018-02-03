@@ -22,6 +22,10 @@
 		"General Medical": true
 	},
 	"id": "17M0304",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.846558,
 		1.2888386
@@ -37,5 +41,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

@@ -24,14 +24,48 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 pm to 09:00 pm",
-		"Tuesday": "09:00 pm to 09:00 pm",
-		"Wednesday": "09:00 pm to 09:00 pm",
-		"Thursday": "09:00 pm to 09:00 pm",
-		"Friday": "09:00 pm to 09:00 pm",
-		"Saturday": "09:00 pm to 09:00 pm"
+		"Monday": [
+			[
+				"21:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"21:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"21:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"21:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"21:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"21:00",
+				"21:00"
+			]
+		]
 	},
 	"id": "15D0300",
+	"combinedSpecialties": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8287899,
 		1.2863658
@@ -46,5 +80,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

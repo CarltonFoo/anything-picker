@@ -20,12 +20,15 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Tuesday": "Closed",
-		"Thursday": "Closed",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Tuesday": [],
+		"Thursday": [],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9400213",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8902564,
 		1.3938342
@@ -44,5 +47,6 @@
 		"SL",
 		"SG",
 		"YS"
-	]
+	],
+	"insurance": []
 }

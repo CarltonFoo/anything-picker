@@ -30,9 +30,19 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Sunday": "09:00 am to 12:00 pm"
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9405008",
+	"combinedSpecialties": [
+		"Plastic Surgery",
+		"General Dental",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8187585,
 		1.2849948
@@ -47,5 +57,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

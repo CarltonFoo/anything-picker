@@ -26,16 +26,67 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Tuesday": "10:00 am to 01:00 pm",
-		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Saturday": "10:00 am to 01:00 pm",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "11C0229",
+	"combinedSpecialties": [
+		"Paediatric Medicine",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9056844,
 		1.3062328
@@ -50,5 +101,6 @@
 		"GL",
 		"KL",
 		"CA"
-	]
+	],
+	"insurance": []
 }

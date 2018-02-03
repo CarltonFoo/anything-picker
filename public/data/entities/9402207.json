@@ -26,14 +26,48 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:10 am to 05:05 pm",
-		"Tuesday": "09:10 am to 05:05 pm",
-		"Wednesday": "09:10 am to 05:05 pm",
-		"Thursday": "09:10 am to 05:05 pm",
-		"Friday": "09:10 am to 05:05 pm",
-		"Saturday": "09:10 am to 05:05 pm"
+		"Monday": [
+			[
+				"09:10",
+				"17:05"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:10",
+				"17:05"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:10",
+				"17:05"
+			]
+		],
+		"Thursday": [
+			[
+				"09:10",
+				"17:05"
+			]
+		],
+		"Friday": [
+			[
+				"09:10",
+				"17:05"
+			]
+		],
+		"Saturday": [
+			[
+				"09:10",
+				"17:05"
+			]
+		]
 	},
 	"id": "9402207",
+	"combinedSpecialties": [
+		"Orthopaedic Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -51,5 +85,8 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

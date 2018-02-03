@@ -26,16 +26,46 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "11:00 am to 06:00 pm",
-		"Wednesday": "11:00 am to 06:00 pm",
-		"Tuesday": "11:00 am to 08:00 pm",
-		"Thursday": "Closed",
-		"Friday": "11:00 am to 06:00 pm",
-		"Saturday": "09:30 am to 03:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"01:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"01:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"01:00",
+				"20:00"
+			]
+		],
+		"Thursday": [],
+		"Friday": [
+			[
+				"01:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:30",
+				"15:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9405704",
+	"combinedSpecialties": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -52,5 +82,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

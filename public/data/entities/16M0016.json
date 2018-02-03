@@ -24,6 +24,11 @@
 		]
 	},
 	"id": "16M0016",
+	"combinedSpecialties": [
+		"Family Physician",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.9021057,
 		1.4064846
@@ -37,5 +42,8 @@
 		"PR",
 		"SL",
 		"SE"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -26,16 +26,75 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Saturday": "08:30 pm to 12:00 pm",
-		"Sunday": "09:00 am to 12:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"20:30",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "15M0323",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7661313,
 		1.3036975
@@ -50,5 +109,9 @@
 		"BT",
 		"JE",
 		"QT"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

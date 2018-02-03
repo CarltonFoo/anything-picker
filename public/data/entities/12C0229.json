@@ -25,16 +25,70 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Saturday": "08:30 am to 01:00 pm",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "12C0229",
+	"combinedSpecialties": [
+		"Psychiatry",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -50,5 +104,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

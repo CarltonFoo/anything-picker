@@ -15,6 +15,7 @@
 		}
 	],
 	"id": "14E0053",
+	"combinedSpecialties": [],
 	"coordinates": [
 		103.9404082,
 		1.3531336
@@ -29,5 +30,6 @@
 		"PR",
 		"PL",
 		"CH"
-	]
+	],
+	"insurance": []
 }

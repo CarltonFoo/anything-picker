@@ -30,14 +30,70 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Saturday": "08:00 am to 01:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "14M0111",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Hand Surgery"
+	],
 	"coordinates": [
 		103.6972379,
 		1.3337831
@@ -53,5 +109,9 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

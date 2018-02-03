@@ -24,13 +24,81 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
-		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
-		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
-		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
-		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		]
 	},
 	"id": "13M0318",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8267854,
 		1.2856974
@@ -45,5 +113,9 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

@@ -20,15 +20,73 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
-		"Tuesday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
-		"Wednesday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
-		"Thursday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
-		"Friday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
-		"Saturday": "09:30 am to 01:00 pm",
-		"Sunday": "09:30 am to 01:00 pm"
+		"Monday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:30",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "9402052",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9375745,
 		1.3780487
@@ -44,5 +102,6 @@
 		"SE",
 		"CH",
 		"TM"
-	]
+	],
+	"insurance": []
 }

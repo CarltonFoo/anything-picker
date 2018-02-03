@@ -29,15 +29,52 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "10:00 am to 06:00 pm",
-		"Tuesday": "10:00 am to 06:00 pm",
-		"Wednesday": "10:00 am to 06:00 pm",
-		"Thursday": "10:00 am to 06:00 pm",
-		"Friday": "10:00 am to 06:00 pm",
-		"Saturday": "10:00 am to 03:00 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"15:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "14M0334",
+	"combinedSpecialties": [
+		"Anaesthesiology",
+		"Day Surgery",
+		"Liposuction",
+		"Specialist Medical",
+		"Plastic Surgery"
+	],
 	"coordinates": [
 		103.8319706,
 		1.3061133
@@ -53,5 +90,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

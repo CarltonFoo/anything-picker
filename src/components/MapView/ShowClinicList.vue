@@ -1,5 +1,5 @@
 <template>
-  <div class="show-clinic-list">
+  <div class="show-clinic-list" @click="toggleList">
     <div class="desktop-only">
       <div class="postal-code-input text-white">
         <div class="search-button cursor-pointer">
@@ -14,7 +14,9 @@
 
 export default {
   methods: {
-
+    toggleList () {
+      this.$emit('toggleList')
+    }
   }
 }
 

@@ -29,15 +29,78 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
-		"Tuesday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
-		"Wednesday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
-		"Thursday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
-		"Friday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
-		"Saturday": "08:00 am to 01:00 pm, 06:30 pm to 09:30 pm",
-		"Sunday": "08:00 am to 12:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9404262",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8333445,
 		1.4324145
@@ -55,5 +118,8 @@
 		"SE",
 		"CC",
 		"SM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -32,6 +32,13 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405427",
+	"combinedSpecialties": [
+		"Paediatric Gastroenterology",
+		"Paediatric Medicine",
+		"Yellow Fever Vaccination",
+		"Specialist Medical",
+		"Paediatric Surgery"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -47,5 +54,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

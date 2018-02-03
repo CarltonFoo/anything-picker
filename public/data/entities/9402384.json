@@ -24,13 +24,42 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 11:30 am",
-		"Tuesday": "08:30 am to 11:30 am",
-		"Wednesday": "08:30 am to 11:30 am",
-		"Thursday": "08:30 am to 11:30 am",
-		"Friday": "08:30 am to 11:30 am"
+		"Monday": [
+			[
+				"08:30",
+				"01:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"01:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"01:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"01:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"01:30"
+			]
+		]
 	},
 	"id": "9402384",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9807844,
 		1.3748414
@@ -44,5 +73,6 @@
 		"PR",
 		"TM",
 		"CB"
-	]
+	],
+	"insurance": []
 }

@@ -26,16 +26,65 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "10:00 am to 12:30 pm, 03:00 pm to 05:00 pm",
-		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
-		"Wednesday": "09:30 am to 11:30 am, 02:30 pm to 05:00 pm",
-		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
-		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
-		"Saturday": "Closed",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"00:00",
+				"14:30"
+			],
+			[
+				"15:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"01:30"
+			],
+			[
+				"14:30",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"17:00"
+			]
+		],
+		"Saturday": [],
+		"Sunday": []
 	},
 	"id": "9403760",
+	"combinedSpecialties": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.82847,
 		1.3071789
@@ -51,5 +100,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

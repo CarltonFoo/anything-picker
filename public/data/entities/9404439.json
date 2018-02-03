@@ -31,6 +31,12 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9404439",
+	"combinedSpecialties": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -46,5 +52,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

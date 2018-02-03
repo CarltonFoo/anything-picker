@@ -24,16 +24,52 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 05:30 pm",
-		"Tuesday": "08:30 am to 05:30 pm",
-		"Wednesday": "08:30 am to 05:30 pm",
-		"Thursday": "08:30 am to 05:30 pm",
-		"Friday": "08:30 am to 05:30 pm",
-		"Saturday": "08:30 am to 12:30 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "14C0228",
+	"combinedSpecialties": [
+		"General Dental",
+		"Specialist Dental",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8526151,
 		1.2822551
@@ -49,5 +85,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -30,6 +30,14 @@
 		]
 	},
 	"id": "17M0189",
+	"combinedSpecialties": [
+		"General Surgery",
+		"Specialist Medical",
+		"Diagnostic Radiology",
+		"Medical Oncology",
+		"Palliative Medicine",
+		"Radiation Oncology"
+	],
 	"coordinates": [
 		103.8361194,
 		1.2785806
@@ -44,5 +52,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

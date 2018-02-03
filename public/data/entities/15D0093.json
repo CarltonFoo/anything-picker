@@ -25,6 +25,10 @@
 		]
 	},
 	"id": "15D0093",
+	"combinedSpecialties": [
+		"Endodontics",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376
@@ -40,5 +44,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

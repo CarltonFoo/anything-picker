@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "16M0243",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8533318,
 		1.2940764
@@ -35,5 +38,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

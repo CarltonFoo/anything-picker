@@ -33,16 +33,74 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "08:00 am to 12:00 pm, 01:00 pm to 05:30 pm",
-		"Tuesday": "08:00 am to 12:00 pm, 01:00 pm to 05:30 pm",
-		"Wednesday": "08:00 am to 12:00 pm, 01:00 pm to 05:30 pm",
-		"Thursday": "08:00 am to 12:00 pm, 01:00 pm to 05:30 pm",
-		"Friday": "08:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
-		"Saturday": "08:00 am to 12:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "15C0228",
+	"combinedSpecialties": [
+		"Aviation Medicine",
+		"Occupational Medicine",
+		"General Dental",
+		"General Medical",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9002809,
 		1.3436361
@@ -58,5 +116,6 @@
 		"HG",
 		"SE",
 		"TM"
-	]
+	],
+	"insurance": []
 }

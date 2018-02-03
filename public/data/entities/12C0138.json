@@ -28,16 +28,50 @@
 		]
 	},
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
-		"Monday": "09:00 am to 05:30 pm",
-		"Tuesday": "09:00 am to 05:30 pm",
-		"Wednesday": "09:00 am to 05:30 pm",
-		"Thursday": "09:00 am to 05:30 pm",
-		"Friday": "09:00 am to 05:30 pm",
-		"Saturday": "09:00 am to 05:30 pm"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": [],
+		"Monday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		]
 	},
 	"id": "12C0138",
+	"combinedSpecialties": [
+		"Ophthalmology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.830642,
 		1.3046763
@@ -53,5 +87,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

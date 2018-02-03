@@ -27,10 +27,14 @@
 		]
 	},
 	"operatingHours": {
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9405359",
+	"combinedSpecialties": [
+		"Orthopaedic Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -46,5 +50,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

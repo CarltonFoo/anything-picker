@@ -26,14 +26,48 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 01:00 pm",
-		"Tuesday": "08:30 am to 01:00 pm",
-		"Wednesday": "08:30 am to 01:00 pm",
-		"Thursday": "08:30 am to 01:00 pm",
-		"Friday": "08:30 am to 01:00 pm",
-		"Saturday": "08:30 am to 01:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "14M0383",
+	"combinedSpecialties": [
+		"Ophthalmology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -50,5 +84,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -27,6 +27,12 @@
 		]
 	},
 	"id": "9401875",
+	"combinedSpecialties": [
+		"Prosthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8407258,
 		1.3019832
@@ -42,5 +48,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

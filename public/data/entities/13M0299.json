@@ -28,6 +28,10 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "13M0299",
+	"combinedSpecialties": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173
@@ -43,5 +47,8 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

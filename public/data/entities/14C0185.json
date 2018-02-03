@@ -26,16 +26,53 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 05:30 pm",
-		"Tuesday": "09:00 am to 05:30 pm",
-		"Wednesday": "09:00 am to 05:30 pm",
-		"Thursday": "09:00 am to 05:30 pm",
-		"Friday": "09:00 am to 05:30 pm",
-		"Saturday": "09:00 am to 12:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "14C0185",
+	"combinedSpecialties": [
+		"Family Physician",
+		"Abortion",
+		"General Medical",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.8414579,
 		1.3253606
@@ -52,5 +89,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

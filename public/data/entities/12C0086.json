@@ -29,14 +29,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 06:00 pm",
-		"Tuesday": "09:00 am to 06:00 pm",
-		"Wednesday": "09:00 am to 06:00 pm",
-		"Thursday": "09:00 am to 06:00 pm",
-		"Friday": "09:00 am to 06:00 pm",
-		"Saturday": "09:00 am to 01:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "12C0086",
+	"combinedSpecialties": [
+		"General Surgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -53,5 +88,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

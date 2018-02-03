@@ -20,16 +20,49 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "11:00 am to 08:00 pm",
-		"Tuesday": "11:00 am to 08:00 pm",
-		"Wednesday": "11:00 am to 08:00 pm",
-		"Thursday": "11:00 am to 08:00 pm",
-		"Friday": "11:00 am to 08:00 pm",
-		"Saturday": "11:00 am to 04:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"01:00",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"01:00",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"01:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"01:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"01:00",
+				"20:00"
+			]
+		],
+		"Saturday": [
+			[
+				"01:00",
+				"16:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "17M0302",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8397589,
 		1.301978
@@ -45,5 +78,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

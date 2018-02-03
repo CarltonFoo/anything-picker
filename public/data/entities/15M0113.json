@@ -24,10 +24,13 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": []
 	},
 	"id": "15M0113",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8079254,
 		1.4443863
@@ -41,5 +44,11 @@
 		"MD",
 		"SB",
 		"SK"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

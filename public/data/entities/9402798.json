@@ -45,14 +45,85 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
-		"Tuesday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
-		"Wednesday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
-		"Thursday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
-		"Friday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
-		"Saturday": "09:00 am to 01:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"18:00"
+			],
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "9402798",
+	"combinedSpecialties": [
+		"Obstetrics & Gynaecology",
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction",
+		"General Dental",
+		"Specialist Medical",
+		"Specialist Dental",
+		"Anaesthesiology",
+		"Gastroenterology",
+		"General Surgery",
+		"Hand Surgery",
+		"Neurosurgery",
+		"Ophthalmology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Plastic Surgery",
+		"Sports Medicine",
+		"Urology",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -68,5 +139,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

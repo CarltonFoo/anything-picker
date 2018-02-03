@@ -31,16 +31,52 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 05:30 pm",
-		"Tuesday": "08:30 am to 05:30 pm",
-		"Wednesday": "08:30 am to 05:30 pm",
-		"Thursday": "08:30 am to 05:30 pm",
-		"Friday": "08:30 am to 05:30 pm",
-		"Saturday": "08:30 am to 12:30 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9405107",
+	"combinedSpecialties": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical",
+		"General Surgery",
+		"Medical Oncology"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -57,5 +93,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

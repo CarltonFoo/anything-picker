@@ -27,6 +27,10 @@
 		"General Dental": true
 	},
 	"id": "15C0302",
+	"combinedSpecialties": [
+		"Oral & Maxillo-Facial Surgery",
+		"General Dental"
+	],
 	"coordinates": [
 		103.9052795,
 		1.3010698
@@ -41,5 +45,8 @@
 		"GL",
 		"KL",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -22,15 +22,64 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 12:00 pm, 01:00 pm to 06:00 pm",
-		"Tuesday": "09:00 am to 12:00 pm, 01:00 pm to 06:00 pm",
-		"Wednesday": "09:00 am to 12:00 pm, 01:00 pm to 06:00 pm",
-		"Thursday": "09:00 am to 12:00 pm, 01:00 pm to 06:00 pm",
-		"Friday": "09:00 am to 12:00 pm, 01:00 pm to 06:00 pm",
-		"Saturday": "Closed",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"13:00",
+				"18:00"
+			]
+		],
+		"Saturday": [],
+		"Sunday": []
 	},
 	"id": "16M0011",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9040511,
 		1.304326
@@ -45,5 +94,6 @@
 		"GL",
 		"KL",
 		"CA"
-	]
+	],
+	"insurance": []
 }

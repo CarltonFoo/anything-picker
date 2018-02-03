@@ -24,14 +24,47 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 08:30 pm",
-		"Tuesday": "08:30 am to 05:00 pm",
-		"Friday": "08:30 am to 05:00 pm",
-		"Wednesday": "08:30 am to 08:30 pm",
-		"Thursday": "08:30 am to 08:30 pm",
-		"Saturday": "08:30 am to 12:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		]
 	},
 	"id": "9400417",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.6907217,
 		1.3414812
@@ -47,5 +80,11 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

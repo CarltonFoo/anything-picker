@@ -26,6 +26,11 @@
 		]
 	},
 	"id": "9404689",
+	"combinedSpecialties": [
+		"Paediatric Cardiology",
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -41,5 +46,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

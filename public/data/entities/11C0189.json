@@ -26,17 +26,50 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
-		"Monday": "09:00 am to 07:00 pm",
-		"Tuesday": "09:00 am to 07:00 pm",
-		"Wednesday": "09:00 am to 07:00 pm",
-		"Thursday": "09:00 am to 07:00 pm",
-		"Friday": "09:00 am to 07:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": [],
+		"Monday": [
+			[
+				"09:00",
+				"19:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "11C0189",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8423932,
 		1.2755962
@@ -52,5 +85,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

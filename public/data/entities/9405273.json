@@ -27,10 +27,24 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "08:00 am to 12:00 am",
-		"New Year (01/01/2018)": "08:00 am to 12:00 am"
+		"Christmas Day (25/12/2017)": [
+			[
+				"08:00",
+				"02:00"
+			]
+		],
+		"New Year (01/01/2018)": [
+			[
+				"08:00",
+				"02:00"
+			]
+		]
 	},
 	"id": "9405273",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7952579,
 		1.3117785
@@ -48,5 +62,9 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS",
+		"Great Eastern"
 	]
 }

@@ -27,11 +27,34 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
-		"Saturday": "08:30 am to 12:30 pm",
-		"Sunday": "08:30 am to 12:30 pm"
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
 	},
 	"id": "9401397",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9202036,
 		1.3363549
@@ -47,5 +70,10 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

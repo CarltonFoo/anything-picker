@@ -30,16 +30,54 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 05:30 pm",
-		"Tuesday": "08:30 am to 05:30 pm",
-		"Wednesday": "08:30 am to 05:30 pm",
-		"Thursday": "08:30 am to 05:30 pm",
-		"Friday": "08:30 am to 05:30 pm",
-		"Saturday": "08:30 am to 12:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "12C0224",
+	"combinedSpecialties": [
+		"Radiation Oncology",
+		"General Medical",
+		"Specialist Medical",
+		"General Surgery",
+		"Obstetrics & Gynaecology",
+		"Urology"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -56,5 +94,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

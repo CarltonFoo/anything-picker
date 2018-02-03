@@ -29,6 +29,10 @@
 		]
 	},
 	"id": "9401723",
+	"combinedSpecialties": [
+		"Medical Oncology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -44,5 +48,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

@@ -22,17 +22,76 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
-		"Monday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
-		"Tuesday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
-		"Wednesday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
-		"Thursday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
-		"Friday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
-		"Saturday": "07:00 pm to 11:00 pm",
-		"Sunday": "07:00 pm to 11:00 pm"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": [],
+		"Monday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"19:00",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"19:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"19:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "15C0200",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9445701,
 		1.3200355
@@ -48,5 +107,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

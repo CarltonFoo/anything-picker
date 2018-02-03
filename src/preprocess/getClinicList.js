@@ -26,7 +26,7 @@ const tasks = Object.keys(endpoints).map(ep => {
       },
       data: querystring.stringify({
         task: 'search',
-        clinicType: 'all',
+        combinedSpecialties: 'all',
         hciTyp: 'all',
         targetPageNo: pageNo
       }),

@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "14C0077",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.857027,
 		1.291574
@@ -35,5 +38,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

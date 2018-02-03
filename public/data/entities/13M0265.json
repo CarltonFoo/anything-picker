@@ -34,13 +34,43 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 05:30 pm",
-		"Tuesday": "09:00 am to 05:30 pm",
-		"Wednesday": "09:00 am to 05:30 pm",
-		"Thursday": "09:00 am to 05:30 pm",
-		"Friday": "09:00 am to 05:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		]
 	},
 	"id": "13M0265",
+	"combinedSpecialties": [
+		"Otorhinolaryngology",
+		"Endoscopy",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -56,5 +86,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

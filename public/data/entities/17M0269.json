@@ -25,6 +25,11 @@
 		"Specialist Medical": true
 	},
 	"id": "17M0269",
+	"combinedSpecialties": [
+		"Medical Oncology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -41,5 +46,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

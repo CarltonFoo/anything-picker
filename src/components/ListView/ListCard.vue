@@ -3,7 +3,7 @@
     <div class="card-title cursor-pointer" @click="$emit('focus')">
       <div class="text-primary text-bold header">{{info.name}}</div>
       <small class="text-primary">
-        {{info.clinicType}}
+        {{String(info.combinedSpecialties)}}
       </small>
     </div>
     <div class="card-details" @click="$emit('focus')">
@@ -27,7 +27,7 @@
       Operating Hours:
       </small>
       <br />
-      <small class="operatingHours"> {{info.operatingHours}} </small>
+      <small class="operatingHrs"> {{info.operatingHrs}} </small>
 
       <br />
 
@@ -61,8 +61,8 @@ export default {
     bookmarked: Boolean
   },
   computed: {
-    clinicType () {
-      return Object.keys(this.info.clinicType).slice(0, 2).map(type => {
+    combinedSpecialties () {
+      return Object.keys(this.info.combinedSpecialties).slice(0, 2).map(type => {
         type = type.split(' ').filter(term => term !== 'CLINIC').join(' ')
         return capitalize(type)
       })
@@ -83,7 +83,7 @@ export default {
       font-size: 90%;
       font-weight: 400;
     }
-    
+
     .header {
       color: #369ad5 !important;
     }
@@ -96,7 +96,7 @@ export default {
       color: #369ad5 !important;
     }
 
-    .address, .operatingHours {
+    .address, .operatingHrs {
       font-size: 0.6em;
     }
 

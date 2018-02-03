@@ -30,16 +30,67 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "10:00 am to 10:00 pm",
-		"Monday": "10:00 am to 10:00 pm",
-		"Tuesday": "10:00 am to 10:00 pm",
-		"Wednesday": "10:00 am to 10:00 pm",
-		"Thursday": "10:00 am to 10:00 pm",
-		"Friday": "10:00 am to 10:00 pm",
-		"Saturday": "10:00 am to 10:00 pm",
-		"Sunday": "10:00 am to 10:00 pm"
+		"Public Holiday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Monday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		],
+		"Sunday": [
+			[
+				"00:00",
+				"12:00"
+			]
+		]
 	},
 	"id": "12C0039",
+	"combinedSpecialties": [
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7401871,
 		1.3333231
@@ -56,5 +107,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

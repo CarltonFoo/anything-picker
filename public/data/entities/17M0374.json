@@ -25,6 +25,12 @@
 		]
 	},
 	"id": "17M0374",
+	"combinedSpecialties": [
+		"General Medical",
+		"Specialist Medical",
+		"General Surgery",
+		"Respiratory Medicine"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732
@@ -40,5 +46,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

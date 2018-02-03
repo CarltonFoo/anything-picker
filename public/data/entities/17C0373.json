@@ -43,6 +43,25 @@
 		]
 	},
 	"id": "17C0373",
+	"combinedSpecialties": [
+		"General Surgery",
+		"Day Surgery",
+		"Endoscopy",
+		"General Dental",
+		"General Medical",
+		"Specialist Medical",
+		"Specialist Dental",
+		"Anaesthesiology",
+		"Dermatology",
+		"Hand Surgery",
+		"Ophthalmology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7045269,
 		1.3405613
@@ -58,5 +77,6 @@
 		"PN",
 		"TH",
 		"WC"
-	]
+	],
+	"insurance": []
 }

@@ -25,6 +25,10 @@
 		"General Dental": true
 	},
 	"id": "15D0337",
+	"combinedSpecialties": [
+		"Oral & Maxillo-Facial Surgery",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8807076,
 		1.3139376
@@ -40,5 +44,6 @@
 		"HG",
 		"MP",
 		"TP"
-	]
+	],
+	"insurance": []
 }

@@ -26,6 +26,10 @@
 		]
 	},
 	"id": "17M0141",
+	"combinedSpecialties": [
+		"Nuclear Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8447824,
 		1.3200301
@@ -42,5 +46,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

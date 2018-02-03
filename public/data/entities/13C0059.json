@@ -28,13 +28,83 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 02:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm",
-		"Tuesday": "08:30 am to 02:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm",
-		"Wednesday": "08:30 am to 02:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm",
-		"Thursday": "08:30 am to 02:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm",
-		"Friday": "08:30 am to 02:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm"
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		]
 	},
 	"id": "13C0059",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.9020726,
 		1.4045467
@@ -48,5 +118,11 @@
 		"PR",
 		"SL",
 		"SE"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

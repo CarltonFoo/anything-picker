@@ -25,10 +25,32 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		]
 	},
 	"id": "14M0087",
+	"combinedSpecialties": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8447824,
 		1.3200301
@@ -45,5 +67,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

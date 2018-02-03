@@ -22,10 +22,14 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Saturday": "Closed",
-		"Sunday": "Closed"
+		"Saturday": [],
+		"Sunday": []
 	},
 	"id": "9405496",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7493759,
 		1.3526196
@@ -42,5 +46,6 @@
 		"TH",
 		"CK",
 		"CL"
-	]
+	],
+	"insurance": []
 }

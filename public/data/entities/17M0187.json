@@ -29,6 +29,10 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "17M0187",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7428317,
 		1.347717
@@ -45,5 +49,9 @@
 		"TH",
 		"CK",
 		"CL"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

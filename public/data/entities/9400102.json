@@ -26,13 +26,82 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
-		"Tuesday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
-		"Wednesday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
-		"Thursday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
-		"Friday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm"
+		"Monday": [
+			[
+				"00:00",
+				"02:30"
+			],
+			[
+				"15:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"02:30"
+			],
+			[
+				"15:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"02:30"
+			],
+			[
+				"15:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"02:30"
+			],
+			[
+				"15:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"02:30"
+			],
+			[
+				"15:00",
+				"16:30"
+			],
+			[
+				"19:00",
+				"20:30"
+			]
+		]
 	},
 	"id": "9400102",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9355635,
 		1.3201488
@@ -48,5 +117,11 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

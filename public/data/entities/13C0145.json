@@ -27,6 +27,15 @@
 		]
 	},
 	"id": "13C0145",
+	"combinedSpecialties": [
+		"General Medical",
+		"Specialist Medical",
+		"Cardiology",
+		"General Surgery",
+		"Ophthalmology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology"
+	],
 	"coordinates": [
 		103.8507116,
 		1.2839423
@@ -42,5 +51,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

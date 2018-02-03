@@ -20,16 +20,82 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
-		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Wednesday": "09:00 am to 12:00 pm",
-		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
-		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
-		"Saturday": "09:00 am to 12:00 pm",
-		"Sunday": "09:00 am to 12:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9401081",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.9530009,
 		1.3616305
@@ -44,5 +110,10 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

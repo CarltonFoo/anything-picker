@@ -25,9 +25,13 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed"
+		"Public Holiday": []
 	},
 	"id": "9404205",
+	"combinedSpecialties": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.9522522,
 		1.3583607
@@ -42,5 +46,9 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

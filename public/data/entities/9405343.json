@@ -28,13 +28,43 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "10:00 am to 03:00 pm",
-		"Tuesday": "10:00 am to 03:00 pm",
-		"Wednesday": "10:00 am to 03:00 pm",
-		"Thursday": "10:00 am to 03:00 pm",
-		"Friday": "10:00 am to 03:00 pm"
+		"Monday": [
+			[
+				"00:00",
+				"15:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"15:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"15:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"15:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"15:00"
+			]
+		]
 	},
 	"id": "9405343",
+	"combinedSpecialties": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8441113,
 		1.2981527
@@ -50,5 +80,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

@@ -26,10 +26,14 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9405045",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.763714,
 		1.3029796
@@ -44,5 +48,11 @@
 		"BT",
 		"JE",
 		"QT"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

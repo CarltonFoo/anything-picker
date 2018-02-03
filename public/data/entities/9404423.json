@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "9404423",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8299848,
 		1.3055061
@@ -35,5 +38,9 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

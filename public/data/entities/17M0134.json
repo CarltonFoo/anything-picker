@@ -25,6 +25,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "17M0134",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8314398,
 		1.4456538
@@ -39,5 +42,11 @@
 		"WD",
 		"SM",
 		"YS"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

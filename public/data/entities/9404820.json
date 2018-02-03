@@ -23,15 +23,48 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "02:00 pm to 06:00 pm",
-		"Tuesday": "02:00 pm to 06:00 pm",
-		"Wednesday": "02:00 pm to 06:00 pm",
-		"Thursday": "02:00 pm to 06:00 pm",
-		"Friday": "02:00 pm to 06:00 pm",
-		"Saturday": "02:00 pm to 05:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"14:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "9404820",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.706685,
 		1.3394527
@@ -47,5 +80,10 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

@@ -30,13 +30,43 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:00 am to 05:00 pm",
-		"Tuesday": "08:00 am to 05:00 pm",
-		"Wednesday": "08:00 am to 05:00 pm",
-		"Thursday": "08:00 am to 05:00 pm",
-		"Friday": "08:00 am to 05:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "9405689",
+	"combinedSpecialties": [
+		"Oral & Maxillo-Facial Surgery",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.7945797,
 		1.3114324
@@ -54,5 +84,8 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

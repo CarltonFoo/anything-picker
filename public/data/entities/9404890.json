@@ -35,10 +35,21 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Saturday": "08:30 am to 12:30 pm"
+		"Public Holiday": [],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		]
 	},
 	"id": "9404890",
+	"combinedSpecialties": [
+		"Cardiology",
+		"Intensive Care Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -54,5 +65,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

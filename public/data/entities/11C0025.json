@@ -29,15 +29,77 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
-		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
-		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
-		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
-		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "10:00 am to 12:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"20:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"00:00",
+				"14:30"
+			]
+		]
 	},
 	"id": "11C0025",
+	"combinedSpecialties": [
+		"General Surgery",
+		"General Medical",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology",
+		"Ophthalmology"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -54,5 +116,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

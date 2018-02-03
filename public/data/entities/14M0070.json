@@ -25,6 +25,12 @@
 		]
 	},
 	"id": "14M0070",
+	"combinedSpecialties": [
+		"General Medical",
+		"Specialist Medical",
+		"Ophthalmology",
+		"Plastic Surgery"
+	],
 	"coordinates": [
 		103.8346761,
 		1.3024242
@@ -40,5 +46,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

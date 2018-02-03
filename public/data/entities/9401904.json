@@ -27,9 +27,13 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Saturday": "Closed"
+		"Saturday": []
 	},
 	"id": "9401904",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7392597,
 		1.3425624
@@ -46,5 +50,9 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

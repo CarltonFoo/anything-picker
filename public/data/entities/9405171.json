@@ -31,14 +31,53 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 05:30 pm",
-		"Tuesday": "09:00 am to 05:30 pm",
-		"Wednesday": "09:00 am to 05:30 pm",
-		"Thursday": "09:00 am to 05:30 pm",
-		"Friday": "09:00 am to 05:30 pm",
-		"Saturday": "09:00 am to 01:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:30"
+			]
+		]
 	},
 	"id": "9405171",
+	"combinedSpecialties": [
+		"Prosthodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.7858505,
 		1.3175456
@@ -56,5 +95,8 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

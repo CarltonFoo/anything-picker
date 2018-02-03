@@ -29,12 +29,32 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "02:00 pm to 05:30 pm",
-		"Wednesday": "02:00 pm to 05:30 pm",
-		"Friday": "02:00 pm to 05:30 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "15M0032",
+	"combinedSpecialties": [
+		"Cardiology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732
@@ -50,5 +70,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

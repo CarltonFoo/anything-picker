@@ -15,6 +15,7 @@
 		}
 	],
 	"id": "14E0320",
+	"combinedSpecialties": [],
 	"coordinates": [
 		103.8589564,
 		1.3344803
@@ -32,5 +33,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

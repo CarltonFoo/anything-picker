@@ -41,6 +41,18 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9405556",
+	"combinedSpecialties": [
+		"Hand Surgery",
+		"Day Surgery",
+		"Endoscopy",
+		"General Medical",
+		"Specialist Medical",
+		"Anaesthesiology",
+		"Diagnostic Radiology",
+		"General Surgery",
+		"Orthopaedic Surgery",
+		"Sports Medicine"
+	],
 	"coordinates": [
 		103.7230061,
 		1.3310731
@@ -56,5 +68,8 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

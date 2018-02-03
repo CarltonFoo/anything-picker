@@ -23,13 +23,42 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 09:00 pm",
-		"Friday": "09:00 am to 09:00 pm",
-		"Wednesday": "09:00 am to 06:00 pm",
-		"Saturday": "09:00 am to 06:00 pm",
-		"Sunday": "01:00 pm to 05:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"18:00"
+			]
+		],
+		"Sunday": [
+			[
+				"13:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "15D0023",
+	"combinedSpecialties": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	],
 	"coordinates": [
 		103.9299959,
 		1.3263591
@@ -45,5 +74,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

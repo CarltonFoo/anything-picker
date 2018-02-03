@@ -32,17 +32,64 @@
 		]
 	},
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
-		"Monday": "09:00 am to 09:00 pm",
-		"Tuesday": "09:00 am to 09:00 pm",
-		"Wednesday": "09:00 am to 09:00 pm",
-		"Thursday": "09:00 am to 09:00 pm",
-		"Friday": "09:00 am to 09:00 pm",
-		"Saturday": "09:00 am to 09:00 pm",
-		"Sunday": "09:00 am to 09:00 pm"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": [],
+		"Monday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"21:00"
+			]
+		]
 	},
 	"id": "15D0384",
+	"combinedSpecialties": [
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7648217,
 		1.3128704
@@ -57,5 +104,6 @@
 		"BT",
 		"JE",
 		"QT"
-	]
+	],
+	"insurance": []
 }

@@ -24,16 +24,56 @@
 		"Specialist Medical": true
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 am to 06:00 pm",
-		"Tuesday": "08:30 am to 06:00 pm",
-		"Wednesday": "08:30 am to 06:00 pm",
-		"Thursday": "08:30 am to 06:00 pm",
-		"Friday": "08:30 am to 06:00 pm",
-		"Saturday": "10:00 am to 05:45 pm",
-		"Sunday": "10:00 am to 05:45 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"00:00",
+				"17:45"
+			]
+		],
+		"Sunday": [
+			[
+				"00:00",
+				"17:45"
+			]
+		]
 	},
 	"id": "9405130",
+	"combinedSpecialties": [
+		"Psychiatry",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8522046,
 		1.3341743
@@ -51,5 +91,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

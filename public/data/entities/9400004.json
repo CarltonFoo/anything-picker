@@ -20,10 +20,35 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Friday": "08:00 am to 11:30 pm, 02:00 pm to 05:00 pm",
-		"Sunday": "08:00 am to 11:30 am, 02:00 pm to 04:30 pm, 06:00 pm to 09:30 pm"
+		"Friday": [
+			[
+				"08:00",
+				"13:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:00",
+				"01:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			],
+			[
+				"18:00",
+				"21:30"
+			]
+		]
 	},
 	"id": "9400004",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8708515,
 		1.3540394
@@ -39,5 +64,6 @@
 		"HG",
 		"SE",
 		"TP"
-	]
+	],
+	"insurance": []
 }

@@ -32,6 +32,12 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "13C0038",
+	"combinedSpecialties": [
+		"Occupational Medicine",
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7765233,
 		1.2990352
@@ -46,5 +52,6 @@
 		"BT",
 		"TN",
 		"CL"
-	]
+	],
+	"insurance": []
 }

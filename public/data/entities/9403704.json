@@ -26,14 +26,63 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Saturday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Saturday": []
 	},
 	"id": "9403704",
+	"combinedSpecialties": [
+		"Otorhinolaryngology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7935452,
 		1.3021739
@@ -48,5 +97,6 @@
 		"BT",
 		"TN",
 		"CL"
-	]
+	],
+	"insurance": []
 }

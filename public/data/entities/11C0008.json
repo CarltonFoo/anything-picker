@@ -28,6 +28,12 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "11C0008",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical",
+		"Medical Oncology"
+	],
 	"coordinates": [
 		103.8468829,
 		1.2835543
@@ -43,5 +49,10 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

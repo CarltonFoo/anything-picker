@@ -26,14 +26,48 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 10:00 pm",
-		"Tuesday": "09:00 am to 10:00 pm",
-		"Wednesday": "09:00 am to 10:00 pm",
-		"Thursday": "09:00 am to 10:00 pm",
-		"Friday": "09:00 am to 10:00 pm",
-		"Saturday": "09:00 am to 10:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"12:00"
+			]
+		]
 	},
 	"id": "12C0037",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7955821,
 		1.3113304
@@ -51,5 +85,8 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

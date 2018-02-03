@@ -27,16 +27,62 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 03:00 pm, 04:00 pm to 08:30 pm",
-		"Tuesday": "09:00 am to 12:30 pm",
-		"Wednesday": "09:00 am to 01:30 pm, 06:30 pm to 08:30 pm",
-		"Thursday": "09:00 am to 03:00 pm, 04:00 pm to 08:30 pm",
-		"Friday": "09:00 am to 01:30 pm",
-		"Saturday": "09:00 am to 01:30 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"16:00",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:30"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"16:00",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "15M0163",
+	"combinedSpecialties": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7388192,
 		1.3339941
@@ -53,5 +99,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

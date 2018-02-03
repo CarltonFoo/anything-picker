@@ -26,16 +26,65 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Saturday": "Closed",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Saturday": [],
+		"Sunday": []
 	},
 	"id": "9404595",
+	"combinedSpecialties": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8186869,
 		1.2644861
@@ -50,5 +99,10 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

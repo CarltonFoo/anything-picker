@@ -25,14 +25,71 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
-		"Tuesday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
-		"Wednesday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
-		"Thursday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
-		"Friday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
-		"Saturday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm"
+		"Monday": [
+			[
+				"09:10",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:10"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:10",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:10"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:10",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:10"
+			]
+		],
+		"Thursday": [
+			[
+				"09:10",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:10"
+			]
+		],
+		"Friday": [
+			[
+				"09:10",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:10"
+			]
+		],
+		"Saturday": [
+			[
+				"09:10",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:10"
+			]
+		]
 	},
 	"id": "9400258",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8441113,
 		1.2981527
@@ -48,5 +105,9 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

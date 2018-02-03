@@ -30,10 +30,14 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9400283",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8403569,
 		1.3840325
@@ -49,5 +53,11 @@
 		"SG",
 		"CC",
 		"YS"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

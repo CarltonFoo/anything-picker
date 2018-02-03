@@ -29,14 +29,84 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
-		"Saturday": "09:00 am to 12:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:30"
+			]
+		]
 	},
 	"id": "9402579",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.870914,
 		1.3142394
@@ -52,5 +122,8 @@
 		"MP",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

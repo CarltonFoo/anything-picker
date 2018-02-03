@@ -24,16 +24,54 @@
 		"Specialist Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:30 am to 01:30 pm, 06:00 pm to 09:00 pm",
-		"Tuesday": "09:30 am to 03:30 pm",
-		"Thursday": "09:30 am to 03:30 pm",
-		"Wednesday": "06:00 pm to 09:00 pm",
-		"Friday": "06:00 pm to 09:00 pm",
-		"Saturday": "Closed",
-		"Public Holiday": "Closed",
-		"Sunday": "09:30 am to 01:30 pm"
+		"Monday": [
+			[
+				"09:30",
+				"13:30"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"15:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"15:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [],
+		"Public Holiday": [],
+		"Sunday": [
+			[
+				"09:30",
+				"13:30"
+			]
+		]
 	},
 	"id": "17M0192",
+	"combinedSpecialties": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8952915,
 		1.3705045
@@ -50,5 +88,6 @@
 		"SE",
 		"SG",
 		"TP"
-	]
+	],
+	"insurance": []
 }

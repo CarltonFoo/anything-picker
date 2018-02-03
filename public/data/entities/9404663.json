@@ -28,13 +28,63 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
-		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
-		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
-		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
-		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm"
+		"Monday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		]
 	},
 	"id": "9404663",
+	"combinedSpecialties": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8490773,
 		1.3484169
@@ -49,5 +99,6 @@
 		"SG",
 		"CC",
 		"TP"
-	]
+	],
+	"insurance": []
 }

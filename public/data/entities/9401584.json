@@ -26,10 +26,14 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": []
 	},
 	"id": "9401584",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8495399,
 		1.3485245
@@ -44,5 +48,10 @@
 		"SG",
 		"CC",
 		"TP"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

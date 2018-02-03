@@ -5,14 +5,14 @@
     </div>
     <div class="card-content">
       <div>
-        <div>{{clinicSummary.clinicType}}</div>
+        <div>{{clinicSummary.combinedSpecialties}}</div>
         <dl>
           <dt>Location:</dt>
           <dd>{{clinicSummary.address}}</dd>
 
-          <template v-if="clinicSummary.operatingHours">
+          <template v-if="clinicSummary.operatingHrs">
             <dt>Operating Hours:</dt>
-            <dd>{{clinicSummary.operatingHours}}</dd>
+            <dd>{{clinicSummary.operatingHrs}}</dd>
           </template>
 
           <template v-if="clinicSummary.insurance">
@@ -98,14 +98,14 @@ export default {
   },
   computed: {
     clinicSummary () {
-      const clinicType = this.info.GeneralInformation['Type of Clinic']
+      const combinedSpecialties = this.info.GeneralInformation['Type of Clinic']
       const address = this.info.address['Location']
-      const operatingHours = this.info.operatingHours['Operating Hours']
+      const operatingHrs = this.info.operatingHrs['Operating Hours']
       const insurance = this.info.insurance['Insurance Coverage']
       return {
-        clinicType,
+        combinedSpecialties,
         address,
-        operatingHours,
+        operatingHrs,
         insurance,
       }
     },

@@ -30,16 +30,52 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:00 am to 06:00 pm",
-		"Tuesday": "08:00 am to 06:00 pm",
-		"Wednesday": "08:00 am to 06:00 pm",
-		"Thursday": "08:00 am to 06:00 pm",
-		"Friday": "08:00 am to 06:00 pm",
-		"Saturday": "08:00 am to 01:30 pm",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"13:30"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "13C0030",
+	"combinedSpecialties": [
+		"Orthodontics",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8447824,
 		1.3200301
@@ -56,5 +92,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

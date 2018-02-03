@@ -27,15 +27,82 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
-		"Tuesday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
-		"Wednesday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
-		"Thursday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
-		"Friday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
-		"Saturday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
-		"Sunday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"16:00"
+			],
+			[
+				"17:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"16:00"
+			],
+			[
+				"17:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"16:00"
+			],
+			[
+				"17:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"16:00"
+			],
+			[
+				"17:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"16:00"
+			],
+			[
+				"17:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"16:00"
+			],
+			[
+				"17:00",
+				"12:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:00",
+				"16:00"
+			],
+			[
+				"17:00",
+				"12:00"
+			]
+		]
 	},
 	"id": "13M0279",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7124293,
 		1.3463482
@@ -51,5 +118,11 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

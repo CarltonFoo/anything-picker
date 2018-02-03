@@ -21,10 +21,23 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Wednesday": "12:00 pm to 08:00 pm",
-		"Thursday": "12:00 pm to 08:00 pm"
+		"Wednesday": [
+			[
+				"14:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"14:00",
+				"20:00"
+			]
+		]
 	},
 	"id": "15M0234",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8287899,
 		1.2863658
@@ -39,5 +52,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

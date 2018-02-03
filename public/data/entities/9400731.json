@@ -26,16 +26,50 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:00 am to 11:00 am",
-		"Tuesday": "09:00 am to 11:00 am",
-		"Wednesday": "09:00 am to 11:00 am",
-		"Thursday": "09:00 am to 11:00 am",
-		"Friday": "09:00 am to 11:00 am",
-		"Saturday": "09:00 am to 11:00 am",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"01:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"01:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"01:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"01:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"01:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"01:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9400731",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.842228,
 		1.3006144
@@ -51,5 +85,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

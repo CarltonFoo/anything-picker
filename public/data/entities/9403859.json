@@ -23,13 +23,42 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "08:00 am to 05:30 pm",
-		"Tuesday": "08:00 am to 05:30 pm",
-		"Wednesday": "08:00 am to 05:30 pm",
-		"Thursday": "08:00 am to 05:30 pm",
-		"Friday": "08:00 am to 05:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "9403859",
+	"combinedSpecialties": [
+		"Paediatric Dentistry",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8281921,
 		1.3210451
@@ -46,5 +75,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

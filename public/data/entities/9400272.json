@@ -26,16 +26,91 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm, 03:07 pm to 03:09 pm",
-		"Tuesday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm, 03:07 pm to 03:09 pm",
-		"Wednesday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm, 03:07 pm to 03:09 pm",
-		"Thursday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm, 03:07 pm to 03:09 pm",
-		"Friday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm",
-		"Saturday": "01:08 am to 01:12 pm",
-		"Sunday": "01:08 am to 01:10 am"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"01:08",
+				"13:12"
+			],
+			[
+				"14:02",
+				"14:04"
+			],
+			[
+				"15:07",
+				"15:09"
+			]
+		],
+		"Tuesday": [
+			[
+				"01:08",
+				"13:12"
+			],
+			[
+				"14:02",
+				"14:04"
+			],
+			[
+				"15:07",
+				"15:09"
+			]
+		],
+		"Wednesday": [
+			[
+				"01:08",
+				"13:12"
+			],
+			[
+				"14:02",
+				"14:04"
+			],
+			[
+				"15:07",
+				"15:09"
+			]
+		],
+		"Thursday": [
+			[
+				"01:08",
+				"13:12"
+			],
+			[
+				"14:02",
+				"14:04"
+			],
+			[
+				"15:07",
+				"15:09"
+			]
+		],
+		"Friday": [
+			[
+				"01:08",
+				"13:12"
+			],
+			[
+				"14:02",
+				"14:04"
+			]
+		],
+		"Saturday": [
+			[
+				"01:08",
+				"13:12"
+			]
+		],
+		"Sunday": [
+			[
+				"01:08",
+				"01:10"
+			]
+		]
 	},
 	"id": "9400272",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8842364,
 		1.3708408
@@ -52,5 +127,6 @@
 		"SE",
 		"SG",
 		"TP"
-	]
+	],
+	"insurance": []
 }

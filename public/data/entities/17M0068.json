@@ -28,6 +28,11 @@
 		]
 	},
 	"id": "17M0068",
+	"combinedSpecialties": [
+		"General Surgery",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -44,5 +49,8 @@
 		"TN",
 		"TP",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

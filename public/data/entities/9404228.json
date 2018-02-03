@@ -27,15 +27,82 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
-		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
-		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
-		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
-		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
-		"Saturday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
-		"Sunday": "09:00 am to 03:00 pm, 06:00 pm to 10:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"15:00"
+			],
+			[
+				"18:00",
+				"12:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"15:00"
+			],
+			[
+				"18:00",
+				"12:00"
+			]
+		]
 	},
 	"id": "9404228",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8462025,
 		1.3412373
@@ -53,5 +120,10 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS"
 	]
 }

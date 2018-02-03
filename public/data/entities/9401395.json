@@ -29,15 +29,50 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "07:00 am to 10:00 pm",
-		"Tuesday": "07:00 am to 10:00 pm",
-		"Wednesday": "07:00 am to 10:00 pm",
-		"Thursday": "07:00 am to 10:00 pm",
-		"Friday": "07:00 am to 10:00 pm",
-		"Saturday": "07:00 am to 10:00 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"07:00",
+				"12:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9401395",
+	"combinedSpecialties": [
+		"Renal Medicine",
+		"Renal Dialysis",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173
@@ -53,5 +88,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

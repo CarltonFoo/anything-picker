@@ -20,13 +20,41 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 12:00 pm",
-		"Tuesday": "09:00 am to 12:00 pm",
-		"Wednesday": "09:00 am to 12:00 pm",
-		"Friday": "02:00 pm to 07:00 pm",
-		"Saturday": "09:00 am to 02:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Friday": [
+			[
+				"14:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9401003",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8420916,
 		1.278666
@@ -42,5 +70,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

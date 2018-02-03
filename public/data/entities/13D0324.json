@@ -30,15 +30,62 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Tuesday": "Closed",
-		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "13D0324",
+	"combinedSpecialties": [
+		"Oral & Maxillo-Facial Surgery",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.9060381,
 		1.3063917
@@ -53,5 +100,8 @@
 		"GL",
 		"KL",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -27,13 +27,42 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 04:00 pm",
-		"Tuesday": "08:30 am to 04:00 pm",
-		"Wednesday": "08:30 am to 04:00 pm",
-		"Thursday": "08:30 am to 04:00 pm",
-		"Friday": "08:30 am to 04:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"16:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"16:00"
+			]
+		]
 	},
 	"id": "9403790",
+	"combinedSpecialties": [
+		"Psychiatry",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -49,5 +78,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

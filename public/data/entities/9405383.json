@@ -26,16 +26,86 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm, 07:00 pm to 09:00 pm",
-		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm, 07:00 pm to 09:00 pm",
-		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm, 07:00 pm to 09:00 pm",
-		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm, 07:00 pm to 09:00 pm",
-		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm",
-		"Saturday": "08:30 am to 01:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			],
+			[
+				"19:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"13:30",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9405383",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9044837,
 		1.3925041
@@ -54,5 +124,9 @@
 		"SL",
 		"SG",
 		"YS"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
 	]
 }

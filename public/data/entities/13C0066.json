@@ -26,13 +26,42 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 05:30 pm",
-		"Tuesday": "09:00 am to 05:30 pm",
-		"Wednesday": "09:00 am to 05:30 pm",
-		"Thursday": "09:00 am to 05:30 pm",
-		"Friday": "09:00 am to 05:30 pm"
+		"Monday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:30"
+			]
+		]
 	},
 	"id": "13C0066",
+	"combinedSpecialties": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -49,5 +78,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

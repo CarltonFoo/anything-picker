@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "9404318",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7286988,
 		1.2723225
@@ -31,5 +34,6 @@
 	"planningArea": "WI",
 	"neighbours": [
 		"JE"
-	]
+	],
+	"insurance": []
 }

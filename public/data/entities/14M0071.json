@@ -26,12 +26,36 @@
 		"Specialist Medical": true
 	},
 	"operatingHours": {
-		"Wednesday": "09:00 am to 03:00 pm",
-		"Thursday": "09:00 am to 03:00 pm",
-		"Friday": "09:00 am to 03:00 pm",
-		"Saturday": "09:00 am to 03:00 pm"
+		"Wednesday": [
+			[
+				"09:00",
+				"15:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"15:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"15:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"15:00"
+			]
+		]
 	},
 	"id": "14M0071",
+	"combinedSpecialties": [
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -48,5 +72,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -25,15 +25,69 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
-		"Tuesday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
-		"Wednesday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
-		"Thursday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
-		"Friday": "08:30 am to 03:00 pm",
-		"Saturday": "08:30 am to 01:00 pm",
-		"Sunday": "08:30 am to 01:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"15:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "9403708",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9450867,
 		1.3187358
@@ -49,5 +103,8 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

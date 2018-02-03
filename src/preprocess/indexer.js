@@ -12,7 +12,10 @@ export function indexSchoolData () {
     'address',
     'coordinates',
     'svy21',
-    'planningArea'
+    'planningArea',
+    'operatingHrs',
+    'combinedSpecialties',
+    'insurance'
   ])
 
   const result = []

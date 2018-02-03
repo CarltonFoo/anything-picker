@@ -27,17 +27,76 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "Closed",
-		"New Year (01/01/2018)": "Closed",
-		"Monday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
-		"Tuesday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
-		"Wednesday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
-		"Thursday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
-		"Friday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
-		"Saturday": "08:30 am to 01:00 pm",
-		"Sunday": "08:30 am to 01:00 pm"
+		"Christmas Day (25/12/2017)": [],
+		"New Year (01/01/2018)": [],
+		"Monday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "9404553",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8795172,
 		1.3514483
@@ -54,5 +113,8 @@
 		"SE",
 		"SG",
 		"TP"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

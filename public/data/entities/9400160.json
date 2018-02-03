@@ -25,6 +25,9 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "9400160",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8393951,
 		1.3753056
@@ -40,5 +43,8 @@
 		"SG",
 		"CC",
 		"YS"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -25,6 +25,10 @@
 		"General Medical": true
 	},
 	"id": "16M0375",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8270153,
 		1.2864589
@@ -39,5 +43,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -25,6 +25,9 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "12C0149",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8794723,
 		1.3757153
@@ -41,5 +44,11 @@
 		"SE",
 		"SG",
 		"TP"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

@@ -25,6 +25,12 @@
 		]
 	},
 	"id": "16M0206",
+	"combinedSpecialties": [
+		"Family Physician",
+		"Specialist Medical",
+		"General Surgery",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -42,5 +48,8 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

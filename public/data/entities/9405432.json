@@ -33,13 +33,69 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
-		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "9405432",
+	"combinedSpecialties": [
+		"Periodontology",
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Endodontics",
+		"Oral & Maxillo-Facial Surgery",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.7817874,
 		1.2969357
@@ -54,5 +110,6 @@
 		"BT",
 		"TN",
 		"CL"
-	]
+	],
+	"insurance": []
 }

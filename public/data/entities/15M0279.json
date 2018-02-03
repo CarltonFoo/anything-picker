@@ -28,13 +28,44 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 04:00 pm",
-		"Tuesday": "09:00 am to 04:00 pm",
-		"Wednesday": "09:00 am to 04:00 pm",
-		"Thursday": "09:00 am to 04:00 pm",
-		"Friday": "09:00 am to 04:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"16:00"
+			]
+		]
 	},
 	"id": "15M0279",
+	"combinedSpecialties": [
+		"Infectious Diseases",
+		"General Medical",
+		"Specialist Medical",
+		"Internal Medicine"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732
@@ -50,5 +81,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

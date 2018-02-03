@@ -28,16 +28,105 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:00 am to 05:30 pm, 06:30 pm to 09:30 pm",
-		"Tuesday": "08:00 am to 05:30 pm, 06:30 pm to 09:30 pm",
-		"Wednesday": "08:00 am to 05:30 pm, 06:30 pm to 09:30 pm",
-		"Thursday": "08:00 am to 05:30 pm, 06:30 pm to 09:30 pm",
-		"Friday": "08:00 am to 05:30 pm, 06:30 pm to 09:30 pm",
-		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
-		"Sunday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
-		"Public Holiday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm"
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		],
+		"Public Holiday": [
+			[
+				"08:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:30"
+			],
+			[
+				"18:30",
+				"21:30"
+			]
+		]
 	},
 	"id": "9402079",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.7401775,
 		1.3345126
@@ -54,5 +143,8 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

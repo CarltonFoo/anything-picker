@@ -39,6 +39,13 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "16M0162",
+	"combinedSpecialties": [
+		"Intensive Care Medicine",
+		"Internal Medicine",
+		"Respiratory Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8539295,
 		1.3124732
@@ -54,5 +61,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

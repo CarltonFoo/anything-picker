@@ -22,10 +22,32 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Thursday": "07:00 pm to 09:00 pm, 05:00 pm to 08:00 pm",
-		"Sunday": "07:00 pm to 09:00 pm, 05:00 pm to 08:00 pm"
+		"Thursday": [
+			[
+				"19:00",
+				"21:00"
+			],
+			[
+				"17:00",
+				"20:00"
+			]
+		],
+		"Sunday": [
+			[
+				"19:00",
+				"21:00"
+			],
+			[
+				"17:00",
+				"20:00"
+			]
+		]
 	},
 	"id": "9402185",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8514782,
 		1.3075812
@@ -41,5 +63,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

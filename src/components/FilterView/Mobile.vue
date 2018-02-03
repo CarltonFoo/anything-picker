@@ -7,7 +7,7 @@
       <big class="filter-title text-primary text-bold">FILTERS</big>
       <div class="tab-list">
         <LocationTab class="width-1of4" @expand="openModal" />
-        <OperatingHoursTab class="width-1of4" />
+        <OperatingHrsTab class="width-1of4" @expand="openModal" />
         <!-- <PriceTab class="width-1of5" /> -->
     	  <InsuranceTab class="width-1of4" @expand="openModal" />
         <TypeTab class="width-1of4" @expand="openModal" />
@@ -15,6 +15,7 @@
     </div>
 
     <LocationModal ref="location" />
+    <OperatingHrsModal ref="operatingHrs" />
     <InsuranceModal ref="insurance" />
     <TypeModal ref="type" />
     <div class="button-group" @click="$children[0].close()">
@@ -25,12 +26,13 @@
 
 <script>
 import LocationTab from './Tab/Location'
-import OperatingHoursTab from './Tab/OperatingHours'
-// import PriceTab from './Tab/Price'
+import OperatingHrsTab from './Tab/OperatingHrs'
 import InsuranceTab from './Tab/Insurance'
 import TypeTab from './Tab/Type'
+// import PriceTab from './Tab/Price'
 
 import LocationModal from './Modal/Location'
+import OperatingHrsModal from './Modal/OperatingHrs'
 import InsuranceModal from './Modal/Insurance'
 import TypeModal from './Modal/Type'
 
@@ -52,12 +54,13 @@ export default {
   components: {
     LocationTab,
     LocationModal,
-    OperatingHoursTab,
-    // PriceTab,
+    OperatingHrsTab,
+    OperatingHrsModal,
     InsuranceTab,
     InsuranceModal,
     TypeTab,
     TypeModal,
+    // PriceTab
   }
 }
 </script>
@@ -71,7 +74,7 @@ export default {
   .width-1of4 {
     border: none;
   }
-  
+
   .modal-content {
     background: $color-tertiary;
     height: 100%;

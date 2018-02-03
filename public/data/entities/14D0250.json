@@ -30,16 +30,76 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
-		"Tuesday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
-		"Thursday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
-		"Friday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
-		"Saturday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"13:00",
+				"17:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "14D0250",
+	"combinedSpecialties": [
+		"Oral & Maxillo-Facial Surgery",
+		"Specialised Diagnostic Radiology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8511842,
 		1.291185
@@ -55,5 +115,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

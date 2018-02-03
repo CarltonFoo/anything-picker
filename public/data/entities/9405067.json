@@ -38,16 +38,60 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 06:00 pm",
-		"Tuesday": "08:30 am to 06:00 pm",
-		"Wednesday": "08:30 am to 06:00 pm",
-		"Thursday": "08:30 am to 06:00 pm",
-		"Friday": "08:30 am to 06:00 pm",
-		"Saturday": "08:30 am to 01:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9405067",
+	"combinedSpecialties": [
+		"Endoscopy",
+		"General Medical",
+		"Specialist Medical",
+		"Diagnostic Radiology",
+		"Gastroenterology",
+		"General Surgery",
+		"Internal Medicine",
+		"Obstetrics & Gynaecology",
+		"Ophthalmology",
+		"Orthopaedic Surgery",
+		"Otorhinolaryngology",
+		"Urology"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -63,5 +107,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

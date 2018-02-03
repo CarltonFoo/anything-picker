@@ -35,13 +35,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:00 am to 05:30 pm",
-		"Tuesday": "08:00 am to 05:30 pm",
-		"Wednesday": "08:00 am to 05:30 pm",
-		"Thursday": "08:00 am to 05:30 pm",
-		"Friday": "08:00 am to 05:30 pm"
+		"Monday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"17:30"
+			]
+		]
 	},
 	"id": "9405037",
+	"combinedSpecialties": [
+		"Oral & Maxillo-Facial Surgery",
+		"Day Surgery",
+		"General Dental",
+		"Specialist Dental",
+		"Endodontics",
+		"Orthodontics",
+		"Paediatric Dentistry",
+		"Periodontology",
+		"Prosthodontics"
+	],
 	"coordinates": [
 		103.8383462,
 		1.2796022
@@ -56,5 +92,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

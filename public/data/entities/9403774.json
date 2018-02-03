@@ -31,6 +31,14 @@
 		]
 	},
 	"id": "9403774",
+	"combinedSpecialties": [
+		"Orthodontics",
+		"General Dental",
+		"General Medical",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8270506,
 		1.3064027
@@ -46,5 +54,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

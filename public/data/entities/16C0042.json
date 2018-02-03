@@ -23,12 +23,26 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Christmas Day (25/12/2017)": "09:00 am to 12:00 pm",
-		"New Year (01/01/2018)": "09:00 am to 12:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Christmas Day (25/12/2017)": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"New Year (01/01/2018)": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "16C0042",
+	"combinedSpecialties": [
+		"Endoscopy",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8161119,
 		1.3307299
@@ -45,5 +59,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

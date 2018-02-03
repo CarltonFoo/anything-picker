@@ -24,13 +24,43 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "07:30 am to 04:30 am",
-		"Tuesday": "07:30 am to 04:30 am",
-		"Wednesday": "07:30 am to 04:30 am",
-		"Thursday": "07:30 am to 04:30 am",
-		"Friday": "07:30 am to 03:30 am"
+		"Monday": [
+			[
+				"07:30",
+				"04:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"07:30",
+				"04:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"07:30",
+				"04:30"
+			]
+		],
+		"Thursday": [
+			[
+				"07:30",
+				"04:30"
+			]
+		],
+		"Friday": [
+			[
+				"07:30",
+				"03:30"
+			]
+		]
 	},
 	"id": "9403010",
+	"combinedSpecialties": [
+		"General Medical",
+		"Specialist Medical",
+		"Occupational Medicine"
+	],
 	"coordinates": [
 		103.6861364,
 		1.2725841
@@ -42,5 +72,6 @@
 	"planningArea": "WI",
 	"neighbours": [
 		"JE"
-	]
+	],
+	"insurance": []
 }

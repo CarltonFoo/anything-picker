@@ -26,6 +26,10 @@
 		]
 	},
 	"id": "9404927",
+	"combinedSpecialties": [
+		"General Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -43,5 +47,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

@@ -29,6 +29,13 @@
 		]
 	},
 	"id": "9402537",
+	"combinedSpecialties": [
+		"Intensive Care Medicine",
+		"Respiratory Medicine",
+		"General Medical",
+		"Specialist Medical",
+		"Gastroenterology"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -44,5 +51,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

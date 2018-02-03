@@ -25,13 +25,62 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "9401475",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8536195,
 		1.2968153
@@ -47,5 +96,11 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

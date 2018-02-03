@@ -20,13 +20,61 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 03:30 pm",
-		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 03:30 pm",
-		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 03:30 pm",
-		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 03:30 pm",
-		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 03:30 pm"
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"15:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"15:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"15:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"15:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"14:00",
+				"15:30"
+			]
+		]
 	},
 	"id": "9402309",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8000193,
 		1.4557676
@@ -40,5 +88,8 @@
 		"MD",
 		"SB",
 		"SK"
+	],
+	"insurance": [
+		"AXA Medismart"
 	]
 }

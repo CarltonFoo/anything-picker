@@ -22,13 +22,42 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 08:00 pm",
-		"Tuesday": "08:30 am to 08:00 pm",
-		"Wednesday": "08:30 am to 08:00 pm",
-		"Thursday": "08:30 am to 08:00 pm",
-		"Friday": "08:30 am to 08:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"20:00"
+			]
+		]
 	},
 	"id": "9404438",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8547139,
 		1.3074355
@@ -44,5 +73,9 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

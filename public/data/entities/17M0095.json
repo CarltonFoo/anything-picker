@@ -23,6 +23,10 @@
 		"General Medical": true
 	},
 	"id": "17M0095",
+	"combinedSpecialties": [
+		"Diagnostic Radiology",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376
@@ -38,5 +42,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

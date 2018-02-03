@@ -24,16 +24,69 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
-		"Tuesday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
-		"Wednesday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
-		"Thursday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
-		"Friday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
-		"Saturday": "09:00 am to 03:30 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"15:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "15M0033",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.9403816,
 		1.3572759
@@ -48,5 +101,8 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"AXA Clinicare"
 	]
 }

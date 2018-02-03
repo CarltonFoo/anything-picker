@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "9401802",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8193413,
 		1.2777954
@@ -34,5 +37,6 @@
 		"TN",
 		"SI",
 		"CA"
-	]
+	],
+	"insurance": []
 }

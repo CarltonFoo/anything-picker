@@ -29,15 +29,90 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
-		"Tuesday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
-		"Wednesday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
-		"Thursday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
-		"Friday": "08:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
-		"Saturday": "08:30 am to 01:00 pm",
-		"Sunday": "06:00 pm to 09:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"13:00"
+			],
+			[
+				"18:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"13:00"
+			]
+		],
+		"Sunday": [
+			[
+				"18:00",
+				"21:00"
+			]
+		]
 	},
 	"id": "15M0168",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8457902,
 		1.43189
@@ -55,5 +130,10 @@
 		"SE",
 		"CC",
 		"SM"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

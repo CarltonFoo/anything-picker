@@ -28,14 +28,23 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "Closed",
-		"Tuesday": "Closed",
-		"Wednesday": "Closed",
-		"Thursday": "Closed",
-		"Friday": "Closed",
-		"Saturday": "09:00 am to 01:00 pm"
+		"Monday": [],
+		"Tuesday": [],
+		"Wednesday": [],
+		"Thursday": [],
+		"Friday": [],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "14M0306",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8880001,
 		1.3949142
@@ -54,5 +63,8 @@
 		"SL",
 		"SG",
 		"YS"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

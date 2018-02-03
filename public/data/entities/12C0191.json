@@ -25,9 +25,18 @@
 		]
 	},
 	"operatingHours": {
-		"Saturday": "09:00 am to 01:00 pm"
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "12C0191",
+	"combinedSpecialties": [
+		"Otorhinolaryngology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -43,5 +52,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

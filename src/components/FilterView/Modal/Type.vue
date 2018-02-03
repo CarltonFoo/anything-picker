@@ -4,7 +4,7 @@
     <div>
       <big class="title text-primary text-bold">Types of Clinics</big>
       <div class="selection-row">
-        <div class="select-group" v-for="group in clinicType">
+        <div class="select-group" v-for="group in combinedSpecialties">
           <p class="text-secondary text-bold">{{group.label}}</p>
           <div class="select-one">
             <label class="ellipsis text-primary" v-for="type in group.types">
@@ -28,7 +28,7 @@ import {mapState, mapGetters, mapActions} from 'vuex'
 export default {
   computed: {
     ...mapState({
-      clinicType: state => state.clinicType.options
+      combinedSpecialties: state => state.combinedSpecialties.options
     }),
     ...mapGetters(['optionsSelected'])
   },
@@ -40,14 +40,14 @@ export default {
       'resetOptions'
     ]),
     checked (options) {
-      return this.optionsSelected({module: 'clinicType', options})
+      return this.optionsSelected({module: 'combinedSpecialties', options})
     },
     select (options, toCheck) {
-      if (toCheck) this.selectOptions({module: 'clinicType', options})
-      else this.unselectOptions({module: 'clinicType', options})
+      if (toCheck) this.selectOptions({module: 'combinedSpecialties', options})
+      else this.unselectOptions({module: 'combinedSpecialties', options})
     },
     resetAll () {
-      this.resetOptions({module: 'clinicType'})
+      this.resetOptions({module: 'combinedSpecialties'})
     },
     onClose () {
       this.exportOptions().then(query => this.$router.push({query}))

@@ -24,16 +24,67 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
-		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
-		"Wednesday": "09:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
-		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 06:30 pm",
-		"Friday": "09:30 am to 12:30 pm",
-		"Saturday": "09:30 am to 12:30 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"18:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"14:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:30",
+				"14:30"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "12C0269",
+	"combinedSpecialties": [
+		"Family Physician",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173
@@ -49,5 +100,8 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

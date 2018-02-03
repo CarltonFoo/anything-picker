@@ -23,11 +23,14 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Thursday": "Closed",
-		"Public Holiday": "Closed",
-		"Sunday": "Closed"
+		"Thursday": [],
+		"Public Holiday": [],
+		"Sunday": []
 	},
 	"id": "11C0163",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.8099996,
 		1.3238351
@@ -45,5 +48,8 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -18,6 +18,9 @@
 		"General Dental": true
 	},
 	"id": "17D0180",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.856047,
 		1.3678589
@@ -33,5 +36,6 @@
 		"SG",
 		"CC",
 		"YS"
-	]
+	],
+	"insurance": []
 }

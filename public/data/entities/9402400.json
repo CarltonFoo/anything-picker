@@ -23,14 +23,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 08:30 pm",
-		"Tuesday": "09:00 am to 08:30 pm",
-		"Wednesday": "09:00 am to 05:00 pm",
-		"Friday": "09:00 am to 05:00 pm",
-		"Thursday": "09:00 am to 08:30 pm",
-		"Saturday": "09:00 am to 03:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"15:00"
+			]
+		]
 	},
 	"id": "9402400",
+	"combinedSpecialties": [
+		"General Dental",
+		"Specialist Dental",
+		"Orthodontics"
+	],
 	"coordinates": [
 		103.74216,
 		1.339976
@@ -47,5 +82,8 @@
 		"TH",
 		"CL",
 		"WI"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

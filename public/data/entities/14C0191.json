@@ -29,11 +29,31 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday": "02:00 pm to 06:00 pm",
-		"Wednesday": "02:00 pm to 06:00 pm",
-		"Friday": "02:00 pm to 06:00 pm"
+		"Monday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"14:00",
+				"18:00"
+			]
+		]
 	},
 	"id": "14C0191",
+	"combinedSpecialties": [
+		"Medical Oncology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8442263,
 		1.3221466
@@ -50,5 +70,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -25,6 +25,10 @@
 		]
 	},
 	"id": "9400605",
+	"combinedSpecialties": [
+		"Renal Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -40,5 +44,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

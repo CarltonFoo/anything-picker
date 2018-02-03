@@ -27,15 +27,95 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
-		"Tuesday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
-		"Wednesday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
-		"Thursday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
-		"Friday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
-		"Saturday": "08:30 am to 12:00 pm",
-		"Sunday": "08:30 am to 12:00 pm"
+		"Monday": [
+			[
+				"08:30",
+				"01:00"
+			],
+			[
+				"02:30",
+				"16:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"01:00"
+			],
+			[
+				"02:30",
+				"16:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"01:00"
+			],
+			[
+				"02:30",
+				"16:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"01:00"
+			],
+			[
+				"02:30",
+				"16:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"01:00"
+			],
+			[
+				"02:30",
+				"16:00"
+			],
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		]
 	},
 	"id": "9400646",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8253108,
 		1.2739294
@@ -50,5 +130,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -26,6 +26,11 @@
 		]
 	},
 	"id": "9404315",
+	"combinedSpecialties": [
+		"Paediatric Cardiology",
+		"Paediatric Medicine",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8959876,
 		1.3683068
@@ -42,5 +47,6 @@
 		"SE",
 		"SG",
 		"TP"
-	]
+	],
+	"insurance": []
 }

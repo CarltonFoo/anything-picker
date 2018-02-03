@@ -26,13 +26,41 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "09:30 am to 05:00 pm",
-		"Tuesday": "09:30 am to 05:00 pm",
-		"Wednesday": "09:30 am to 05:00 pm",
-		"Thursday": "09:30 am to 05:00 pm",
-		"Friday": "09:30 am to 05:00 pm"
+		"Monday": [
+			[
+				"09:30",
+				"17:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"17:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"17:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"17:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"17:00"
+			]
+		]
 	},
 	"id": "9401406",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8552187,
 		1.3065885
@@ -48,5 +76,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

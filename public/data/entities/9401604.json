@@ -28,14 +28,18 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "Closed",
-		"Tuesday": "Closed",
-		"Wednesday": "Closed",
-		"Thursday": "Closed",
-		"Friday": "Closed",
-		"Saturday": "Closed"
+		"Monday": [],
+		"Tuesday": [],
+		"Wednesday": [],
+		"Thursday": [],
+		"Friday": [],
+		"Saturday": []
 	},
 	"id": "9401604",
+	"combinedSpecialties": [
+		"Psychiatry",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -51,5 +55,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

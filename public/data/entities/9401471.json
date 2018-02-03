@@ -29,16 +29,80 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
-		"Tuesday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
-		"Wednesday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
-		"Thursday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
-		"Friday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
-		"Saturday": "09:00 am to 12:00 pm",
-		"Sunday": "09:00 am to 12:00 pm",
-		"Public Holiday": "09:00 am to 12:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"14:00"
+			],
+			[
+				"18:30",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Public Holiday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9401471",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7982276,
 		1.299962
@@ -53,5 +117,10 @@
 		"BT",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

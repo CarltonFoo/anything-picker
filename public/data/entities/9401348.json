@@ -24,6 +24,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9401348",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8410746,
 		1.4201999
@@ -41,5 +44,9 @@
 		"SE",
 		"CC",
 		"SM"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

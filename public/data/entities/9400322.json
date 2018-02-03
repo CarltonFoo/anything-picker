@@ -28,15 +28,75 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Tuesday": "08:30 pm to 12:30 pm",
-		"Thursday": "08:30 pm to 12:30 pm",
-		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 06:30 pm to 08:30 pm",
-		"Saturday": "08:30 am to 12:30 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"20:30",
+				"14:30"
+			]
+		],
+		"Thursday": [
+			[
+				"20:30",
+				"14:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:30",
+				"16:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:30"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9400322",
+	"combinedSpecialties": [
+		"Internal Medicine",
+		"Family Physician",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9052795,
 		1.3010698
@@ -51,5 +111,6 @@
 		"GL",
 		"KL",
 		"CA"
-	]
+	],
+	"insurance": []
 }

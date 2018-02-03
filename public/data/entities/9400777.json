@@ -20,10 +20,31 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 09:00 pm, 09:00 am to 05:00 pm",
-		"Sunday": "09:00 am to 09:00 pm, 09:00 am to 05:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"21:00"
+			],
+			[
+				"09:00",
+				"17:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"21:00"
+			],
+			[
+				"09:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "9400777",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.7192222,
 		1.3498123
@@ -39,5 +60,6 @@
 		"PN",
 		"TH",
 		"WC"
-	]
+	],
+	"insurance": []
 }

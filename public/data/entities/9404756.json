@@ -23,16 +23,96 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
-		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
-		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
-		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
-		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
-		"Saturday": "09:00 am to 02:00 pm",
-		"Sunday": "09:00 am to 02:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"19:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			],
+			[
+				"18:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9404756",
+	"combinedSpecialties": [
+		"General Dental",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.8491655,
 		1.3346408
@@ -50,5 +130,8 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

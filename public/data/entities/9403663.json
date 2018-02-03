@@ -27,10 +27,24 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "06:00 pm to 08:00 pm",
-		"Friday": "06:00 pm to 08:00 pm"
+		"Monday": [
+			[
+				"18:00",
+				"20:00"
+			]
+		],
+		"Friday": [
+			[
+				"18:00",
+				"20:00"
+			]
+		]
 	},
 	"id": "9403663",
+	"combinedSpecialties": [
+		"Ophthalmology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7310836,
 		1.3458834
@@ -47,5 +61,6 @@
 		"TH",
 		"CL",
 		"WI"
-	]
+	],
+	"insurance": []
 }

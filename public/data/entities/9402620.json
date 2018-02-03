@@ -26,16 +26,44 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
-		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
-		"Tuesday": "Closed",
-		"Wednesday": "Closed",
-		"Friday": "Closed",
-		"Saturday": "09:30 am to 03:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:30"
+			]
+		],
+		"Tuesday": [],
+		"Wednesday": [],
+		"Friday": [],
+		"Saturday": [
+			[
+				"09:30",
+				"15:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9402620",
+	"combinedSpecialties": [
+		"Periodontology",
+		"General Dental",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.804019,
 		1.2868513
@@ -50,5 +78,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

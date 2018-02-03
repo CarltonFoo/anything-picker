@@ -27,16 +27,75 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
-		"Tuesday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
-		"Wednesday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
-		"Thursday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
-		"Friday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
-		"Saturday": "09:00 am to 12:00 pm",
-		"Sunday": "07:00 pm to 10:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"15:00"
+			],
+			[
+				"19:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"19:00",
+				"12:00"
+			]
+		]
 	},
 	"id": "9402797",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7564509,
 		1.3782035
@@ -52,5 +111,8 @@
 		"SK",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

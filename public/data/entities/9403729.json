@@ -26,15 +26,69 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
-		"Saturday": "09:00 am to 01:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"18:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		]
 	},
 	"id": "9403729",
+	"combinedSpecialties": [
+		"Endodontics",
+		"Specialist Dental"
+	],
 	"coordinates": [
 		103.8358575,
 		1.3038723
@@ -50,5 +104,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

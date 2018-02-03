@@ -28,14 +28,47 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday": "10:00 am to 07:00 pm",
-		"Tuesday": "10:00 am to 07:00 pm",
-		"Wednesday": "10:00 am to 07:00 pm",
-		"Thursday": "10:00 am to 07:00 pm",
-		"Friday": "10:00 am to 07:00 pm",
-		"Saturday": "09:00 am to 05:00 pm"
+		"Monday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"00:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"17:00"
+			]
+		]
 	},
 	"id": "13C0010",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.7956924,
 		1.3308174
@@ -53,5 +86,6 @@
 		"CC",
 		"TN",
 		"CL"
-	]
+	],
+	"insurance": []
 }

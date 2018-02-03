@@ -27,16 +27,71 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "09:00 am to 05:30 pm, 09:00 pm to 01:00 pm",
-		"Tuesday": "09:00 am to 05:30 pm, 09:00 pm to 01:00 pm",
-		"Wednesday": "09:00 am to 05:30 pm, 09:00 pm to 01:00 pm",
-		"Thursday": "09:00 am to 05:30 pm, 09:00 pm to 01:00 pm",
-		"Friday": "09:00 am to 05:30 pm, 09:00 pm to 01:00 pm",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"09:00",
+				"17:30"
+			],
+			[
+				"21:00",
+				"13:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:30"
+			],
+			[
+				"21:00",
+				"13:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:30"
+			],
+			[
+				"21:00",
+				"13:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:30"
+			],
+			[
+				"21:00",
+				"13:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:30"
+			],
+			[
+				"21:00",
+				"13:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9401493",
+	"combinedSpecialties": [
+		"Obstetrics & Gynaecology",
+		"Abortion",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8447824,
 		1.3200301
@@ -53,5 +108,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

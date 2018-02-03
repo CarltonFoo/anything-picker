@@ -26,9 +26,22 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Public Holiday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm"
+		"Public Holiday": [
+			[
+				"08:30",
+				"14:30"
+			],
+			[
+				"14:00",
+				"16:30"
+			]
+		]
 	},
 	"id": "9405298",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.6914596,
 		1.3413853
@@ -44,5 +57,10 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS",
+		"Great Eastern"
 	]
 }

@@ -30,6 +30,14 @@
 		]
 	},
 	"id": "17D0321",
+	"combinedSpecialties": [
+		"Endodontics",
+		"General Dental",
+		"Specialist Dental",
+		"Dental Public Health",
+		"Oral & Maxillo-Facial Surgery",
+		"Periodontology"
+	],
 	"coordinates": [
 		103.8270506,
 		1.3064027
@@ -45,5 +53,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

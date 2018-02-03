@@ -29,6 +29,12 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "11C0138",
+	"combinedSpecialties": [
+		"Paediatric Medicine",
+		"Abortion",
+		"Specialist Medical",
+		"Obstetrics & Gynaecology"
+	],
 	"coordinates": [
 		103.7640104,
 		1.3142105
@@ -43,5 +49,8 @@
 		"BT",
 		"JE",
 		"QT"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

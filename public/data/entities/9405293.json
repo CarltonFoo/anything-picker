@@ -28,6 +28,11 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9405293",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.775277,
 		1.3423572
@@ -45,5 +50,10 @@
 		"CC",
 		"TN",
 		"CL"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
 	]
 }

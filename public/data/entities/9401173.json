@@ -26,9 +26,18 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:30 am to 01:00 pm"
+		"Monday": [
+			[
+				"09:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "9401173",
+	"combinedSpecialties": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8494486,
 		1.3006453
@@ -44,5 +53,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

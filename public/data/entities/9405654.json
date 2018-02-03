@@ -20,14 +20,47 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "11:00 am to 07:00 pm",
-		"Tuesday": "11:00 am to 07:00 pm",
-		"Wednesday": "11:00 am to 07:00 pm",
-		"Thursday": "11:00 am to 07:00 pm",
-		"Friday": "11:00 am to 07:00 pm",
-		"Saturday": "11:00 am to 03:00 pm"
+		"Monday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Thursday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"01:00",
+				"19:00"
+			]
+		],
+		"Saturday": [
+			[
+				"01:00",
+				"15:00"
+			]
+		]
 	},
 	"id": "9405654",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.8428894,
 		1.3178287
@@ -44,5 +77,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

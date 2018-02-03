@@ -29,6 +29,11 @@
 		]
 	},
 	"id": "17M0356",
+	"combinedSpecialties": [
+		"Ophthalmology",
+		"Day Surgery",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8432193,
 		1.3205716
@@ -45,5 +50,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

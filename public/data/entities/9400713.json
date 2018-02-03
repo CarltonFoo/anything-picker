@@ -27,11 +27,20 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Saturday": "09:00 am to 01:00 pm",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9400713",
+	"combinedSpecialties": [
+		"Otorhinolaryngology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -47,5 +56,6 @@
 		"NV",
 		"QT",
 		"CA"
-	]
+	],
+	"insurance": []
 }

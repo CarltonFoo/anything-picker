@@ -27,6 +27,11 @@
 		]
 	},
 	"id": "9405619",
+	"combinedSpecialties": [
+		"General Surgery",
+		"Specialist Medical",
+		"Urology"
+	],
 	"coordinates": [
 		103.9089659,
 		1.3151173
@@ -42,5 +47,8 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

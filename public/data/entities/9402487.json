@@ -27,16 +27,70 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 04:00 pm",
-		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 04:00 pm",
-		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 04:00 pm",
-		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 04:00 pm",
-		"Friday": "08:30 am to 12:00 pm, 01:00 pm to 04:00 pm",
-		"Saturday": "08:30 am to 12:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"16:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"14:00"
+			],
+			[
+				"13:00",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:30",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "9402487",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8489933,
 		1.3388907
@@ -54,5 +108,10 @@
 		"HG",
 		"SG",
 		"CC"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS",
+		"Great Eastern"
 	]
 }

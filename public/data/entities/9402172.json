@@ -25,15 +25,73 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:45 am to 05:00 pm, 10:00 am to 02:00 pm",
-		"Tuesday": "09:45 am to 05:00 pm, 10:00 am to 02:00 pm",
-		"Wednesday": "09:45 am to 05:00 pm, 10:00 am to 02:00 pm",
-		"Thursday": "09:45 am to 05:00 pm, 10:00 am to 02:00 pm",
-		"Friday": "09:45 am to 05:00 pm, 10:00 am to 02:00 pm",
-		"Saturday": "09:45 am to 05:00 pm, 10:00 am to 02:00 pm",
-		"Sunday": "Closed"
+		"Monday": [
+			[
+				"09:45",
+				"17:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:45",
+				"17:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:45",
+				"17:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:45",
+				"17:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:45",
+				"17:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:45",
+				"17:00"
+			],
+			[
+				"00:00",
+				"14:00"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9402172",
+	"combinedSpecialties": [
+		"Dermatology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8376019,
 		1.3418228
@@ -51,5 +109,6 @@
 		"HG",
 		"SG",
 		"CC"
-	]
+	],
+	"insurance": []
 }

@@ -26,14 +26,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:30 am to 05:30 pm",
-		"Tuesday": "09:30 am to 05:30 pm",
-		"Wednesday": "09:30 am to 05:30 pm",
-		"Thursday": "09:30 am to 05:30 pm",
-		"Friday": "09:30 am to 05:30 pm",
-		"Saturday": "09:30 am to 01:00 pm"
+		"Monday": [
+			[
+				"09:30",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"17:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:30",
+				"13:00"
+			]
+		]
 	},
 	"id": "9405645",
+	"combinedSpecialties": [
+		"Orthodontics",
+		"Specialist Dental",
+		"Oral & Maxillo-Facial Surgery"
+	],
 	"coordinates": [
 		103.8239072,
 		1.3031376
@@ -49,5 +84,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

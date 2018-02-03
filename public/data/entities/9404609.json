@@ -26,16 +26,44 @@
 		]
 	},
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "06:00 pm to 08:30 pm",
-		"Tuesday": "09:00 am to 12:00 pm",
-		"Wednesday": "Closed",
-		"Thursday": "02:00 pm to 05:00 pm, 06:00 pm to 08:30 pm",
-		"Friday": "Closed",
-		"Saturday": "08:45 am to 11:45 am",
-		"Sunday": "Closed"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Wednesday": [],
+		"Thursday": [
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Friday": [],
+		"Saturday": [
+			[
+				"08:45",
+				"01:45"
+			]
+		],
+		"Sunday": []
 	},
 	"id": "9404609",
+	"combinedSpecialties": [
+		"Obstetrics & Gynaecology",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.7859815,
 		1.4360701
@@ -49,5 +77,6 @@
 		"MD",
 		"SB",
 		"SK"
-	]
+	],
+	"insurance": []
 }

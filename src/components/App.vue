@@ -12,7 +12,7 @@
       @hover="onHover"
       @focus="onFocus" />
     <transition name="expand" mode="out-in" :duration="{leave: 0}">
-      <router-view name="aside"
+      <router-view name="aside" ref="list"
         :selectedTab="selectedTab"
         :hovered="hovered"
         :narrowed="narrowed"
@@ -20,7 +20,8 @@
         @bookmark="onBookmark"
         @focus="onFocus"
         @narrow="onNarrow"
-        @toggleDrawer="toggleDrawer" />
+        @toggleDrawer="toggleDrawer"
+        @toggleList="toggleList "/>
     </transition>
     <FilterViewMobile ref="drawer" class="mobile-only" />
   </q-layout>
@@ -76,6 +77,10 @@ export default {
     },
     toggleDrawer () {
       this.$refs.drawer.$children[0].toggle()
+    },
+    toggleList () {
+      console.log("uh")
+      this.$refs.list.$children[0].toggle()
     },
     closeMap () {
     }

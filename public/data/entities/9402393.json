@@ -31,13 +31,43 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "09:30 am to 02:00 pm",
-		"Tuesday": "09:30 am to 02:00 pm",
-		"Wednesday": "09:30 am to 02:00 pm",
-		"Thursday": "09:30 am to 02:00 pm",
-		"Friday": "09:30 am to 02:00 pm"
+		"Monday": [
+			[
+				"09:30",
+				"14:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:30",
+				"14:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:30",
+				"14:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:30",
+				"14:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:30",
+				"14:00"
+			]
+		]
 	},
 	"id": "9402393",
+	"combinedSpecialties": [
+		"Rehabilitation Medicine",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.9487995,
 		1.3416865
@@ -52,5 +82,8 @@
 		"PR",
 		"PL",
 		"CH"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

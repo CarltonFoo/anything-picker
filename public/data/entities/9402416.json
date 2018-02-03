@@ -22,14 +22,84 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:30 pm",
-		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:30 pm",
-		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm",
-		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm",
-		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:30 pm",
-		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:00",
+				"20:30"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"13:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		]
 	},
 	"id": "9402416",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9419782,
 		1.3786024
@@ -45,5 +115,9 @@
 		"SE",
 		"CH",
 		"TM"
+	],
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
 	]
 }

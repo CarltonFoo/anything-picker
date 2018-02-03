@@ -26,6 +26,11 @@
 		]
 	},
 	"id": "16M0311",
+	"combinedSpecialties": [
+		"Dermatology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -42,5 +47,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }

@@ -25,15 +25,74 @@
 		"General Medical": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
-		"Saturday": "09:00 am to 12:00 pm",
-		"Sunday": "09:00 am to 12:00 pm"
+		"Monday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:00"
+			],
+			[
+				"14:00",
+				"16:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9400527",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.9190156,
 		1.3268484
@@ -49,5 +108,6 @@
 		"MP",
 		"PL",
 		"TM"
-	]
+	],
+	"insurance": []
 }

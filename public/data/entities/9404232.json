@@ -27,6 +27,12 @@
 		]
 	},
 	"id": "9404232",
+	"combinedSpecialties": [
+		"Gastroenterology",
+		"General Medical",
+		"Yellow Fever Vaccination",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.819605,
 		1.3074279
@@ -42,5 +48,8 @@
 		"NV",
 		"QT",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

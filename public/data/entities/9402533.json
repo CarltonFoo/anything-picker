@@ -25,15 +25,53 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday": "08:00 am to 10:00 pm",
-		"Tuesday": "08:00 am to 10:00 pm",
-		"Wednesday": "08:00 am to 10:00 pm",
-		"Thursday": "08:00 am to 10:00 pm",
-		"Friday": "08:00 am to 10:00 pm",
-		"Saturday": "08:00 am to 10:00 pm",
-		"Sunday": "08:00 am to 10:00 pm"
+		"Monday": [
+			[
+				"08:00",
+				"12:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"12:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"12:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"12:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"12:00"
+			]
+		],
+		"Saturday": [
+			[
+				"08:00",
+				"12:00"
+			]
+		],
+		"Sunday": [
+			[
+				"08:00",
+				"12:00"
+			]
+		]
 	},
 	"id": "9402533",
+	"combinedSpecialties": [
+		"General Medical"
+	],
 	"coordinates": [
 		103.901841,
 		1.3853374
@@ -52,5 +90,9 @@
 		"SL",
 		"SG",
 		"YS"
+	],
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart"
 	]
 }

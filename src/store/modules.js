@@ -76,16 +76,25 @@ export const planningAreas = {
   }
 }
 
-export const operatingHours = {
+export const operatingHrs = {
+  namespaced: true,
   state: {
-    options: [
-      {label: 'Morning (7am to 12pm)', value: '7-12'},
-      {label: 'Afternoon (12pm to 6am)', value: '12-6'},
-      {label: 'Evening/Night (6pm to 12am)', value: '6-12'},
-      {label: 'Midnight (12am to 7am)', value: '12-7'},
-      {label: '24 Hours', value: '24'}
-    ],
-    selected: null
+    options: [{
+      label: 'OPERATING HOURS',
+      schemes: [
+        {label: 'Morning (7am to 12pm)', value: '7-12'},
+        {label: 'Afternoon (12pm to 6am)', value: '12-6'},
+        {label: 'Evening/Night (6pm to 12am)', value: '6-12'},
+        {label: 'Midnight (12am to 7am)', value: '12-7'},
+        {label: '24 Hours', value: '24'},
+      ]
+    }],
+  selected: []
+},
+getters: {
+    selectedDisplayText (state) {
+
+    }
   }
 }
 
@@ -108,16 +117,11 @@ export const insurance = {
     options: [{
        label: 'INSURANCE',
        schemes: [
-        {label: 'AIA', value: 'aia'},
-        {label: 'Aillance Healthcare', value: 'alliance'},
-        {label: 'AXA MediSmart', value: 'axamed'},
-        {label: 'AXA Cliniccare', value: 'axacli'},
-        {label: 'Baby Bonus Accredited', value: 'bba'},
-        {label: 'CHAS', value: 'chas'},
-        {label: 'Civil Servant Medical Billing System', value: 'csmbs'},
-        {label: 'Great Eastern', value: 'ge'},
-        {label: 'NTUC', value: 'ntuc'},
-        {label: 'Prudential', value: 'prudential'}
+        {label: 'AIA', value: 'AIA'},
+        {label: 'AXA MediSmart', value: 'AXA MediSmart'},
+        {label: 'AXA Cliniccare', value: 'AXA Cliniccare'},
+        {label: 'CHAS', value: 'CHAS'},
+        {label: 'Great Eastern', value: 'Great Eastern'},
        ]
      }],
     selected: []
@@ -126,57 +130,117 @@ export const insurance = {
     selectedDisplayText (state) {
       const label = []
       state.options.forEach(insurance => {
-        if (optionsSelected(insurance, state.selected)) {
-          label.push(capitalize(insurance.label))
-        } else {
           insurance.schemes.forEach(scheme => {
-            if (optionsSelected(scheme, state.selected)) {
-              label.push(scheme.label)
-            }
+            if (optionsSelected(scheme, state.selected)) label.push(scheme.label)
           })
-        }
       })
 
       label.sort(item => item.indexOf('Insurance') > -1 ? 0 : 1)
       // using &nbsp; unicode as space char are collapsed by html
-      return label.join(',\u00A0\u00A0')
+      return label.length > 4 ? label.length + ' selected'
+        : label.join('\u00A0\u00A0or\u00A0\u00A0')
     }
   }
 }
 
-export const clinicType = {
+export const combinedSpecialties = {
   namespaced: true,
   state: {
     options: [{
-      label: 'TYPE OF CLINIC',
+      label: 'GENERAL MEDICAL',
       types: [
-        {label: 'Dentists', value: 'dentist'},
-        {label: 'Hospitals', value: 'hospital'},
-        {label: 'Polyclinics', value: 'polyclinic'},
-        {label: 'Private Clinics', value: 'private'},
-        {label: '24 Hour Clinics', value: '24h'}
+        {label: 'General Medical', value: 'General Medical'},
       ]
-    }],
+    }, {
+      label: 'GENERAL DENTAL',
+      types: [
+        {label: 'General Dental', value: 'General Dental'},
+      ]
+    }, {
+      label: 'SPECIALIST MEDICAL',
+      types: [
+        {label: 'Anaesthesiology', value: 'Anaesthesiology'},
+        {label: 'Aviation Medicine', value: 'Aviation Medicine'},
+        {label: 'Cardiology', value: 'Cardiology'},
+        {label: 'Cardiothoracic Surgery', value: 'Cardiothoracic Surgery'},
+        {label: 'Dermatology', value: 'Dermatology'},
+        {label: 'Diagnostic Radiology', value: 'Diagnostic Radiology'},
+        {label: 'Emergency Medicine', value: 'Emergency Medicine'},
+        {label: 'Endocrinology', value: 'Endocrinology'},
+        {label: 'Family Physician', value: 'Family Physician'},
+        {label: 'Gastroenterology', value: 'Gastroenterology'},
+        {label: 'General Surgery', value: 'General Surgery'},
+        {label: 'Geriatric Medicine', value: 'Geriatric Medicine'},
+        {label: 'Haematology', value: 'Haematology'},
+        {label: 'Hand Surgery', value: 'Hand Surgery'},
+        {label: 'Infectious Diseases', value: 'Infectious Diseases'},
+        {label: 'Intensive Care Medicine', value: 'Intensive Care Medicine'},
+        {label: 'Internal Medicine', value: 'Internal Medicine'},
+        {label: 'Medical Oncology', value: 'Medical Oncology'},
+        {label: 'Neonatology', value: 'Neonatology'},
+        {label: 'Neurology', value: 'Neurology'},
+        {label: 'Neurosurgery', value: 'Neurosurgery'},
+        {label: 'Nuclear Medicine', value: 'Nuclear Medicine'},
+        {label: 'Obstetrics & Gynaecology', value: 'Obstetrics & Gynaecology'},
+        {label: 'Occupational Medicine', value: 'Occupational Medicine'},
+        {label: 'Ophthalmology', value: 'Ophthalmology'},
+        {label: 'Orthopaedic Surgery', value: 'Orthopaedic Surgery'},
+        {label: 'Otorhinolaryngology', value: 'Otorhinolaryngology'},
+        {label: 'Paediatric Cardiology', value: 'Paediatric Cardiology'},
+        {label: 'Paediatric Gastroenterology', value: 'Paediatric Gastroenterology'},
+        {label: 'Paediatric Medicine', value: 'Paediatric Medicine'},
+        {label: 'Paediatric Surgery', value: 'Paediatric Surgery'},
+        {label: 'Palliative Medicine', value: 'Palliative Medicine'},
+        {label: 'Pathology', value: 'Pathology'},
+        {label: 'Plastic Surgery', value: 'Plastic Surgery'},
+        {label: 'Psychiatry', value: 'Psychiatry'},
+        {label: 'Public Health', value: 'Public Health'},
+        {label: 'Radiation Oncology', value: 'Radiation Oncology'},
+        {label: 'Rehabilitation Medicine', value: 'Rehabilitation Medicine'},
+        {label: 'Renal Medicine', value: 'Renal Medicine'},
+        {label: 'Respiratory Medicine', value: 'Respiratory Medicine'},
+        {label: 'Rheumatology', value: 'Rheumatology'},
+        {label: 'Sports Medicine', value: 'Sports Medicine'},
+        {label: 'Urology', value: 'Urology'},
+        {label: 'Abortion', value: 'Abortion'},
+      ]
+    }, {
+      label: 'SPECIALIST DENTAL',
+      types: [
+        {label: 'Dental Public Health', value: 'Dental Public Health'},
+        {label: 'Endodontics', value: 'Endodontics'},
+        {label: 'Oral & Maxillo-Facial Surgery', value: 'Oral & Maxillo-Facial Surgery'},
+        {label: 'Orthodontics', value: 'Orthodontics'},
+        {label: 'Paediatric Dentistry', value: 'Paediatric Dentistry'},
+        {label: 'Periodontology', value: 'Periodontology'},
+        {label: 'Prosthodontics', value: 'Prosthodontics'},
+      ]
+    }, {
+      label: 'OTHERS',
+      types: [
+        {label: 'Yellow Fever Vaccination', value: 'Yellow Fever Vaccination'},
+        {label: 'Assisted Reproduction (IVF)', value: 'Assisted Reproduction (IVF)'},
+        {label: 'Day Surgery', value: 'Day Surgery'},
+        {label: 'Endoscopy', value: 'Endoscopy'},
+        {label: 'Liposuction', value: 'Liposuction'},
+        {label: 'Specialised Diagnostic Radiology', value: 'Specialised Diagnostic Radiology'},
+      ]
+    }
+  ],
     selected: []
   },
   getters: {
     selectedDisplayText (state) {
       const label = []
-      state.options.forEach(clinictype => {
-        if (optionsSelected(clinictype, state.selected)) {
-          label.push(capitalize(clinictype.label))
-        } else {
-          clinictype.types.forEach(type => {
-            if (optionsSelected(type, state.selected)) {
-              label.push(type.label)
-            }
+      state.options.forEach(combinedSpecialties => {
+          combinedSpecialties.types.forEach(type => {
+            if (optionsSelected(type, state.selected)) label.push(type.label)
           })
-        }
       })
 
-      label.sort(item => item.indexOf('Types') > -1 ? 0 : 1)
       // using &nbsp; unicode as space char are collapsed by html
-      return label.join(',\u00A0\u00A0')
+      return label.length > 4 ? label.length + ' selected'
+        : label.join('\u00A0\u00A0or\u00A0\u00A0')
     }
   }
 }

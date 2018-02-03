@@ -19,7 +19,7 @@
 import {mapActions, mapGetters} from 'vuex'
 export default {
   computed: {
-    ...mapGetters('clinicType', ['selectedDisplayText'])
+    ...mapGetters('combinedSpecialties', ['selectedDisplayText'])
   },
   methods: {
     ...mapActions(['resetOptions', 'exportOptions']),
@@ -27,7 +27,7 @@ export default {
       this.$emit('expand', 'type')
     },
     reset () {
-      this.resetOptions({module: 'clinicType'})
+      this.resetOptions({module: 'combinedSpecialties'})
       this.exportOptions().then(query => this.$router.push({query}))
     }
   }

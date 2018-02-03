@@ -35,13 +35,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "08:30 am to 05:30 pm",
-		"Tuesday": "08:30 am to 05:30 pm",
-		"Wednesday": "08:30 am to 05:30 pm",
-		"Thursday": "08:30 am to 05:30 pm",
-		"Friday": "08:30 am to 05:30 pm"
+		"Monday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Thursday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		],
+		"Friday": [
+			[
+				"08:30",
+				"17:30"
+			]
+		]
 	},
 	"id": "9405562",
+	"combinedSpecialties": [
+		"General Surgery",
+		"Day Surgery",
+		"Endoscopy",
+		"Specialised Diagnostic Radiology",
+		"Specialist Medical",
+		"Diagnostic Radiology",
+		"Medical Oncology",
+		"Palliative Medicine",
+		"Radiation Oncology"
+	],
 	"coordinates": [
 		103.8365355,
 		1.2793105
@@ -56,5 +92,8 @@
 		"TN",
 		"SI",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

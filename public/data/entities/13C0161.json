@@ -20,16 +20,81 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 08:30 pm",
-		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 07:00 pm",
-		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 07:00 pm",
-		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 08:30 pm",
-		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 08:30 pm",
-		"Saturday": "09:00 am to 02:00 pm",
-		"Sunday": "Closed",
-		"Public Holiday": "Closed"
+		"Monday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"19:00"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"19:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"14:30"
+			],
+			[
+				"14:00",
+				"17:00"
+			],
+			[
+				"18:30",
+				"20:30"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [],
+		"Public Holiday": []
 	},
 	"id": "13C0161",
+	"combinedSpecialties": [
+		"General Dental"
+	],
 	"coordinates": [
 		103.9300365,
 		1.3285642
@@ -45,5 +110,8 @@
 		"MP",
 		"PL",
 		"TM"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

@@ -28,6 +28,11 @@
 		]
 	},
 	"id": "15M0056",
+	"combinedSpecialties": [
+		"Ophthalmology",
+		"General Medical",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8201245,
 		1.3070616
@@ -43,5 +48,8 @@
 		"NV",
 		"QT",
 		"CA"
+	],
+	"insurance": [
+		"AIA"
 	]
 }

@@ -24,16 +24,55 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Public Holiday": "Closed",
-		"Monday": "08:00 am to 09:00 pm",
-		"Tuesday": "08:00 am to 09:00 pm",
-		"Wednesday": "08:00 am to 09:00 pm",
-		"Thursday": "08:00 am to 09:00 pm",
-		"Friday": "08:00 am to 09:00 pm",
-		"Saturday": "09:00 am to 02:00 pm",
-		"Sunday": "09:00 am to 02:00 pm"
+		"Public Holiday": [],
+		"Monday": [
+			[
+				"08:00",
+				"21:00"
+			]
+		],
+		"Tuesday": [
+			[
+				"08:00",
+				"21:00"
+			]
+		],
+		"Wednesday": [
+			[
+				"08:00",
+				"21:00"
+			]
+		],
+		"Thursday": [
+			[
+				"08:00",
+				"21:00"
+			]
+		],
+		"Friday": [
+			[
+				"08:00",
+				"21:00"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		],
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "16C0146",
+	"combinedSpecialties": [
+		"General Medical",
+		"Yellow Fever Vaccination"
+	],
 	"coordinates": [
 		103.8414749,
 		1.2919003
@@ -49,5 +88,8 @@
 		"MP",
 		"NV",
 		"TN"
+	],
+	"insurance": [
+		"CHAS"
 	]
 }

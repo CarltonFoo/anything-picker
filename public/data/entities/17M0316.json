@@ -22,6 +22,10 @@
 		"General Medical": true
 	},
 	"id": "17M0316",
+	"combinedSpecialties": [
+		"Aviation Medicine",
+		"General Medical"
+	],
 	"coordinates": [
 		103.7117037,
 		1.3496777
@@ -37,5 +41,8 @@
 		"PN",
 		"TH",
 		"WC"
+	],
+	"insurance": [
+		"Great Eastern"
 	]
 }

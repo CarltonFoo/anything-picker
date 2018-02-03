@@ -23,6 +23,10 @@
 		"General Dental": true
 	},
 	"id": "17D0295",
+	"combinedSpecialties": [
+		"Specialised Diagnostic Radiology",
+		"General Dental"
+	],
 	"coordinates": [
 		103.8439911,
 		1.2747185
@@ -38,5 +42,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

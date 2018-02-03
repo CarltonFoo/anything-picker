@@ -29,14 +29,49 @@
 		]
 	},
 	"operatingHours": {
-		"Monday": "09:00 am to 05:15 pm",
-		"Tuesday": "09:00 am to 05:15 pm",
-		"Wednesday": "09:00 am to 05:15 pm",
-		"Thursday": "09:00 am to 05:15 pm",
-		"Friday": "09:00 am to 05:15 pm",
-		"Saturday": "09:00 am to 05:15 pm"
+		"Monday": [
+			[
+				"09:00",
+				"17:15"
+			]
+		],
+		"Tuesday": [
+			[
+				"09:00",
+				"17:15"
+			]
+		],
+		"Wednesday": [
+			[
+				"09:00",
+				"17:15"
+			]
+		],
+		"Thursday": [
+			[
+				"09:00",
+				"17:15"
+			]
+		],
+		"Friday": [
+			[
+				"09:00",
+				"17:15"
+			]
+		],
+		"Saturday": [
+			[
+				"09:00",
+				"17:15"
+			]
+		]
 	},
 	"id": "9401011",
+	"combinedSpecialties": [
+		"Cardiology",
+		"Specialist Medical",
+		"Internal Medicine"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -52,5 +87,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

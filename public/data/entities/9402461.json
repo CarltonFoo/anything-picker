@@ -36,6 +36,18 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9402461",
+	"combinedSpecialties": [
+		"Psychiatry",
+		"Specialist Medical",
+		"Public Health",
+		"Radiation Oncology",
+		"Rehabilitation Medicine",
+		"Renal Medicine",
+		"Respiratory Medicine",
+		"Rheumatology",
+		"Sports Medicine",
+		"Urology"
+	],
 	"coordinates": [
 		103.8354393,
 		1.3051652
@@ -51,5 +63,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

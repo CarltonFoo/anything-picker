@@ -30,6 +30,15 @@
 		]
 	},
 	"id": "17M0355",
+	"combinedSpecialties": [
+		"Intensive Care Medicine",
+		"Internal Medicine",
+		"Respiratory Medicine",
+		"General Medical",
+		"Specialist Medical",
+		"Endocrinology",
+		"Rheumatology"
+	],
 	"coordinates": [
 		103.8372422,
 		1.4237675
@@ -47,5 +56,6 @@
 		"SE",
 		"CC",
 		"SM"
-	]
+	],
+	"insurance": []
 }

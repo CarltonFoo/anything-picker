@@ -28,9 +28,18 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Sunday": "09:00 am to 12:00 pm"
+		"Sunday": [
+			[
+				"09:00",
+				"14:00"
+			]
+		]
 	},
 	"id": "9401404",
+	"combinedSpecialties": [
+		"Family Physician",
+		"General Medical"
+	],
 	"coordinates": [
 		103.8527007,
 		1.3022443
@@ -46,5 +55,6 @@
 		"MP",
 		"NV",
 		"TN"
-	]
+	],
+	"insurance": []
 }

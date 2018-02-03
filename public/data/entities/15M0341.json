@@ -28,6 +28,10 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "15M0341",
+	"combinedSpecialties": [
+		"Psychiatry",
+		"Specialist Medical"
+	],
 	"coordinates": [
 		103.8441607,
 		1.3207049
@@ -44,5 +48,6 @@
 		"TN",
 		"TP",
 		"CA"
-	]
+	],
+	"insurance": []
 }
