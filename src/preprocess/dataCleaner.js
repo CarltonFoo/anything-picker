@@ -47,12 +47,12 @@ files.forEach(file => {
     if (raw.doctorInCharge) {
       const doctorSpecialties = raw.doctorInCharge[0].specialties
       if (doctorSpecialties || raw.mohApprovedSpecialServices || raw.detailedServices) {
-        processed.combinedSpecialities = combineSpecialties(doctorSpecialties, raw.mohApprovedSpecialServices, raw.detailedServices)
+        processed.combinedSpecialties = combineSpecialties(doctorSpecialties, raw.mohApprovedSpecialServices, raw.detailedServices)
       }
     } else {
       if (raw.mohApprovedSpecialServices || raw.detailedServices) {
         const doctorSpecialties = undefined
-        processed.combinedSpecialities = combineSpecialties(doctorSpecialties, raw.mohApprovedSpecialServices, raw.detailedServices)
+        processed.combinedSpecialties = combineSpecialties(doctorSpecialties, raw.mohApprovedSpecialServices, raw.detailedServices)
       }
     }
 
