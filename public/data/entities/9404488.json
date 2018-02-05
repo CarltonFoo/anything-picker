@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"14:00",
@@ -64,6 +64,12 @@
 		]
 	},
 	"id": "9404488",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Tuesday": "06:15 pm to 08:00 pm",
+		"Monday to Sunday": "08:30 am to 12:00 pm",
+		"Monday to Thursday": "02:00 pm to 04:30 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -83,6 +89,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": []
+	]
 }

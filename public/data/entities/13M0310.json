@@ -33,6 +33,7 @@
 		]
 	},
 	"id": "13M0310",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Internal Medicine",
 		"Renal Medicine",
@@ -55,6 +56,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

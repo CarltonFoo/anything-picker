@@ -27,7 +27,7 @@
 			"Infectious Diseases"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -67,6 +67,12 @@
 		"Public Holiday": []
 	},
 	"id": "9404418",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Sunday and Public Holiday": "Closed",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Infectious Diseases",
 		"Yellow Fever Vaccination",
@@ -87,6 +93,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

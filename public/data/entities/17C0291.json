@@ -20,6 +20,10 @@
 		"General Medical": true
 	},
 	"id": "17C0291",
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -40,9 +44,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"CHAS"
 	]
 }

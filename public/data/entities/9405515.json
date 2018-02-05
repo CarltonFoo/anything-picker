@@ -27,7 +27,7 @@
 			"Paediatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -84,6 +84,13 @@
 		"Public Holiday": []
 	},
 	"id": "9405515",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday and Saturday": "09:00 am to 12:00 pm",
+		"Thursday and Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Neonatology",
 		"Paediatric Intensive Care",
@@ -107,6 +114,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

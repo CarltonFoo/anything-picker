@@ -29,7 +29,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -68,6 +68,11 @@
 		]
 	},
 	"id": "12C0014",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -87,8 +92,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

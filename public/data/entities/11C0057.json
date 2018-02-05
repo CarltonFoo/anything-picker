@@ -20,7 +20,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -53,6 +53,10 @@
 		]
 	},
 	"id": "11C0057",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -71,6 +75,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

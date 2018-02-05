@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9405731",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Sports Medicine",
 		"Specialist Medical"
@@ -47,6 +48,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9402690",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Specialist Medical"
@@ -46,6 +47,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": []
+	]
 }

@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "15M0361",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"General Medical",
@@ -48,6 +49,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

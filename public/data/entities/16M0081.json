@@ -28,6 +28,9 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "16M0081",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Rehabilitation Medicine",
 		"General Medical"
@@ -47,8 +50,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

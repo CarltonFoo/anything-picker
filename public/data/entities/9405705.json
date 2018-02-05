@@ -22,7 +22,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -63,6 +63,16 @@
 		"Public Holiday": []
 	},
 	"id": "9405705",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday and Thursday": "09:30 am to 08:30 pm",
+		"Tuesday and Wednesday": "09:30 am to 06:30 pm",
+		"Friday": "09:30 am to 06:30 pm",
+		"Saturday": "09:30 am to 04:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental"
@@ -82,8 +92,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

@@ -26,7 +26,7 @@
 			"Plastic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Christmas Day (25/12/2017)": [],
 		"New Year (01/01/2018)": [],
 		"Monday": [
@@ -68,6 +68,16 @@
 		"Sunday": []
 	},
 	"id": "16M0268",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday to Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Plastic Surgery",
 		"Specialist Medical"
@@ -87,6 +97,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

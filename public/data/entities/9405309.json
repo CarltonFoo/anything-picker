@@ -22,7 +22,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -123,6 +123,12 @@
 		]
 	},
 	"id": "9405309",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Sunday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm, 07:00 pm to 10:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -143,8 +149,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

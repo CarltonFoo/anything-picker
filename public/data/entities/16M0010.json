@@ -30,6 +30,7 @@
 		]
 	},
 	"id": "16M0010",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Day Surgery",
@@ -49,6 +50,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": []
+	]
 }

@@ -21,6 +21,7 @@
 		"General Dental": true
 	},
 	"id": "15D0367",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -38,6 +39,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": []
+	]
 }

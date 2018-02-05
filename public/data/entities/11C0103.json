@@ -24,6 +24,7 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "11C0103",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -42,6 +43,5 @@
 		"PN",
 		"TH",
 		"WC"
-	],
-	"insurance": []
+	]
 }

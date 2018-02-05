@@ -24,7 +24,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -77,6 +77,15 @@
 		]
 	},
 	"id": "9401475",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -96,11 +105,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

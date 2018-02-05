@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9403953",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -24,7 +24,7 @@
 			"Prosthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -77,6 +77,12 @@
 		]
 	},
 	"id": "9404834",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -98,8 +104,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

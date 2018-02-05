@@ -27,7 +27,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -68,6 +68,13 @@
 		"Sunday": []
 	},
 	"id": "9405488",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Endoscopy",
@@ -88,8 +95,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

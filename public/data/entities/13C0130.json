@@ -30,6 +30,7 @@
 		]
 	},
 	"id": "13C0130",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"Renal Dialysis",
@@ -49,6 +50,5 @@
 		"MD",
 		"SB",
 		"SK"
-	],
-	"insurance": []
+	]
 }

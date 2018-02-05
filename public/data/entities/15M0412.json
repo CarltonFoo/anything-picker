@@ -29,6 +29,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "15M0412",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Endocrinology",
 		"General Medical",
@@ -49,6 +50,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

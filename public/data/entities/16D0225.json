@@ -21,6 +21,7 @@
 		"Specialist Dental": true
 	},
 	"id": "16D0225",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental"
@@ -40,6 +41,5 @@
 		"HG",
 		"SE",
 		"TP"
-	],
-	"insurance": []
+	]
 }

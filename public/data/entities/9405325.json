@@ -22,7 +22,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -78,6 +78,17 @@
 		"Sunday": []
 	},
 	"id": "9405325",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday and Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -96,11 +107,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

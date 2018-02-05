@@ -27,7 +27,7 @@
 			"Cardiology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -66,6 +66,11 @@
 		]
 	},
 	"id": "15M0426",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Cardiology",
 		"General Medical",
@@ -88,6 +93,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

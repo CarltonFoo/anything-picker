@@ -12,7 +12,7 @@
 			"Neurosurgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -73,6 +73,13 @@
 		"Sunday": []
 	},
 	"id": "12C0099",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Specialist Medical",
 		"Neurosurgery"
@@ -93,6 +100,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

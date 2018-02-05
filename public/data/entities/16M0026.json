@@ -21,7 +21,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -100,6 +100,13 @@
 		]
 	},
 	"id": "16M0026",
+	"insurance": [
+		"AXA Medismart"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -119,8 +126,5 @@
 		"SK",
 		"TH",
 		"WC"
-	],
-	"insurance": [
-		"AXA Medismart"
 	]
 }

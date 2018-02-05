@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9404306",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Endocrinology",
 		"General Medical",
@@ -48,6 +49,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

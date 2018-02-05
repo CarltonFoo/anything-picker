@@ -26,7 +26,7 @@
 		"Community Health Assistance Scheme (CHAS)",
 		"Integrated Screening Programme (ISP) "
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -108,6 +108,16 @@
 		]
 	},
 	"id": "9403153",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Thursday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:00 am to 12:30 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -127,8 +137,5 @@
 		"CC",
 		"SK",
 		"CK"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

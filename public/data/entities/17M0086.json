@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "17M0086",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Endoscopy",
@@ -51,8 +52,5 @@
 		"CC",
 		"TN",
 		"CL"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

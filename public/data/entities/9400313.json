@@ -21,7 +21,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -106,6 +106,15 @@
 		]
 	},
 	"id": "9400313",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 11:30 am, 01:30 pm to 04:00 pm, 05:30 pm to 07:30 pm",
+		"Saturday to Sunday": "09:00 am to 11:30 am"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -125,10 +134,5 @@
 		"PN",
 		"TH",
 		"WC"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

@@ -29,6 +29,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "11C0136",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Abortion",
@@ -49,6 +50,5 @@
 		"SG",
 		"CC",
 		"YS"
-	],
-	"insurance": []
+	]
 }

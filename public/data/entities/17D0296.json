@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "17D0296",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -55,6 +56,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

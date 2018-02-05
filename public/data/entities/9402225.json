@@ -26,7 +26,7 @@
 			"Rheumatology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:45",
@@ -85,6 +85,11 @@
 		]
 	},
 	"id": "9402225",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:45 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday to Saturday": "08:45 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Rheumatology",
 		"Specialist Medical"
@@ -104,6 +109,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

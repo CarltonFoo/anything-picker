@@ -27,6 +27,10 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "17M0231",
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -45,9 +49,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"CHAS"
 	]
 }

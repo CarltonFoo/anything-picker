@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "12C0172",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 09:00 pm",
+		"Saturday to Sunday": "09:00 am to 07:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -81,6 +86,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": []
+	]
 }

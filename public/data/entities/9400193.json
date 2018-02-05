@@ -25,7 +25,7 @@
 			"Endocrinology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -88,6 +88,10 @@
 		]
 	},
 	"id": "9400193",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "08:30 am to 05:30 pm, 08:30 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Endocrinology",
 		"Specialist Medical"
@@ -107,6 +111,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

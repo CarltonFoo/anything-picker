@@ -25,11 +25,15 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Saturday": [],
 		"Sunday": []
 	},
 	"id": "15M0399",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Saturday and Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -49,6 +53,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

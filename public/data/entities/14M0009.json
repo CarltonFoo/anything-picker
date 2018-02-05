@@ -30,6 +30,9 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "14M0009",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -49,8 +52,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

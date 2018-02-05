@@ -25,7 +25,7 @@
 			"Paediatric Dentistry"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "15D0348",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 02:00 pm"
+	},
 	"combinedSpecialties": [
 		"Paediatric Dentistry",
 		"General Dental",
@@ -85,6 +90,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

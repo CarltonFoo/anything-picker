@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "17D0061",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthodontics",
 		"General Dental",
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

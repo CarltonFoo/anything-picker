@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "15M0247",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Radiation Oncology",
 		"General Medical",
@@ -45,6 +46,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

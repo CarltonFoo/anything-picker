@@ -21,6 +21,7 @@
 		"General Medical": true
 	},
 	"id": "17M0158",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -39,6 +40,5 @@
 		"HG",
 		"SE",
 		"TP"
-	],
-	"insurance": []
+	]
 }

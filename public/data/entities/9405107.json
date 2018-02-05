@@ -30,7 +30,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -71,6 +71,12 @@
 		"Public Holiday": []
 	},
 	"id": "9405107",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday to Saturday": "08:30 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical",
@@ -93,6 +99,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

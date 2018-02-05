@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9402805",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Neurology",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

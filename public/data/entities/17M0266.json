@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "17M0266",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Cardiology",
 		"General Medical",
@@ -49,6 +50,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

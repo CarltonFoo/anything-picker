@@ -28,6 +28,10 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "9405201",
+	"insurance": [
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -49,9 +53,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"CHAS",
-		"Great Eastern"
 	]
 }

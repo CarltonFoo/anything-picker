@@ -30,6 +30,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9403605",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"General Medical",
@@ -52,6 +53,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

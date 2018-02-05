@@ -23,6 +23,7 @@
 		"General Medical": true
 	},
 	"id": "16C0078",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -39,6 +40,5 @@
 	"neighbours": [
 		"PN",
 		"WC"
-	],
-	"insurance": []
+	]
 }

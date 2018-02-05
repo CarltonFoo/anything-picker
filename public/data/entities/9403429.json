@@ -28,7 +28,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [],
 		"Tuesday": [],
@@ -44,6 +44,16 @@
 		"Sunday": []
 	},
 	"id": "9403429",
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Tuesday": "Closed",
+		"Wednesday to Wednesday": "07:00 pm to 10:00 pm",
+		"Thursday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -63,9 +73,5 @@
 		"SE",
 		"CH",
 		"TM"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

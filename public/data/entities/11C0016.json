@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "11C0016",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Psychiatry",
 		"Specialist Medical"
@@ -45,6 +46,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

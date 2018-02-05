@@ -25,7 +25,7 @@
 			"Periodontology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -59,6 +59,16 @@
 		"Public Holiday": []
 	},
 	"id": "9402620",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday and Thursday": "09:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Tuesday and Wednesday": "Closed",
+		"Friday": "Closed",
+		"Saturday": "09:30 am to 03:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Periodontology",
 		"General Dental",
@@ -78,8 +88,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

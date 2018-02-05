@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9405619",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Specialist Medical",
@@ -47,8 +48,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

@@ -30,6 +30,7 @@
 		]
 	},
 	"id": "15M0019",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Endoscopy",
@@ -51,6 +52,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

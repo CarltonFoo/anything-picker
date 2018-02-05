@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Wednesday": [],
 		"Thursday": [],
 		"Friday": [],
@@ -27,6 +27,10 @@
 		"Sunday": []
 	},
 	"id": "9404849",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Wednesday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -45,6 +49,5 @@
 		"SG",
 		"CC",
 		"YS"
-	],
-	"insurance": []
+	]
 }

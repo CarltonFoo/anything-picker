@@ -23,7 +23,7 @@
 			"Dermatology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -62,6 +62,11 @@
 		]
 	},
 	"id": "14M0202",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -82,8 +87,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

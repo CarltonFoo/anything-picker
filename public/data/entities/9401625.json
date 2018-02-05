@@ -27,7 +27,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"07:30",
@@ -67,6 +67,12 @@
 		"Sunday": []
 	},
 	"id": "9401625",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "07:30 am to 04:00 pm",
+		"Saturday to Saturday": "07:30 am to 12:30 pm",
+		"Sunday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -86,6 +92,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

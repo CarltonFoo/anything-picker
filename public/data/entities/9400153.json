@@ -22,6 +22,7 @@
 		]
 	},
 	"id": "9400153",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Specialist Medical",
 		"Paediatric Surgery"
@@ -43,6 +44,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

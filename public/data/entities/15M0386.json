@@ -23,7 +23,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -76,6 +76,14 @@
 		]
 	},
 	"id": "15M0386",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical",
 		"Yellow Fever Vaccination"
@@ -95,10 +103,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

@@ -24,6 +24,9 @@
 		]
 	},
 	"id": "16M0016",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"Specialist Medical",
@@ -42,8 +45,5 @@
 		"PR",
 		"SL",
 		"SE"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -85,6 +85,12 @@
 		]
 	},
 	"id": "9401783",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:30 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Saturday and Sunday": "09:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -104,6 +110,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": []
+	]
 }

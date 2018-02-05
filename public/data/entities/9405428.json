@@ -29,6 +29,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405428",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Specialist Medical"
@@ -48,6 +49,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9405636",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"Specialist Medical"
@@ -45,6 +46,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": []
+	]
 }

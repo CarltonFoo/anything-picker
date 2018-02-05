@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "11C0053",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Specialist Medical"
@@ -45,6 +46,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

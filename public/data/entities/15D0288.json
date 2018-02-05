@@ -22,7 +22,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Christmas Day (25/12/2017)": [],
 		"New Year (01/01/2018)": [],
 		"Monday": [
@@ -93,6 +93,16 @@
 		]
 	},
 	"id": "15D0288",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday to Friday": "10:30 am to 02:00 pm, 03:00 pm to 07:30 pm",
+		"Saturday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental"
@@ -113,8 +123,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

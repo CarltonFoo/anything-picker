@@ -21,7 +21,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -67,6 +67,14 @@
 		]
 	},
 	"id": "9405542",
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Public Holiday to Public Holiday": "Closed",
+		"Monday to Sunday": "10:30 am to 08:30 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -85,9 +93,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

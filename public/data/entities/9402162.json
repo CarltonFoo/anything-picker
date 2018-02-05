@@ -28,6 +28,12 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "9402162",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -45,11 +51,5 @@
 		"MD",
 		"SB",
 		"SK"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

@@ -23,6 +23,9 @@
 		"General Dental": true
 	},
 	"id": "16D0363",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental"
@@ -41,8 +44,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

@@ -27,6 +27,11 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "12C0056",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -47,10 +52,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

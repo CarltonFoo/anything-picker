@@ -24,7 +24,7 @@
 			"Urology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -65,6 +65,14 @@
 		"Public Holiday": []
 	},
 	"id": "13C0076",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Urology",
 		"Specialist Medical"
@@ -85,6 +93,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

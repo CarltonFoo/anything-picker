@@ -27,7 +27,7 @@
 			"Rheumatology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -66,6 +66,11 @@
 		]
 	},
 	"id": "15M0328",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Rheumatology",
 		"Specialist Medical"
@@ -85,8 +90,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

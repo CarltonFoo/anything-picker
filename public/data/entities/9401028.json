@@ -31,6 +31,7 @@
 		]
 	},
 	"id": "9401028",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Respiratory Medicine",
 		"General Medical",
@@ -52,6 +53,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

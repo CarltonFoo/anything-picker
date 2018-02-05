@@ -29,7 +29,7 @@
 			"Oral & Maxillo-Facial Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -80,6 +80,15 @@
 		"Sunday": []
 	},
 	"id": "13D0324",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "Closed",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"Specialised Diagnostic Radiology",
@@ -100,8 +109,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

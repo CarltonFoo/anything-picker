@@ -22,7 +22,7 @@
 		"General Medical": true,
 		"Yellow Fever Vaccination": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -67,6 +67,12 @@
 		]
 	},
 	"id": "15M0078",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical",
@@ -85,6 +91,5 @@
 		"PR",
 		"TM",
 		"CB"
-	],
-	"insurance": []
+	]
 }

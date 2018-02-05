@@ -25,6 +25,7 @@
 		"Specialist Medical": true
 	},
 	"id": "17M0269",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"General Medical",
@@ -46,8 +47,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

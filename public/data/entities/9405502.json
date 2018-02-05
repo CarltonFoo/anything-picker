@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9405502",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"Specialist Medical"
@@ -46,6 +47,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

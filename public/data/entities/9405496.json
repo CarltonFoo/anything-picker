@@ -21,11 +21,15 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Saturday": [],
 		"Sunday": []
 	},
 	"id": "9405496",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Saturday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -46,6 +50,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": []
+	]
 }

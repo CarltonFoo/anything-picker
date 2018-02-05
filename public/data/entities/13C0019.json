@@ -21,7 +21,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [
 			[
 				"08:00",
@@ -72,6 +72,14 @@
 		]
 	},
 	"id": "13C0019",
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "08:00 am to 06:00 pm",
+		"Monday to Sunday": "08:00 am to 10:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -90,9 +98,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

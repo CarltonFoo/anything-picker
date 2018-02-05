@@ -31,7 +31,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -84,6 +84,14 @@
 		]
 	},
 	"id": "9405133",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"Liposuction",
@@ -107,10 +115,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

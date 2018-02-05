@@ -25,6 +25,7 @@
 		"General Dental": true
 	},
 	"id": "17D0246",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental"
@@ -44,6 +45,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": []
+	]
 }

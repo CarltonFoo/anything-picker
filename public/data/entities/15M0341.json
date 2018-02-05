@@ -28,6 +28,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "15M0341",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Psychiatry",
 		"Specialist Medical"
@@ -48,6 +49,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

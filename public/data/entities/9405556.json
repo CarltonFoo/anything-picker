@@ -41,6 +41,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9405556",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Hand Surgery",
 		"Day Surgery",
@@ -68,8 +71,5 @@
 		"PN",
 		"TH",
 		"WC"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

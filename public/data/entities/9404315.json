@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9404315",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Cardiology",
 		"Paediatric Medicine",
@@ -47,6 +48,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": []
+	]
 }

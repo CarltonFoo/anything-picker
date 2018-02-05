@@ -27,6 +27,9 @@
 		"General Dental": true
 	},
 	"id": "15C0302",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"General Dental"
@@ -45,8 +48,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

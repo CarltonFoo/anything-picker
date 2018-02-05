@@ -23,7 +23,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [],
 		"Tuesday": [],
 		"Wednesday": [],
@@ -33,6 +33,12 @@
 		"Sunday": []
 	},
 	"id": "9403820",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -50,8 +56,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

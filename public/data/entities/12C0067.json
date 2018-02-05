@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "12C0067",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"Renal Dialysis",
@@ -50,6 +51,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": []
+	]
 }

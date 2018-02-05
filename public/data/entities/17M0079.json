@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "17M0079",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Gastroenterology",
 		"Specialist Medical"
@@ -45,6 +46,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

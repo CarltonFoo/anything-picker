@@ -24,7 +24,7 @@
 			"Periodontology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -69,6 +69,14 @@
 		]
 	},
 	"id": "9405078",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "09:30 am to 09:00 pm",
+		"Tuesday and Wednesday": "08:30 am to 09:00 pm",
+		"Thursday and Saturday": "10:00 am to 06:00 pm",
+		"Friday": "08:30 am to 06:30 pm",
+		"Sunday": "10:00 am to 05:00 am"
+	},
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -91,6 +99,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

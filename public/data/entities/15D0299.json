@@ -31,7 +31,7 @@
 			"Prosthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -72,6 +72,12 @@
 		"Public Holiday": []
 	},
 	"id": "15D0299",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental",
@@ -99,6 +105,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

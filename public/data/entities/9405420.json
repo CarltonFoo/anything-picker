@@ -25,7 +25,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -66,6 +66,13 @@
 		"Sunday": []
 	},
 	"id": "9405420",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:30 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"General Medical",
@@ -86,6 +93,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "17C0046",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Psychiatry",
 		"Specialist Medical"
@@ -46,6 +47,5 @@
 		"CC",
 		"TN",
 		"CL"
-	],
-	"insurance": []
+	]
 }

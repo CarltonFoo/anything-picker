@@ -20,6 +20,7 @@
 		"General Dental": true
 	},
 	"id": "9405803",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -37,6 +38,5 @@
 		"WD",
 		"SM",
 		"YS"
-	],
-	"insurance": []
+	]
 }

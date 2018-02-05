@@ -23,7 +23,7 @@
 			"Endodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -56,6 +56,12 @@
 		]
 	},
 	"id": "12C0026",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:30 am to 07:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -75,8 +81,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

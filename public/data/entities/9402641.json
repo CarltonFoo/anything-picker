@@ -25,7 +25,7 @@
 			"Paediatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -58,6 +58,13 @@
 		]
 	},
 	"id": "9402641",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Tuesday": "08:30 am to 03:30 pm",
+		"Thursday to Thursday": "08:30 am to 03:30 pm",
+		"Friday to Friday": "08:30 am to 07:00 pm",
+		"Saturday to Saturday": "08:30 am to 12:00 pm"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical",
@@ -80,6 +87,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

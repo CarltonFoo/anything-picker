@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "11C0044",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"Specialist Medical"
@@ -46,8 +47,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

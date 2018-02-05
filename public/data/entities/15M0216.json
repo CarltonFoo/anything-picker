@@ -27,7 +27,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -113,6 +113,14 @@
 		]
 	},
 	"id": "15M0216",
+	"insurance": [
+		"AXA Clinicare"
+	],
+	"rawOperatingHours": {
+		"Public Holiday and Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday and Sunday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -130,8 +138,5 @@
 		"PR",
 		"SL",
 		"SE"
-	],
-	"insurance": [
-		"AXA Clinicare"
 	]
 }

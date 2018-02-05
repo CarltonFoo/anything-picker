@@ -28,7 +28,7 @@
 			"Oral & Maxillo-Facial Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -69,6 +69,13 @@
 		"Sunday": []
 	},
 	"id": "11C0221",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:30 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"General Dental",
@@ -89,6 +96,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

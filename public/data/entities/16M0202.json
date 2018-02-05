@@ -24,7 +24,7 @@
 			"General Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -57,6 +57,10 @@
 		]
 	},
 	"id": "16M0202",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Surgery",
 		"Specialist Medical"
@@ -77,6 +81,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

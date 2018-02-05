@@ -22,6 +22,7 @@
 		"General Medical": true
 	},
 	"id": "9401329",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -42,6 +43,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": []
+	]
 }

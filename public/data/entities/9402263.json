@@ -27,6 +27,9 @@
 		]
 	},
 	"id": "9402263",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -46,8 +49,5 @@
 		"SE",
 		"CH",
 		"TM"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

@@ -26,7 +26,7 @@
 			"Neurosurgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -86,9 +86,14 @@
 		"Sunday": []
 	},
 	"id": "11C0073",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Neurosurgery",
 		"Specialist Medical"
-	],
-	"insurance": []
+	]
 }

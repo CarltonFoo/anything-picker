@@ -25,11 +25,15 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Wednesday": [],
 		"Saturday": []
 	},
 	"id": "9400759",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Wednesday and Saturday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Abortion",
@@ -50,6 +54,5 @@
 		"HG",
 		"MP",
 		"TP"
-	],
-	"insurance": []
+	]
 }

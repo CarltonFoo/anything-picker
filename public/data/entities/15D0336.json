@@ -28,6 +28,9 @@
 		]
 	},
 	"id": "15D0336",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental",
@@ -51,8 +54,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

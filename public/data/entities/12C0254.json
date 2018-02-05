@@ -24,7 +24,7 @@
 	"programmes": [
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -110,6 +110,18 @@
 		]
 	},
 	"id": "12C0254",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 am"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -129,11 +141,5 @@
 		"SK",
 		"TH",
 		"WC"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -58,6 +58,14 @@
 		]
 	},
 	"id": "15D0215",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "10:00 am to 10:00 pm",
+		"Tuesday and Thursday": "01:00 pm to 10:00 pm",
+		"Saturday": "10:00 am to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -78,8 +86,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

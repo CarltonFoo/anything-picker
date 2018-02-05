@@ -24,7 +24,7 @@
 		"General Medical": true,
 		"Specialist Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -85,6 +85,13 @@
 		"Public Holiday": []
 	},
 	"id": "9403409",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Tuesday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Paediatric Haematology & Oncology",
 		"Paediatric Medicine",
@@ -105,6 +112,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": []
+	]
 }

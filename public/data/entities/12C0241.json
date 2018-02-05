@@ -33,6 +33,7 @@
 		]
 	},
 	"id": "12C0241",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Cardiology",
 		"General Medical",
@@ -53,8 +54,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

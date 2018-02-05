@@ -32,6 +32,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405157",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Intensive Care Medicine",
 		"Internal Medicine",
@@ -53,6 +54,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": []
+	]
 }

@@ -27,7 +27,7 @@
 			"Ophthalmology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -66,6 +66,11 @@
 		]
 	},
 	"id": "9405289",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"General Medical",
@@ -86,8 +91,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

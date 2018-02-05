@@ -28,7 +28,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -43,6 +43,11 @@
 		]
 	},
 	"id": "15M0162",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "08:30 am to 12:30 pm",
+		"Tuesday": "08:30 am to 08:00 pm"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -63,6 +68,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

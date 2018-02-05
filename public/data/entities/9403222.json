@@ -23,7 +23,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -63,6 +63,14 @@
 		]
 	},
 	"id": "9403222",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 09:00 pm",
+		"Saturday and Saturday": "09:00 am to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -83,8 +91,5 @@
 		"PN",
 		"TH",
 		"WC"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

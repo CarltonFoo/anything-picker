@@ -22,6 +22,7 @@
 		"Specialist Medical": true
 	},
 	"id": "16M0376",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Specialist Medical"
@@ -43,6 +44,5 @@
 		"SE",
 		"CC",
 		"SM"
-	],
-	"insurance": []
+	]
 }

@@ -26,7 +26,7 @@
 	"programmes": [
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -82,6 +82,14 @@
 		]
 	},
 	"id": "17M0228",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Thursday": "09:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Friday to Saturday": "09:00 am to 02:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -100,8 +108,5 @@
 		"PR",
 		"PL",
 		"CH"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

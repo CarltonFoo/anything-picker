@@ -23,6 +23,9 @@
 		"General Dental": true
 	},
 	"id": "15D0313",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental"
@@ -42,8 +45,5 @@
 		"HG",
 		"SE",
 		"TP"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

@@ -27,7 +27,7 @@
 			"Paediatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -68,6 +68,14 @@
 		"Public Holiday": []
 	},
 	"id": "9404547",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm",
+		"Wednesday to Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Neonatology",
 		"Paediatric Medicine",
@@ -89,6 +97,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

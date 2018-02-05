@@ -25,7 +25,7 @@
 			"Paediatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -82,6 +82,17 @@
 		"Sunday": []
 	},
 	"id": "11C0229",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "10:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Yellow Fever Vaccination",
@@ -101,6 +112,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": []
+	]
 }

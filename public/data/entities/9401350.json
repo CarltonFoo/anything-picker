@@ -27,7 +27,7 @@
 			"Renal Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"01:00",
@@ -50,6 +50,10 @@
 		]
 	},
 	"id": "9401350",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Saturday": "11:00 am to 01:00 pm, 01:30 pm to 03:00 pm"
+	},
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"Specialist Medical"
@@ -69,6 +73,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

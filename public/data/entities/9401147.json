@@ -25,7 +25,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Integrated Screening Programme (ISP) "
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -111,6 +111,14 @@
 		]
 	},
 	"id": "9401147",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday and Sunday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -129,8 +137,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

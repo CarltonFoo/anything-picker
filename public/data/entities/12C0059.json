@@ -23,6 +23,11 @@
 		"General Medical": true
 	},
 	"id": "12C0059",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -41,10 +46,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

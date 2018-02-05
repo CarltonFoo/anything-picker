@@ -22,7 +22,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -55,6 +55,12 @@
 		]
 	},
 	"id": "15D0023",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Friday": "09:00 am to 09:00 pm",
+		"Wednesday and Saturday": "09:00 am to 06:00 pm",
+		"Sunday": "01:00 pm to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental"
@@ -74,6 +80,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": []
+	]
 }

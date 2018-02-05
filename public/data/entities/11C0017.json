@@ -31,6 +31,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "11C0017",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"Renal Dialysis",
@@ -52,6 +53,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

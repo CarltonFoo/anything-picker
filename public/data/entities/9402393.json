@@ -30,7 +30,7 @@
 		"Community Health Assistance Scheme (CHAS)",
 		"Integrated Screening Programme (ISP) "
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -63,6 +63,12 @@
 		]
 	},
 	"id": "9402393",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:30 am to 02:00 pm"
+	},
 	"combinedSpecialties": [
 		"Rehabilitation Medicine",
 		"General Medical",
@@ -82,8 +88,5 @@
 		"PR",
 		"PL",
 		"CH"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

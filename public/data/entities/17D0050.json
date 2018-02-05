@@ -20,6 +20,7 @@
 		"General Dental": true
 	},
 	"id": "17D0050",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -38,6 +39,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

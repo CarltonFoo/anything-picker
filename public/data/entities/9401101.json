@@ -28,6 +28,9 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "9401101",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Dental",
@@ -49,8 +52,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

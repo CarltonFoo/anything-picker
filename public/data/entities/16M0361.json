@@ -24,6 +24,7 @@
 		]
 	},
 	"id": "16M0361",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Specialist Medical"
@@ -43,8 +44,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

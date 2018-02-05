@@ -28,7 +28,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -89,6 +89,12 @@
 		"Public Holiday": []
 	},
 	"id": "15C0150",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -107,6 +113,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": []
+	]
 }

@@ -24,7 +24,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -97,6 +97,12 @@
 		]
 	},
 	"id": "9405798",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Sunday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical",
 		"Yellow Fever Vaccination"
@@ -116,8 +122,5 @@
 		"HG",
 		"SE",
 		"TP"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

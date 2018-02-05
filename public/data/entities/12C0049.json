@@ -22,7 +22,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -78,6 +78,14 @@
 		"Sunday": []
 	},
 	"id": "12C0049",
+	"insurance": [
+		"AXA Clinicare"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Saturday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -98,8 +106,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AXA Clinicare"
 	]
 }

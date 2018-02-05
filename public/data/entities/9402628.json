@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9402628",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -47,6 +48,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

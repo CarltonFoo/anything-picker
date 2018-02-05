@@ -27,7 +27,7 @@
 			"Medical Oncology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -66,6 +66,11 @@
 		]
 	},
 	"id": "16M0023",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"General Medical",
@@ -87,6 +92,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

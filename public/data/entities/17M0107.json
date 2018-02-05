@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "17M0107",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Hand Surgery",
 		"Specialist Medical"
@@ -46,6 +47,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

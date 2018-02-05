@@ -30,6 +30,7 @@
 		]
 	},
 	"id": "9400634",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Haematology",
 		"General Medical",
@@ -51,8 +52,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

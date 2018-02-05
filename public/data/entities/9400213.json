@@ -19,13 +19,18 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Tuesday": [],
 		"Thursday": [],
 		"Sunday": [],
 		"Public Holiday": []
 	},
 	"id": "9400213",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Tuesday and Thursday": "Closed",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -47,6 +52,5 @@
 		"SL",
 		"SG",
 		"YS"
-	],
-	"insurance": []
+	]
 }

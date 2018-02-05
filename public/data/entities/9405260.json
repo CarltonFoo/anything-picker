@@ -27,7 +27,7 @@
 			"General Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -67,6 +67,11 @@
 		"Sunday": []
 	},
 	"id": "9405260",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:00 am to 07:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Surgery",
 		"Specialist Medical"
@@ -86,6 +91,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "17M0075",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"CC",
 		"SK",
 		"CK"
-	],
-	"insurance": []
+	]
 }

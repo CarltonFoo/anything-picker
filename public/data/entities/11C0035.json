@@ -26,7 +26,7 @@
 			"Paediatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:10",
@@ -87,6 +87,14 @@
 		"Public Holiday": []
 	},
 	"id": "11C0035",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Friday": "09:10 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:10 pm to 09:00 pm",
+		"Tuesday and Thursday": "09:10 am to 12:30 pm",
+		"Wednesday": "09:10 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:10 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Paediatric Cardiology",
 		"Paediatric Medicine",
@@ -109,6 +117,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": []
+	]
 }

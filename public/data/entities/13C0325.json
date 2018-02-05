@@ -26,7 +26,7 @@
 			"Oral & Maxillo-Facial Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -87,6 +87,13 @@
 		"Sunday": []
 	},
 	"id": "13C0325",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"General Dental",
@@ -106,6 +113,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "17M0303",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Endocrinology",
 		"General Medical",
@@ -48,8 +49,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

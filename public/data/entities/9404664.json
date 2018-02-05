@@ -28,7 +28,7 @@
 			"Sports Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -81,6 +81,10 @@
 		]
 	},
 	"id": "9404664",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"Occupational Medicine",
 		"Family Physician",
@@ -103,6 +107,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

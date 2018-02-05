@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9400387",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Psychiatry",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

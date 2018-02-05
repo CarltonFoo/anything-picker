@@ -22,7 +22,7 @@
 			"Oral & Maxillo-Facial Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -74,6 +74,16 @@
 		]
 	},
 	"id": "9401590",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Thursday and Sunday": "Closed",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -94,8 +104,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

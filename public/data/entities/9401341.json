@@ -25,6 +25,11 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9401341",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -45,10 +50,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

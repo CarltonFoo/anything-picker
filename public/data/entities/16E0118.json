@@ -15,6 +15,7 @@
 		}
 	],
 	"id": "16E0118",
+	"insurance": [],
 	"combinedSpecialties": [],
 	"coordinates": [
 		103.8403569,
@@ -31,6 +32,5 @@
 		"SG",
 		"CC",
 		"YS"
-	],
-	"insurance": []
+	]
 }

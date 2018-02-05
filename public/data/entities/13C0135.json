@@ -21,6 +21,7 @@
 		"Yellow Fever Vaccination": true
 	},
 	"id": "13C0135",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical",
 		"Yellow Fever Vaccination"
@@ -39,6 +40,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": []
+	]
 }

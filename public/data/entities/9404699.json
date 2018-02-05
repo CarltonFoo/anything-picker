@@ -24,7 +24,7 @@
 			"Psychiatry"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -60,6 +60,15 @@
 		"Sunday": []
 	},
 	"id": "9404699",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday and Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 12:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm",
+		"Saturday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Psychiatry",
 		"Specialist Medical"
@@ -78,6 +87,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": []
+	]
 }

@@ -27,7 +27,7 @@
 			"Orthopaedic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -63,6 +63,12 @@
 		"Public Holiday": []
 	},
 	"id": "9404394",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"Specialist Medical",
@@ -83,6 +89,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

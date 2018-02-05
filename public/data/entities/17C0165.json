@@ -25,6 +25,9 @@
 		]
 	},
 	"id": "17C0165",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -47,8 +50,5 @@
 		"SK",
 		"TH",
 		"WC"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

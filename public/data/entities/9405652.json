@@ -25,7 +25,7 @@
 			"Oral & Maxillo-Facial Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -84,6 +84,13 @@
 		]
 	},
 	"id": "9405652",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 01:30 pm to 05:15 pm",
+		"Saturday": "08:30 am to 12:15 pm"
+	},
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental",
@@ -105,8 +112,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

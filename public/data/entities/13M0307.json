@@ -21,11 +21,19 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Saturday": [],
 		"Sunday": []
 	},
 	"id": "13M0307",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Saturday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -44,10 +52,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

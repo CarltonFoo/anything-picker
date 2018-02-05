@@ -19,11 +19,18 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Christmas Day (25/12/2017)": [],
 		"New Year (01/01/2018)": []
 	},
 	"id": "13C0110",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -42,8 +49,5 @@
 		"CC",
 		"SK",
 		"CK"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

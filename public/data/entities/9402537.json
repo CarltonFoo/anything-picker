@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "9402537",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Intensive Care Medicine",
 		"Respiratory Medicine",
@@ -51,6 +52,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

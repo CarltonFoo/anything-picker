@@ -25,7 +25,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -66,6 +66,13 @@
 		"Public Holiday": []
 	},
 	"id": "9401741",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:30 am to 05:00 pm",
+		"Wednesday and Friday": "07:00 pm to 09:30 pm",
+		"Saturday": "09:30 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Abortion",
@@ -86,6 +93,5 @@
 		"SE",
 		"CH",
 		"TM"
-	],
-	"insurance": []
+	]
 }

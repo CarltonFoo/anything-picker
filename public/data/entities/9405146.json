@@ -18,6 +18,7 @@
 		"General Medical": true
 	},
 	"id": "9405146",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -33,6 +34,5 @@
 	"neighbours": [
 		"PN",
 		"WC"
-	],
-	"insurance": []
+	]
 }

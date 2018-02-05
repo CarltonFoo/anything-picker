@@ -33,6 +33,9 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "12C0277",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Intensive Care Medicine",
 		"Respiratory Medicine",
@@ -55,8 +58,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

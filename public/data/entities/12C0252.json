@@ -27,6 +27,10 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "12C0252",
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -45,9 +49,5 @@
 		"PN",
 		"TH",
 		"WC"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"CHAS"
 	]
 }

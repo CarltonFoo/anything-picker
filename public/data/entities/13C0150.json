@@ -24,7 +24,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"14:00",
@@ -65,6 +65,13 @@
 		"Public Holiday": []
 	},
 	"id": "13C0150",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:30 am to 01:00 pm",
+		"Monday and Tuesday": "02:00 pm to 05:30 pm",
+		"Wednesday to Wednesday": "02:00 pm to 05:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -84,6 +91,5 @@
 		"HG",
 		"SE",
 		"TP"
-	],
-	"insurance": []
+	]
 }

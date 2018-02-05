@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -80,6 +80,14 @@
 		]
 	},
 	"id": "9404227",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Thursday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 03:00 pm",
+		"Saturday and Sunday": "08:30 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -98,8 +106,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

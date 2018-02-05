@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9404129",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -45,6 +46,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": []
+	]
 }

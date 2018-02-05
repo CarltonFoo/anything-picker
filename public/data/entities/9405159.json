@@ -23,7 +23,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"01:00",
@@ -62,6 +62,10 @@
 		]
 	},
 	"id": "9405159",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "11:00 am to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -81,6 +85,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

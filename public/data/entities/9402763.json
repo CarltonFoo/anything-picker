@@ -25,7 +25,7 @@
 			"Plastic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "9402763",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 06:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
 	"combinedSpecialties": [
 		"Day Surgery",
 		"Liposuction",
@@ -85,6 +90,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "17M0276",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"General Medical",
@@ -49,6 +50,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "15C0278",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Otorhinolaryngology",
 		"Specialist Medical"
@@ -46,6 +47,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

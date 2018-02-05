@@ -28,7 +28,7 @@
 			"Endodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -67,6 +67,11 @@
 		]
 	},
 	"id": "9400547",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Endodontics",
 		"Specialised Diagnostic Radiology",
@@ -88,6 +93,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

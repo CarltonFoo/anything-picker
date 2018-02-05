@@ -27,7 +27,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -40,6 +40,10 @@
 		]
 	},
 	"id": "9403789",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Abortion",
@@ -61,6 +65,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

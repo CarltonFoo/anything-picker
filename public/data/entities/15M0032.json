@@ -28,7 +28,7 @@
 			"Cardiology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"14:00",
@@ -50,6 +50,13 @@
 		"Sunday": []
 	},
 	"id": "15M0032",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "02:00 pm to 05:30 pm",
+		"Wednesday": "02:00 pm to 05:30 pm",
+		"Friday": "02:00 pm to 05:30 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Cardiology",
 		"General Medical",
@@ -70,6 +77,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

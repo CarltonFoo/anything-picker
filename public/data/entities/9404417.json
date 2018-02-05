@@ -25,7 +25,7 @@
 			"Dermatology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "9404417",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -83,6 +88,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

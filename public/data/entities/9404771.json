@@ -26,7 +26,7 @@
 			"Ophthalmology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -59,6 +59,13 @@
 		]
 	},
 	"id": "9404771",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "09:00 am to 12:00 am",
+		"Tuesday": "01:00 pm to 04:00 pm",
+		"Wednesday to Thursday": "09:00 am to 12:00 am",
+		"Friday": "01:00 pm to 04:00 pm"
+	},
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -78,6 +85,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "16M0238",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Cardiothoracic Surgery",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -28,6 +28,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405510",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Psychiatry",
 		"Specialist Medical"
@@ -48,8 +49,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

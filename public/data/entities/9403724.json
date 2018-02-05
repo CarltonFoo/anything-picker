@@ -24,7 +24,7 @@
 			"Dermatology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -76,6 +76,17 @@
 		"Sunday": []
 	},
 	"id": "9403724",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "02:30 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 11:30 am, 02:30 pm to 05:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -95,6 +106,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

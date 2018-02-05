@@ -22,6 +22,9 @@
 		"General Medical": true
 	},
 	"id": "14M0122",
+	"insurance": [
+		"AXA Medismart"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -39,8 +42,5 @@
 		"MD",
 		"SB",
 		"SK"
-	],
-	"insurance": [
-		"AXA Medismart"
 	]
 }

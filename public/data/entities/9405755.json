@@ -23,6 +23,7 @@
 		]
 	},
 	"id": "9405755",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -43,6 +44,5 @@
 		"SK",
 		"TH",
 		"WC"
-	],
-	"insurance": []
+	]
 }

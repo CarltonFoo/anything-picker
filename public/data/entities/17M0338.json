@@ -32,6 +32,9 @@
 		]
 	},
 	"id": "17M0338",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Endocrinology",
 		"Internal Medicine",
@@ -53,9 +56,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA",
-		"CHAS"
 	]
 }

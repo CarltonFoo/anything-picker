@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "9402252",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Cardiothoracic Surgery",
 		"General Medical",
@@ -48,6 +49,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

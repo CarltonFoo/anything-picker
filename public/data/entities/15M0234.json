@@ -20,7 +20,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Wednesday": [
 			[
 				"14:00",
@@ -35,6 +35,10 @@
 		]
 	},
 	"id": "15M0234",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Wednesday to Thursday": "12:00 pm to 08:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -52,6 +56,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": []
+	]
 }

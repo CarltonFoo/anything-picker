@@ -28,7 +28,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -69,6 +69,13 @@
 		"Sunday": []
 	},
 	"id": "13C0166",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -89,8 +96,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

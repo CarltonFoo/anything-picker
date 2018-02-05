@@ -25,6 +25,7 @@
 		"General Medical": true
 	},
 	"id": "16M0178",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -44,6 +45,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -25,7 +25,7 @@
 			"Paediatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -64,6 +64,10 @@
 		]
 	},
 	"id": "9401652",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:30 am to 04:30 pm"
+	},
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Specialist Medical"
@@ -83,6 +87,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

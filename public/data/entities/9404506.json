@@ -28,7 +28,7 @@
 			"Rheumatology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -62,6 +62,11 @@
 		]
 	},
 	"id": "9404506",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Rheumatology",
 		"General Medical",
@@ -82,6 +87,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

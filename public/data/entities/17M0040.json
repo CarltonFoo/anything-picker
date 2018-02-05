@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "17M0040",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Otorhinolaryngology",
 		"Specialist Medical"
@@ -44,8 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "17M0068",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"General Medical",
@@ -49,8 +50,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "12C0197",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Endodontics",
 		"Specialist Dental"
@@ -45,6 +46,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

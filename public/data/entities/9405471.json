@@ -31,7 +31,7 @@
 			"Prosthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -72,6 +72,11 @@
 		"Public Holiday": []
 	},
 	"id": "9405471",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:00 am to 06:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Prosthodontics",
 		"General Dental",
@@ -98,6 +103,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

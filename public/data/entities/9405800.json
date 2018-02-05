@@ -25,7 +25,7 @@
 			"Geriatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -61,6 +61,14 @@
 		]
 	},
 	"id": "9405800",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday and Thursday": "02:00 pm to 05:00 pm",
+		"Tuesday and Friday": "09:00 am to 01:00 pm",
+		"Wednesday and Sunday": "Closed",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Geriatric Medicine",
 		"General Medical",
@@ -83,6 +91,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

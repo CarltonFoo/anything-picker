@@ -22,6 +22,7 @@
 		"Specialist Medical": true
 	},
 	"id": "16M0132",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Family Physician",
 		"Specialist Medical"
@@ -42,8 +43,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

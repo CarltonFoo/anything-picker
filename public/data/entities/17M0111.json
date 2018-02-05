@@ -28,6 +28,9 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "17M0111",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -48,8 +51,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

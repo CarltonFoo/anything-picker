@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "11C0074",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Occupational Medicine",
 		"Family Physician",
@@ -50,6 +51,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

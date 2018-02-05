@@ -26,6 +26,9 @@
 		]
 	},
 	"id": "14D0284",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental",
@@ -47,8 +50,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

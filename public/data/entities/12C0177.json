@@ -32,7 +32,7 @@
 			"Rheumatology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -68,6 +68,14 @@
 		"Sunday": []
 	},
 	"id": "12C0177",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "Closed",
+		"Wednesday to Saturday": "09:00 am to 06:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"General Medical",
@@ -90,6 +98,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

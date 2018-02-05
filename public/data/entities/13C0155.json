@@ -27,7 +27,7 @@
 			"Neurosurgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -60,6 +60,10 @@
 		]
 	},
 	"id": "13C0155",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm"
+	},
 	"combinedSpecialties": [
 		"Neurosurgery",
 		"General Medical",
@@ -81,6 +85,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

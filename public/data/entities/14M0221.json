@@ -30,6 +30,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "14M0221",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Rheumatology",
 		"General Medical",
@@ -50,8 +53,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

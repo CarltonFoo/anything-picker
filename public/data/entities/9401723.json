@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "9401723",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"Specialist Medical"
@@ -48,6 +49,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

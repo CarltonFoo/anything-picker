@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9400826",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -43,6 +44,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9401906",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

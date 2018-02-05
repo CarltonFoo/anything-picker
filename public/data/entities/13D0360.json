@@ -20,6 +20,9 @@
 		"General Dental": true
 	},
 	"id": "13D0360",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -38,8 +41,5 @@
 		"SG",
 		"CC",
 		"YS"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

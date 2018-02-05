@@ -32,6 +32,9 @@
 		]
 	},
 	"id": "9401535",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Internal Medicine",
 		"Family Physician",
@@ -54,8 +57,5 @@
 		"CC",
 		"TN",
 		"CL"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

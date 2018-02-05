@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "11C0026",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -46,6 +47,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

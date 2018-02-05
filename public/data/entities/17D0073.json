@@ -20,6 +20,9 @@
 		"General Dental": true
 	},
 	"id": "17D0073",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -35,8 +38,5 @@
 	"neighbours": [
 		"PN",
 		"WC"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

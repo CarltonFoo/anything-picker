@@ -20,6 +20,10 @@
 		"General Medical": true
 	},
 	"id": "9404423",
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -38,9 +42,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

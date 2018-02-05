@@ -24,6 +24,7 @@
 		]
 	},
 	"id": "9405626",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical",
 		"Specialist Medical",
@@ -44,6 +45,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

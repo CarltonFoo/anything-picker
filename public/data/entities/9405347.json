@@ -25,6 +25,10 @@
 		"Yellow Fever Vaccination": true
 	},
 	"id": "9405347",
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical",
@@ -44,9 +48,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"CHAS"
 	]
 }

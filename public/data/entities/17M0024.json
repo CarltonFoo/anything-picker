@@ -25,7 +25,7 @@
 			"Plastic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -66,6 +66,12 @@
 		"Public Holiday": []
 	},
 	"id": "17M0024",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:30 am to 06:30 pm",
+		"Saturday to Saturday": "09:30 am to 02:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Plastic Surgery",
 		"General Medical",
@@ -87,6 +93,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

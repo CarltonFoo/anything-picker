@@ -20,6 +20,12 @@
 		"General Dental": true
 	},
 	"id": "14D0054",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -39,11 +45,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

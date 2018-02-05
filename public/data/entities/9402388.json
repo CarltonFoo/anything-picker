@@ -24,6 +24,7 @@
 		"General Medical": true
 	},
 	"id": "9402388",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Occupational Medicine",
 		"General Medical"
@@ -42,6 +43,5 @@
 		"JW",
 		"TS",
 		"WC"
-	],
-	"insurance": []
+	]
 }

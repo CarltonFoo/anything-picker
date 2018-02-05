@@ -41,6 +41,7 @@
 		]
 	},
 	"id": "16M0076",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Hand Surgery",
 		"Day Surgery",
@@ -74,6 +75,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

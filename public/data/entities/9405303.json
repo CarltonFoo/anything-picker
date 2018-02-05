@@ -26,6 +26,9 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405303",
+	"insurance": [
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -45,8 +48,5 @@
 		"CC",
 		"SK",
 		"CK"
-	],
-	"insurance": [
-		"Great Eastern"
 	]
 }

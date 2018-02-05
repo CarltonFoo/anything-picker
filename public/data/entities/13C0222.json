@@ -24,7 +24,7 @@
 			"General Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -85,6 +85,12 @@
 		"Public Holiday": []
 	},
 	"id": "13C0222",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Saturday to Saturday": "08:30 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Surgery",
 		"Specialist Medical"
@@ -105,6 +111,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "9404514",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Endoscopy",
@@ -49,8 +50,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

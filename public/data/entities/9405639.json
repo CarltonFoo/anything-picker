@@ -26,7 +26,7 @@
 			"Otorhinolaryngology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -79,6 +79,10 @@
 		]
 	},
 	"id": "9405639",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Otorhinolaryngology",
 		"Specialist Medical"
@@ -98,6 +102,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

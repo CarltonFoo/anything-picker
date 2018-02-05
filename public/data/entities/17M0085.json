@@ -34,6 +34,7 @@
 		]
 	},
 	"id": "17M0085",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Internal Medicine",
 		"Renal Medicine",
@@ -55,6 +56,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": []
+	]
 }

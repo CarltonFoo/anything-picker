@@ -30,7 +30,7 @@
 			"Gastroenterology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -70,6 +70,12 @@
 		]
 	},
 	"id": "9405361",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday to Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Gastroenterology",
 		"Endoscopy",
@@ -90,6 +96,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

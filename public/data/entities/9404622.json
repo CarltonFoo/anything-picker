@@ -27,10 +27,14 @@
 			"Gastroenterology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Sunday": []
 	},
 	"id": "9404622",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Gastroenterology",
 		"General Medical",
@@ -51,6 +55,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "13C0152",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"Specialist Medical",
@@ -48,8 +49,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

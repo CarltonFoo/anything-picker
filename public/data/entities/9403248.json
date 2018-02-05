@@ -12,7 +12,7 @@
 			"Orthopaedic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -45,6 +45,10 @@
 		]
 	},
 	"id": "9403248",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Specialist Medical",
 		"Orthopaedic Surgery"
@@ -64,6 +68,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

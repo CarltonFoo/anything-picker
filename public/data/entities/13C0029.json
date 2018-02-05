@@ -30,7 +30,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -70,6 +70,13 @@
 		"Sunday": []
 	},
 	"id": "13C0029",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Saturday": "10:00 am to 08:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Orthodontics",
 		"Specialised Diagnostic Radiology",
@@ -91,8 +98,5 @@
 		"HG",
 		"MP",
 		"TP"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

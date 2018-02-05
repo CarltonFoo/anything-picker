@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9404307",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Hand Surgery",
 		"Specialist Medical"
@@ -47,6 +48,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

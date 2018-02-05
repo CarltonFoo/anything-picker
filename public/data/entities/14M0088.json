@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "14M0088",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Neurosurgery",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

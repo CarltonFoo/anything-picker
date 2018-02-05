@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9404694",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"General Medical",
@@ -48,6 +49,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

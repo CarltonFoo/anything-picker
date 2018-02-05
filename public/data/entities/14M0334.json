@@ -28,7 +28,7 @@
 			"Plastic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -68,6 +68,12 @@
 		"Sunday": []
 	},
 	"id": "14M0334",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "10:00 am to 06:00 pm",
+		"Saturday": "10:00 am to 03:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Anaesthesiology",
 		"Day Surgery",
@@ -90,6 +96,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -21,7 +21,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [],
 		"Tuesday": [
 			[
@@ -61,6 +61,14 @@
 		]
 	},
 	"id": "11C0059",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday": "Closed",
+		"Tuesday to Saturday": "09:00 am to 06:00 pm",
+		"Sunday": "10:30 am to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -79,8 +87,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

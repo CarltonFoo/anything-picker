@@ -32,6 +32,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "13C0038",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Occupational Medicine",
 		"Family Physician",
@@ -52,6 +53,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": []
+	]
 }

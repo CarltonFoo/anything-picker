@@ -30,6 +30,7 @@
 		]
 	},
 	"id": "17M0355",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Intensive Care Medicine",
 		"Internal Medicine",
@@ -56,6 +57,5 @@
 		"SE",
 		"CC",
 		"SM"
-	],
-	"insurance": []
+	]
 }

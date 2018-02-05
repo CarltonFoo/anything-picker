@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9405659",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -44,8 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

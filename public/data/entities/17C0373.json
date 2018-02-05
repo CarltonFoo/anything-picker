@@ -43,6 +43,7 @@
 		]
 	},
 	"id": "17C0373",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Day Surgery",
@@ -77,6 +78,5 @@
 		"PN",
 		"TH",
 		"WC"
-	],
-	"insurance": []
+	]
 }

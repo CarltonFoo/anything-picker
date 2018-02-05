@@ -20,7 +20,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"New Year (01/01/2018)": [],
 		"Monday": [
 			[
@@ -76,6 +76,14 @@
 		"Sunday": []
 	},
 	"id": "9403806",
+	"insurance": [],
+	"rawOperatingHours": {
+		"New Year (01/01/2018)": "Closed",
+		"Monday to Saturday": "10:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Monday to Wednesday": "10:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Thursday": "Closed",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -93,6 +101,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": []
+	]
 }

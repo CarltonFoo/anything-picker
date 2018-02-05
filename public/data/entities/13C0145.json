@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "13C0145",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical",
 		"Specialist Medical",
@@ -51,6 +52,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

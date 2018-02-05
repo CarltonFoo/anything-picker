@@ -26,7 +26,7 @@
 		"Community Health Assistance Scheme (CHAS)",
 		"Integrated Screening Programme (ISP) "
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -83,6 +83,15 @@
 		"Public Holiday": []
 	},
 	"id": "9403734",
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday and Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -101,9 +110,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"CHAS"
 	]
 }

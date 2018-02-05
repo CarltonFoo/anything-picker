@@ -23,6 +23,9 @@
 		"General Medical": true
 	},
 	"id": "17M0343",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -40,8 +43,5 @@
 		"PR",
 		"TM",
 		"CB"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

@@ -26,7 +26,7 @@
 			"Ophthalmology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -67,6 +67,11 @@
 		"Public Holiday": []
 	},
 	"id": "9404557",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:00 am to 06:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -86,8 +91,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

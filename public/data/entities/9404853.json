@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "9404853",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Intensive Care Medicine",
 		"Respiratory Medicine",
@@ -51,8 +52,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

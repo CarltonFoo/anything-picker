@@ -20,6 +20,12 @@
 		"General Medical": true
 	},
 	"id": "17C0088",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -39,11 +45,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

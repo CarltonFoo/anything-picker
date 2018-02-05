@@ -26,7 +26,7 @@
 			"Paediatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -96,6 +96,14 @@
 		]
 	},
 	"id": "9405745",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Monday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday to Friday": "09:00 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm",
+		"Sunday to Sunday": "09:00 am to 11:00 am"
+	},
 	"combinedSpecialties": [
 		"Neonatology",
 		"Paediatric Medicine",
@@ -116,6 +124,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": []
+	]
 }

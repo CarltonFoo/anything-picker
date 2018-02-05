@@ -25,7 +25,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -96,6 +96,17 @@
 		]
 	},
 	"id": "16M0038",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday to Thursday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 08:00 pm",
+		"Saturday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday and Public Holiday": "06:00 pm to 10:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -114,10 +125,5 @@
 		"WD",
 		"SM",
 		"YS"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

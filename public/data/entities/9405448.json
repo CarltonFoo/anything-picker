@@ -24,6 +24,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9405448",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -38,8 +41,5 @@
 	"planningArea": "SI",
 	"neighbours": [
 		"BM"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

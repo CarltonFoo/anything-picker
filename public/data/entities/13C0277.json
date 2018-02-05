@@ -22,7 +22,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"01:00",
@@ -61,6 +61,11 @@
 		]
 	},
 	"id": "13C0277",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "11:00 am to 08:00 pm",
+		"Saturday": "11:00 am to 04:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -79,6 +84,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

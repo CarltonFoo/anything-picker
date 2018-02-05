@@ -20,6 +20,7 @@
 		"General Medical": true
 	},
 	"id": "11C0004",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -39,6 +40,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": []
+	]
 }

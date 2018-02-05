@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -58,6 +58,14 @@
 		]
 	},
 	"id": "15M0441",
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 03:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -76,9 +84,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

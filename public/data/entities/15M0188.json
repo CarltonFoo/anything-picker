@@ -27,11 +27,15 @@
 			"Orthopaedic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Sunday": [],
 		"Public Holiday": []
 	},
 	"id": "15M0188",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical",
@@ -53,6 +57,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

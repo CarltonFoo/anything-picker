@@ -36,9 +36,6 @@ export default {
 
 <style lang="scss">
 .operating-hours-tab {
-  .q-picker-textfield::after {
-    content: url('/assets/Dropdown.svg')!important;
-  }
   .reset {
     height: 25px;
     margin-top: 12px;

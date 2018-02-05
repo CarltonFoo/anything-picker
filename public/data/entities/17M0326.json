@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "17M0326",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"Palliative Medicine",
@@ -49,8 +50,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

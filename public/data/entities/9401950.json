@@ -26,7 +26,7 @@
 			"Oral & Maxillo-Facial Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -65,6 +65,10 @@
 		]
 	},
 	"id": "9401950",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "08:30 am to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"Specialist Dental"
@@ -84,6 +88,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

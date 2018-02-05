@@ -33,6 +33,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9405321",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Internal Medicine",
 		"Rheumatology",
@@ -54,8 +57,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

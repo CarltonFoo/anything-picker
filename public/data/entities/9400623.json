@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "9400623",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Endocrinology",
 		"Specialist Medical"
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

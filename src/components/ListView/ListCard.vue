@@ -7,14 +7,7 @@
       </small>
     </div>
     <div class="card-details" @click="$emit('focus')">
-      <!-- <div class="unique-title text-negative text-italic" v-if="uniqueCcas.length > 0">
-        Unique CCAs:
-      </div>
-      <div class="unique-content" v-if="uniqueCcas.length > 0">
-        <span v-for="cca in uniqueCcas">
-          <small class="cca-name">{{cca.name}}</small><small class="dot">&middot;</small>
-        </span>
-      </div> -->
+
       <small class="text-primary text-bold header">
       Address:
       </small>
@@ -27,7 +20,7 @@
       Operating Hours:
       </small>
       <br />
-      <small class="operatingHrs"> {{info.operatingHrs}} </small>
+      <small class="operatingHrs"> {{ JSON.stringify(info.rawOperatingHours, null, " ").replace("{}", "No operating hours avaliable.").replace(/"|"|{|}/g, '').replace(":", ": ").trim() }} </small>
 
       <br />
 
@@ -63,10 +56,10 @@ export default {
   computed: {
     combinedSpecialties () {
       return Object.keys(this.info.combinedSpecialties).slice(0, 2).map(type => {
-        type = type.split(' ').filter(term => term !== 'CLINIC').join(' ')
+        type = type.split(' ').filter(term => term !== 'CLINIC').join('  ')
         return capitalize(type)
       })
-    },
+    }
   }
 }
 
@@ -98,6 +91,8 @@ export default {
 
     .address, .operatingHrs {
       font-size: 0.6em;
+      word-wrap: break-word;
+      white-space: pre
     }
 
     .unique-title {

@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "17M0312",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Specialist Medical",
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

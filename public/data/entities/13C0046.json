@@ -26,6 +26,9 @@
 		]
 	},
 	"id": "13C0046",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental",
@@ -46,8 +49,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

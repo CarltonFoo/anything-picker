@@ -25,6 +25,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9400597",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -45,6 +46,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": []
+	]
 }

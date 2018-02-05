@@ -24,7 +24,7 @@
 		"Community Health Assistance Scheme (CHAS)",
 		"Integrated Screening Programme (ISP) "
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -69,6 +69,13 @@
 		]
 	},
 	"id": "9402533",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart"
+	],
+	"rawOperatingHours": {
+		"Monday to Sunday": "08:00 am to 10:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -90,9 +97,5 @@
 		"SL",
 		"SG",
 		"YS"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart"
 	]
 }

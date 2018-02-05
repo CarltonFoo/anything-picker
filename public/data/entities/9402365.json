@@ -25,7 +25,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -98,6 +98,16 @@
 		"Public Holiday": []
 	},
 	"id": "9402365",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday and Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday and Friday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -117,8 +127,5 @@
 		"SE",
 		"CH",
 		"TM"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

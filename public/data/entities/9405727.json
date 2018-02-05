@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "9405727",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"Renal Dialysis",
@@ -48,6 +49,5 @@
 		"PN",
 		"TH",
 		"WC"
-	],
-	"insurance": []
+	]
 }

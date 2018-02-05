@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "16M0088",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"Specialist Medical"
@@ -46,8 +47,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

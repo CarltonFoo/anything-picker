@@ -26,7 +26,7 @@
 			"Gastroenterology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -87,6 +87,13 @@
 		"Sunday": []
 	},
 	"id": "9401639",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday to Public Holiday": "Closed",
+		"Monday to Friday": "01:09 am to 01:00 pm, 02:02 pm to 05:00 pm",
+		"Saturday to Saturday": "01:09 am to 12:30 pm",
+		"Sunday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Gastroenterology",
 		"Specialist Medical"
@@ -106,6 +113,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

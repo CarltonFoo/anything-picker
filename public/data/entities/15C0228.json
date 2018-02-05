@@ -32,7 +32,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -93,6 +93,13 @@
 		"Public Holiday": []
 	},
 	"id": "15C0228",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Thursday": "08:00 am to 12:00 pm, 01:00 pm to 05:30 pm",
+		"Friday": "08:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Aviation Medicine",
 		"Occupational Medicine",
@@ -116,6 +123,5 @@
 		"HG",
 		"SE",
 		"TM"
-	],
-	"insurance": []
+	]
 }

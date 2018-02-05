@@ -29,6 +29,9 @@
 		]
 	},
 	"id": "15D0139",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Orthodontics",
 		"General Dental",
@@ -50,8 +53,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

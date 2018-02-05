@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -75,6 +75,13 @@
 		"Sunday": []
 	},
 	"id": "14M0048",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Thursday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -93,6 +100,5 @@
 		"SG",
 		"CC",
 		"YS"
-	],
-	"insurance": []
+	]
 }

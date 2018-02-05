@@ -25,7 +25,7 @@
 			"Orthopaedic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:10",
@@ -64,6 +64,10 @@
 		]
 	},
 	"id": "9402207",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:10 am to 05:05 pm"
+	},
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"Specialist Medical"
@@ -85,8 +89,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

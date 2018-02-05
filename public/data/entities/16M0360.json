@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "16M0360",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Endocrinology",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -32,7 +32,7 @@
 			"Prosthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -85,6 +85,11 @@
 		]
 	},
 	"id": "9405432",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Periodontology",
 		"General Dental",
@@ -110,6 +115,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": []
+	]
 }

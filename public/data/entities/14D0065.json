@@ -24,6 +24,7 @@
 		"General Dental": true
 	},
 	"id": "14D0065",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Prosthodontics",
 		"General Dental"
@@ -45,6 +46,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

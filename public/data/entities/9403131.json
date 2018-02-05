@@ -26,7 +26,7 @@
 			"Public Health"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -87,6 +87,13 @@
 		"Public Holiday": []
 	},
 	"id": "9403131",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Thursday": "08:00 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Friday": "08:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Public Health",
 		"General Medical",
@@ -107,6 +114,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": []
+	]
 }

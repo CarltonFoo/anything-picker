@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9404891",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Anaesthesiology",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

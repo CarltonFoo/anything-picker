@@ -25,6 +25,12 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "17M0149",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -41,11 +47,5 @@
 		"PR",
 		"SL",
 		"SE"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

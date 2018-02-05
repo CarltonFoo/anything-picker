@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9403332",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Specialist Medical"
@@ -46,8 +47,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

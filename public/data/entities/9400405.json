@@ -21,7 +21,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -86,6 +86,14 @@
 		]
 	},
 	"id": "9400405",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Monday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Tuesday to Tuesday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Wednesday to Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Thursday and Thursday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Friday to Sunday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -104,6 +112,5 @@
 		"SG",
 		"CC",
 		"TP"
-	],
-	"insurance": []
+	]
 }

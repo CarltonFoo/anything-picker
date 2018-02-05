@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Tuesday": [
 			[
 				"09:00",
@@ -46,6 +46,16 @@
 		]
 	},
 	"id": "15D0429",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Tuesday and Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -65,10 +75,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

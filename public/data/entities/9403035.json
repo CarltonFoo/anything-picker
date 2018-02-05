@@ -25,7 +25,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"18:00",
@@ -64,6 +64,12 @@
 		]
 	},
 	"id": "9403035",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Wednesday": "06:00 pm to 09:00 pm",
+		"Tuesday and Thursday": "09:00 am to 01:00 pm",
+		"Friday and Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -82,6 +88,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": []
+	]
 }

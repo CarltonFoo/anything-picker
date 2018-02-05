@@ -32,6 +32,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405427",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Gastroenterology",
 		"Paediatric Medicine",
@@ -54,6 +55,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

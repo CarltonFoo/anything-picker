@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "14M0338",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Hand Surgery",
 		"Specialist Medical"
@@ -48,8 +49,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

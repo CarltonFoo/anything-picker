@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "15D0093",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Endodontics",
 		"Specialist Dental"
@@ -44,6 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

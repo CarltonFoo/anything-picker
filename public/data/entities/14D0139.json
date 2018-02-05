@@ -20,6 +20,11 @@
 		"General Dental": true
 	},
 	"id": "14D0139",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -39,10 +44,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

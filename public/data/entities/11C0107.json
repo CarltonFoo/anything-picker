@@ -20,7 +20,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -114,6 +114,16 @@
 		]
 	},
 	"id": "11C0107",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday to Sunday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -131,10 +141,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

@@ -33,7 +33,7 @@
 			"Renal Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"06:30",
@@ -73,6 +73,11 @@
 		"Sunday": []
 	},
 	"id": "13C0109",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "06:30 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Internal Medicine",
 		"Renal Medicine",
@@ -97,6 +102,5 @@
 		"SE",
 		"CC",
 		"SM"
-	],
-	"insurance": []
+	]
 }

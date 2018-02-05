@@ -35,6 +35,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "11C0134",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Cardiology",
 		"General Medical",
@@ -55,8 +56,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

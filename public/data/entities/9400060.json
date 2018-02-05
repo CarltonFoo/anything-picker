@@ -24,7 +24,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [
 			[
 				"08:30",
@@ -123,6 +123,14 @@
 		]
 	},
 	"id": "9400060",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday to Sunday": "08:30 am to 12:30 pm, 06:00 pm to 09:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -143,8 +151,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

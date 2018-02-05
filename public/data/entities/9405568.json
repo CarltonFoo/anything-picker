@@ -30,7 +30,7 @@
 			"Otorhinolaryngology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"18:00",
@@ -63,6 +63,10 @@
 		]
 	},
 	"id": "9405568",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "06:00 pm to 10:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Surgery",
 		"Endoscopy",
@@ -86,8 +90,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

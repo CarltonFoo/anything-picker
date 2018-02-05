@@ -33,7 +33,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -66,6 +66,10 @@
 		]
 	},
 	"id": "13M0265",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 05:30 pm"
+	},
 	"combinedSpecialties": [
 		"Otorhinolaryngology",
 		"Endoscopy",
@@ -86,6 +90,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

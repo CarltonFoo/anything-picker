@@ -23,6 +23,9 @@
 		]
 	},
 	"id": "17D0175",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -45,8 +48,5 @@
 		"SE",
 		"CC",
 		"SM"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

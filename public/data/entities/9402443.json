@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -78,6 +78,14 @@
 		]
 	},
 	"id": "9402443",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday and Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday to Thursday": "08:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -95,8 +103,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

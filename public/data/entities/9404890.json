@@ -34,7 +34,7 @@
 			"Cardiology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Saturday": [
 			[
@@ -44,6 +44,11 @@
 		]
 	},
 	"id": "9404890",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Cardiology",
 		"Intensive Care Medicine",
@@ -65,6 +70,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

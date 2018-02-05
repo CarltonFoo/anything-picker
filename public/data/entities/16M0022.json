@@ -32,6 +32,7 @@
 		]
 	},
 	"id": "16M0022",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Cardiology",
 		"Specialist Medical"
@@ -52,8 +53,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

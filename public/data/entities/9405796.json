@@ -31,7 +31,7 @@
 			"Otorhinolaryngology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -90,6 +90,11 @@
 		]
 	},
 	"id": "9405796",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Otorhinolaryngology",
 		"Specialised Diagnostic Radiology",
@@ -110,6 +115,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

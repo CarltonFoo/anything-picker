@@ -24,7 +24,7 @@
 			"Psychiatry"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -63,6 +63,11 @@
 		]
 	},
 	"id": "11C0011",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Psychiatry",
 		"Specialist Medical"
@@ -83,6 +88,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -27,7 +27,7 @@
 			"Medical Oncology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Christmas Day (25/12/2017)": [],
 		"New Year (01/01/2018)": [],
 		"Monday": [
@@ -69,6 +69,14 @@
 		"Sunday": []
 	},
 	"id": "15M0370",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"Palliative Medicine",
@@ -92,8 +100,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

@@ -30,7 +30,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -69,6 +69,11 @@
 		]
 	},
 	"id": "12C0242",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Infectious Diseases",
 		"General Medical",
@@ -92,8 +97,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

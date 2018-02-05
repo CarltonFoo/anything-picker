@@ -25,6 +25,10 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "9405660",
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -43,9 +47,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

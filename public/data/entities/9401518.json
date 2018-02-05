@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Friday": [
 			[
 				"17:30",
@@ -40,6 +40,11 @@
 		]
 	},
 	"id": "9401518",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Friday": "05:30 pm to 11:00 pm",
+		"Sunday and Public Holiday": "12:00 pm to 07:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -60,6 +65,5 @@
 		"WD",
 		"CK",
 		"WC"
-	],
-	"insurance": []
+	]
 }

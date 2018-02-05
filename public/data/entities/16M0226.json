@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "16M0226",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

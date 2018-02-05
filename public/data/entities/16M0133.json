@@ -20,6 +20,7 @@
 		"General Medical": true
 	},
 	"id": "16M0133",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -37,6 +38,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": []
+	]
 }

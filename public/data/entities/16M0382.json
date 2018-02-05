@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "16M0382",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Neurosurgery",
 		"Specialist Medical",
@@ -46,6 +47,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

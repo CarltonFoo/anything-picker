@@ -25,6 +25,7 @@
 		"Specialist Medical": true
 	},
 	"id": "17M0301",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"General Medical",
@@ -46,6 +47,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

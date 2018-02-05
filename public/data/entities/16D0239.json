@@ -18,6 +18,7 @@
 		"General Dental": true
 	},
 	"id": "16D0239",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -35,6 +36,5 @@
 		"PR",
 		"PL",
 		"CH"
-	],
-	"insurance": []
+	]
 }

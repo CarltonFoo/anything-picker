@@ -20,7 +20,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -81,6 +81,15 @@
 		"Public Holiday": []
 	},
 	"id": "13C0122",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Wednesday": "09:30 am to 01:30 pm, 04:00 pm to 08:00 pm",
+		"Thursday": "09:30 am to 01:30 pm, 03:00 pm to 08:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -99,6 +108,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

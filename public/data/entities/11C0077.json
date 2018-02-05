@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "11C0077",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Geriatric Medicine",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

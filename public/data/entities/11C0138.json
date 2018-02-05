@@ -29,6 +29,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "11C0138",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Abortion",
@@ -49,8 +50,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

@@ -29,11 +29,15 @@
 			"General Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Sunday": [],
 		"Public Holiday": []
 	},
 	"id": "9405091",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Surgery",
 		"Endoscopy",
@@ -54,6 +58,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

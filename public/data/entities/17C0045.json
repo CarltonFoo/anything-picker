@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "17C0045",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"Specialist Medical"
@@ -49,6 +50,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9403680",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"General Medical",
@@ -46,6 +47,5 @@
 		"SG",
 		"CC",
 		"TP"
-	],
-	"insurance": []
+	]
 }

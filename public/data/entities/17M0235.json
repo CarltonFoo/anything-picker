@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "17M0235",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Radiation Oncology",
 		"General Medical",
@@ -46,6 +47,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

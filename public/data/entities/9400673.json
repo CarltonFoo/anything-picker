@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9400673",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Periodontology",
 		"General Dental",
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

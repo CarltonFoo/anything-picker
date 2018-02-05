@@ -22,7 +22,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -107,6 +107,15 @@
 		]
 	},
 	"id": "16C0034",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday and Sunday": "08:30 am to 12:30 am"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -126,10 +135,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

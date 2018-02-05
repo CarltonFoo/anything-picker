@@ -26,7 +26,7 @@
 			"Geriatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -59,6 +59,10 @@
 		]
 	},
 	"id": "9404857",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm"
+	},
 	"combinedSpecialties": [
 		"Geriatric Medicine",
 		"General Medical",
@@ -79,6 +83,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

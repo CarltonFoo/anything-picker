@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "17M0214",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Day Surgery",
@@ -48,6 +49,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": []
+	]
 }

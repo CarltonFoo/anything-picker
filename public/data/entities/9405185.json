@@ -30,6 +30,9 @@
 		]
 	},
 	"id": "9405185",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Orthodontics",
 		"General Dental",
@@ -49,8 +52,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

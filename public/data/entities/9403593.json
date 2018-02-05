@@ -27,7 +27,7 @@
 			"Paediatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [],
 		"Tuesday": [],
 		"Wednesday": [],
@@ -36,6 +36,10 @@
 		"Saturday": []
 	},
 	"id": "9403593",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"General Medical",
@@ -55,6 +59,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": []
+	]
 }

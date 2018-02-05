@@ -34,7 +34,7 @@
 
     <div class="list item-delimiter auto column text-primary">
 
-      <q-collapsible ref="generalInfo" label="GENERAL INFO">
+      <!-- <q-collapsible ref="generalInfo" label="GENERAL INFO">
         <dl>
           <template v-for="row in generalInfo" v-if="row.value">
             <dt>{{row.label}}</dt>
@@ -44,16 +44,74 @@
             <dd v-else>{{row.value}}</dd>
           </template>
         </dl>
-      </q-collapsible>
+      </q-collapsible> -->
 
       <q-collapsible ref="contactInfo" label="CONTACT" class="text-primary">
         <dl>
           <template v-for="row in contactInfo" v-if="row.value">
             <dt>{{row.label}}</dt>
-            <template v-if="row.href">
-              <dd><a :href="row.href" :target="row.href.match(/^mailto/) ? null : '_blank'">
-                {{row.value}}
-              </a></dd>
+            <template v-if="row.value instanceof Array">
+              <dd v-for="value in row.value">{{value}}</dd>
+            </template>
+            <dd v-else>{{row.value}}</dd>
+          </template>
+        </dl>
+      </q-collapsible>
+
+      <q-collapsible ref="license" label="LICENSE" class="text-primary">
+        <dl>
+          <template v-for="row in license" v-if="row.value">
+            <dt>{{row.label}}</dt>
+            <template v-if="row.value instanceof Array">
+              <dd v-for="value in row.value">{{value}}</dd>
+            </template>
+            <dd v-else>{{row.value}}</dd>
+          </template>
+        </dl>
+      </q-collapsible>
+
+      <q-collapsible ref="doctorInCharge" label="DOCTOR IN CHARGE" class="text-primary">
+        <dl>
+          <template v-for="row in doctorInCharge" v-if="row.value">
+            <dt>{{row.label}}</dt>
+            <template v-if="row.value instanceof Array">
+              <dd v-for="value in row.value">{{value}}</dd>
+            </template>
+            <dd v-else>{{row.value}}</dd>
+          </template>
+        </dl>
+      </q-collapsible>
+
+      <q-collapsible ref="MOHServices" label="MOH APPROVED SERVICES" class="text-primary">
+        <dl>
+          <template v-for="row in MOHServices" v-if="row.value">
+            <dt>{{row.label}}</dt>
+            <template v-if="row.value instanceof Array">
+              <dd v-for="value in row.value">{{value}}</dd>
+            </template>
+            <dd v-else>{{row.value}}</dd>
+          </template>
+        </dl>
+      </q-collapsible>
+
+      <q-collapsible ref="detailedServices" label="SERVICES" class="text-primary">
+        <dl>
+          <template v-for="row in detailedServices" v-if="row.value">
+            <dt>{{row.label}}</dt>
+            <template v-if="row.value instanceof Array">
+              <dd v-for="value in row.value">{{value}}</dd>
+            </template>
+            <dd v-else>{{row.value}}</dd>
+          </template>
+        </dl>
+      </q-collapsible>
+
+      <q-collapsible ref="programmes" label="PROGRAMMES" class="text-primary">
+        <dl>
+          <template v-for="row in programmes" v-if="row.value">
+            <dt>{{row.label}}</dt>
+            <template v-if="row.value instanceof Array">
+              <dd v-for="value in row.value">{{value}}</dd>
             </template>
             <dd v-else>{{row.value}}</dd>
           </template>
@@ -83,22 +141,22 @@ export default {
   },
   data () {
     return {
-      medalIcon: {
-        Distinction: '/assets/Gold.svg',
-        Accomplishment: '/assets/Silver.svg',
-        Recognition: '/assets/Bronze.svg',
-        Gold: '/assets/Gold.svg',
-        Silver: '/assets/Silver.svg',
-        Bronze: '/assets/Bronze.svg',
-        '1st': '/assets/Gold.svg',
-        '2nd': '/assets/Silver.svg',
-        '3rd': '/assets/Bronze.svg'
-      }
+      // medalIcon: {
+      //   Distinction: '/assets/Gold.svg',
+      //   Accomplishment: '/assets/Silver.svg',
+      //   Recognition: '/assets/Bronze.svg',
+      //   Gold: '/assets/Gold.svg',
+      //   Silver: '/assets/Silver.svg',
+      //   Bronze: '/assets/Bronze.svg',
+      //   '1st': '/assets/Gold.svg',
+      //   '2nd': '/assets/Silver.svg',
+      //   '3rd': '/assets/Bronze.svg'
+      // }
     }
   },
   computed: {
     clinicSummary () {
-      const combinedSpecialties = this.info.GeneralInformation['Type of Clinic']
+      const combinedSpecialties = this.info.combinedSpecialties['Type of Clinic']
       const address = this.info.address['Location']
       const operatingHrs = this.info.operatingHrs['Operating Hours']
       const insurance = this.info.insurance['Insurance Coverage']
@@ -116,16 +174,36 @@ export default {
         {label: 'Telephone / Fax', value: (this.info.telephone || 'Not available') + ' / ' + (this.info.fax || 'Not available')}
       ]
     },
-    generalInfo () {
-      const info = this.info.GeneralInformation
+    license () {
       return [
-        {label: 'Type of Clinic', value: info['Type of Clinic']},
-        {label: 'Location', value: info['Location']},
-        {label: 'Operating Hours', value: info['Operating Hours']},
-        {label: 'Insurance Coverage', value: info['Insurance Coverage']}
+        {label: 'Licensee', value: info.licensee},
+        {label: 'License Period', value: info.licensePeriod},
+        {label: 'License Class', value: info.licenseClass}
       ]
     },
-
+    doctorInCharge () {
+      const info = this.info.doctorInCharge
+      return [
+        {label: 'Name', value: info['name']},
+        {label: 'Qualification', value: info['qualifications']},
+        {label: 'Specialties', value: info['specialties']}
+      ]
+    },
+    MOHServices () {
+      return [
+        {label: 'MOH Approved Services', value: this.info.mohApprovedSpecialServices}
+      ]
+    },
+    detailedServices () {
+      return [
+        {label: 'Services', value: this.info.detailedServices}
+      ]
+    },
+    programmes () {
+      return [
+        {label: 'Programmes', value: this.info.programmes}
+      ]
+    }
   }
 }
 </script>

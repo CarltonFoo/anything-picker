@@ -26,6 +26,9 @@
 		]
 	},
 	"id": "9405663",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Endodontics",
 		"General Dental",
@@ -45,8 +48,5 @@
 		"BT",
 		"JE",
 		"QT"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

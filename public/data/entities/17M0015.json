@@ -31,6 +31,9 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "17M0015",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Medical",
 		"Specialist Medical",
@@ -53,8 +56,5 @@
 		"PR",
 		"PL",
 		"CH"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

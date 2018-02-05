@@ -19,11 +19,17 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Sunday": [],
 		"Public Holiday": []
 	},
 	"id": "9403871",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -42,8 +48,5 @@
 		"SG",
 		"CC",
 		"YS"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

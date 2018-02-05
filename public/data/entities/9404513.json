@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9404513",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Otorhinolaryngology",
 		"Specialist Medical"
@@ -45,6 +46,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

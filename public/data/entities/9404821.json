@@ -13,6 +13,7 @@
 		]
 	},
 	"id": "9404821",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Specialist Medical",
 		"Cardiothoracic Surgery"
@@ -34,6 +35,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

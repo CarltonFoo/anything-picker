@@ -24,7 +24,7 @@
 			"Geriatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -65,6 +65,15 @@
 		"Sunday": []
 	},
 	"id": "9405311",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday and Wednesday": "09:00 am to 01:00 pm",
+		"Tuesday and Friday": "02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Geriatric Medicine",
 		"Specialist Medical"
@@ -84,6 +93,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

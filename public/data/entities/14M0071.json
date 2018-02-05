@@ -25,7 +25,7 @@
 	"detailedServices": {
 		"Specialist Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Wednesday": [
 			[
 				"09:00",
@@ -52,6 +52,10 @@
 		]
 	},
 	"id": "14M0071",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Wednesday to Saturday": "09:00 am to 03:00 pm"
+	},
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Specialist Medical"
@@ -72,6 +76,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

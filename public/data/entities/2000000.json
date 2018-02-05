@@ -30,7 +30,7 @@
 			"Neurosurgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -63,6 +63,12 @@
 		]
 	},
 	"id": "2000000",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:00 pm",
+		"Friday": "08:00 am to 05:30 pm"
+	},
 	"combinedSpecialties": [
 		"Neurosurgery",
 		"Specialised Diagnostic Radiology",
@@ -86,6 +92,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

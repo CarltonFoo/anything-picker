@@ -16,6 +16,11 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9404662",
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Dental",
 		"General Medical"
@@ -34,10 +39,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"CHAS",
-		"Great Eastern"
 	]
 }

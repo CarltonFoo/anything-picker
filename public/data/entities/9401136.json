@@ -36,6 +36,7 @@
 		]
 	},
 	"id": "9401136",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Cardiology",
 		"Specialist Medical"
@@ -55,6 +56,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

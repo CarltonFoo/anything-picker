@@ -27,7 +27,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -83,6 +83,16 @@
 		"Sunday": []
 	},
 	"id": "12C0170",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Tuesday": "Closed",
+		"Wednesday to Saturday": "10:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Orthodontics",
 		"General Dental",
@@ -103,8 +113,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

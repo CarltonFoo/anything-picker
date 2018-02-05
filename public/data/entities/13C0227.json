@@ -28,7 +28,7 @@
 			"Intensive Care Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -67,6 +67,11 @@
 		]
 	},
 	"id": "13C0227",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Anaesthesiology",
 		"Intensive Care Medicine",
@@ -89,6 +94,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

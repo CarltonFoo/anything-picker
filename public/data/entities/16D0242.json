@@ -21,6 +21,7 @@
 		"General Dental": true
 	},
 	"id": "16D0242",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Specialised Diagnostic Radiology",
 		"General Dental"
@@ -38,6 +39,5 @@
 		"MD",
 		"SB",
 		"SK"
-	],
-	"insurance": []
+	]
 }

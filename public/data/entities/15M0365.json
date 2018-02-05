@@ -35,7 +35,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -74,6 +74,13 @@
 		]
 	},
 	"id": "15M0365",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:30 pm"
+	},
 	"combinedSpecialties": [
 		"Internal Medicine",
 		"Renal Medicine",
@@ -95,8 +102,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

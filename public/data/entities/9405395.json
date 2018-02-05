@@ -22,7 +22,7 @@
 			"Cardiology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -56,6 +56,11 @@
 		"Sunday": []
 	},
 	"id": "9405395",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Medical",
 		"Specialist Medical",
@@ -76,6 +81,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

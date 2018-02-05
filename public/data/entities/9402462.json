@@ -26,7 +26,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -79,6 +79,14 @@
 		"Public Holiday": []
 	},
 	"id": "9402462",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Tuesday": "09:00 am to 03:00 pm, 06:30 pm to 10:00 pm",
+		"Wednesday": "09:00 am to 03:00 pm",
+		"Thursday": "09:00 am to 03:00 pm, 06:30 pm to 10:00 pm",
+		"Friday and Saturday": "09:00 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -98,6 +106,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": []
+	]
 }

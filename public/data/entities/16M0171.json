@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "16M0171",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Neonatology",
 		"Paediatric Medicine",
@@ -48,6 +49,5 @@
 		"SG",
 		"CC",
 		"TP"
-	],
-	"insurance": []
+	]
 }

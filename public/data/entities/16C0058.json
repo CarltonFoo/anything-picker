@@ -21,6 +21,7 @@
 		"General Medical": true
 	},
 	"id": "16C0058",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -40,6 +41,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -24,6 +24,11 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "16M0030",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -42,10 +47,5 @@
 		"HG",
 		"MP",
 		"TP"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

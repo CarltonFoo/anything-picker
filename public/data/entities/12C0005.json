@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "12C0005",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

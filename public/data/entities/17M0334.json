@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "17M0334",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Hand Surgery",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "12C0116",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Gastroenterology",
 		"General Medical",
@@ -49,8 +50,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

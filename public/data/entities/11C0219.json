@@ -20,6 +20,7 @@
 		"General Dental": true
 	},
 	"id": "11C0219",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -40,6 +41,5 @@
 		"CC",
 		"TN",
 		"CL"
-	],
-	"insurance": []
+	]
 }

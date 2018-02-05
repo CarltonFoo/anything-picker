@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9405109",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Anaesthesiology",
 		"Specialist Medical"
@@ -46,6 +47,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

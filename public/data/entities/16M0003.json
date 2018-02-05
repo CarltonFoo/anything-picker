@@ -29,7 +29,7 @@
 		"General Medical": true,
 		"Specialist Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -68,6 +68,10 @@
 		]
 	},
 	"id": "16M0003",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:00 am to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"General Medical",
@@ -89,6 +93,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

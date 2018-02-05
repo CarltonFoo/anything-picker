@@ -23,7 +23,7 @@
 		"General Medical": true,
 		"Specialist Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -69,6 +69,12 @@
 		]
 	},
 	"id": "9405130",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 06:00 pm",
+		"Saturday and Sunday": "10:00 am to 05:45 pm"
+	},
 	"combinedSpecialties": [
 		"Psychiatry",
 		"General Medical",
@@ -91,6 +97,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

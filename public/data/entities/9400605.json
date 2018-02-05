@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9400605",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

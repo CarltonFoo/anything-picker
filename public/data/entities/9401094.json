@@ -24,6 +24,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9401094",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -44,6 +45,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

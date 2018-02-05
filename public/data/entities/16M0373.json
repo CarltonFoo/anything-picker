@@ -24,6 +24,7 @@
 		]
 	},
 	"id": "16M0373",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

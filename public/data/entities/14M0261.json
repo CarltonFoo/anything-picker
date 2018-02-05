@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "14M0261",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Anaesthesiology",
 		"General Medical",
@@ -48,6 +49,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

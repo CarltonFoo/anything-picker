@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -97,6 +97,16 @@
 		]
 	},
 	"id": "9404236",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday to Thursday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:30 am to 12:30 pm",
+		"Saturday to Sunday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -114,8 +124,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

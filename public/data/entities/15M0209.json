@@ -30,6 +30,7 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "15M0209",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Geriatric Medicine",
 		"General Medical",
@@ -52,6 +53,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

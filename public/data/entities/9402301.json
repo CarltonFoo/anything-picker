@@ -27,6 +27,11 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "9402301",
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -46,10 +51,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"CHAS",
-		"Great Eastern"
 	]
 }

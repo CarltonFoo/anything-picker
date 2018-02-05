@@ -40,9 +40,9 @@ export default {
           clinic = Object.assign({distance}, clinic)
         }
 
-        if (this.travelTime) {
-          clinic = Object.assign({travelTime: this.travelTime[clinic.id]}, clinic)
-        }
+        // if (this.travelTime) {
+        //   clinic = Object.assign({travelTime: this.travelTime[clinic.id]}, clinic)
+        // }
 
         return clinic
       } else {

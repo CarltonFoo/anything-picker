@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "9404791",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Gastroenterology",
 		"General Medical",
@@ -50,6 +51,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

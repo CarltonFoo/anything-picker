@@ -25,10 +25,14 @@
 			"Plastic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Sunday": []
 	},
 	"id": "9401932",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Sunday to Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Plastic Surgery",
 		"Specialist Medical"
@@ -48,6 +52,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

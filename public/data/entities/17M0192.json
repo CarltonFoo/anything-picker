@@ -23,7 +23,7 @@
 	"detailedServices": {
 		"Specialist Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -68,6 +68,14 @@
 		]
 	},
 	"id": "17M0192",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "09:30 am to 01:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday and Thursday": "09:30 am to 03:30 pm",
+		"Wednesday and Friday": "06:00 pm to 09:00 pm",
+		"Saturday and Public Holiday": "Closed",
+		"Sunday": "09:30 am to 01:30 pm"
+	},
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Specialist Medical"
@@ -88,6 +96,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": []
+	]
 }

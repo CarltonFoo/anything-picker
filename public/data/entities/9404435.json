@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "9404435",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Plastic Surgery",
 		"Liposuction",
@@ -49,6 +50,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

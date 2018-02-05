@@ -10,7 +10,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -51,6 +51,12 @@
 		"Public Holiday": []
 	},
 	"id": "9405630",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "10:00 am to 07:00 pm",
+		"Saturday": "10:00 am to 03:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -69,6 +75,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

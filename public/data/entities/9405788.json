@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"Specialist Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"14:00",
@@ -60,6 +60,13 @@
 		]
 	},
 	"id": "9405788",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "12:00 pm to 08:00 pm",
+		"Tuesday and Public Holiday": "Closed",
+		"Wednesday to Friday": "12:00 pm to 08:00 pm",
+		"Saturday and Sunday": "10:00 am to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Specialist Medical"
 	],
@@ -76,6 +83,5 @@
 		"MD",
 		"SB",
 		"SK"
-	],
-	"insurance": []
+	]
 }

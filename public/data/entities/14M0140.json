@@ -24,6 +24,7 @@
 		]
 	},
 	"id": "14M0140",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Family Physician",
 		"Specialist Medical",
@@ -44,6 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

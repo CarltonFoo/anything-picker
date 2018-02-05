@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "9404632",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -47,6 +48,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

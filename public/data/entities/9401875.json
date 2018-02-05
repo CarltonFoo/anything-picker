@@ -27,6 +27,9 @@
 		]
 	},
 	"id": "9401875",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Prosthodontics",
 		"General Dental",
@@ -48,8 +51,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

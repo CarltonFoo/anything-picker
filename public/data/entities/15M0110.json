@@ -32,6 +32,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "15M0110",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Specialist Medical",
@@ -54,6 +55,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -27,6 +27,7 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "15M0124",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -46,6 +47,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

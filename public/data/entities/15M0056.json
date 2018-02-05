@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "15M0056",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"General Medical",
@@ -48,8 +49,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

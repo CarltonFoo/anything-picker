@@ -21,7 +21,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -91,6 +91,17 @@
 		]
 	},
 	"id": "9402075",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday to Public Holiday": "Closed",
+		"Monday to Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday to Tuesday": "08:30 am to 12:30 pm",
+		"Wednesday to Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday to Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday to Saturday": "08:30 am to 12:30 pm",
+		"Sunday to Sunday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -110,6 +121,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": []
+	]
 }

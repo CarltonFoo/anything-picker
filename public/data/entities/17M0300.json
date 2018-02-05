@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "17M0300",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Plastic Surgery",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

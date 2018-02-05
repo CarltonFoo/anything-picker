@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "14M0070",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical",
 		"Specialist Medical",
@@ -46,6 +47,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

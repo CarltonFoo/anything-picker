@@ -31,6 +31,9 @@
 		]
 	},
 	"id": "17M0030",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Paediatric Gastroenterology",
 		"Paediatric Medicine",
@@ -54,8 +57,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

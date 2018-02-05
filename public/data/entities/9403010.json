@@ -23,7 +23,7 @@
 			"Occupational Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"07:30",
@@ -56,6 +56,11 @@
 		]
 	},
 	"id": "9403010",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Thursday": "07:30 am to 04:30 am",
+		"Friday": "07:30 am to 03:30 am"
+	},
 	"combinedSpecialties": [
 		"General Medical",
 		"Specialist Medical",
@@ -72,6 +77,5 @@
 	"planningArea": "WI",
 	"neighbours": [
 		"JE"
-	],
-	"insurance": []
+	]
 }

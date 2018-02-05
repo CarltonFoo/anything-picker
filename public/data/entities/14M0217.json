@@ -20,6 +20,7 @@
 		"General Medical": true
 	},
 	"id": "14M0217",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -40,6 +41,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

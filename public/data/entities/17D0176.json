@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "17D0176",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthodontics",
 		"General Dental",
@@ -48,6 +49,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": []
+	]
 }

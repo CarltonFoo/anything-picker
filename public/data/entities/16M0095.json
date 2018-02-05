@@ -27,6 +27,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "16M0095",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -46,8 +49,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

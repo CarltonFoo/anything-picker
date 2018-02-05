@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "14M0029",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"General Medical",
@@ -46,6 +47,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

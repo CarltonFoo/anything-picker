@@ -25,7 +25,7 @@
 			"Gastroenterology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:45",
@@ -84,6 +84,11 @@
 		]
 	},
 	"id": "14C0345",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:45 am to 01:00 pm, 02:00 pm to 05:15 pm",
+		"Saturday": "08:45 am to 12:45 pm"
+	},
 	"combinedSpecialties": [
 		"Gastroenterology",
 		"General Medical",
@@ -105,6 +110,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

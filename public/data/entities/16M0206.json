@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "16M0206",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Family Physician",
 		"Specialist Medical",
@@ -48,8 +49,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

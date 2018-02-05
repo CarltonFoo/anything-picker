@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "12C0185",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"General Medical",
@@ -48,6 +49,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

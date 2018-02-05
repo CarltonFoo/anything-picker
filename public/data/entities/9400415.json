@@ -28,7 +28,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Integrated Screening Programme (ISP) "
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -93,6 +93,18 @@
 		]
 	},
 	"id": "9400415",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday and Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday and Wednesday": "08:00 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday and Sunday": "08:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -112,11 +124,5 @@
 		"HG",
 		"SE",
 		"TP"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

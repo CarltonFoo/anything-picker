@@ -35,7 +35,7 @@
 			"Cardiology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Tuesday": [
 			[
 				"08:30",
@@ -56,6 +56,11 @@
 		]
 	},
 	"id": "12C0115",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Tuesday and Thursday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:55 pm"
+	},
 	"combinedSpecialties": [
 		"Cardiology",
 		"Specialist Medical"
@@ -76,6 +81,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

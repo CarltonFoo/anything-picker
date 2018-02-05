@@ -29,7 +29,7 @@
 			"Oral & Maxillo-Facial Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Saturday": [
 			[
 				"09:00",
@@ -38,6 +38,12 @@
 		]
 	},
 	"id": "11C0212",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Saturday to Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"General Dental",
@@ -57,8 +63,5 @@
 		"SG",
 		"CC",
 		"TP"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

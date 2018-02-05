@@ -77,20 +77,20 @@ const store = new Vuex.Store({
           return json
         })
     },
-    fetchTravelTime (context, lnglat) {
-      context.commit('setTravelTime', null)
-      if (!lnglat) return
-      const url = `${ROUTING_SERVER}/${process.env.VERSION}?coordinates=${lnglat.join(',')}`
-      return window.fetch(url)
-        .then(res => res.json())
-        .then(json => {
-          context.commit('setTravelTime', json.result)
-          return json
-        })
-        .catch(err => {
-          console.error(err)
-        })
-    },
+    // fetchTravelTime (context, lnglat) {
+    //   context.commit('setTravelTime', null)
+    //   if (!lnglat) return
+    //   const url = `${ROUTING_SERVER}/${process.env.VERSION}?coordinates=${lnglat.join(',')}`
+    //   return window.fetch(url)
+    //     .then(res => res.json())
+    //     .then(json => {
+    //       context.commit('setTravelTime', json.result)
+    //       return json
+    //     })
+    //     .catch(err => {
+    //       console.error(err)
+    //     })
+    // },
     selectOptions (context, {module, options}) {
       const updated = uniq([
         ...context.state[module].selected,
@@ -106,24 +106,24 @@ const store = new Vuex.Store({
     resetOptions (context, {module}) {
       context.commit('updateSelected', {module, updated: []})
     },
-    locateAddress (context, postalCode) {
-      context.commit('setPostalCode', postalCode)
-      context.commit('setLocation', null)
-      const url = 'https://developers.onemap.sg/commonapi/search?searchVal=' + postalCode + '&returnGeom=Y&getAddrDetails=Y'
-      return window.fetch(url)
-        .then(res => res.json())
-        .then(json => {
-          if (json.results && json.results.length > 0) {
-            const match = json.results[0]
-            const lnglat = [+match.LONGITUDE, +match.LATITUDE]
-            context.commit('setLocation', lnglat)
-            context.dispatch('fetchTravelTime', lnglat)
-            return match
-          }
-        }).catch(err => {
-          console.error(err)
-        })
-    },
+    // locateAddress (context, postalCode) {
+    //   context.commit('setPostalCode', postalCode)
+    //   context.commit('setLocation', null)
+    //   const url = 'https://developers.onemap.sg/commonapi/search?searchVal=' + postalCode + '&returnGeom=Y&getAddrDetails=Y'
+    //   return window.fetch(url)
+    //     .then(res => res.json())
+    //     .then(json => {
+    //       if (json.results && json.results.length > 0) {
+    //         const match = json.results[0]
+    //         const lnglat = [+match.LONGITUDE, +match.LATITUDE]
+    //         context.commit('setLocation', lnglat)
+    //         context.dispatch('fetchTravelTime', lnglat)
+    //         return match
+    //       }
+    //     }).catch(err => {
+    //       console.error(err)
+    //     })
+    // },
     importOptions,
     exportOptions
   },

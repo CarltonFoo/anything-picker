@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9400796",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Otorhinolaryngology",
 		"Specialist Medical"
@@ -44,8 +45,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

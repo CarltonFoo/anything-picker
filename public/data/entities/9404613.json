@@ -23,7 +23,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "9404613",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Tuesday to Thursday": "08:30 am to 11:30 am"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"Specialist Medical",
@@ -84,6 +89,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "14M0106",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -46,8 +47,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

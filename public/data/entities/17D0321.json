@@ -30,6 +30,9 @@
 		]
 	},
 	"id": "17D0321",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Endodontics",
 		"General Dental",
@@ -53,8 +56,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

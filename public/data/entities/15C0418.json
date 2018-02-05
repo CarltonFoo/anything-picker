@@ -25,6 +25,9 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "15C0418",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -44,8 +47,5 @@
 		"SG",
 		"CC",
 		"YS"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

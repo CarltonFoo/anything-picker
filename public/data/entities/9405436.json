@@ -32,6 +32,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405436",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Cardiology",
 		"Paediatric Medicine",
@@ -54,6 +55,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

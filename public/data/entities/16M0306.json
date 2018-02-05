@@ -24,6 +24,7 @@
 		}
 	],
 	"id": "16M0306",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology"
 	],
@@ -42,6 +43,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

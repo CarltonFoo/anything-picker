@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9405627",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Neurology",
 		"General Medical",
@@ -47,8 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

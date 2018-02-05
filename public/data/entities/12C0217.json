@@ -27,7 +27,7 @@
 			"Renal Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"06:00",
@@ -66,6 +66,10 @@
 		]
 	},
 	"id": "12C0217",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "06:00 am to 10:30 pm"
+	},
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"Renal Dialysis",
@@ -87,6 +91,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": []
+	]
 }

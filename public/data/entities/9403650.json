@@ -30,6 +30,7 @@
 		]
 	},
 	"id": "9403650",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Endoscopy",
@@ -51,6 +52,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

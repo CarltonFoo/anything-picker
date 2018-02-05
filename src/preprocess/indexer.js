@@ -3,9 +3,9 @@ import fs from 'fs'
 import featureExtractor from './featureExtractor'
 import {generateForwardIndex} from '../helpers/search'
 
-indexSchoolData()
+indexClinicData()
 
-export function indexSchoolData () {
+export function indexClinicData () {
   const forwardIndex = generateForwardIndex(featureExtractor, [
     'name',
     'phone',
@@ -13,7 +13,8 @@ export function indexSchoolData () {
     'coordinates',
     'svy21',
     'planningArea',
-    'operatingHrs',
+    'operatingHours',
+    'rawOperatingHours',
     'combinedSpecialties',
     'insurance'
   ])

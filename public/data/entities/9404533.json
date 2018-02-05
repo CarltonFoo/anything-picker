@@ -28,7 +28,7 @@
 		"Community Health Assistance Scheme (CHAS)",
 		"Integrated Screening Programme (ISP) "
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -79,6 +79,14 @@
 		]
 	},
 	"id": "9404533",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Tuesday": "08:30 am to 03:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 06:30 pm to 08:00 pm",
+		"Thursday to Saturday": "08:30 pm to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Emergency Medicine",
 		"General Dental",
@@ -100,8 +108,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

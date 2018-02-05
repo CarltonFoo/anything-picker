@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "17C0043",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"Specialist Medical"
@@ -45,6 +46,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

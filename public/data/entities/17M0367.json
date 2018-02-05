@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "17M0367",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"Specialist Medical"
@@ -45,6 +46,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

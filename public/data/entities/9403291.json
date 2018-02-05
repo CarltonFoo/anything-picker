@@ -26,7 +26,7 @@
 			"Ophthalmology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [],
 		"Wednesday": [],
 		"Tuesday": [
@@ -52,6 +52,15 @@
 		"Public Holiday": []
 	},
 	"id": "9403291",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Wednesday": "Closed",
+		"Tuesday": "04:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 11:00 am",
+		"Friday": "Closed",
+		"Saturday": "08:30 am to 10:30 am",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -72,6 +81,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": []
+	]
 }

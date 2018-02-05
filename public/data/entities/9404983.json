@@ -28,7 +28,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:30",
@@ -74,6 +74,12 @@
 		"Public Holiday": []
 	},
 	"id": "9404983",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "10:30 am to 12:00 pm, 01:00 pm to 06:30 pm",
+		"Thursday to Thursday": "Closed",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Orthodontics",
 		"General Dental",
@@ -95,6 +101,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

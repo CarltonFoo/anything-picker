@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "17M0023",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Psychiatry",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

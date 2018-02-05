@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9405588",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"Specialist Dental"
@@ -46,6 +47,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

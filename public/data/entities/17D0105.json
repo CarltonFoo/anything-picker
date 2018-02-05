@@ -20,6 +20,7 @@
 		"General Dental": true
 	},
 	"id": "17D0105",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -40,6 +41,5 @@
 		"SE",
 		"CC",
 		"SM"
-	],
-	"insurance": []
+	]
 }

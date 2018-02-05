@@ -24,7 +24,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -83,6 +83,15 @@
 		]
 	},
 	"id": "15M0012",
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday to Saturday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical",
 		"Yellow Fever Vaccination"
@@ -102,10 +111,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"CHAS",
-		"Great Eastern"
 	]
 }

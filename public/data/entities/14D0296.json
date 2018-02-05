@@ -21,6 +21,9 @@
 		"Specialist Dental": true
 	},
 	"id": "14D0296",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental"
@@ -40,8 +43,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"01:00",
@@ -64,6 +64,12 @@
 		]
 	},
 	"id": "15D0430",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "11:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "11:00 am to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -81,6 +87,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": []
+	]
 }

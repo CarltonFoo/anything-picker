@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "9403092",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Urology",
 		"General Medical",
@@ -50,6 +51,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -84,6 +84,14 @@
 		"Public Holiday": []
 	},
 	"id": "13C0226",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Monday and Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 07:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -102,8 +110,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

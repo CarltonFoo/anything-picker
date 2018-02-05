@@ -21,6 +21,7 @@
 		"General Dental": true
 	},
 	"id": "9400476",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -39,6 +40,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

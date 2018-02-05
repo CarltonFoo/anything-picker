@@ -28,7 +28,7 @@
 			"Otorhinolaryngology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -62,6 +62,13 @@
 		]
 	},
 	"id": "13C0009",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Tuesday": "09:00 am to 01:00 pm",
+		"Wednesday to Wednesday": "Closed",
+		"Thursday to Friday": "09:00 am to 05:00 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Otorhinolaryngology",
 		"Specialist Medical"
@@ -83,6 +90,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

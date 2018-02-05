@@ -22,7 +22,7 @@
 			"Prosthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -67,6 +67,14 @@
 		"Public Holiday": []
 	},
 	"id": "9402559",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday and Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 07:00 pm",
+		"Tuesday to Saturday": "09:00 am to 05:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -87,8 +95,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

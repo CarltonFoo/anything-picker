@@ -28,7 +28,7 @@
 			"Ophthalmology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -93,6 +93,12 @@
 		]
 	},
 	"id": "11C0025",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "10:00 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"General Surgery",
 		"General Medical",
@@ -116,6 +122,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

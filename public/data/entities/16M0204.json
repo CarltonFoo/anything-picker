@@ -23,7 +23,7 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [
 			[
 				"09:00",
@@ -94,6 +94,17 @@
 		]
 	},
 	"id": "16M0204",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "09:00 am to 12:00 pm",
+		"Monday to Friday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday to Sunday": "09:00 am to 12:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -110,11 +121,5 @@
 		"PR",
 		"SL",
 		"SE"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

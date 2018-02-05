@@ -24,6 +24,7 @@
 		]
 	},
 	"id": "17M0096",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Internal Medicine",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

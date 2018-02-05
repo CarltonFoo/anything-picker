@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9404898",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Urology",
 		"General Medical",
@@ -46,6 +47,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

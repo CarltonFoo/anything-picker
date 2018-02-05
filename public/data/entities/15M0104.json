@@ -36,6 +36,7 @@
 		]
 	},
 	"id": "15M0104",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Intensive Care Medicine",
 		"Internal Medicine",
@@ -58,8 +59,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

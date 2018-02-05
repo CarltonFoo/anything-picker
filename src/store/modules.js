@@ -78,22 +78,47 @@ export const planningAreas = {
 
 export const operatingHrs = {
   namespaced: true,
+  props: {
+    selectedTime: String,
+  },
   state: {
     options: [{
-      label: 'OPERATING HOURS',
-      schemes: [
-        {label: 'Morning (7am to 12pm)', value: '7-12'},
-        {label: 'Afternoon (12pm to 6am)', value: '12-6'},
-        {label: 'Evening/Night (6pm to 12am)', value: '6-12'},
-        {label: 'Midnight (12am to 7am)', value: '12-7'},
-        {label: '24 Hours', value: '24'},
+      label: 'DAYS',
+      day: [
+        {label: 'Monday', value: 'Monday'},
+        {label: 'Tuesday', value: 'Tuesday'},
+        {label: 'Wednesday', value: 'Wednesday'},
+        {label: 'Thursday', value: 'Thursday'},
+        {label: 'Friday', value: 'Friday'},
+        {label: 'Saturday', value: 'Saturday'},
+        {label: 'Sunday', value: 'Sunday'},
       ]
-    }],
+      }, {
+      label: 'SELECT TIME',
+      day: [
+        {label: 'Open Now', value: '21:00'},
+        {label: 'Open At...', value: this.selectedTime}
+        // {label: 'Open At...', value: this.time.data.HH + ":" + this.time.data.mm}
+      ]
+    },
+  ],
   selected: []
 },
 getters: {
     selectedDisplayText (state) {
+      const label = []
+      state.options.forEach(operating => {
+          operating.day.forEach(day => {
+            if (optionsSelected(day, state.selected)) {
+              label.push(day.label)
+            }
+          })
+      })
 
+      label.sort(item => item.indexOf('Operating') > -1 ? 0 : 1)
+      // using &nbsp; unicode as space char are collapsed by html
+      return label.length > 3 ? label.length + ' selected'
+        : label.join('\u00A0\u00A0and\u00A0\u00A0')
     }
   }
 }

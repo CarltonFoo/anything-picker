@@ -24,7 +24,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -57,6 +57,12 @@
 		]
 	},
 	"id": "9405199",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Wednesday": "09:00 am to 06:00 pm",
+		"Tuesday and Thursday": "11:00 am to 08:00 pm",
+		"Friday": "09:00 am to 06:00 pm"
+	},
 	"combinedSpecialties": [
 		"Orthodontics",
 		"General Dental",
@@ -76,6 +82,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": []
+	]
 }

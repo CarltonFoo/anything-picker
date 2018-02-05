@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -58,6 +58,13 @@
 		]
 	},
 	"id": "9403181",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Thursday": "10:00 am to 06:00 pm",
+		"Tuesday and Wednesday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 06:00 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -76,6 +83,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

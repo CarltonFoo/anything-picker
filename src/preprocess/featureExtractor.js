@@ -42,8 +42,8 @@ export default {
 
   openingDays (json) {
     const count = {}
-    const operatingHrs = json.operatingHrs || {}
-    Object.keys(operatingHrs).forEach(key => {
+    const operatingHours = json.operatingHours || {}
+    Object.keys(operatingHours).forEach(key => {
       count[key] = 1
     })
     return count
@@ -51,16 +51,20 @@ export default {
 
   openingHours (json) {
     const count = {}
-    const operatingHrs = json.operatingHrs || {}
-    Object.keys(operatingHrs).forEach(key => {
-      const value = operatingHrs[key]
+    const operatingHours = json.operatingHours || {}
+    Object.keys(operatingHours).forEach(key => {
+      const value = operatingHours[key]
       count[value] = 1
     })
     return count
   },
 
-  operatingHrs (json) {
-    return json.operatingHrs || {}
+  operatingHours (json) {
+    return json.operatingHours || {}
+  },
+
+  rawOperatingHours (json) {
+    return json.rawOperatingHours || {}
   },
 
   licenseClass (json) {

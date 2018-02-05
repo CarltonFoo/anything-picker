@@ -27,6 +27,9 @@
 		]
 	},
 	"id": "9404979",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Periodontology",
 		"General Dental",
@@ -47,8 +50,5 @@
 		"MP",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

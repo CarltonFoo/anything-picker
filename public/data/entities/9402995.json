@@ -23,6 +23,7 @@
 		"General Dental": true
 	},
 	"id": "9402995",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Dentistry",
 		"General Dental"
@@ -41,6 +42,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": []
+	]
 }

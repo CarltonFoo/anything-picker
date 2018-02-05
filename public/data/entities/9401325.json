@@ -25,7 +25,7 @@
 			"Plastic Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -78,6 +78,10 @@
 		]
 	},
 	"id": "9401325",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Plastic Surgery",
 		"Specialist Medical"
@@ -97,6 +101,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

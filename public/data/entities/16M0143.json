@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "16M0143",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Geriatric Medicine",
 		"General Medical",
@@ -50,6 +51,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

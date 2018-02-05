@@ -33,7 +33,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -72,6 +72,11 @@
 		]
 	},
 	"id": "14M0396",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday to Saturday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"Day Surgery",
@@ -93,8 +98,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

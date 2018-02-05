@@ -30,6 +30,7 @@
 		]
 	},
 	"id": "15M0212",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"Endoscopy",
@@ -51,8 +52,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

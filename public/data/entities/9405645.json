@@ -25,7 +25,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "9405645",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:30 am to 05:30 pm",
+		"Saturday": "09:30 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Orthodontics",
 		"Specialist Dental",
@@ -84,6 +89,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -26,7 +26,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -66,6 +66,15 @@
 		]
 	},
 	"id": "15D0140",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Thursday": "10:00 am to 08:00 pm",
+		"Friday": "Closed",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
 	"combinedSpecialties": [
 		"Orthodontics",
 		"General Dental",
@@ -86,8 +95,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

@@ -22,6 +22,7 @@
 		"Specialist Medical": true
 	},
 	"id": "16M0070",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthopaedic Surgery",
 		"Specialist Medical"
@@ -41,6 +42,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -28,6 +28,10 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9403994",
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -45,9 +49,5 @@
 		"PR",
 		"SL",
 		"SE"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

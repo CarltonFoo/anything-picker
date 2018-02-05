@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -59,6 +59,13 @@
 		"Sunday": []
 	},
 	"id": "14C0226",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday to Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 03:30 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -76,6 +83,5 @@
 		"GL",
 		"KL",
 		"CA"
-	],
-	"insurance": []
+	]
 }

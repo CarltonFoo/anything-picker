@@ -24,6 +24,7 @@
 		"Specialist Medical": true
 	},
 	"id": "16M0371",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Surgery",
 		"General Medical",
@@ -45,6 +46,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -23,7 +23,7 @@
 	"detailedServices": {
 		"Specialist Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -62,6 +62,11 @@
 		]
 	},
 	"id": "9402668",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:00 am to 07:00 pm",
+		"Saturday": "08:00 am to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -81,6 +86,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

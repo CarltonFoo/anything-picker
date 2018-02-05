@@ -26,7 +26,7 @@
 		"Community Health Assistance Scheme (CHAS)",
 		"Integrated Screening Programme (ISP) "
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"18:30",
@@ -71,6 +71,17 @@
 		]
 	},
 	"id": "9401271",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 03:00 pm",
+		"Monday and Wednesday": "06:30 pm to 09:30 pm",
+		"Friday": "06:30 pm to 09:30 pm",
+		"Saturday and Public Holiday": "08:30 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental",
 		"General Medical"
@@ -92,10 +103,5 @@
 		"SE",
 		"CC",
 		"SM"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9404182",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"General Dental",
@@ -47,6 +48,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

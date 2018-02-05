@@ -30,6 +30,7 @@
 		]
 	},
 	"id": "16C0278",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Prosthodontics",
 		"General Dental",
@@ -53,6 +54,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

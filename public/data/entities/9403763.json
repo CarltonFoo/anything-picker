@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -78,6 +78,13 @@
 		]
 	},
 	"id": "9403763",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Saturday": "09:30 am to 03:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -96,8 +103,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

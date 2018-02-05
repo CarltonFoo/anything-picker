@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9402378",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Surgery",
 		"Specialist Medical"
@@ -45,6 +46,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

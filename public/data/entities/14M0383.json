@@ -25,7 +25,7 @@
 			"Ophthalmology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -64,6 +64,11 @@
 		]
 	},
 	"id": "14M0383",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "02:00 pm to 05:30 pm",
+		"Monday to Saturday": "08:30 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"Specialist Medical"
@@ -84,6 +89,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

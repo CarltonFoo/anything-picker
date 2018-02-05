@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "16M0148",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Assisted Reproduction (IVF)",
@@ -51,6 +52,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "14M0398",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Intensive Care Medicine",
 		"Respiratory Medicine",
@@ -51,6 +52,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "15M0196",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Renal Medicine",
 		"Renal Dialysis",
@@ -46,6 +47,5 @@
 		"PR",
 		"SL",
 		"SE"
-	],
-	"insurance": []
+	]
 }

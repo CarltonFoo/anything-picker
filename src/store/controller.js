@@ -14,10 +14,77 @@ export function getFiltered (state, getters) {
         const selected = state.planningAreas.selected
         match = match && selected.indexOf(clinic.planningArea) > -1
       }
-      // if (state.operatingHrs.selected) {
-      //   const selected = state.operatingHrs.selected
-      //   match = match && clinic.operatingHrs.indexOf(selected) > -1
+      if (state.operatingHrs.selected) {
+        const selected = state.operatingHrs.selected
+        var selectedDays = []
+        for (var i = 0; i < selected.length; i++) {
+          if (selected[i].charAt(0) == 'M' || selected[i].charAt(0) == 'T' || selected[i].charAt(0) == 'W' || selected[i].charAt(0) == 'F' || selected[i].charAt(0) == 'S') {
+            selectedDays[i] = selected[i]
+          }
+          else if (selected[i].charAt(0) == '1' || selected[i].charAt(0) == '2' || selected[i].charAt(0) == '0') {
+            var selectedTime = selected[i]
+          }
+        } // seperate days and hours in selected array
+        for (i=0; i<selectedDays.length; i++) {
+          var day = selectedDays[i];
+          if (clinic.operatingHrs[day] && clinic.operatingHrs[day].length >= 1) {
+            var ifopen
+            clinic.operatingHrs[day].forEach(function(str) {
+              var str = str.toString();
+              var arr = str.split(",");
+              var open = arr.splice(0,1).join("");
+              var close = arr.splice(0,1).join("");
+
+              var searcharr = String(selectedTime).split(":");
+              var h = searcharr.splice(0,1).join("");
+              var m = searcharr.splice(0,1).join("");
+
+              var openarr = open.split(":");
+              var a = openarr.splice(0,1).join("");
+              var b = openarr.splice(0,1).join("");
+
+              var closearr = close.split(":");
+              var c = closearr.splice(0,1).join("");
+              var d = closearr.splice(0,1).join("");
+
+              if (a > c || ((a == c) && (b > d))) {
+                // not a valid input
+              } else {
+                  if (h > a && h < c) {
+                    ifopen = true;
+                  } else if (h == a && m >= b) {
+                    ifopen = true;
+                  } else if (h == c && m <= d) {
+                    ifopen = true;
+                  } else {
+                    ifopen = false;
+                  }
+                }
+              });
+            if (ifopen == true) {
+              match = true
+              console.log(clinic.name + " is open.");
+            } else {
+              match = false
+              console.log(clinic.name + " is closed.");
+            }
+          } else {
+            match = false
+            console.log(clinic.name + " has no opening hours avaliable on " + selectedDays[i])
+          }
+        }
+
+      }
+
+      // if (state.psle.selected) {
+      //   const selected = +state.psle.selected
+      //   const selectedRange = {lower: selected, upper: selected + 9}
+      //   match = match && school.psleAggregate.some(range => {
+      //     return range.lower <= selectedRange.upper &&
+      //       Math.min(range.lower + 45, range.upper) >= selectedRange.lower
+      //   })
       // }
+
       if (state.combinedSpecialties.selected.length > 0) {
         const selected = state.combinedSpecialties.selected
         match = match && clinic.combinedSpecialties.some(type => selected.includes(type))

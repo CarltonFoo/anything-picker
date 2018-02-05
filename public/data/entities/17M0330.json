@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "17M0330",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Gastroenterology",
 		"Specialist Medical"
@@ -47,8 +48,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

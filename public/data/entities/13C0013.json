@@ -25,7 +25,7 @@
 			"Paediatric Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"18:00",
@@ -70,6 +70,11 @@
 		]
 	},
 	"id": "13C0013",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "06:00 pm to 08:30 pm",
+		"Saturday and Sunday": "09:00 am to 12:30 pm"
+	},
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"Specialist Medical"
@@ -89,6 +94,5 @@
 		"SG",
 		"CC",
 		"YS"
-	],
-	"insurance": []
+	]
 }

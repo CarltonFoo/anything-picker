@@ -28,6 +28,7 @@
 		]
 	},
 	"id": "16M0154",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"General Medical",
@@ -49,6 +50,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": []
+	]
 }

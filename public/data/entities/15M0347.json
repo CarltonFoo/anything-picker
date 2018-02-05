@@ -33,6 +33,7 @@
 		]
 	},
 	"id": "15M0347",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Internal Medicine",
 		"Renal Medicine",
@@ -56,6 +57,5 @@
 		"SE",
 		"CC",
 		"SM"
-	],
-	"insurance": []
+	]
 }

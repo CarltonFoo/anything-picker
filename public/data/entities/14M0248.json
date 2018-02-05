@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "14M0248",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -44,6 +45,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

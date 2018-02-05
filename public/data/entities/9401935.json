@@ -25,6 +25,7 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "9401935",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -44,6 +45,5 @@
 		"TH",
 		"CK",
 		"CL"
-	],
-	"insurance": []
+	]
 }

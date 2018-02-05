@@ -19,7 +19,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -96,6 +96,14 @@
 		"Public Holiday": []
 	},
 	"id": "9401529",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday to Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -116,6 +124,5 @@
 		"SE",
 		"CC",
 		"SM"
-	],
-	"insurance": []
+	]
 }

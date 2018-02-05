@@ -30,6 +30,7 @@
 		]
 	},
 	"id": "13C0031",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Urology",
 		"Endoscopy",
@@ -52,6 +53,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

@@ -29,7 +29,7 @@
 			"Prosthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [
 			[
 				"00:00",
@@ -80,6 +80,11 @@
 		]
 	},
 	"id": "12C0039",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "10:00 am to 10:00 pm",
+		"Monday to Sunday": "10:00 am to 10:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Dental",
 		"Specialist Dental",
@@ -107,6 +112,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": []
+	]
 }

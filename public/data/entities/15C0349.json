@@ -24,7 +24,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -47,6 +47,10 @@
 		]
 	},
 	"id": "15C0349",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday and Friday": "10:00 am to 02:00 pm, 04:00 pm to 08:00 pm"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -67,6 +71,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

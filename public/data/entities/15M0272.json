@@ -24,6 +24,9 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "15M0272",
+	"insurance": [
+		"AXA Clinicare"
+	],
 	"combinedSpecialties": [
 		"General Medical",
 		"Yellow Fever Vaccination"
@@ -42,8 +45,5 @@
 		"BT",
 		"TN",
 		"CL"
-	],
-	"insurance": [
-		"AXA Clinicare"
 	]
 }

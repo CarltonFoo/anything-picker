@@ -16,7 +16,7 @@
 			"specialties": []
 		}
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"14:00",
@@ -55,6 +55,12 @@
 		]
 	},
 	"id": "12C0184",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Wednesday": "12:00 pm to 08:00 pm",
+		"Friday to Friday": "12:00 pm to 08:00 pm",
+		"Saturday and Sunday": "10:00 am to 05:00 pm"
+	},
 	"combinedSpecialties": [],
 	"coordinates": [
 		103.8461152,
@@ -71,6 +77,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -31,6 +31,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9405582",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Hand Surgery",
 		"Specialist Medical",
@@ -51,6 +52,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": []
+	]
 }

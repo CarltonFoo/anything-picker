@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "16M0349",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Neurology",
 		"Specialist Medical"
@@ -48,6 +49,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

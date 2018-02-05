@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "9405458",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Medicine",
 		"General Medical",
@@ -49,6 +50,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

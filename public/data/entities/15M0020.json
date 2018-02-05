@@ -23,6 +23,11 @@
 		"General Medical": true
 	},
 	"id": "15M0020",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -39,10 +44,5 @@
 	"neighbours": [
 		"PN",
 		"WC"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

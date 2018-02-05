@@ -21,7 +21,7 @@
 	"detailedServices": {
 		"General Medical": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"13:00",
@@ -62,6 +62,16 @@
 		"Public Holiday": []
 	},
 	"id": "14M0098",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday": "01:00 pm to 09:00 pm",
+		"Tuesday": "10:00 am to 09:00 pm",
+		"Wednesday": "10:00 am to 06:30 pm",
+		"Thursday": "10:00 am to 09:00 pm",
+		"Friday": "01:00 pm to 09:00 pm",
+		"Saturday": "10:00 am to 04:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -81,6 +91,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

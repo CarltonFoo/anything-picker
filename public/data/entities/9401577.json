@@ -27,7 +27,7 @@
 			"Respiratory Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -90,6 +90,10 @@
 		]
 	},
 	"id": "9401577",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Intensive Care Medicine",
 		"Respiratory Medicine",
@@ -110,6 +114,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

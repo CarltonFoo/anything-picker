@@ -37,6 +37,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "14M0174",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Intensive Care Medicine",
 		"Internal Medicine",
@@ -61,8 +62,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

@@ -23,6 +23,10 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "17M0123",
+	"insurance": [
+		"AXA Clinicare",
+		"AXA Medismart"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -40,9 +44,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"AXA Medismart"
 	]
 }

@@ -23,6 +23,7 @@
 		]
 	},
 	"id": "17M0270",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Radiation Oncology",
 		"General Medical",
@@ -45,6 +46,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

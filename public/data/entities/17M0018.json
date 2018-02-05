@@ -20,6 +20,10 @@
 		"General Medical": true
 	},
 	"id": "17M0018",
+	"insurance": [
+		"AXA Medismart",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -38,9 +42,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"Great Eastern"
 	]
 }

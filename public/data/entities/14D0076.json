@@ -26,7 +26,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [
 			[
 				"00:00",
@@ -77,6 +77,14 @@
 		]
 	},
 	"id": "14D0076",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Public Holiday": "10:00 am to 05:00 pm",
+		"Monday to Friday": "11:00 am to 09:00 pm",
+		"Saturday and Sunday": "10:00 am to 05:00 pm"
+	},
 	"combinedSpecialties": [
 		"Orthodontics",
 		"General Dental",
@@ -97,8 +105,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

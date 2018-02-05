@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9404689",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Paediatric Cardiology",
 		"Paediatric Medicine",
@@ -46,6 +47,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

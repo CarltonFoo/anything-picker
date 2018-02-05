@@ -25,6 +25,11 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "16C0308",
+	"insurance": [
+		"AXA Medismart",
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -42,10 +47,5 @@
 		"WD",
 		"SM",
 		"YS"
-	],
-	"insurance": [
-		"AXA Medismart",
-		"CHAS",
-		"Great Eastern"
 	]
 }

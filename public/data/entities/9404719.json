@@ -22,7 +22,7 @@
 	"mohApprovedSpecialServices": [
 		"Liposuction"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:15",
@@ -63,6 +63,12 @@
 		"Public Holiday": []
 	},
 	"id": "9404719",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "10:15 am to 06:30 pm",
+		"Saturday": "10:15 am to 02:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Liposuction"
 	],
@@ -81,6 +87,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

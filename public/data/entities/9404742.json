@@ -47,6 +47,7 @@
 		]
 	},
 	"id": "9404742",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Hand Surgery",
 		"Day Surgery",
@@ -84,6 +85,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

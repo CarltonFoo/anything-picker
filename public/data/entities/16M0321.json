@@ -24,6 +24,7 @@
 		]
 	},
 	"id": "16M0321",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Ophthalmology",
 		"General Medical",
@@ -44,6 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -28,6 +28,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "16M0293",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Specialist Medical"
@@ -48,8 +49,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

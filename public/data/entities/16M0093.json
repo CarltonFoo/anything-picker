@@ -23,6 +23,7 @@
 		"General Medical": true
 	},
 	"id": "16M0093",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -41,6 +42,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

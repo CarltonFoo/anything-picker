@@ -23,7 +23,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -80,6 +80,13 @@
 		"Public Holiday": []
 	},
 	"id": "14M0360",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Thursday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:30 am to 01:00 pm",
+		"Saturday": "09:30 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Family Physician",
 		"Specialist Medical",
@@ -101,8 +108,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

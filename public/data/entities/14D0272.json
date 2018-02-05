@@ -23,6 +23,9 @@
 		"General Dental": true
 	},
 	"id": "14D0272",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Dental Public Health",
 		"General Dental"
@@ -41,8 +44,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

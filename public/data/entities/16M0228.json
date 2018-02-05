@@ -28,6 +28,10 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"id": "16M0228",
+	"insurance": [
+		"AXA Clinicare",
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -48,9 +52,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": [
-		"AXA Clinicare",
-		"CHAS"
 	]
 }

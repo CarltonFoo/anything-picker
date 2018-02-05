@@ -18,6 +18,7 @@
 		"General Medical": true
 	},
 	"id": "17M0298",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -35,6 +36,5 @@
 		"PR",
 		"PL",
 		"CH"
-	],
-	"insurance": []
+	]
 }

@@ -23,6 +23,7 @@
 		"General Medical": true
 	},
 	"id": "14M0051",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Occupational Medicine",
 		"General Medical"
@@ -38,6 +39,5 @@
 	"planningArea": "WI",
 	"neighbours": [
 		"JE"
-	],
-	"insurance": []
+	]
 }

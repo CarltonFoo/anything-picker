@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9404819",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Hand Surgery",
 		"Specialist Medical"
@@ -46,8 +47,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

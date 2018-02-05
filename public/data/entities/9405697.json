@@ -26,7 +26,7 @@
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
 	],
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -85,6 +85,11 @@
 		]
 	},
 	"id": "9405697",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Cardiology",
 		"General Medical"
@@ -105,6 +110,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

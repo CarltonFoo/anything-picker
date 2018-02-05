@@ -33,6 +33,7 @@
 		]
 	},
 	"id": "16M0312",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Otorhinolaryngology",
 		"Day Surgery",
@@ -57,6 +58,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

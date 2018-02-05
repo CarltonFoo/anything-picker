@@ -29,7 +29,7 @@
 			"General Surgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:00",
@@ -68,6 +68,11 @@
 		]
 	},
 	"id": "14M0254",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:00 am to 08:00 pm",
+		"Saturday": "08:00 am to 03:00 pm"
+	},
 	"combinedSpecialties": [
 		"General Surgery",
 		"Endoscopy",
@@ -90,8 +95,5 @@
 		"SE",
 		"SG",
 		"TP"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

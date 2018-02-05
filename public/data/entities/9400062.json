@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "9400062",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Cardiology",
 		"Specialist Medical"
@@ -46,6 +47,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": []
+	]
 }

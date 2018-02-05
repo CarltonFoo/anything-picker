@@ -25,7 +25,7 @@
 			"Obstetrics & Gynaecology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [],
 		"Tuesday": [],
 		"Wednesday": [],
@@ -39,6 +39,11 @@
 		]
 	},
 	"id": "9401708",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "Closed",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
 	"combinedSpecialties": [
 		"Obstetrics & Gynaecology",
 		"Abortion",
@@ -59,6 +64,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

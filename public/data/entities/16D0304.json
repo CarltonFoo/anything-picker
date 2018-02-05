@@ -25,6 +25,7 @@
 		"General Dental": true
 	},
 	"id": "16D0304",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"Specialised Diagnostic Radiology",
@@ -46,6 +47,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

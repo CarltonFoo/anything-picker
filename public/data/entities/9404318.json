@@ -20,6 +20,7 @@
 		"General Medical": true
 	},
 	"id": "9404318",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -34,6 +35,5 @@
 	"planningArea": "WI",
 	"neighbours": [
 		"JE"
-	],
-	"insurance": []
+	]
 }

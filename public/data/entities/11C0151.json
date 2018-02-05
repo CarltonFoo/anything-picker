@@ -23,6 +23,9 @@
 		"General Medical": true
 	},
 	"id": "11C0151",
+	"insurance": [
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -42,8 +45,5 @@
 		"HG",
 		"SE",
 		"TP"
-	],
-	"insurance": [
-		"Great Eastern"
 	]
 }

@@ -25,6 +25,7 @@
 		"General Dental": true
 	},
 	"id": "15D0337",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Oral & Maxillo-Facial Surgery",
 		"General Dental"
@@ -44,6 +45,5 @@
 		"HG",
 		"MP",
 		"TP"
-	],
-	"insurance": []
+	]
 }

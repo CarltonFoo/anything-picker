@@ -25,6 +25,7 @@
 		"Specialist Medical": true
 	},
 	"id": "9403654",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Neonatology",
 		"Paediatric Medicine",
@@ -48,8 +49,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

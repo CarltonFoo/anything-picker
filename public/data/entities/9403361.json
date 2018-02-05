@@ -30,7 +30,7 @@
 			"Urology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -69,6 +69,11 @@
 		]
 	},
 	"id": "9403361",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 04:00 pm",
+		"Saturday": "09:00 am to 11:00 am"
+	},
 	"combinedSpecialties": [
 		"Urology",
 		"Endoscopy",
@@ -90,6 +95,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

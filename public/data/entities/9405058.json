@@ -20,6 +20,7 @@
 		"Specialist Medical": true
 	},
 	"id": "9405058",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Specialist Medical"
 	],
@@ -37,6 +38,5 @@
 		"TN",
 		"SI",
 		"CA"
-	],
-	"insurance": []
+	]
 }

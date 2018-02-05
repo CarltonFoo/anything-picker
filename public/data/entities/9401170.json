@@ -26,7 +26,7 @@
 			"Neurosurgery"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -85,6 +85,11 @@
 		]
 	},
 	"id": "9401170",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 pm to 12:00 pm"
+	},
 	"combinedSpecialties": [
 		"Neurosurgery",
 		"Specialist Medical"
@@ -104,6 +109,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -34,6 +34,7 @@
 		]
 	},
 	"id": "13C0208",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Prosthodontics",
 		"Specialised Diagnostic Radiology",
@@ -58,6 +59,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

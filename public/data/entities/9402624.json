@@ -23,6 +23,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "9402624",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -42,6 +43,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

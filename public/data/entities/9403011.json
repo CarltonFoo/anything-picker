@@ -24,6 +24,7 @@
 		]
 	},
 	"id": "9403011",
+	"insurance": [],
 	"combinedSpecialties": [
 		"General Medical",
 		"Specialist Medical",
@@ -42,6 +43,5 @@
 		"JE",
 		"PN",
 		"JW"
-	],
-	"insurance": []
+	]
 }

@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9400702",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Palliative Medicine",
 		"General Medical",
@@ -47,6 +48,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

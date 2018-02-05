@@ -22,6 +22,9 @@
 		"General Medical": true
 	},
 	"id": "9401784",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -40,8 +43,5 @@
 		"JW",
 		"TS",
 		"WC"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

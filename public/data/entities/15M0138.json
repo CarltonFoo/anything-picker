@@ -27,6 +27,7 @@
 		]
 	},
 	"id": "15M0138",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Neurosurgery",
 		"General Medical",
@@ -49,6 +50,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

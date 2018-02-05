@@ -22,7 +22,7 @@
 	"detailedServices": {
 		"General Dental": true
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:30",
@@ -87,6 +87,13 @@
 		]
 	},
 	"id": "9403946",
+	"insurance": [
+		"CHAS"
+	],
+	"rawOperatingHours": {
+		"Monday and Friday": "09:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday to Thursday": "09:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:30 pm"
+	},
 	"combinedSpecialties": [
 		"Periodontology",
 		"General Dental"
@@ -106,8 +113,5 @@
 		"SG",
 		"CC",
 		"YS"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

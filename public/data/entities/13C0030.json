@@ -29,7 +29,7 @@
 			"Orthodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Public Holiday": [],
 		"Monday": [
 			[
@@ -70,6 +70,13 @@
 		"Sunday": []
 	},
 	"id": "13C0030",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:00 am to 06:00 pm",
+		"Saturday": "08:00 am to 01:30 pm",
+		"Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Orthodontics",
 		"Specialised Diagnostic Radiology",
@@ -92,6 +99,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

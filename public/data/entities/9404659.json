@@ -25,6 +25,7 @@
 		]
 	},
 	"id": "9404659",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Orthodontics",
 		"Specialist Dental"
@@ -44,6 +45,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

@@ -28,7 +28,7 @@
 			"Internal Medicine"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -67,6 +67,10 @@
 		]
 	},
 	"id": "9401011",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:00 am to 05:15 pm"
+	},
 	"combinedSpecialties": [
 		"Cardiology",
 		"Specialist Medical",
@@ -87,6 +91,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

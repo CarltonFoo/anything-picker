@@ -29,7 +29,7 @@
 			"Ophthalmology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"00:00",
@@ -68,6 +68,11 @@
 		]
 	},
 	"id": "13C0171",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "10:00 am to 07:00 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	},
 	"combinedSpecialties": [
 		"Aviation Medicine",
 		"Ophthalmology",
@@ -88,8 +93,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

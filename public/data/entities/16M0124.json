@@ -28,6 +28,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"id": "16M0124",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical"
@@ -49,8 +52,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

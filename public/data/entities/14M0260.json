@@ -29,6 +29,7 @@
 		]
 	},
 	"id": "14M0260",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Gastroenterology",
 		"General Medical",
@@ -51,8 +52,5 @@
 		"NV",
 		"QT",
 		"CA"
-	],
-	"insurance": [
-		"AIA"
 	]
 }

@@ -25,7 +25,7 @@
 			"Endodontics"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:00",
@@ -66,6 +66,12 @@
 		"Public Holiday": []
 	},
 	"id": "11C0130",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 03:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Endodontics",
 		"General Dental",
@@ -87,6 +93,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

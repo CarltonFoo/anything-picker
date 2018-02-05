@@ -26,6 +26,7 @@
 		]
 	},
 	"id": "9405141",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Medical Oncology",
 		"General Medical",
@@ -46,6 +47,5 @@
 		"MP",
 		"NV",
 		"TN"
-	],
-	"insurance": []
+	]
 }

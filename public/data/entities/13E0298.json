@@ -15,6 +15,7 @@
 		}
 	],
 	"id": "13E0298",
+	"insurance": [],
 	"combinedSpecialties": [],
 	"coordinates": [
 		103.7380203,
@@ -32,6 +33,5 @@
 		"TH",
 		"CL",
 		"WI"
-	],
-	"insurance": []
+	]
 }

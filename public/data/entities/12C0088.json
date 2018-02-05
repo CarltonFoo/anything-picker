@@ -26,7 +26,7 @@
 			"Dermatology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"08:30",
@@ -67,6 +67,12 @@
 		"Public Holiday": []
 	},
 	"id": "12C0088",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday to Public Holiday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Dermatology",
 		"General Medical",
@@ -88,6 +94,5 @@
 		"TN",
 		"TP",
 		"CA"
-	],
-	"insurance": []
+	]
 }

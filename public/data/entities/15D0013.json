@@ -20,6 +20,10 @@
 		"General Dental": true
 	},
 	"id": "15D0013",
+	"insurance": [
+		"CHAS",
+		"Great Eastern"
+	],
 	"combinedSpecialties": [
 		"General Dental"
 	],
@@ -40,9 +44,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": [
-		"CHAS",
-		"Great Eastern"
 	]
 }

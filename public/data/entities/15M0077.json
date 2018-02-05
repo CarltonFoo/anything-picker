@@ -23,6 +23,7 @@
 		"Yellow Fever Vaccination": true
 	},
 	"id": "15M0077",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Family Physician",
 		"General Medical",
@@ -42,6 +43,5 @@
 		"PR",
 		"PL",
 		"CH"
-	],
-	"insurance": []
+	]
 }

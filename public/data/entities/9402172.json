@@ -24,7 +24,7 @@
 			"Dermatology"
 		]
 	},
-	"operatingHours": {
+	"operatingHrs": {
 		"Monday": [
 			[
 				"09:45",
@@ -88,6 +88,11 @@
 		"Sunday": []
 	},
 	"id": "9402172",
+	"insurance": [],
+	"rawOperatingHours": {
+		"Monday to Saturday": "09:45 am to 05:00 pm, 10:00 am to 02:00 pm",
+		"Sunday and Sunday": "Closed"
+	},
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -109,6 +114,5 @@
 		"HG",
 		"SG",
 		"CC"
-	],
-	"insurance": []
+	]
 }

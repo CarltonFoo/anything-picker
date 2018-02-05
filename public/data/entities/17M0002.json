@@ -20,6 +20,9 @@
 		"General Medical": true
 	},
 	"id": "17M0002",
+	"insurance": [
+		"CHAS"
+	],
 	"combinedSpecialties": [
 		"General Medical"
 	],
@@ -40,8 +43,5 @@
 		"WD",
 		"CK",
 		"WC"
-	],
-	"insurance": [
-		"CHAS"
 	]
 }

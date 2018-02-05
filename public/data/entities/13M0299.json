@@ -28,6 +28,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"id": "13M0299",
+	"insurance": [],
 	"combinedSpecialties": [
 		"Dermatology",
 		"Specialist Medical"
@@ -47,8 +48,5 @@
 		"MP",
 		"PL",
 		"TM"
-	],
-	"insurance": [
-		"AIA"
 	]
 }
