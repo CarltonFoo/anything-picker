@@ -20,8 +20,7 @@
         @bookmark="onBookmark"
         @focus="onFocus"
         @narrow="onNarrow"
-        @toggleDrawer="toggleDrawer"
-        @toggleList="toggleList "/>
+        @toggleDrawer="toggleDrawer"/>
     </transition>
     <FilterViewMobile ref="drawer" class="mobile-only" />
   </q-layout>
@@ -77,10 +76,6 @@ export default {
     },
     toggleDrawer () {
       this.$refs.drawer.$children[0].toggle()
-    },
-    toggleList () {
-      console.log("uh")
-      this.$refs.list.$children[0].toggle()
     },
     closeMap () {
     }

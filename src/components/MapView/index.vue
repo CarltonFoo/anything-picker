@@ -2,7 +2,7 @@
   <div class="picker-map column">
     <div class="map-container auto" ref="map" />
     <PostalCodeControl class="absolute-top-left" />
-    <ShowClinicList class="absolute-bottom-right"/>
+    <!-- <ShowClinicList class="absolute-bottom-right"/> -->
   </div>
 </template>
 

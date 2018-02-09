@@ -32,3 +32,15 @@ export class ThrottledQueue {
     return this.tail
   }
 }
+
+export function currentTime () {
+  function addZero(i) {
+    if (i < 10) {
+        i = "0" + i;
+    }
+    return i;
+  }
+  var d = new Date()
+  var currentTime = addZero(d.getHours()) + ":" + addZero(d.getMinutes())
+  return currentTime
+}

@@ -101,14 +101,14 @@ function parseClinicInfo ($) {
           result.programmes.push($(e).text())
         })
     } else if ($(this).children('h2').text() === 'Operating Hours') {
-      result.operatingHours = {}
-      const operatingHours = $(this).next('table').find('td').contents()
-      operatingHours.each((i, e) => {
+      result.operatingHrs = {}
+      const operatingHrs = $(this).next('table').find('td').contents()
+      operatingHrs.each((i, e) => {
         if (e.name !== 'strong') return
         const $e = $(e)
         const key = $e.text()
-        const value = operatingHours[i + 1].data.slice(2).trim()
-        result.operatingHours[key] = value
+        const value = operatingHrs[i + 1].data.slice(2).trim()
+        result.operatingHrs[key] = value
       })
     }
   })

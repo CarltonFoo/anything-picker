@@ -7,12 +7,15 @@
       <div>
         <div>{{clinicSummary.combinedSpecialties}}</div>
         <dl>
-          <dt>Location:</dt>
-          <dd>{{clinicSummary.address}}</dd>
 
-          <template v-if="clinicSummary.operatingHrs">
+          <template v-if="clinicSummary.address">
+            <dt>Location:</dt>
+            <dd>{{clinicSummary.address}}</dd>
+          </template>
+
+          <template v-if="clinicSummary.rawOperatingHours">
             <dt>Operating Hours:</dt>
-            <dd>{{clinicSummary.operatingHrs}}</dd>
+            <dd>{{clinicSummary.rawOperatingHours}}</dd>
           </template>
 
           <template v-if="clinicSummary.insurance">
@@ -82,7 +85,7 @@
         </dl>
       </q-collapsible>
 
-      <q-collapsible ref="MOHServices" label="MOH APPROVED SERVICES" class="text-primary">
+      <q-collapsible v-if="this.info.mohApprovedSpecialServices" ref="MOHServices" label="MOH APPROVED SERVICES" class="text-primary">
         <dl>
           <template v-for="row in MOHServices" v-if="row.value">
             <dt>{{row.label}}</dt>
@@ -156,51 +159,57 @@ export default {
   },
   computed: {
     clinicSummary () {
-      const combinedSpecialties = this.info.combinedSpecialties['Type of Clinic']
-      const address = this.info.address['Location']
-      const operatingHrs = this.info.operatingHrs['Operating Hours']
-      const insurance = this.info.insurance['Insurance Coverage']
+      const combinedSpecialties = String(this.info.combinedSpecialties).replace(",", ", ")
+      const address = this.info.address
+      var rawOperatingHours
+      if (this.info.rawOperatingHours) {
+        rawOperatingHours = JSON.stringify(this.info.rawOperatingHours, null, " ").replace("{}", "No operating hours avaliable.").replace(/"|"|{|}/g, '').replace(":", ": ").trim()
+      } else {
+        rawOperatingHours = "No operating hours avaliable."
+      }
+      const insurance = String(this.info.insurance)
       return {
         combinedSpecialties,
         address,
-        operatingHrs,
+        rawOperatingHours,
         insurance,
       }
     },
     contactInfo () {
-      return [
-        {label: 'Email', value: this.info.email.toLowerCase(), href: 'mailto:' + this.info.email},
+      return this.info && [
         {label: 'Address', value: this.info.address},
-        {label: 'Telephone / Fax', value: (this.info.telephone || 'Not available') + ' / ' + (this.info.fax || 'Not available')}
+        {label: 'Telephone / Fax', value: (this.info.tel || 'Not available') + ' / ' + (String(this.info.fax).replace("00000000", "Not available") || 'Not available')}
       ]
     },
     license () {
-      return [
-        {label: 'Licensee', value: info.licensee},
-        {label: 'License Period', value: info.licensePeriod},
-        {label: 'License Class', value: info.licenseClass}
+      return this.info && [
+        {label: 'Licensee', value: this.info.licensee},
+        {label: 'License Period', value: this.info.licensePeriod},
+        {label: 'License Class', value: String(this.info.licenseClass).replace(/((\[)|(\]))/g, "")}
       ]
     },
     doctorInCharge () {
-      const info = this.info.doctorInCharge
-      return [
-        {label: 'Name', value: info['name']},
-        {label: 'Qualification', value: info['qualifications']},
-        {label: 'Specialties', value: info['specialties']}
-      ]
+      if (this.info) {
+        const info = this.info.doctorInCharge
+        return [
+          {label: 'Name', value: String(info[0].name)},
+          {label: 'Qualification', value: info[0].qualifications},
+          {label: 'Specialties', value: String(info[0].specialties)}
+        ]
+      }
     },
     MOHServices () {
-      return [
+      return this.info && [
         {label: 'MOH Approved Services', value: this.info.mohApprovedSpecialServices}
       ]
     },
     detailedServices () {
-      return [
-        {label: 'Services', value: this.info.detailedServices}
+      return this.info && [
+        {label: 'Services', value: JSON.stringify(this.info.detailedServices).replace(/"|"|{|}/g, '').replace(":true", "").trim()}
       ]
     },
     programmes () {
-      return [
+      return this.info && [
         {label: 'Programmes', value: this.info.programmes}
       ]
     }
@@ -231,7 +240,7 @@ export default {
     padding: 0 28px 30px 36px;
 
     dl {
-      margin: 1em 0;
+      margin: 2em 0;
     }
 
     & > span {
@@ -346,7 +355,7 @@ export default {
   }
 
   dd ~ dt {
-    margin-top: 1em;
+    margin-top: 1.5em;
   }
 
   dt {

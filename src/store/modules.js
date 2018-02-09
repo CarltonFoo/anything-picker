@@ -1,5 +1,6 @@
-import {optionsSelected} from 'helpers/util'
+import {optionsSelected, currentTime} from 'helpers/util'
 import {capitalize} from 'helpers/text'
+import {store} from '../store'
 
 export const planningAreas = {
   namespaced: true,
@@ -78,9 +79,6 @@ export const planningAreas = {
 
 export const operatingHrs = {
   namespaced: true,
-  props: {
-    selectedTime: String,
-  },
   state: {
     options: [{
       label: 'DAYS',
@@ -96,8 +94,8 @@ export const operatingHrs = {
       }, {
       label: 'SELECT TIME',
       day: [
-        {label: 'Open Now', value: '21:00'},
-        {label: 'Open At...', value: this.selectedTime}
+        {label: 'Open Now', value: currentTime()},
+        {label: 'Open At...', value: '12:00'}
         // {label: 'Open At...', value: this.time.data.HH + ":" + this.time.data.mm}
       ]
     },
@@ -105,6 +103,7 @@ export const operatingHrs = {
   selected: []
 },
 getters: {
+    selectedTime: rootState => rootState.selectedTime,
     selectedDisplayText (state) {
       const label = []
       state.options.forEach(operating => {
@@ -118,7 +117,12 @@ getters: {
       label.sort(item => item.indexOf('Operating') > -1 ? 0 : 1)
       // using &nbsp; unicode as space char are collapsed by html
       return label.length > 3 ? label.length + ' selected'
-        : label.join('\u00A0\u00A0and\u00A0\u00A0')
+        : label.join('\u00A0\u00A0on\u00A0\u00A0')
+    }
+  },
+  mutations: {
+    getSelectedTime (rootState, time) {
+      rootState.selectedTime = time
     }
   }
 }

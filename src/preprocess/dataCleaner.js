@@ -32,7 +32,7 @@ files.forEach(file => {
     const rawArr = []
     processed.id = raw.hciCode
     processed.insurance = rawArr
-    processed.rawOperatingHours = raw.operatingHours
+    processed.rawOperatingHours = raw.operatingHrs
 
     if (!raw.licenseClass) {
       const [licensePeriod, licenseClass] = raw.licensePeriod.split(/[\n\t]+/)
@@ -40,8 +40,8 @@ files.forEach(file => {
       processed.licenseClass = licenseClass
     }
 
-    if (raw.operatingHours) {
-      processed.operatingHours = cleanOperatingHours(raw.operatingHours)
+    if (raw.operatingHrs) {
+      processed.operatingHrs = cleanOperatingHours(raw.operatingHrs)
     }
 
     if (raw.doctorInCharge) {
@@ -164,7 +164,7 @@ function cleanOperatingTime (input) {
 }
 
 function transformTime (input) {
-  const inputArr = input.slice(1, 6).split(':')
+  const inputArr = input.slice(0, 4).split(':')
   const hour = parseInt(inputArr[0])
   const min = parseInt(inputArr[1])
   if (input.indexOf('am') > 1) {

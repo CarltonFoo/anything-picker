@@ -13,7 +13,7 @@ export function indexClinicData () {
     'coordinates',
     'svy21',
     'planningArea',
-    'operatingHours',
+    'operatingHrs',
     'rawOperatingHours',
     'combinedSpecialties',
     'insurance'

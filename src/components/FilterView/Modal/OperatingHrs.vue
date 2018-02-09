@@ -17,6 +17,7 @@
         <div class="select-group">
           <vue-timepicker
           @change="changeHandler"
+          :value="selectedTime(operatingHrs)"
           format="HH:mm"
           :minute-interval="10"
           >
@@ -47,7 +48,8 @@ export default {
       'selectOptions',
       'unselectOptions',
       'exportOptions',
-      'resetOptions'
+      'resetOptions',
+      'selectedTime'
     ]),
     checked (options) {
       return this.optionsSelected({module: 'operatingHrs', options})
@@ -63,14 +65,22 @@ export default {
       this.exportOptions().then(query => this.$router.push({query}))
     },
     changeHandler (eventData) {
-      const selectedTime = eventData.data.HH + ": " + eventData.data.mm
+      const selectedTime = eventData.data.HH + ":" + eventData.data.mm
       console.log(selectedTime)
-      // return selectedTime
+      return this.selectedTime(selectedTime)
     }
   },
   components: {
     VueTimepicker
-  }
+  },
+  // data: function () {
+  //   return {
+  //     selectedTime: {
+  //       HH: "12",
+  //       mm: "00"
+  //     }
+  //   }
+  // }
 }
 </script>
 

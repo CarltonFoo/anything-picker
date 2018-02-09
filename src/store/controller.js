@@ -22,7 +22,7 @@ export function getFiltered (state, getters) {
             selectedDays[i] = selected[i]
           }
           else if (selected[i].charAt(0) == '1' || selected[i].charAt(0) == '2' || selected[i].charAt(0) == '0') {
-            var selectedTime = selected[i]
+            var inputTime = selected[i]
           }
         } // seperate days and hours in selected array
         for (i=0; i<selectedDays.length; i++) {
@@ -35,7 +35,7 @@ export function getFiltered (state, getters) {
               var open = arr.splice(0,1).join("");
               var close = arr.splice(0,1).join("");
 
-              var searcharr = String(selectedTime).split(":");
+              var searcharr = String(inputTime).split(":");
               var h = searcharr.splice(0,1).join("");
               var m = searcharr.splice(0,1).join("");
 
@@ -189,6 +189,12 @@ export function importOptions (context, query) {
     context.commit('setPostalCode', null)
     context.commit('setLocation', null)
   }
+
+  if (query.selectedTime) {
+    context.dispatch('selectedTime', query.selectedTime)
+  } else {
+    context.commit('selectedTime', null)
+  }
 }
 
 export function exportOptions (context) {
@@ -212,5 +218,14 @@ export function exportOptions (context) {
   if (context.state.postalCode) {
     query.postalCode = context.state.postalCode
   }
+  return query
+}
+
+export function selectedTime (context) {
+  const query = {}
+  if (context.state.selectedTime) {
+    query.selectedTime = context.state.selectedTime
+  }
+  console.log(query)
   return query
 }
