@@ -68,9 +68,9 @@ export default {
 </script>
 
 <style lang="scss">
-$color-secondary-darker: #0e5f7f;
-$color-searchbox: #005b7f;
-$toolbar-bg: #008fd6;
+$color-secondary-darker: #2688BD;
+$color-searchbox: #2E9AD5;
+$toolbar-bg: #343F51;
 // $text-color: #273246;
 
 .picker-searchbox {

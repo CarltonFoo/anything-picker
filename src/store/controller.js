@@ -1,4 +1,4 @@
-import {collectValues} from 'helpers/util'
+import {collectValues, getDayName} from 'helpers/util'
 
 const singleInputs = [
 ]
@@ -23,6 +23,7 @@ export function getFiltered (state, getters) {
           }
           else if (selected[i].charAt(0) == '1' || selected[i].charAt(0) == '2' || selected[i].charAt(0) == '0') {
             var inputTime = selected[i]
+            selectedDays[i] = getDayName()
           }
         } // seperate days and hours in selected array
         for (i=0; i<selectedDays.length; i++) {

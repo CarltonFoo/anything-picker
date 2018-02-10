@@ -1,6 +1,5 @@
 import {optionsSelected, currentTime} from 'helpers/util'
 import {capitalize} from 'helpers/text'
-import {store} from '../store'
 
 export const planningAreas = {
   namespaced: true,
@@ -103,7 +102,6 @@ export const operatingHrs = {
   selected: []
 },
 getters: {
-    selectedTime: rootState => rootState.selectedTime,
     selectedDisplayText (state) {
       const label = []
       state.options.forEach(operating => {
@@ -118,11 +116,6 @@ getters: {
       // using &nbsp; unicode as space char are collapsed by html
       return label.length > 3 ? label.length + ' selected'
         : label.join('\u00A0\u00A0on\u00A0\u00A0')
-    }
-  },
-  mutations: {
-    getSelectedTime (rootState, time) {
-      rootState.selectedTime = time
     }
   }
 }

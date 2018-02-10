@@ -73,14 +73,6 @@ export default {
   components: {
     VueTimepicker
   },
-  // data: function () {
-  //   return {
-  //     selectedTime: {
-  //       HH: "12",
-  //       mm: "00"
-  //     }
-  //   }
-  // }
 }
 </script>
 
@@ -112,6 +104,10 @@ export default {
     height: 50vh;
      overflow-y: auto;
      margin: 25px 0;
+
+     .display-time {
+       cursor: pointer !important;
+     }
 
      .mobile & {
       height: 75vh;

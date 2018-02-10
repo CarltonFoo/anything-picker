@@ -15,7 +15,7 @@
 
           <template v-if="clinicSummary.rawOperatingHours">
             <dt>Operating Hours:</dt>
-            <dd>{{clinicSummary.rawOperatingHours}}</dd>
+            <dd style="white-space: pre-wrap">{{clinicSummary.rawOperatingHours}}</dd>
           </template>
 
           <template v-if="clinicSummary.insurance">
@@ -163,11 +163,11 @@ export default {
       const address = this.info.address
       var rawOperatingHours
       if (this.info.rawOperatingHours) {
-        rawOperatingHours = JSON.stringify(this.info.rawOperatingHours, null, " ").replace("{}", "No operating hours avaliable.").replace(/"|"|{|}/g, '').replace(":", ": ").trim()
+        rawOperatingHours = JSON.stringify(this.info.rawOperatingHours, null, "\r").replace("{}", "No operating hours avaliable.").replace(/"|"|{|}/g, '').replace(":", ": ").trim()
       } else {
         rawOperatingHours = "No operating hours avaliable."
       }
-      const insurance = String(this.info.insurance)
+      const insurance = String(this.info.insurance).replace(/,/g, ", ")
       return {
         combinedSpecialties,
         address,
