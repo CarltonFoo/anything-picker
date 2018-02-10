@@ -164,7 +164,7 @@ function cleanOperatingTime (input) {
 }
 
 function transformTime (input) {
-  const inputArr = input.slice(1, 6).split(':')
+  const inputArr = input.slice(0, 4).split(':')
   const hour = parseInt(inputArr[0])
   const min = parseInt(inputArr[1])
   if (input.indexOf('am') > 1) {
