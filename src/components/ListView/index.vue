@@ -158,7 +158,7 @@ export default {
   z-index: 20;
   padding: 10px 22px 0;
   overflow-x: hidden;
-  background: #343F51 !important;
+  background: #253b52 !important;
 
   .picker-searchbox + img {
     height: 40px;

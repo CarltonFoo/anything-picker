@@ -70,7 +70,7 @@ export default {
 <style lang="scss">
 $color-secondary-darker: #2688BD;
 $color-searchbox: #2E9AD5;
-$toolbar-bg: #343F51;
+$toolbar-bg: #253b52;
 // $text-color: #273246;
 
 .picker-searchbox {

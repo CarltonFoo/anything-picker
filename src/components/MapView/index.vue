@@ -163,10 +163,14 @@ export default {
         closeOnClick: false
       });
 
-      ['default', 'suggested', 'bookmarked', 'focused'].forEach(style => {
+        ['default', 'suggested', 'bookmarked', 'focused'].forEach(style => {
         map.on('click', style, e => {
-          if (Platform.is.mobile) this.$emit('hover', e.features[0].id)
-          else this.$emit('focus', e.features[0].id)
+          if (Platform.is.mobile) {
+            this.$emit('hover', e.features[0].id)
+          } else {
+            map.flyTo({center: e.features[0].geometry.coordinates, zoom: 14});
+            this.$emit('focus', e.features[0].properties.id)
+          }
         })
         map.on('mouseenter', style, e => {
           map.getCanvas().style.cursor = 'pointer'
